@@ -1,0 +1,23 @@
+---
+title: "Cross-linguistic analysis of /u/-fronting"
+author: "Márton Sóskuthy"
+date: "24/02/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(brms)
+library(tidyverse)
+library(ggplot2)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Where does /y/ come from?
+
+/y/ can arise in a number of ways: through vowel harmony, contextual effects, fronting of /u/, rounding of /i/, etc. Here we classify the XX languages in WALS with /y/ according to the likely source of /u/, relying mainly on info about language families & linguistic history.
+
+```{r cars}
+
+```
+

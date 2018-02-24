@@ -1,0 +1,2000 @@
+byd
+daear
+tir
+pridd
+llwch
+pylor
+llaid
+mwd
+tywod
+mynydd
+bryn
+bre
+clogwyn
+dibyn
+gwastad
+maes
+gwastatir
+dyffryn
+glyn
+cwm
+ynys
+tir mawr
+glan
+tywyn
+traeth
+arfordir
+ogof
+dwfr/dŵr
+môr
+llonydd
+tawel
+garw
+ewyn
+cefnfor
+llyn
+morgainc
+gwlff
+merllyn
+morlyn
+lagŵn
+creigres
+penrhyn
+pentir
+ton
+gwaneg
+llanw
+llanw isel
+llanw uchel
+afon
+ffrwd
+nant
+afonig
+trobwll
+ffynnon
+pydew
+cors
+pistyll
+coedwig
+coed
+gwŷdd
+coeden
+pren
+coed
+pren
+carreg
+maen
+craig
+daeargryn
+wybr
+wybren
+nef
+haul
+huan
+lleuad
+lloer
+seren
+mellt
+lluched
+taran
+mellten
+taran(au)
+tyrfau
+stor(o)m
+tymestl
+rhyferthwy
+enfys
+golau
+goleuni
+tywyllwch
+cysgod
+gwlith
+awyr
+aer
+gwynt
+awel
+cwmwl
+niwl
+nudd
+glaw
+eira
+nyf
+rhew
+iâ
+tywydd
+hin
+tân
+fflam
+ffagl
+mwg
+lludw
+marwor
+marwydos
+llosgi
+llosgi
+ennyn
+cynneu
+diffodd
+matsen
+cynnud
+coed tân
+siarcol
+sercol
+dyn
+person
+bod dynol
+gŵr
+dyn
+gwraig
+benyw
+dynes
+gwryw
+benyw
+bachgen
+hogyn
+llanc
+geneth
+hogen
+merch
+merch
+llances
+morwyn
+plentyn
+maban
+babi
+gŵr
+priod
+gwraig
+priod
+priodi
+priodas
+neithior
+ysgariad
+tad
+mam
+rhieni
+dyn priod
+menyw briod
+dynes briod
+mab
+merch
+plentyn
+epil
+brawd
+brawd hŷn
+brawd iau
+chwaer
+chwaer hŷn
+chwaer iau
+brawd/chwaer
+efeilliaid
+taid
+tad-cu
+henwr
+hen ddyn
+nain
+mam-gu
+hen fenyw
+hen wraig
+ŵyr
+wyres
+ewythr
+brawd mam
+brawd tad
+modryb
+chwaer mam
+chwaer tad
+nai
+nith
+cefnder
+cyfnither
+cyndadau
+hynafiaid
+cyndeidiau
+disgynyddion
+tad yng nghyfraith (dyn)
+tad yng nghyfraith (dynes)
+mam yng nghyfraith (dyn)
+mam yng nghyfraith (dynes)
+mab yng nghyfraith (dyn)
+mab yng nghyfraith (dynes)
+merch yng nghyfraith (dyn)
+merch yng nghyfraith (dynes)
+llystad
+tad gwyn
+llysfam
+mam wen
+llysfab
+llysferch
+plentyn amddifad
+gweddw
+gŵr gweddw
+gwidwer
+gwidman
+perthnasau
+ceraint
+perthynau
+tylwyth
+teulu
+tylwyth
+fi
+ti
+ef/hi
+ni
+ni
+ni
+chi/chwi
+hwy/hwynt
+anifail
+mil
+gwryw
+benyw
+anifeiliaid
+da (byw)
+bugeilio
+porfelaeth
+porfela
+porfel
+porfa
+bugail
+cowmon
+hensor
+ystabl
+côr
+gwartheg
+da
+tarw
+ych
+eidion
+bustach
+buwch
+llo
+dafad
+hwrdd
+maharen
+dafad
+mamog
+oen
+baedd
+twrch
+hwch
+mochyn
+gafr
+bwch
+myn
+ceffyl
+march
+march
+ystalwyn
+caseg
+ebol
+asyn
+mul
+ffowlyn
+iâr
+dofedn
+ceiliog
+iâr
+cyw
+gŵydd
+hwyad
+hwyaden
+nyth
+aderyn
+edn
+gwylan
+crëyr
+eryr
+gwalch
+hebog
+fwltur
+ystlum
+parot
+poli parot
+brân
+colomen
+tylluan
+gwdihŵ
+ci
+cwningen
+cath
+oposwm
+llygoden
+llygoden fawr
+llygoden ffyrnig
+pysgodyn
+pysg
+asgell (y cefn)
+cen
+cennyn (pysgodyn)
+tagell
+crogen
+cragen
+cragen
+siarc
+morgi
+llamhidydd
+morhwch
+dolffin
+morfil
+cath fôr ddu
+morgath ddu
+llysywen rawn
+blaidd
+llew
+arth
+cadno
+llwynog
+carw
+hydd
+mwnci
+epa
+eliffant
+cawrfil
+camel
+cawrfarch
+trychfilyn
+pryfyn
+lleuen
+nedden
+chwannen
+neidr gantroed
+cantroed
+(pryf) sgorpion
+chwilen ddu
+morgrugyn
+mywionyn
+mowion
+cor
+corryn
+pryf copyn
+gwe corryn
+gwe pryf copyn
+gwenynen
+cŵyr gwenyn
+cwch gwenyn
+cacynen (feirch)
+gwenynen (feirch)
+piffgi
+picwnen
+piffgwnen
+gwybedyn
+cylionyn
+pry
+pryfyn
+cleren
+gwybedyn mân
+mân-wybedyn
+piwiad
+piwiedyn
+mosgito
+pryf genwair
+neidr
+sarff
+pryf tân
+glöyn byw
+pili pala
+ceiliog y rhedyn
+malwoden
+broga
+madfall
+genau goeg
+crocodil
+crocodeil
+crwban y môr
+môr-grwban
+corff
+croen
+cen
+cig
+cnawd
+gwallt
+blew
+barf
+blew (ar y corff)
+cedor
+blew cedor
+blew'r arffed
+marwdon
+mardon
+cen
+gwaed
+crau
+gwythïen
+asgwrn
+asen
+corn
+cynffon
+cefn
+asgwrn cefn
+pen
+arlais
+penglog
+ymennydd
+wyneb
+talcen
+gên
+cern
+grudd
+boch
+gên
+llygad
+ael y llygad
+amrant
+clawr llygad
+blewyn amrant
+amrantu
+ysmicio (llygad)
+clust
+llabed clust
+cwyr clust(iau)
+trwyn
+ffroen
+llysnafedd
+ceg
+genau
+pig
+gwefus
+gwefl
+tafod
+dant
+cig y dannedd
+gorcha(r)fan
+dant malu
+cilddant
+bochddant
+gwddf
+mwnwgl
+gwar
+gwegil
+gwddf
+ysgwydd
+palfais
+crafell ysgwydd
+pont yr ysgwydd
+trybedd yr ysgwydd
+braich
+cesail
+elin
+penelin
+arddwrn
+llaw
+palf
+bys
+bawd
+bodfys
+bys bawd
+ewin
+crafanc
+coes
+morddwyd
+croth coes
+bola coes
+glin
+pen glin
+troed
+ffêr
+migwrn
+sawdl
+ôl troed
+bys troed
+adain
+asgell
+pluen
+bron
+dwyfron
+bron
+teth
+pwrs
+cader
+bogail
+calon
+ysgyfaint
+afu
+iau
+aren
+lwlen
+dueg
+poten ludw
+bol
+bola
+cylla
+stumog
+coluddion
+perfeddion
+canol
+gwasg
+meingorff
+clun
+pen y glun
+pen ôl
+tin
+croth
+bru
+caill
+cal(a)
+pidyn
+anadlu
+anadl
+dylyfu gên
+igian
+pesychu
+tisian
+chwysu
+poeri
+cyfogi
+chwydu
+brathu
+cnoi
+llyfu
+glafoerio
+dreflu
+cysgu
+huno
+hun
+cwsg
+rhochian
+breuddwydio
+dihuno
+deffro(i)
+bramu
+rhechian
+torri gwynt
+rhechu
+piso
+troethi
+pis
+troeth
+cachu
+caca
+cach
+tom
+cael cyfathrach (rywiol)
+cnuchio
+cydio
+rhynnu
+crynu
+ymdrochi
+ymolchi
+trochi
+golchi
+cenhedlu
+geni
+beichiog
+beichiogi
+cenhedlu plentyn
+byw
+bywyd
+marw
+wedi marw
+angau
+marwolaeth
+wedi ei foddi
+boddedig
+lladd
+corff
+celain
+claddu
+daearu
+bedd
+beddrod
+cryf
+cadarn
+nerthol
+gwan
+eiddil
+iach
+holliach
+iechyd
+claf
+clefyd
+afiechyd
+twymyn
+gwres
+chwydd y gwddf
+annwyd
+archoll
+gweli
+briw
+clwyf
+clais
+chwydd
+chwyddi
+cosfa
+cosi
+pothell
+plistryn
+chwysigen
+swigen
+casgliad
+cornwyd
+pendduyn
+crawn
+crawniad
+casgl
+craith
+iacháu
+gwella
+meddyg
+doctor
+meddyginiaeth
+cyffur
+ffisig
+moddion
+gwenwyn
+lluddedig
+blinedig
+blin
+gorffwys
+dadflino
+diog
+moel
+cloff
+byddar
+mud
+dall
+meddw
+noeth
+llwm
+bwyta
+bwyd
+wedi ei goginio
+amrwd
+crai
+aeddfed
+anaeddfed
+pwdr
+pydredig
+yfed
+eisiau bwyd
+chwant bwyd
+newyn
+llwgfa
+syched
+sugno
+dyfnu
+cnoi
+llyncu
+tagu
+coginio
+berwi
+rhostio
+crasu
+ffrio
+pobi
+crasu
+ffwrn
+popty
+pot
+crochan
+tegell
+padell
+pan
+caserol
+dysgl
+plât
+powlen
+piser
+siwg
+cwpan
+soser
+llwy
+cyllell
+fforcyn
+gefeiliau
+pryd
+brecwast
+boreufwyd
+cinio (canol dydd)
+cinio (hwyr)
+swper
+plicio
+pilio
+hidlo
+crafu
+plicio
+troi
+cymysgu
+bara
+toes
+tylino
+blawd
+malu
+melin
+breuan
+mortar
+pestl
+cig
+selsig
+sosej
+potes
+cawl
+llysiau
+ffäen
+ffeuen
+taten
+ffrwyth
+bwnsiad
+ffigysen
+grawnwinen
+cneuen
+olif
+olew
+saim
+braster
+halen
+pupur
+(pupur) tsili
+mêl
+siwgr
+llaeth
+llefrith
+godro
+caws
+ymenyn
+diod
+llymaid
+medd
+gwin
+cwrw
+diod wedi ei heplesu
+wy
+melynwy
+gwisgo
+dilladu
+ymwisgo
+dillad
+gwisg/gwisgoedd
+teiliwr
+brethyn
+defnydd
+gwlân
+edafedd
+lliain
+llin
+cotwm
+sidan
+ffelt
+brethyn
+llawban
+ffwr
+lledr
+nyddu
+gwerthyd
+gwehyddu
+gweu
+gwŷdd
+gwnïo
+nodwydd
+mynawyd
+edau
+llifo
+lliwio
+mantell
+cochl
+clog(yn)
+ponsio
+ffrog
+côt
+crys
+coler
+sgert
+sgert wair
+trowsus
+llodrau
+hosan
+socsen
+socas
+esgid
+esgid drom
+botas
+crydd
+het
+cap
+gwregys
+maneg
+gorchudd
+llogell
+poced
+botwm
+pìn
+addurniad
+trwsiad
+gem
+tlws
+modrwy
+breichled
+cadwen
+mwclis
+neclis
+glain
+clustdlws
+penrwymyn
+ffunen
+tatŵ
+cadach
+hances
+lliain
+tywel
+crib
+brws
+plethen
+rasel
+ellyn
+ennaint
+eli
+sebon
+drych
+trigiannu
+trigo
+preswylio
+byw
+tŷ
+bwth
+cwt
+caban
+cut
+hafdy
+tŷ haf
+pabell
+iard
+buarth
+tŷ dynion
+cegin
+tŷ cwrdd
+ystafell
+drws
+dôr
+porth
+cilbost
+postyn drws
+clo
+clicied
+bollt (drws)
+allwedd
+agoriad
+ffenestr
+llawr
+mur
+wal
+gwal
+magwyr
+pared
+lle tân
+stof
+simdde
+simnai
+ysgol
+gwely
+clustog
+blanced
+gwrthban
+carthen
+cadair
+bwrdd
+bord
+lamp
+llusern
+cannwyll
+silff
+cafn
+to
+gwellt (toi)
+polyn crib
+trawst
+cwpl
+dist
+trawst
+post(yn)
+polyn
+astell
+estyllen
+bwa (maen)
+saer maen
+saer cerrig
+bricsen
+priddfaen
+cymrwd
+morter
+bricsen glai
+amaethwr
+ffermwr
+cae
+maes
+gardd
+diwyllio
+trin tir
+amaethu
+ffens
+sietyn
+ffos
+aredig
+aradr
+rhych
+cloddio
+palu
+pâl
+rhaw
+rhaw
+siefl
+hof
+fforch
+cribin
+rhaca
+hau
+had
+hadau
+hedyn
+medi
+pladuro
+cryman
+pladur
+dyrnu
+llawr dyrnu
+cnwd
+cynhaeaf
+ŷd
+gwenith
+haidd
+rhyg
+ceirch
+indrawn
+india-corn
+reis
+gwair
+gwellt (glas)
+glaswellt
+gwair (sych)
+gwellt
+planhigyn
+llysieuyn
+plannu
+gwreiddyn
+cangen
+cainc
+deilen
+blodeuyn
+blodyn
+coeden
+pren
+derwen
+ffawydden
+bedwen
+pin(wydden)
+ffynidwydden
+mesen
+gwinwydden
+tybaco
+baco
+myglys
+ysmygu
+smocio
+pib
+cetyn
+bonyn
+bôn
+stwmp
+boncyff
+bôn coeden
+cangen fforchog
+rhisgl
+nodd
+sudd
+sug
+palmwydden
+coconyt
+ffrwyth sitrws
+coeden fananas
+coeden fanian
+coeden ffigys India
+taten felys
+tatws melys
+iam
+tapioca
+gwrd
+pompion
+pwmpen
+pompion
+gwrd
+bambŵ
+siwgwr cân
+danadl (poethion)
+madarchen
+madarch
+caws llyffant
+gwneuthur
+gwneud
+gwaith
+llafur
+plygu
+plygu
+rhwymo
+clymu
+datod
+cadwyn
+rhaff
+cortyn
+clwm
+cwlwm
+taro
+curo
+dyrnu
+torri
+naddu
+trychu
+torri (i lawr)
+torri
+hollti
+naddu
+trywanu
+gwanu
+cyllell
+siswrn
+gwellaif
+bwyall
+neddyf
+neddai
+neddau
+bwyall gam
+torri
+toredig
+wedi ei dorri
+hollti
+rhwygo
+blingo
+digroeni
+rhwbio
+estyn
+tynnu
+taenu
+chwalu
+hongian
+crogi
+gwasgu
+gwasgu
+tywallt
+arllwys
+golchi
+ysgubo
+ysgub
+offeryn
+erfyn
+arf
+teclyn
+saer
+adeiladu
+tyllu
+cafnu
+cafnio
+pantio
+llif
+morthwyl
+hoel(en)
+glud
+gof
+morthwylio
+ein(g)ion
+bwrw
+aur
+arian
+copr
+efydd
+pres
+haearn
+plwm
+ystaen
+tun
+tunplat
+crochenydd
+ffurfio
+llunio
+mo(w)ldio
+clai
+pridd
+gwydr
+plethu
+gwehyddu
+cyfrodeddu
+basged
+cawell
+cest(en)
+mat
+carthen
+rỳg
+gwyntyll
+ffan
+gwyntyllu
+cerfio
+cerflunydd
+delw
+cerflun
+cŷn
+gaing
+paent
+lliw
+paentio
+peintio
+symud
+syflyd
+troi (drosodd)
+troi o gwmpas
+troi yn ei unfan
+dirwyn
+(am)lapio
+rholio
+treiglo
+gollwng
+cwympo
+troelli
+cyfrodeddu
+plethu
+codi
+cyfodi
+cynnu
+codi
+cwympo
+syrthio
+diferu
+dafnu
+dafnio
+taflu
+taflyd
+lluchio
+dal(a) (pêl)
+siglo
+ysgwyd
+llifo
+rhedeg
+suddo
+soddi
+nofio
+arnofio
+nofio
+plymio
+ysgeintio
+tasgu
+sblasio
+hwylio
+morio
+mordwyo
+ehedeg
+hedfan
+fflio
+chwythu
+ymlusgo
+cropian
+penlinio
+cyrcydu
+cwrcwd
+cwmanu
+swatio
+llithro
+neidio
+llamu
+cicio
+dawnsio
+cerdded
+rhodio
+hercio
+hercian
+honcian
+rhedeg
+myn(e)d
+â
+aeth
+êl
+myn(e)d i fyny
+esgyn
+dringo
+myn(e)d i lawr
+disgyn
+myn(e)d allan
+dyfod
+daw
+daeth
+del
+dod yn ôl
+dychwelyd
+ymadael
+myn(e)d i ffwrdd
+diflannu
+myn(e)d o'r golwg
+ffoi
+dilyn
+canlyn
+erlid
+canlyn
+dilyn
+d(yf)od i
+cyrraedd
+dynesu
+nesu
+agosáu
+nesáu
+myn(e)d/d(yf)od i mewn
+cludo
+cario
+dwyn
+porthi
+dal (yn ei law/ddwylo)
+dal ar ei ysgwydd(au)
+dal ar ei ben
+dal dan ei fraich
+dod â
+dwyn
+cyrchu
+(d)anfon
+arwain
+tywys
+gyrru
+marchogaeth
+reidio
+gwthio
+hyrddiaf
+hyrddu
+ffordd
+llwybr
+pont
+cerbyd
+(g)wagen
+men
+ben
+cert
+olwyn
+rhod
+echel
+iau
+llong
+bad
+cwch
+canŵ
+sadiwr
+rafft
+cludair
+rhwyf
+rhwyf
+padl
+rhodl
+rhwyfo
+llyw
+hwylbren
+hwyl
+angor
+porthladd
+harbwr
+porth
+glanio
+bod â
+bod gan
+meddu (ar)
+perchen (ar)
+cym(e)ryd
+gafael
+dal(a)
+cael
+caffael
+cadw
+peth
+rhoi
+rhoddi
+rhoi yn ôl
+dychwelyd
+cadw
+gofalu (am)
+achub
+dinistrio
+distrywio
+niweidio
+ceisio
+caffael
+cael
+cael hyd (i)
+ffeindio
+colli
+gollwng
+arian
+pres
+arian bath
+cyfoethog
+tlawd
+cardotyn
+cybyddlyd
+crintach(lyd)
+(rhoi) benthyg
+benthyca
+echwyna
+benthycio
+(cael) benthyg
+benthyca
+echwyn(a)
+benthycio
+bod mewn dyled (i)
+dyled
+talu
+cyfrif
+treth
+cyflogi
+llogi
+hurio
+cyflog
+hur
+ennill
+prynu
+gwerthu
+masnachu
+masnachydd
+marsiand(ï)wr
+marchnad
+siop
+maelfa
+pris
+drud
+costus
+rhad
+rhannu
+pwyso
+ar ôl
+y tu ôl
+yn ymyl
+wrth ochr
+ger(llaw)
+wrth (ymyl)
+ar bwys
+i lawr
+islaw
+o flaen
+(tu) blaen
+y tu mewn
+mewn
+yn
+y tu allan
+o dan
+tan
+i fyny
+lan
+uwchben
+lle
+man
+gosod
+dodi
+rhoi
+eistedd
+gorwedd (i lawr)
+sefyll
+aros
+gweddillion
+casglu
+cynnull
+codi
+casglu
+pentyrru
+cruglwytho
+cysylltu
+cydio
+uno
+cyfuno
+gwahanu
+rhannu
+gwahanu
+agor(i)
+cau
+gorchuddio
+cuddio
+celu
+uchel
+isel
+brig
+gwaelod
+bôn
+pen
+pwyntiedig
+blaenllym
+ymyl
+min
+awch
+ochr
+ochr
+ystlys
+tu
+canol
+perfedd
+de
+dehau
+chwith
+aswy
+yn agos
+nid nepell
+gerllaw
+ymhell
+yn bell
+dwyrain
+gorllewin
+gogledd
+de
+dehau
+tyfu
+mesur(o)
+lled
+rhychwant
+gwr(h)yd
+mawr
+bach
+bychan
+hir
+maith
+tal
+byr
+llydan
+eang
+cul
+cyfyng
+tew
+trwchus
+tenau
+dwfn
+bas
+fflat
+gwastad
+union
+syth
+cam
+crwm
+bach(yn)
+congl
+cornel
+croes
+crog
+(y)sgwâr
+pedrongl
+crwn
+cylch
+cant
+sffêr
+pêl
+pelen
+cronnell
+llinell
+twll
+tebyg
+hafal
+newid
+troi
+dim
+sero
+un
+dau
+dwy
+tri
+tair
+pedwar
+pedair
+pump
+chwech
+saith
+wyth
+naw
+deg
+un ar ddeg
+deuddeg
+pymtheg
+ugain
+cant
+mil
+cyfrif
+pob
+holl
+llawer
+mwy
+ychwaneg
+rhagor
+ychydig
+digon
+rhai
+ychydig
+peth
+lliaws
+torf
+llu
+llawn
+gwag
+rhan
+darn
+hanner
+yn unig
+unig
+cyntaf
+olaf
+diwethaf
+ail
+pâr
+cwpl
+dwywaith
+dau dro
+dwy adeg
+tryddydd
+trydedd
+teirgwaith
+tair gwaith
+tair adeg
+tri thro
+amser
+pryd
+oed(ran)
+oes
+newydd
+ieuanc
+ifanc
+hen
+cynnar
+bore
+hwyr
+diweddar
+yn awr
+yn y fan
+ar unwaith
+yn syth
+buan
+cyflym
+chwyrn
+clau
+araf
+brysio
+prysuro
+hastu
+arafu
+oedi
+dechrau
+cychwyn
+dechreuad
+parhau
+para
+goroesi
+diwedd
+diweddu
+gorffen
+dod i ben
+peidio
+stopio
+parod
+bob amser
+bob tro
+drwy'r amser
+yn aml
+yn fynych
+weithiau
+ambell waith
+cyn (bo) hir
+yn fuan
+ers tro
+ers talwm
+ers meitin
+byth
+erioed
+eto
+eilwaith
+drachefn
+dydd
+diwrnod
+nos
+gwawr
+bore
+canol dydd
+nawn
+hanner dydd
+prynhawn
+min nos
+hwyr
+noswaith
+heddiw
+yfory
+trennydd
+(d)doe
+echdoe
+awr
+cloc
+awrlais
+amserydd
+wythnos
+dydd Sul
+dydd Llun
+dydd Mawrth
+dydd Mercher
+dydd Iau
+dydd Gwener
+dydd Sadwrn
+mis
+blwyddyn
+gaeaf
+gwanwyn
+haf
+hydref
+tymor
+arogli
+arogleuo
+gwynto
+ffroeni
+synhwyro
+arogleuo
+synhwyro
+clywed
+peraroglus
+persawrus
+drewllyd
+drycsawrus
+blasu
+chwaethu
+melys
+hallt
+chwerw
+sur
+egr
+helïaidd
+halltaidd
+clywed
+gwrando
+sain
+sŵn
+uchel
+swnllyd
+llonydd
+tawelwch
+gweld
+gweled
+edrych
+syllu (ar)
+dangos
+disgleirio
+llewyrchu
+golau
+disglair
+lliw
+golau
+tywyll
+gwyn
+can
+du
+coch
+rhudd
+glas
+gwyrdd
+glas
+melyn
+cyffwrdd
+pinsio
+gwasgu
+teimlo
+synhwyro
+caled
+meddal
+garw
+llyfn
+llym
+siarp
+pwl
+trwm
+ysgafn
+gwlyb
+llaith
+tamp
+sych
+poeth
+twym
+cynnes
+brwd
+cynnes
+twym
+oer
+glân
+budr
+brwnt
+crych
+crychlyd
+crych(i)og
+enaid
+ysbryd
+syn
+wedi ei synnu
+lwc dda
+ffawd dda
+anffawd
+anlwc
+llawen
+llon
+llawenydd
+dywenydd
+chwerthin
+gwenu
+chwarae
+cariad
+serch
+caru
+cusanu
+cofleidio
+poen
+gofid
+galar
+tristwch
+pryder
+edifarhau
+gresynu
+tosturi
+trugaredd
+wylo
+crio
+deigryn
+griddfan
+ochain
+ocheneidio
+cas
+casineb
+dicter
+llid
+cenfigen
+eiddigedd
+cywilydd
+gwaradwydd
+gwarth
+balch
+beiddio/meiddio
+dewr
+gwrol
+ofn
+dychryn
+perygl
+enbydrwydd
+dymuno
+(bod) eisiau (arno)
+dewis
+gobaith
+ffyddlon
+gwir
+cywir
+dweud celwydd(au)
+twyll
+maddau
+da
+mad
+drwg
+iawn
+cyfiawn
+cywir
+anghywir
+bai
+camgymeriad
+gwall
+bai
+moliant
+mawl
+hardd
+del
+glân
+teg
+tlws
+hyll
+hagr
+barus
+gwancus
+call
+clyfar
+deallus
+meddwl
+meddwl
+tybio
+credu
+credu
+deall
+gwybod
+adnabod
+dyfalu
+dynwared
+ymddangos
+syniad
+doeth
+call
+ffôl
+ynfyd
+hurt
+gwallgof
+gorffwyll
+dysgu
+astudio
+dysgu
+disgybl
+athro
+ysgol
+cofio
+anghofio
+ebargofi
+clir
+golau
+eglur
+aneglur
+dirgel
+cyfrinachol
+siŵr
+sicr
+esbonio
+egluro
+bwriad
+amcan
+pwrpas
+achosi
+amau
+drwgdybio
+bradychu
+angen
+rhaid
+hawdd
+anodd
+ceisio
+modd
+ffordd
+a(c)
+oherwydd
+oblegid
+achos
+os
+a
+neu
+ynteu
+ie
+do
+na(ge)
+negyddol
+(pa) sut?
+(pa) faint?
+(pa) sawl?
+(pa) faint?
+(pa) beth?
+pa bryd?
+pryd?
+ble?
+pa un?
+p'un?
+pwy?
+pa(ha)m?
+llais
+canu
+bloeddio
+gweiddi
+sibrwd
+siffrwd
+myngial
+mwmial
+mwmian
+chwibanu
+(y)sgrechian
+udo
+ubain
+siarad
+llefaru
+siarad ag atal (dweud)
+cecian
+dweud
+dywedyd
+adrodd stori
+araith
+areithio
+tewi
+bod yn ddistaw
+iaith
+gair
+enw
+gofyn
+holi
+ateb
+cyfaddef
+cyffesu
+gwadu
+gofyn
+addo
+gwrthod
+gwarafun
+nadu
+nacáu
+gomedd
+gwahardd
+ceryddu
+cystwyo
+galw
+galw
+cyhoeddi
+datgan
+bygwth
+ymffrostio
+brolio
+ysgrifennu
+darllen
+papur
+pin (ysgrifennu)
+llyfr
+bardd
+prydydd
+ffliwt
+chwibanogl
+drwm
+tabwrdd
+corn
+utgorn
+ratl
+cleciwr
+gwlad
+gwlad (enedigol)
+dinas
+tref
+pentref
+terfyn
+ffin
+pobl
+gwerin
+llwyth
+tylwyth
+clan
+pennaeth
+ffon (gerdded)
+rheoli
+llywodraethu
+brenin
+rheolwr
+llywodraethwr
+brenhines
+pendefig
+uchelwr
+dinesydd
+deiliad
+meistr
+arglwydd
+caethwas
+gwas
+gweinidog
+(dyn/gŵr) rhydd
+gorchymyn
+(g)ordro
+ufuddhau
+gadael
+caniatáu
+cyfaill
+ffrind
+cydymaith
+gelyn
+cymydog
+dieithryn
+dyn dieithr
+merch/menyw/dynes ddieithr
+gwestai
+lletywr
+gwesteiwr
+cynorthwyo
+helpu
+rhwystro
+atal
+defod
+arfer
+cynnen
+ymryson
+ymrafael
+ffrae
+cweryl
+cynllwyn
+cyfarfod
+putain
+ymladd
+rhyfel
+brwydr
+cad
+heddwch
+byddin
+llu
+milwr
+arfau
+pastwn
+bwyell ryfel
+ffon dafl
+bwa
+saeth
+gwaywffon
+gwayw
+cleddyf
+gwn
+gwn mawr
+arfwisg
