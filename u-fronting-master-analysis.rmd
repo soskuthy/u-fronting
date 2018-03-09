@@ -42,7 +42,7 @@ This is a plot for illustrating the systematicity of vowel inventories. The data
 
 Becker-Kristal, R. (2010). Acoustic typology of vowel inventories and Dispersion Theory: Insights from a large cross-linguistic corpus. University of California, Los Angeles.
 
-```{r}
+```{r, warnings=F}
 becker.vowels <- read_csv(here("data","final_data","becker_vowels.csv"))
 
 set.seed(121)
@@ -549,7 +549,7 @@ ggplot(becker.u.mod.2.s, aes(x=b_eng.primTRUE)) +
 This is based on dynamic formant data from Derby English. Unfortunately, the raw data can't be shared due to data protection issues. What I have here is a model fitted with GCM. I first create model predictions for plotting. The data vary by age, preceding context & frequency.
 
 
-```{r, fig.show='hide', warning=F, error=F, message=F, include=F}
+```{r, fig.show='hide', warning=F, error=F, message=F, results='hide'}
 #library(devtools)
 #install_github("gganimate")
 library(gganimate)
