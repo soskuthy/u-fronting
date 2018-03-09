@@ -1,0 +1,394 @@
+ISO,Language,Dialect,Genetics,Speakers,Method,Quantity,vowel,f1,f2,f3,y,country_ids,latitude,longitude,eng.prim
+aeb,Tunisian Arabic,Kairouan,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,2,Wordlist,Long,i,384.0,2276.0,NA,FALSE,DZ LY TN,33.7966,9.56156,FALSE
+aeb,Tunisian Arabic,Kairouan,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,2,Wordlist,Long,u,454.0,840.0,NA,FALSE,DZ LY TN,33.7966,9.56156,FALSE
+ajp,Palestinian Arabic,Jordan,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,8,Isolation,Long,i,315.0,2210.0,NA,FALSE,IL JO KW PS SA SY,31.5601,38.0837,FALSE
+ajp,Palestinian Arabic,Jordan,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,8,Isolation,Long,u,375.0,885.0,NA,FALSE,IL JO KW PS SA SY,31.5601,38.0837,FALSE
+aka,Akan,Kwawu,NigerCongo>AtlanticCongo>Kwa>Akan,1,Carrier sentence,Uniform,i,260.0,2141.0,2678,FALSE,GH TG,6.34756,-1.33254,FALSE
+aka,Akan,Kwawu,NigerCongo>AtlanticCongo>Kwa>Akan,1,Carrier sentence,Uniform,u,306.0,780.0,2225,FALSE,GH TG,6.34756,-1.33254,FALSE
+ale,Aleut,NA,EskimoAleut>AleutGroup,4,Wordlist,Long,u,375.0,920.0,NA,FALSE,RU US,52.1228,-174.29,TRUE
+ale,Aleut,NA,EskimoAleut>AleutGroup,4,Wordlist,Long,i,340.0,2350.0,NA,FALSE,RU US,52.1228,-174.29,TRUE
+aln,Gheg Albanian,NA,IndoEuropean>Albanian,1,Wordlist,Long,u,295.0,700.0,2335,TRUE,AL BG ME MK RO RS,42.317,21.3837,FALSE
+aln,Gheg Albanian,NA,IndoEuropean>Albanian,1,Wordlist,Long,y,255.0,2e3,2400,TRUE,AL BG ME MK RO RS,42.317,21.3837,FALSE
+aln,Gheg Albanian,NA,IndoEuropean>Albanian,1,Wordlist,Long,i,255.0,2200.0,3060,TRUE,AL BG ME MK RO RS,42.317,21.3837,FALSE
+amh,Amharic,Standard,AfroAsiatic>Semitic>South>Ethiopian>South>Transversal>AmharicArgobba,6,Wordlist,Uniform,i,271.0,2145.0,NA,FALSE,DJ ET,11.708182,39.543456,FALSE
+amh,Amharic,Standard,AfroAsiatic>Semitic>South>Ethiopian>South>Transversal>AmharicArgobba,6,Wordlist,Uniform,u,291.0,813.0,2242,FALSE,DJ ET,11.708182,39.543456,FALSE
+ami,Amis,NA,Austronesian>Ami,2,Wordlist,Uniform,u,500.0,1010.0,NA,FALSE,TW,23.0917,121.348,FALSE
+ami,Amis,NA,Austronesian>Ami,2,Wordlist,Uniform,i,355.0,2325.0,NA,FALSE,TW,23.0917,121.348,FALSE
+amu,Amuzgo,Guerrero,OtoManguean>Amuzgo,3,Wordlist,Uniform,i,246.0,2221.0,3021,FALSE,MX,16.77226,-98.18953,FALSE
+amu,Amuzgo,Guerrero,OtoManguean>Amuzgo,3,Wordlist,Uniform,u,311.0,850.0,2662,FALSE,MX,16.77226,-98.18953,FALSE
+apw,Apache,Western,NaDene>Athabaskan>Southern>Southwestern,6,Wordlist,Long,i,339.0,2092.0,2449,FALSE,US,33.8574,-110.123,TRUE
+arg,Aragonese,Chistabino,IndoEuropean>Italic>Romance>ItaloWestern>Western>PyreneanMozarabic>Pyrinean,1,Wordlist,Uniform,i,340.0,2150.0,NA,FALSE,ES FR,42.4669,-0.00919,FALSE
+arg,Aragonese,Chistabino,IndoEuropean>Italic>Romance>ItaloWestern>Western>PyreneanMozarabic>Pyrinean,1,Wordlist,Uniform,u,385.0,775.0,NA,FALSE,ES FR,42.4669,-0.00919,FALSE
+ary,Moroccan Arabic,NA,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,10,Isolation,Long,u,365.0,765.0,NA,FALSE,DZ EH MA,32.5,-7.5,FALSE
+ary,Moroccan Arabic,NA,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,10,Isolation,Long,i,290.0,2215.0,NA,FALSE,DZ EH MA,32.5,-7.5,FALSE
+arz,Egyptian Arabic,NA,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,3,Isolation,Long,u,350.0,670.0,2350,FALSE,EG IL LY,31.0,31.0,FALSE
+arz,Egyptian Arabic,NA,AfroAsiatic>Semitic>West>Central>SouthCentral>Arabic,3,Isolation,Long,i,240.0,2150.0,2900,FALSE,EG IL LY,31.0,31.0,FALSE
+bar,Bavarian,NA,IndoEuropean>Germanic>WestGermanic>HighGerman,8,Carrier sentence,Long,i,251.0,2188.0,3244,TRUE,AT CZ DE IT,47.9232,13.246,FALSE
+bar,Bavarian,NA,IndoEuropean>Germanic>WestGermanic>HighGerman,8,Carrier sentence,Long,u,267.0,710.0,2121,TRUE,AT CZ DE IT,47.9232,13.246,FALSE
+bar,Bavarian,NA,IndoEuropean>Germanic>WestGermanic>HighGerman,8,Carrier sentence,Long,y,247.0,1875.0,2211,TRUE,AT CZ DE IT,47.9232,13.246,FALSE
+bbc,Toba Batak,NA,Austronesian>MalayoPolynesian>NuclearMP>NorthwestSumatran>Batak>Southern,1,Carrier sentence,Uniform,i,300.0,2010.0,NA,FALSE,ID,2.35498,99.1761,FALSE
+bbc,Toba Batak,NA,Austronesian>MalayoPolynesian>NuclearMP>NorthwestSumatran>Batak>Southern,1,Carrier sentence,Uniform,u,325.0,1020.0,NA,FALSE,ID,2.35498,99.1761,FALSE
+bcr,Babine,Witsuwit'en,NaDene>Nuclear>AthapaskanEyak>Athapaskan>Canadian>CarrierChilcotin>BabineCarrier,4,Wordlist,Uniform,i,306.0,2087.0,2596,FALSE,CA,55.0997,-126.41,TRUE
+bcr,Babine,Witsuwit'en,NaDene>Nuclear>AthapaskanEyak>Athapaskan>Canadian>CarrierChilcotin>BabineCarrier,4,Wordlist,Uniform,u,334.0,1196.0,2241,FALSE,CA,55.0997,-126.41,TRUE
+bdu,Oroko,Londo,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>A>LunduBalong,3,Wordlist,Uniform,i,286.0,1843.0,XXX,FALSE,CM,4.89504,9.15209,FALSE
+bdu,Oroko,Londo,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>A>LunduBalong,3,Wordlist,Uniform,u,323.0,1038.0,XXX,FALSE,CM,4.89504,9.15209,FALSE
+ben,Bengali,Bangladesh,IndoEuropean>IndoIranian>IndoAryan>Eastern>BanglaAssamese,3,Carrier sentence,Uniform,u,347.0,1001.0,2551,FALSE,BD IN NP,24.0,90.0,FALSE
+ben,Bengali,Bangladesh,IndoEuropean>IndoIranian>IndoAryan>Eastern>BanglaAssamese,3,Carrier sentence,Uniform,i,357.0,2059.0,2690,FALSE,BD IN NP,24.0,90.0,FALSE
+bjv,Bedjond,Beda,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,u,305.0,721.0,NA,FALSE,TD,8.60006,17.2691,FALSE
+bjv,Bedjond,Beda,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,i,305.0,2091.0,NA,FALSE,TD,8.60006,17.2691,FALSE
+bnh,Banawa,NA,Arawakan>Arauan,5,Wordlist,Uniform,i,311.0,2320.0,2822,FALSE,NA,NA,NA,FALSE
+bnh,Banawa,NA,Arawakan>Arauan,5,Wordlist,Uniform,u,396.0,883.0,2685,FALSE,NA,NA,NA,FALSE
+boa,Bora,NA,Witotoan>Boran,8,Isolation,Long,i,324.0,2257.0,3221,FALSE,BR CO PE,-2.91467,-68.9093,FALSE
+bov,Tuwuli,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>LeftBank>KposoAhloBowili,3,Wordlist,Uniform,i,288.0,2145.0,XXX,FALSE,GH,7.31095,0.38008,FALSE
+bov,Tuwuli,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>LeftBank>KposoAhloBowili,3,Wordlist,Uniform,u,315.0,985.0,XXX,FALSE,GH,7.31095,0.38008,FALSE
+bre,Breton,Argol,IndoEuropean>Celtic>Insular>Brythonic,1,Meaningful sentence,Uniform,y,300.0,1750.0,2500,TRUE,FR,48.2452,-3.78934,FALSE
+bre,Breton,Argol,IndoEuropean>Celtic>Insular>Brythonic,1,Meaningful sentence,Uniform,i,275.0,2100.0,2800,TRUE,FR,48.2452,-3.78934,FALSE
+bre,Breton,Argol,IndoEuropean>Celtic>Insular>Brythonic,1,Meaningful sentence,Uniform,u,325.0,900.0,2500,TRUE,FR,48.2452,-3.78934,FALSE
+bru,Brou,Eastern,AustroAsiatic>MonKhmer>Eastern>Katuic>West>BrouSo,1,Carrier sentence,Long,i,400.0,2560.0,3120,FALSE,LA VN,17.1311,105.671,FALSE
+bru,Brou,Eastern,AustroAsiatic>MonKhmer>Eastern>Katuic>West>BrouSo,1,Carrier sentence,Long,u,400.0,880.0,NA,FALSE,LA VN,17.1311,105.671,FALSE
+brx,Bodo,NA,SinoTibetan>TibetoBurman>Brahmaputran>BodoKoch>BodoGaro,60,Isolation,Uniform,i,265.0,2390.0,3260,FALSE,IN NP,26.725455,89.333235,FALSE
+brx,Bodo,NA,SinoTibetan>TibetoBurman>Brahmaputran>BodoKoch>BodoGaro,60,Isolation,Uniform,u,285.0,1210.0,2260,FALSE,IN NP,26.725455,89.333235,FALSE
+bul,Bulgarian,NA,IndoEuropean>BaltoSlavic>Slavic>South>Eastern,2,Wordlist,Uniform,u,283.0,667.0,2217,FALSE,BG GR MD MK RO RS TR UA,43.3646,25.047,FALSE
+bul,Bulgarian,NA,IndoEuropean>BaltoSlavic>Slavic>South>Eastern,2,Wordlist,Uniform,i,261.0,1991.0,2559,FALSE,BG GR MD MK RO RS TR UA,43.3646,25.047,FALSE
+bvi,Viri,NA,NigerCongo>AtlanticCongo>VoltaCongo>North>AdamawaUbangi>Ubangi>SereNgbakaMba>Sere>SereBviri,1,Isolation,Uniform,i,332.0,2094.0,2931,FALSE,SD,7.41311,27.6956,FALSE
+bvi,Viri,NA,NigerCongo>AtlanticCongo>VoltaCongo>North>AdamawaUbangi>Ubangi>SereNgbakaMba>Sere>SereBviri,1,Isolation,Uniform,u,318.0,853.0,2298,FALSE,SD,7.41311,27.6956,FALSE
+bvr,Burarra,NA,Australian>Gunwigguan>Burarran,4,Wordlist,Uniform,i,420.0,1915.0,NA,FALSE,AU,-12.3061,134.365,TRUE
+bvr,Burarra,NA,Australian>Gunwigguan>Burarran,4,Wordlist,Uniform,u,465.0,1110.0,NA,FALSE,AU,-12.3061,134.365,TRUE
+bvx,Dibole,Dzeke,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>C>Ngundi,2,Wordlist,Uniform,i,264.0,2005.0,XXX,FALSE,CG,1.07773,17.2305,FALSE
+bvx,Dibole,Dzeke,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>C>Ngundi,2,Wordlist,Uniform,u,313.0,818.0,XXX,FALSE,CG,1.07773,17.2305,FALSE
+cat,Catalan,Eastern,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>IberoRomance>EastIberian,6,Isolation,Uniform,i,245.0,2273.0,3101,FALSE,AD ES FR IT,41.453,1.569,FALSE
+cat,Catalan,Eastern,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>IberoRomance>EastIberian,6,Isolation,Uniform,u,268.0,633.0,2626,FALSE,AD ES FR IT,41.453,1.569,FALSE
+chf,Chontal,Oaxaca,Mayan>CholanTzeltalan>Cholan>CholChontal,3,Wordlist,Uniform,i,434.0,2388.0,NA,FALSE,MX,18.1713,-92.7367,FALSE
+chf,Chontal,Oaxaca,Mayan>CholanTzeltalan>Cholan>CholChontal,3,Wordlist,Uniform,u,414.0,810.0,NA,FALSE,MX,18.1713,-92.7367,FALSE
+chr,Cherokee,Western,Iroquonian>Southern,5,Wordlist,Long,u,339.0,1404.0,2349,FALSE,US,35.4664,-83.163,TRUE
+chr,Cherokee,Western,Iroquonian>Southern,5,Wordlist,Long,i,308.0,2262.0,2832,FALSE,US,35.4664,-83.163,TRUE
+chv,Chuvash,Northern,Altaic>Turkic>Oghuric,4,Wordlist,Uniform,u,350.0,625.0,NA,TRUE,EE KZ RU,55.487,47.163,FALSE
+chv,Chuvash,Northern,Altaic>Turkic>Oghuric,4,Wordlist,Uniform,y,345.0,1800.0,NA,TRUE,EE KZ RU,55.487,47.163,FALSE
+chv,Chuvash,Northern,Altaic>Turkic>Oghuric,4,Wordlist,Uniform,i,330.0,1990.0,NA,TRUE,EE KZ RU,55.487,47.163,FALSE
+cic,Chickasaw,NA,Muskogean>Western,6,Wordlist,Long,i,389.0,1984.0,2382,FALSE,US,33.9452,-97.1301,TRUE
+cmn,Mandarin,Standard,SinoTibetan>Sinitic>Chinese,14,Isolation,Uniform,u,264.0,580.0,NA,TRUE,CN KP LA MM MN RU TW VN,40.0209,116.228,FALSE
+cmn,Mandarin,Standard,SinoTibetan>Sinitic>Chinese,14,Isolation,Uniform,y,251.0,1963.0,NA,TRUE,CN KP LA MM MN RU TW VN,40.0209,116.228,FALSE
+cmn,Mandarin,Standard,SinoTibetan>Sinitic>Chinese,14,Isolation,Uniform,i,246.0,2145.0,NA,TRUE,CN KP LA MM MN RU TW VN,40.0209,116.228,FALSE
+cnt,Tepetotutla Chinantec,NA,OtoManguean>Chinantecan,2,Wordlist,Uniform,i,266.0,2103.0,2692,FALSE,MX,17.7115,-96.5404,FALSE
+cnt,Tepetotutla Chinantec,NA,OtoManguean>Chinantecan,2,Wordlist,Uniform,u,264.0,722.0,2458,FALSE,MX,17.7115,-96.5404,FALSE
+cog,Chong,NA,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>KhmeroBahnaric>Khmeric>Pearic,2,Wordlist,Long,i,340.0,2275.0,NA,FALSE,KH TH,12.5218,102.514,FALSE
+cog,Chong,NA,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>KhmeroBahnaric>Khmeric>Pearic,2,Wordlist,Long,u,285.0,795.0,NA,FALSE,KH TH,12.5218,102.514,FALSE
+cym,Welsh,NA,IndoEuropean>Celtic>Isular>Brythonic,2,Isolation,Long,u,220.0,640.0,NA,FALSE,GB,52.0,-4.0,TRUE
+cym,Welsh,NA,IndoEuropean>Celtic>Isular>Brythonic,2,Isolation,Long,i,190.0,2200.0,NA,FALSE,GB,52.0,-4.0,TRUE
+dan,Danish,Standard,IndoEuropean>Germanic>NorthGermanic>EastScandinavian,9,Isolation,Long,u,257.0,732.0,2117,TRUE,DE DK,54.8655,9.36284,FALSE
+dan,Danish,Standard,IndoEuropean>Germanic>NorthGermanic>EastScandinavian,9,Isolation,Long,y,235.0,1919.0,2235,TRUE,DE DK,54.8655,9.36284,FALSE
+dan,Danish,Standard,IndoEuropean>Germanic>NorthGermanic>EastScandinavian,9,Isolation,Long,i,225.0,2197.0,3189,TRUE,DE DK,54.8655,9.36284,FALSE
+ddo,Tsez,Asax,Tsezic>WestTsezic,1,Wordlist,Uniform,i,320.0,2183.0,3065,FALSE,GE RU,42.2646,45.8096,FALSE
+ddo,Tsez,Asax,Tsezic>WestTsezic,1,Wordlist,Uniform,u,348.0,937.0,NA,FALSE,GE RU,42.2646,45.8096,FALSE
+deg,Degema,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid,6,Wordlist,Uniform,i,384.0,2164.0,NA,FALSE,NG,4.73373,6.80991,FALSE
+deg,Degema,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid,6,Wordlist,Uniform,u,377.0,912.0,NA,FALSE,NG,4.73373,6.80991,FALSE
+deu,German,Standard,IndoEuropean>Germanic>WestGermanic>HighGerman,69,Wordlist,Long,y,302.0,1722.0,NA,TRUE,AT BE CH CZ DE DK FR HU IT LI LU NL PL RO SI SK,48.649,12.4676,FALSE
+deu,German,Standard,IndoEuropean>Germanic>WestGermanic>HighGerman,69,Wordlist,Long,i,263.0,2171.0,NA,TRUE,AT BE CH CZ DE DK FR HU IT LI LU NL PL RO SI SK,48.649,12.4676,FALSE
+deu,German,Standard,IndoEuropean>Germanic>WestGermanic>HighGerman,69,Wordlist,Long,u,310.0,854.0,NA,TRUE,AT BE CH CZ DE DK FR HU IT LI LU NL PL RO SI SK,48.649,12.4676,FALSE
+dgo,Dogri,NA,IndoEuropean>IndoIranian>IndoAryan>Northern,3,Wordlist,Long,i,287.0,2203.0,2904,FALSE,IN PK,32.5534,75.7111,FALSE
+dgo,Dogri,NA,IndoEuropean>IndoIranian>IndoAryan>Northern,3,Wordlist,Long,u,313.0,660.0,NA,FALSE,IN PK,32.5534,75.7111,FALSE
+dik,Southwestern Dinka,Luanyjang,NiloSaharan>EasternSudanic>Nilotic>Western>DinkaNuer,7,Meaningful sentence,Long,i,325.0,2158.0,NA,FALSE,SD,8.81115,28.0613,FALSE
+dik,Southwestern Dinka,Luanyjang,NiloSaharan>EasternSudanic>Nilotic>Western>DinkaNuer,7,Meaningful sentence,Long,u,346.0,987.0,NA,FALSE,SD,8.81115,28.0613,FALSE
+dru,Rukai,Budai,Austronesian>Rukai,2,Wordlist,Uniform,u,520.0,970.0,NA,FALSE,TW,22.7738,120.844,FALSE
+dru,Rukai,Budai,Austronesian>Rukai,2,Wordlist,Uniform,i,420.0,2125.0,NA,FALSE,TW,22.7738,120.844,FALSE
+egl,Emilian,NA,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloItalic,2,Wordlist,Long,i,341.0,2481.0,NA,TRUE,IT,44.3536,11.5794,FALSE
+egl,Emilian,NA,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloItalic,2,Wordlist,Long,u,363.0,918.0,NA,TRUE,IT,44.3536,11.5794,FALSE
+egl,Emilian,NA,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloItalic,2,Wordlist,Long,y,348.0,1761.0,NA,TRUE,IT,44.3536,11.5794,FALSE
+ekk,Estonian,Eastern Saaremaa,Uralic>FinnoUgric>FinnoVolgaic>FinnoLappic>BalticFinnic,8,Wordlist,Long,i,290.0,2279.0,3013,FALSE,EE LV RU,58.55,25.82,FALSE
+ekk,Estonian,Eastern Saaremaa,Uralic>FinnoUgric>FinnoVolgaic>FinnoLappic>BalticFinnic,8,Wordlist,Long,u,306.0,833.0,2316,FALSE,EE LV RU,58.55,25.82,FALSE
+ell,Greek,NA,IndoEuropean>Hellenic,4,Carrier sentence,Uniform,i,310.0,1909.0,2419,FALSE,AL BG CY EG GR IT MK RO TR UA,42.3224,24.8699,FALSE
+ell,Greek,NA,IndoEuropean>Hellenic,4,Carrier sentence,Uniform,u,338.0,837.0,2355,FALSE,AL BG CY EG GR IT MK RO TR UA,42.3224,24.8699,FALSE
+eng,English,American>General,IndoEuropean>Germanic>WestGermanic>AngloFrisian,4,Wordlist,Long,i,312.0,2307.0,2917,FALSE,AU BM BR BZ CA CK CU DO FK GB GI GP GT GY HN IE KY LR MX NF PN SH SR US VE ZA,53.0,-1.0,FALSE
+eng,English,American>General,IndoEuropean>Germanic>WestGermanic>AngloFrisian,4,Wordlist,Long,u,348.0,995.0,2374,FALSE,AU BM BR BZ CA CK CU DO FK GB GI GP GT GY HN IE KY LR MX NF PN SH SR US VE ZA,53.0,-1.0,FALSE
+eus,Basque,NA,Isolate,5,Wordlist,Uniform,u,438.0,1062.0,NA,FALSE,ES FR,43.2787,-1.31622,FALSE
+eus,Basque,NA,Isolate,5,Wordlist,Uniform,i,381.0,2449.0,NA,FALSE,ES FR,43.2787,-1.31622,FALSE
+evn,Solon,Yaohe,Altaic>Tungusic>Northern>Evenki,1,Wordlist,Long,u,365.0,775.0,2440,FALSE,CN MN RU,53.85,108.626,FALSE
+evn,Solon,Yaohe,Altaic>Tungusic>Northern>Evenki,1,Wordlist,Long,i,345.0,2372.0,3255,FALSE,CN MN RU,53.85,108.626,FALSE
+fin,Finnish,Helsinki,Uralic>FinnoUgric>FinnoVolgaic>FinnoLappic>BalticFinnic,1,Wordlist,Long,i,229.0,2096.0,NA,TRUE,EE FI NO RU SE,64.7628,25.5577,FALSE
+fin,Finnish,Helsinki,Uralic>FinnoUgric>FinnoVolgaic>FinnoLappic>BalticFinnic,1,Wordlist,Long,u,300.0,574.0,NA,TRUE,EE FI NO RU SE,64.7628,25.5577,FALSE
+fin,Finnish,Helsinki,Uralic>FinnoUgric>FinnoVolgaic>FinnoLappic>BalticFinnic,1,Wordlist,Long,y,251.0,1701.0,NA,TRUE,EE FI NO RU SE,64.7628,25.5577,FALSE
+fla,Montana Salish,NA,Salishan>SouthernInteriorSalish,2,Wordlist,Uniform,i,349.0,2062.0,2546,FALSE,US,47.5825,-114.19,TRUE
+fla,Montana Salish,NA,Salishan>SouthernInteriorSalish,2,Wordlist,Uniform,u,355.0,1011.0,2265,FALSE,US,47.5825,-114.19,TRUE
+fmp,Fe'fe',NA,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>Southern>Grassfields>Eastern>Bamileke,1,Wordlist,Uniform,y,310.0,1530.0,NA,TRUE,CM,5.18158,10.1442,FALSE
+fmp,Fe'fe',NA,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>Southern>Grassfields>Eastern>Bamileke,1,Wordlist,Uniform,i,270.0,2220.0,NA,TRUE,CM,5.18158,10.1442,FALSE
+fmp,Fe'fe',NA,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>Southern>Grassfields>Eastern>Bamileke,1,Wordlist,Uniform,u,290.0,660.0,NA,TRUE,CM,5.18158,10.1442,FALSE
+fod,Foodo,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>Nyo>PotouTano>Tano>Guang>North,2,Carrier sentence,Uniform,i,323.0,2103.0,XXX,FALSE,BJ TG,9.56489,1.40486,FALSE
+fod,Foodo,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>Nyo>PotouTano>Tano>Guang>North,2,Carrier sentence,Uniform,u,365.0,771.0,XXX,FALSE,BJ TG,9.56489,1.40486,FALSE
+fra,French,Quebec,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloRhaetian>Oil,6,Wordlist,Uniform,u,260.0,745.0,NA,TRUE,AD BE CA CH FR GF IT LU MC PM US,48.0,2.0,FALSE
+fra,French,Quebec,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloRhaetian>Oil,6,Wordlist,Uniform,y,255.0,1825.0,NA,TRUE,AD BE CA CH FR GF IT LU MC PM US,48.0,2.0,FALSE
+fra,French,Quebec,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloRhaetian>Oil,6,Wordlist,Uniform,i,250.0,2055.0,NA,TRUE,AD BE CA CH FR GF IT LU MC PM US,48.0,2.0,FALSE
+frr,North Frisian,Fering,IndoEuropean>Germanic>WestGermanic>AngloFrisian,10,Wordlist,Long,i,280.0,2208.0,2817,TRUE,DE DK,54.6409,8.58489,FALSE
+frr,North Frisian,Fering,IndoEuropean>Germanic>WestGermanic>AngloFrisian,10,Wordlist,Long,u,307.0,761.0,2367,TRUE,DE DK,54.6409,8.58489,FALSE
+frr,North Frisian,Fering,IndoEuropean>Germanic>WestGermanic>AngloFrisian,10,Wordlist,Long,y,281.0,1675.0,2112,TRUE,DE DK,54.6409,8.58489,FALSE
+fry,Frisian,West,IndoEuropean>Germanic>WestGermanic>AngloFrisian,5,Wordlist,Long,i,277.0,2337.0,NA,TRUE,NL,53.143,5.86091,FALSE
+fry,Frisian,West,IndoEuropean>Germanic>WestGermanic>AngloFrisian,5,Wordlist,Long,u,320.0,705.0,NA,TRUE,NL,53.143,5.86091,FALSE
+fry,Frisian,West,IndoEuropean>Germanic>WestGermanic>AngloFrisian,5,Wordlist,Long,y,280.0,1797.0,NA,TRUE,NL,53.143,5.86091,FALSE
+ggu,Gban,N'da,NigerCongo>Mande>Eastern>Southeastern>NwaBen>BenGban,1,Meaningful sentence,Uniform,u,250.0,890.0,2000,FALSE,CI,6.40859,-5.51851,FALSE
+ggu,Gban,N'da,NigerCongo>Mande>Eastern>Southeastern>NwaBen>BenGban,1,Meaningful sentence,Uniform,i,260.0,2050.0,2970,FALSE,CI,6.40859,-5.51851,FALSE
+gla,Scottish Gaelic,Bernera,IndoEuropean>Celtic>Insular>Goidelic,7,Wordlist,Long,i,320.0,2100.0,NA,FALSE,GB,56.7574,-5.24366,TRUE
+gla,Scottish Gaelic,Bernera,IndoEuropean>Celtic>Insular>Goidelic,7,Wordlist,Long,u,320.0,1475.0,NA,FALSE,GB,56.7574,-5.24366,TRUE
+glg,Galician,NA,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>IberoRomance>WesternIberian>PortugueseGalician,7,Carrier sentence,Uniform,i,312.0,2227.0,NA,FALSE,ES PT,42.2446,-7.5343,FALSE
+glg,Galician,NA,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>IberoRomance>WesternIberian>PortugueseGalician,7,Carrier sentence,Uniform,u,318.0,705.0,NA,FALSE,ES PT,42.2446,-7.5343,FALSE
+gug,Paraguayan Guarani,NA,Tupian>TupiGuarani,3,Wordlist,Uniform,u,300.0,840.0,2375,FALSE,AR PY,-25.60551,-57.08816,FALSE
+gug,Paraguayan Guarani,NA,Tupian>TupiGuarani,3,Wordlist,Uniform,i,280.0,2270.0,2865,FALSE,AR PY,-25.60551,-57.08816,FALSE
+guj,Gujarati,NA,IndoEuropean>IndoIranian>IndoAryan>Western,3,Isolation,Uniform,i,243.0,2400.0,3100,FALSE,BD IN PK,22.687,71.0962,FALSE
+guj,Gujarati,NA,IndoEuropean>IndoIranian>IndoAryan>Western,3,Isolation,Uniform,u,297.0,683.0,2600,FALSE,BD IN PK,22.687,71.0962,FALSE
+guk,Gumuz,NA,NiloSaharan>Komuz,1,Running speech,Uniform,u,360.0,820.0,NA,FALSE,ET SD,11.05,35.93,FALSE
+guk,Gumuz,NA,NiloSaharan>Komuz,1,Running speech,Uniform,i,360.0,1965.0,NA,FALSE,ET SD,11.05,35.93,FALSE
+gup,Kunwinjku,NA,Australian>Gunwingguan,3,Carrier sentence,Uniform,i,339.0,2151.0,2781,FALSE,AU,-12.3398,133.358,TRUE
+gup,Kunwinjku,NA,Australian>Gunwingguan,3,Carrier sentence,Uniform,u,389.0,1079.0,2989,FALSE,AU,-12.3398,133.358,TRUE
+gwj,G|wi,NA,KwadiKhoe>Khoe>Kalahari>West>G||ana-G|wi,5,Wordlist,Uniform,u,250.0,790.0,NA,FALSE,BW,-22.2708,21.9431,FALSE
+gwj,G|wi,NA,KwadiKhoe>Khoe>Kalahari>West>G||ana-G|wi,5,Wordlist,Uniform,i,240.0,2190.0,NA,FALSE,BW,-22.2708,21.9431,FALSE
+hak,Hakka,Meixian,Sinitic>Chinese>Gan,5,Carrier sentence,Uniform,i,275.0,2226.0,3350,FALSE,CN TW,25.0,116.0,FALSE
+hak,Hakka,Meixian,Sinitic>Chinese>Gan,5,Carrier sentence,Uniform,u,379.0,796.0,2740,FALSE,CN TW,25.0,116.0,FALSE
+hau,Hausa,Kano,AfroAsiatic>Chadic>WestChadic>WestChadicA,10,Carrier sentence,Long,u,315.0,910.0,NA,FALSE,BF BJ CM NE NG TD,11.1513,8.7804,FALSE
+hau,Hausa,Kano,AfroAsiatic>Chadic>WestChadic>WestChadicA,10,Carrier sentence,Long,i,265.0,2230.0,NA,FALSE,BF BJ CM NE NG TD,11.1513,8.7804,FALSE
+heb,Hebrew,Standard,AfroAsiatic>Semitic>West>Central>NorthWest>Canaanite,6,Isolation,Uniform,u,320.0,783.0,2410,FALSE,IL JO LB PS SY,31.1056,35.0179,FALSE
+hts,Hadza,NA,Isolate,3,Wordlist,Uniform,i,345.0,2075.0,NA,FALSE,TZ,-3.83115,35.0458,FALSE
+hts,Hadza,NA,Isolate,3,Wordlist,Uniform,u,335.0,1245.0,NA,FALSE,TZ,-3.83115,35.0458,FALSE
+hun,Hungarian,Standard,Uralic>FinnoUgric>Ugric,2,Meaningful sentence,Long,u,270.0,680.0,NA,TRUE,AT HR HU RO RS SI SK UA,46.9068585714,19.6555271429,FALSE
+hun,Hungarian,Standard,Uralic>FinnoUgric>Ugric,2,Meaningful sentence,Long,y,310.0,1650.0,NA,TRUE,AT HR HU RO RS SI SK UA,46.9068585714,19.6555271429,FALSE
+hun,Hungarian,Standard,Uralic>FinnoUgric>Ugric,2,Meaningful sentence,Long,i,270.0,2300.0,NA,TRUE,AT HR HU RO RS SI SK UA,46.9068585714,19.6555271429,FALSE
+iai,Iaai,NA,Austronesian>MalayoPolynesian>Oceanic>Southern>NewCaledonianLoyalties>LoyaltyIslands,1,Wordlist,Long,u,328.0,829.0,NA,TRUE,NC,-20.6301,166.59,FALSE
+iai,Iaai,NA,Austronesian>MalayoPolynesian>Oceanic>Southern>NewCaledonianLoyalties>LoyaltyIslands,1,Wordlist,Long,y,265.0,1799.0,NA,TRUE,NC,-20.6301,166.59,FALSE
+ibo,Igbo,NA,NigerCongo>AtlanticCongo>VoltaNiger>YEAI>Igboid>Igbo,1,Wordlist,Uniform,i,281.0,2353.0,NA,FALSE,NG,4.62705,7.23441,FALSE
+ibo,Igbo,NA,NigerCongo>AtlanticCongo>VoltaNiger>YEAI>Igboid>Igbo,1,Wordlist,Uniform,u,281.0,849.0,NA,FALSE,NG,4.62705,7.23441,FALSE
+ife,Ife,Tchetti,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Defoid>Yoruboid>Edekiri,3,Wordlist,Uniform,u,316.0,808.0,XXX,FALSE,BJ TG,7.63568,1.58494,FALSE
+ife,Ife,Tchetti,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Defoid>Yoruboid>Edekiri,3,Wordlist,Uniform,i,279.0,2203.0,XXX,FALSE,BJ TG,7.63568,1.58494,FALSE
+ind,Indonesian,NA,Austronesian>MalayoPolynesian>NuclearMP>MalayoSumbawan>Malayic>Malayan>Malay,10,Isolation,Uniform,u,320.0,914.0,2406,FALSE,ID NL PH SA SG US,-7.33458,109.716,FALSE
+ind,Indonesian,NA,Austronesian>MalayoPolynesian>NuclearMP>MalayoSumbawan>Malayic>Malayan>Malay,10,Isolation,Uniform,i,287.0,2413.0,2860,FALSE,ID NL PH SA SG US,-7.33458,109.716,FALSE
+isl,Icelandic,Standard,IndoEuropean>Germanic>NorthGermanic>WestScandinavian,2,Wordlist,Long,i,268.0,2320.0,3155,FALSE,IS,63.4837,-19.0212,FALSE
+isl,Icelandic,Standard,IndoEuropean>Germanic>NorthGermanic>WestScandinavian,2,Wordlist,Long,u,313.0,705.0,2575,FALSE,IS,63.4837,-19.0212,FALSE
+ita,Italian,Florence,IndoEuropean>Italic>Romance>ItaloWestern>ItaloDalmatian,25,Isolation,Uniform,u,325.0,701.0,2271,FALSE,AT CH FR HR IT SI SM VA,43.0464,12.6489,FALSE
+ita,Italian,Florence,IndoEuropean>Italic>Romance>ItaloWestern>ItaloDalmatian,25,Isolation,Uniform,i,298.0,2138.0,2809,FALSE,AT CH FR HR IT SI SM VA,43.0464,12.6489,FALSE
+kal,Greenlandic,Holsteinborg,EskimoAleut>Eskimo>Inuit,1,Wordlist,Uniform,i,317.0,2067.0,2925,FALSE,GL,69.3761,-52.864,FALSE
+kal,Greenlandic,Holsteinborg,EskimoAleut>Eskimo>Inuit,1,Wordlist,Uniform,u,330.0,1030.0,NA,FALSE,GL,69.3761,-52.864,FALSE
+kan,Kannada,Mysore,Dravidian>Southern>TamilKannada,10,Carrier sentence,Long,u,385.0,918.0,2671,FALSE,IN,13.5878,76.1198,FALSE
+kan,Kannada,Mysore,Dravidian>Southern>TamilKannada,10,Carrier sentence,Long,i,348.0,2337.0,3025,FALSE,IN,13.5878,76.1198,FALSE
+kat,Georgian,Standard,SouthCaucasian,1,Wordlist,Uniform,i,325.0,2135.0,NA,FALSE,AM AZ GE IR RU TR,41.850397,43.78613,FALSE
+kat,Georgian,Standard,SouthCaucasian,1,Wordlist,Uniform,u,440.0,1010.0,NA,FALSE,AM AZ GE IR RU TR,41.850397,43.78613,FALSE
+kaz,Kazakh,NA,Altaic>Turkic>Kypchak>KypchakNogay,1,Isolation,Uniform,ü,400.0,1400.0,NA,TRUE,AF CN IR KG KZ MN RU TJ TM UZ,41.8729,65.7709,FALSE
+kaz,Kazakh,NA,Altaic>Turkic>Kypchak>KypchakNogay,1,Isolation,Uniform,y,450.0,1100.0,NA,TRUE,AF CN IR KG KZ MN RU TJ TM UZ,41.8729,65.7709,FALSE
+kaz,Kazakh,NA,Altaic>Turkic>Kypchak>KypchakNogay,1,Isolation,Uniform,i,400.0,1850.0,2400,TRUE,AF CN IR KG KZ MN RU TJ TM UZ,41.8729,65.7709,FALSE
+kaz,Kazakh,NA,Altaic>Turkic>Kypchak>KypchakNogay,1,Isolation,Uniform,u,400.0,1e3,NA,TRUE,AF CN IR KG KZ MN RU TJ TM UZ,41.8729,65.7709,FALSE
+kdt,Kuy,NA,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>VietoKatuic>Katuic,1,Wordlist,Long,i,480.0,2355.0,3115,FALSE,KH LA TH,14.6698,104.911,FALSE
+kdt,Kuy,NA,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>VietoKatuic>Katuic,1,Wordlist,Long,u,495.0,940.0,2810,FALSE,KH LA TH,14.6698,104.911,FALSE
+ker,Kera,NA,AfroAsiatic>Chadic>East>A>KwangKera,12,Running speech,Uniform,i,320.0,2090.0,NA,FALSE,CM TD,9.88165,15.1419,FALSE
+ker,Kera,NA,AfroAsiatic>Chadic>East>A>KwangKera,12,Running speech,Uniform,u,340.0,925.0,NA,FALSE,CM TD,9.88165,15.1419,FALSE
+khk,Khalkha,Bajanhongor,Altaic>Mongolic>Eastern,1,Wordlist,Long,i,367.0,1995.0,2823,FALSE,MN RU,48.324,106.289,FALSE
+khk,Khalkha,Bajanhongor,Altaic>Mongolic>Eastern,1,Wordlist,Long,u,357.0,823.0,2713,FALSE,MN RU,48.324,106.289,FALSE
+khm,Khmer,Battambang,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>KhmeroBahnaric>Khmeric,1,Wordlist,Long,i,263.0,2381.0,NA,FALSE,KH LA TH VN,12.0515,105.015,FALSE
+khm,Khmer,Battambang,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>KhmeroBahnaric>Khmeric,1,Wordlist,Long,u,315.0,680.0,NA,FALSE,KH LA TH VN,12.0515,105.015,FALSE
+kiy,Kirikiri,NA,LakesPlan>Tariku>West,1,Wordlist,Uniform,i,420.0,1980.0,NA,FALSE,ID,-3.18494,137.282,FALSE
+kiy,Kirikiri,NA,LakesPlan>Tariku>West,1,Wordlist,Uniform,u,435.0,900.0,NA,FALSE,ID,-3.18494,137.282,FALSE
+kma,Konni,NA,NigerCongo>AtlanticCongo>VoltaCongo>North>Gur>Central>Northern>OtiVolta>BuliKoma,1,Wordlist,Uniform,u,410.0,980.0,NA,FALSE,GH,10.2368,-1.54376,FALSE
+kma,Konni,NA,NigerCongo>AtlanticCongo>VoltaCongo>North>Gur>Central>Northern>OtiVolta>BuliKoma,1,Wordlist,Uniform,i,370.0,1770.0,NA,FALSE,GH,10.2368,-1.54376,FALSE
+kpo,Ikposo,Uwi,NiloSaharan>EasternSudanic>Nilotic>Western>Luo>Southern>LuoAcholi>AlurAcholi>LangoAcholi,3,Wordlist,Uniform,u,268.0,834.0,XXX,FALSE,GH TG,7.44776,0.83312,FALSE
+kpo,Ikposo,Uwi,NiloSaharan>EasternSudanic>Nilotic>Western>Luo>Southern>LuoAcholi>AlurAcholi>LangoAcholi,3,Wordlist,Uniform,i,229.0,2207.0,XXX,FALSE,GH TG,7.44776,0.83312,FALSE
+kpv,Komi,Zyrian,Uralic>FinnoUgric>FinnoPermic>Permic,4,Meaningful sentence,Uniform,i,272.0,1926.0,NA,FALSE,RU,64.0527,54.946,FALSE
+kpv,Komi,Zyrian,Uralic>FinnoUgric>FinnoPermic>Permic,4,Meaningful sentence,Uniform,u,213.0,568.0,NA,FALSE,RU,64.0527,54.946,FALSE
+kwv,Nar,Doro,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Uniform,u,310.0,695.0,2473,FALSE,CF TD,9.39388,19.2566,FALSE
+kwv,Nar,Doro,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Uniform,i,273.0,2342.0,2863,FALSE,CF TD,9.39388,19.2566,FALSE
+kxm,Northern Khmer,Surin,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>KhmeroBahnaric>Khmeric,1,Wordlist,Long,i,287.0,2387.0,NA,FALSE,KH TH,14.4674,103.863,FALSE
+kxm,Northern Khmer,Surin,AustroAsiatic>NuclearMonKhmer>KhmeroVietic>KhmeroBahnaric>Khmeric,1,Wordlist,Long,u,287.0,687.0,NA,FALSE,KH TH,14.4674,103.863,FALSE
+kyr,Kuruaya,NA,Tupian>Munduruku,1,Wordlist,Uniform,i,357.0,2052.0,2878,FALSE,BR,-3.09561,-52.2303,FALSE
+laj,Lango,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>LeftBank>KposoAhloBowili,1,Wordlist,Uniform,i,300.0,2100.0,NA,FALSE,UG,2.13867,33.0553,FALSE
+laj,Lango,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>LeftBank>KposoAhloBowili,1,Wordlist,Uniform,u,355.0,710.0,NA,FALSE,UG,2.13867,33.0553,FALSE
+lav,Latvian,Standard,IndoEuropean>BaltoSlavic>Baltic>Eastern,3,Isolation,Long,u,325.0,589.0,2239,FALSE,BY EE LT LV RU,56.826108,24.309118,FALSE
+lav,Latvian,Standard,IndoEuropean>BaltoSlavic>Baltic>Eastern,3,Isolation,Long,i,286.0,2189.0,2947,FALSE,BY EE LT LV RU,56.826108,24.309118,FALSE
+lln,Lele,NA,AfroAsiatic>Chadic>East>A>A2>1,1,Running speech,Uniform,u,305.0,1115.0,NA,FALSE,TD,9.158,15.81149,FALSE
+lln,Lele,NA,AfroAsiatic>Chadic>East>A>A2>1,1,Running speech,Uniform,i,340.0,2175.0,NA,FALSE,TD,9.158,15.81149,FALSE
+luo,Dholuo,NA,NiloSaharan>EasternSudanic>Nilotic>WesternNilotic>Luo>SouthernLuo>LuoAcholi,8,Isolation,Uniform,i,254.0,2106.0,2826,FALSE,KE TZ,-0.93296,34.4896,FALSE
+luo,Dholuo,NA,NiloSaharan>EasternSudanic>Nilotic>WesternNilotic>Luo>SouthernLuo>LuoAcholi,8,Isolation,Uniform,u,270.0,884.0,2307,FALSE,KE TZ,-0.93296,34.4896,FALSE
+mad,Madurese,Standard,Austronesian>MalayoPolynesian>Nuclear>MalayoSumbawan,1,Carrier sentence,Uniform,u,304.0,754.0,NA,FALSE,ID,-7.0,113.0,FALSE
+mad,Madurese,Standard,Austronesian>MalayoPolynesian>Nuclear>MalayoSumbawan,1,Carrier sentence,Uniform,i,310.0,2240.0,NA,FALSE,ID,-7.0,113.0,FALSE
+mai,Maithili,NA,IndoEuropean>IndoIranian>IndoAryan>Eastern>Bihari,1,Isolation,Uniform,i,277.0,2583.0,NA,FALSE,IN NP,26.3817,86.2211,FALSE
+mai,Maithili,NA,IndoEuropean>IndoIranian>IndoAryan>Eastern>Bihari,1,Isolation,Uniform,u,330.0,777.0,NA,FALSE,IN NP,26.3817,86.2211,FALSE
+maj,Jalapa Mazatec,Jalapa de Diaz,OtoManguean>Popolocan>Mazatecan,3,Wordlist,Uniform,u,410.0,1160.0,NA,FALSE,MX,18.0803,-96.4977,FALSE
+maj,Jalapa Mazatec,Jalapa de Diaz,OtoManguean>Popolocan>Mazatecan,3,Wordlist,Uniform,i,380.0,2140.0,NA,FALSE,MX,18.0803,-96.4977,FALSE
+mas,Maa,NA,NiloSaharan>EasternSudanic>EasternNilotic>LotuxoTeso>LotuxoMaa,5,Wordlist,Uniform,i,291.0,2114.0,2843,FALSE,KE TZ,-3.1419,36.4573,FALSE
+mas,Maa,NA,NiloSaharan>EasternSudanic>EasternNilotic>LotuxoTeso>LotuxoMaa,5,Wordlist,Uniform,u,291.0,1023.0,2277,FALSE,KE TZ,-3.1419,36.4573,FALSE
+mbe,Molalla,NA,Penutian,1,Wordlist,Long,i,386.0,2295.0,NA,FALSE,US,44.556,-122.857,TRUE
+mbe,Molalla,NA,Penutian,1,Wordlist,Long,u,414.0,877.0,NA,FALSE,US,44.556,-122.857,TRUE
+mcw,Mawa,NA,AfroAsiatic>Chadic>East>B>Dangla>DanglaMigama,1,Running speech,Uniform,u,330.0,1135.0,NA,FALSE,TD,11.7461,18.2999,FALSE
+mcw,Mawa,NA,AfroAsiatic>Chadic>East>B>Dangla>DanglaMigama,1,Running speech,Uniform,i,365.0,2200.0,NA,FALSE,TD,11.7461,18.2999,FALSE
+mcx,Mpiemo,Nola,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>A>MakaaNjem,1,Wordlist,Uniform,i,319.0,2048.0,NA,FALSE,CF CG CM,3.45776,15.5246,FALSE
+mcx,Mpiemo,Nola,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>A>MakaaNjem,1,Wordlist,Uniform,u,361.0,694.0,NA,FALSE,CF CG CM,3.45776,15.5246,FALSE
+mdj,Mangbetu,NA,NiloSaharan>CentralSudanic>East,5,Wordlist,Uniform,u,276.0,799.0,NA,FALSE,CD,2.5511,27.0712,FALSE
+mdj,Mangbetu,NA,NiloSaharan>CentralSudanic>East,5,Wordlist,Uniform,i,257.0,2179.0,NA,FALSE,CD,2.5511,27.0712,FALSE
+mdm,Mayogo,NA,NigerCongo>AtlanticCongo>VoltaCongo>North>AdamawaUbangi>Ubangi>SereNgbakaMba>Ngbaka>Eastern,1,Wordlist,Uniform,i,284.0,2142.0,2970,TRUE,CD,2.79827,27.8282,FALSE
+mdm,Mayogo,NA,NigerCongo>AtlanticCongo>VoltaCongo>North>AdamawaUbangi>Ubangi>SereNgbakaMba>Ngbaka>Eastern,1,Wordlist,Uniform,u,271.0,767.0,2310,TRUE,CD,2.79827,27.8282,FALSE
+mdm,Mayogo,NA,NigerCongo>AtlanticCongo>VoltaCongo>North>AdamawaUbangi>Ubangi>SereNgbakaMba>Ngbaka>Eastern,1,Wordlist,Uniform,y,372.0,1193.0,2270,TRUE,CD,2.79827,27.8282,FALSE
+mdw,Mbosi Olee,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>C>Mbosi,3,Wordlist,Uniform,i,309.0,2064.0,XXX,FALSE,CG,-1.23019,15.5322,FALSE
+mdw,Mbosi Olee,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Northwest>C>Mbosi,3,Wordlist,Uniform,u,322.0,1119.0,XXX,FALSE,CG,-1.23019,15.5322,FALSE
+mir,Isthmus Mixe,NA,MixeZoque>Mixe,1,Running speech,Uniform,u,341.0,1026.0,2424,FALSE,MX,16.9481,-95.0681,FALSE
+mir,Isthmus Mixe,NA,MixeZoque>Mixe,1,Running speech,Uniform,i,320.0,2168.0,NA,FALSE,MX,16.9481,-95.0681,FALSE
+mnh,Mono,Bili,NigerCongo>Ubangian>Banda>Central>MidSouthern,1,Wordlist,Uniform,u,301.0,950.0,2354,FALSE,CD CF,4.57915,19.8264,FALSE
+mnh,Mono,Bili,NigerCongo>Ubangian>Banda>Central>MidSouthern,1,Wordlist,Uniform,i,300.0,1936.0,2840,FALSE,CD CF,4.57915,19.8264,FALSE
+moz,Moukoulu,NA,AfroAsiatic>Chadic>East>B,1,Running speech,Uniform,i,310.0,1925.0,NA,FALSE,TD,11.8644,18.1822,FALSE
+moz,Moukoulu,NA,AfroAsiatic>Chadic>East>B,1,Running speech,Uniform,u,375.0,900.0,NA,FALSE,TD,11.8644,18.1822,FALSE
+mri,Maori,North,Austronesian>MalayoPolynesian>Oceanic>Polynesian>NuclearPolynesian>EasternPolynesian>Tahitic>NuclearTahitic,1,Running speech,Long,u,345.0,1213.0,2330,FALSE,NZ,-38.2881,176.541,TRUE
+mri,Maori,North,Austronesian>MalayoPolynesian>Oceanic>Polynesian>NuclearPolynesian>EasternPolynesian>Tahitic>NuclearTahitic,1,Running speech,Long,i,326.0,2178.0,2971,FALSE,NZ,-38.2881,176.541,TRUE
+mus,Creek,Muskogee,Muskogean>EasternMuskogean,4,Wordlist,Long,i,325.0,2020.0,NA,FALSE,US,31.0,-87.5,TRUE
+mvf,Inner Mongolian,Baarin,Altaic>Mongolic>Eastern,1,Wordlist,Long,i,340.0,2278.0,3055,FALSE,CN MN,42.4208,110.157,FALSE
+mvf,Inner Mongolian,Baarin,Altaic>Mongolic>Eastern,1,Wordlist,Long,u,320.0,780.0,2558,FALSE,CN MN,42.4208,110.157,FALSE
+mwm,Sar,Douyou,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,i,252.0,2331.0,3125,FALSE,TD,8.50634,17.8785,FALSE
+mwm,Sar,Douyou,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,u,290.0,723.0,2530,FALSE,TD,8.50634,17.8785,FALSE
+mxp,Ayutla Mixe,NA,MixeZoquean>Mixe,2,Carrier sentence,Uniform,u,367.0,836.0,2437,FALSE,MX,16.9634,-96.1186,FALSE
+mxp,Ayutla Mixe,NA,MixeZoquean>Mixe,2,Carrier sentence,Uniform,i,323.0,2204.0,3065,FALSE,MX,16.9634,-96.1186,FALSE
+mya,Burmese,Standard,SinoTibetan>TibetoBurman>LoloBurmese>Burmish>Southern,1,Wordlist,Uniform,u,400.0,666.0,2095,FALSE,BD MM TH,20.7926,93.9665,FALSE
+myb,Mbay,Moissala,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,i,328.0,2520.0,NA,FALSE,CF NG TD,8.23066,15.7328,FALSE
+myb,Mbay,Moissala,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,u,336.0,863.0,NA,FALSE,CF NG TD,8.23066,15.7328,FALSE
+myf,Bambassi,NA,AfroAsiatic>Omotic>North>Mao>East,1,Running speech,Uniform,i,340.0,2105.0,NA,FALSE,ET,9.82554,34.6522,FALSE
+myf,Bambassi,NA,AfroAsiatic>Omotic>North>Mao>East,1,Running speech,Uniform,u,310.0,1005.0,NA,FALSE,ET,9.82554,34.6522,FALSE
+myu,Munduruku,NA,Tupi>Munduruku,3,Wordlist,Uniform,i,327.0,2467.0,3109,FALSE,BR,-8.41095,-57.691,FALSE
+nab,Nambikwara,NA,Nambikwaran,1,Wordlist,Uniform,i,250.0,2093.0,NA,FALSE,BR,-14.3707,-59.5187,FALSE
+nab,Nambikwara,NA,Nambikwaran,1,Wordlist,Uniform,u,366.0,890.0,NA,FALSE,BR,-14.3707,-59.5187,FALSE
+nan,Min Taiwanese,Nan (Southern),SinoTibetan>Sinitic>Chinese>Min,3,Carrier sentence,Uniform,u,313.0,658.0,2618,FALSE,CN TW,24.5,118.17,FALSE
+nan,Min Taiwanese,Nan (Southern),SinoTibetan>Sinitic>Chinese>Min,3,Carrier sentence,Uniform,i,282.0,2368.0,3269,FALSE,CN TW,24.5,118.17,FALSE
+nap,Neapolitan,Naples,IndoEuropean>Italic>Romance>ItaloWestern>ItaloDalmatian,NA,Wordlist,Uniform,i,274.0,2475.0,NA,FALSE,IT,39.2288,16.4225,FALSE
+nap,Neapolitan,Naples,IndoEuropean>Italic>Romance>ItaloWestern>ItaloDalmatian,NA,Wordlist,Uniform,u,322.0,842.0,NA,FALSE,IT,39.2288,16.4225,FALSE
+nav,Navajo,NA,DeneYeniseian>NaDene>AthabaskanEyak>Athabaskan>Southern>SouthwesternApache>Western,2,Wordlist,Long,i,250.0,2250.0,2800,FALSE,US,36.2106,-110.082,TRUE
+naw,Nawuri,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>Nyo>PotouTano>Tano>Guang>North,4,Wordlist,Long,u,315.0,820.0,NA,FALSE,GH,8.45116,0.04947,FALSE
+naw,Nawuri,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>Nyo>PotouTano>Tano>Guang>North,4,Wordlist,Long,i,280.0,2050.0,NA,FALSE,GH,8.45116,0.04947,FALSE
+nde,Ndebele,NA,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>Southern>Bantu>Central>Southern>Nguni>Zunda,3,Carrier sentence,Uniform,i,278.0,2052.0,NA,FALSE,BW ZM ZW,-20.2513,27.4096,FALSE
+nde,Ndebele,NA,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>Southern>Bantu>Central>Southern>Nguni>Zunda,3,Carrier sentence,Uniform,u,300.0,612.0,NA,FALSE,BW ZM ZW,-20.2513,27.4096,FALSE
+nds,Low German,Eastphalian,IndoEuropean>Germanic>WestGermanic>LowGerman,3,Running speech,Long,i,237.0,2320.0,NA,FALSE,DE,50.771,6.092,FALSE
+nds,Low German,Eastphalian,IndoEuropean>Germanic>WestGermanic>LowGerman,3,Running speech,Long,u,285.0,687.0,NA,FALSE,DE,50.771,6.092,FALSE
+ndv,Ndut,NA,NigerCongo>AtlanticCongo>Atlantic>Northern>Cangin,1,Meaningful sentence,Long,i,312.0,2010.0,3010,FALSE,SN,14.925,-16.9811,FALSE
+ndv,Ndut,NA,NigerCongo>AtlanticCongo>Atlantic>Northern>Cangin,1,Meaningful sentence,Long,u,312.0,884.0,NA,FALSE,SN,14.925,-16.9811,FALSE
+nep,Nepali,Eastern,IndoEuropean>IndoIranian>IndoAryan>Pahari>Eastern,5,Isolation,Uniform,i,280.0,2254.0,NA,FALSE,BN BT IN NP US,27.5947033333,87.6200833333,FALSE
+nep,Nepali,Eastern,IndoEuropean>IndoIranian>IndoAryan>Pahari>Eastern,5,Isolation,Uniform,u,302.0,770.0,NA,FALSE,BN BT IN NP US,27.5947033333,87.6200833333,FALSE
+new,Ngwe,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>WideGrassfields>Narrow>MbamNkam>Bamikele,1,Wordlist,Uniform,i,263.0,2367.0,NA,TRUE,IN NP,27.2614,84.9577,FALSE
+new,Ngwe,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>WideGrassfields>Narrow>MbamNkam>Bamikele,1,Wordlist,Uniform,u,330.0,680.0,NA,TRUE,IN NP,27.2614,84.9577,FALSE
+new,Ngwe,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>WideGrassfields>Narrow>MbamNkam>Bamikele,1,Wordlist,Uniform,y,238.0,2195.0,NA,TRUE,IN NP,27.2614,84.9577,FALSE
+ngk,Dalabon,NA,Australian>Gunwingguan,1,Running speech,Uniform,u,422.0,1127.0,2657,TRUE,AU,-13.9783,133.936,TRUE
+ngk,Dalabon,NA,Australian>Gunwingguan,1,Running speech,Uniform,y,467.0,1339.0,2697,TRUE,AU,-13.9783,133.936,TRUE
+ngk,Dalabon,NA,Australian>Gunwingguan,1,Running speech,Uniform,i,378.0,2081.0,2815,TRUE,AU,-13.9783,133.936,TRUE
+nia,Nias,NA,Austronesian>MalayoPolinesian>Nuclear>NorthwestSumatran>NorthernBarrierIslands,1,Wordlist,Uniform,i,260.0,2558.0,NA,FALSE,ID,0.90691,97.4961,FALSE
+nia,Nias,NA,Austronesian>MalayoPolinesian>Nuclear>NorthwestSumatran>NorthernBarrierIslands,1,Wordlist,Uniform,u,268.0,717.0,NA,FALSE,ID,0.90691,97.4961,FALSE
+njm,Angami,NA,SinoTibetan>TibetoBurman>AngamiPochuri,4,Carrier sentence,Uniform,u,331.0,941.0,2374,FALSE,IN,25.6841,93.8668,FALSE
+njm,Angami,NA,SinoTibetan>TibetoBurman>AngamiPochuri,4,Carrier sentence,Uniform,i,301.0,2403.0,3028,FALSE,IN,25.6841,93.8668,FALSE
+njo,Ao,Mongsen,SinoTibetan>TibetoBurman>KukiChinNaga>Naga,1,Wordlist,Uniform,i,301.0,2293.0,3037,TRUE,IN,26.3241,94.3824,FALSE
+njo,Ao,Mongsen,SinoTibetan>TibetoBurman>KukiChinNaga>Naga,1,Wordlist,Uniform,u,342.0,658.0,2512,TRUE,IN,26.3241,94.3824,FALSE
+njo,Ao,Mongsen,SinoTibetan>TibetoBurman>KukiChinNaga>Naga,1,Wordlist,Uniform,y,310.0,1691.0,2671,TRUE,IN,26.3241,94.3824,FALSE
+nmn,!Xoo,Lone Tree,Khoisan>SouthernAfrica>Southern>Hua,1,Wordlist,Uniform,i,255.0,2530.0,NA,FALSE,BW,-24.20022,20.79583,FALSE
+nmn,!Xoo,Lone Tree,Khoisan>SouthernAfrica>Southern>Hua,1,Wordlist,Uniform,u,290.0,840.0,NA,FALSE,BW,-24.20022,20.79583,FALSE
+nnb,Kinande,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Central>J>Konzo,1,Wordlist,Uniform,u,262.0,917.0,2668,FALSE,CD UG,-0.24904,29.0243,FALSE
+nnb,Kinande,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Central>J>Konzo,1,Wordlist,Uniform,i,261.0,2234.0,2899,FALSE,CD UG,-0.24904,29.0243,FALSE
+nor,Norwegian,Standard,IndoEuropean>Germanic>NorthGermanic>WestScandinavian,13,Wordlist,Long,u,348.0,874.0,2338,TRUE,FI NO RU SE,59.92,10.71,FALSE
+nor,Norwegian,Standard,IndoEuropean>Germanic>NorthGermanic>WestScandinavian,13,Wordlist,Long,y,302.0,2153.0,2479,TRUE,FI NO RU SE,59.92,10.71,FALSE
+nor,Norwegian,Standard,IndoEuropean>Germanic>NorthGermanic>WestScandinavian,13,Wordlist,Long,i,309.0,2281.0,3230,TRUE,FI NO RU SE,59.92,10.71,FALSE
+nor,Norwegian,Standard,IndoEuropean>Germanic>NorthGermanic>WestScandinavian,13,Wordlist,Long,y,330.0,1724.0,2176,TRUE,FI NO RU SE,59.92,10.71,FALSE
+nun,Anong,Mugujia,SinoTibetan>TibetoBurman>Nungish,NA,Wordlist,Uniform,u,379.0,967.0,2854,FALSE,CN MM,27.2887,98.7333,FALSE
+nun,Anong,Mugujia,SinoTibetan>TibetoBurman>Nungish,NA,Wordlist,Uniform,i,356.0,2096.0,3500,FALSE,CN MM,27.2887,98.7333,FALSE
+oci,Occitan,Roergue Lengadocian,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>OccitanoRomance,1,Carrier sentence,Uniform,i,238.0,2390.0,2800,TRUE,AD ES FR IT MC,44.1415,6.82979,FALSE
+oci,Occitan,Roergue Lengadocian,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>OccitanoRomance,1,Carrier sentence,Uniform,u,273.0,887.0,2581,TRUE,AD ES FR IT MC,44.1415,6.82979,FALSE
+oci,Occitan,Roergue Lengadocian,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>OccitanoRomance,1,Carrier sentence,Uniform,y,271.0,1763.0,2361,TRUE,AD ES FR IT MC,44.1415,6.82979,FALSE
+ogo,Khana,NA,NigerCongo>AtlanticCongo>BenueCongo>Ogoni,4,Wordlist,Uniform,i,280.0,2e3,NA,FALSE,NG,4.70908,7.44363,FALSE
+ogo,Khana,NA,NigerCongo>AtlanticCongo>BenueCongo>Ogoni,4,Wordlist,Uniform,u,283.0,818.0,NA,FALSE,NG,4.70908,7.44363,FALSE
+pan,Punjabi,Doabi,IndoEuropean>IndoIranian>IndoAryan,6,Wordlist,Long,i,265.0,2637.0,2890,FALSE,BD IN PK,30.0368,75.6702,FALSE
+pan,Punjabi,Doabi,IndoEuropean>IndoIranian>IndoAryan,6,Wordlist,Long,u,396.0,976.0,2442,FALSE,BD IN PK,30.0368,75.6702,FALSE
+pav,Wari',NA,ChapacuraWanham>Madeira,6,Wordlist,Uniform,i,325.0,2170.0,2920,TRUE,BR,-10.69948,-64.56152,FALSE
+pav,Wari',NA,ChapacuraWanham>Madeira,6,Wordlist,Uniform,y,355.0,2005.0,2490,TRUE,BR,-10.69948,-64.56152,FALSE
+pbu,Pashto,Northern,IndoEuropean>IndoIranian>Iranian>Eastern>SouthEastern,5,Wordlist,Long,i,304.0,2034.0,2660,FALSE,AF IN PK,34.0,71.33,FALSE
+pbu,Pashto,Northern,IndoEuropean>IndoIranian>Iranian>Eastern>SouthEastern,5,Wordlist,Long,u,315.0,981.0,2281,FALSE,AF IN PK,34.0,71.33,FALSE
+pei,Chichimeca,NA,OtoManguean>OtoPame,1,Wordlist,Uniform,i,268.0,2175.0,2926,TRUE,MX,21.2943,-100.524,FALSE
+pei,Chichimeca,NA,OtoManguean>OtoPame,1,Wordlist,Uniform,u,294.0,728.0,2527,TRUE,MX,21.2943,-100.524,FALSE
+pei,Chichimeca,NA,OtoManguean>OtoPame,1,Wordlist,Uniform,y,293.0,2002.0,2441,TRUE,MX,21.2943,-100.524,FALSE
+pol,Polish,Standard,IndoEuropean>BaltoSlavic>Slavic>West>Lechitic,3,Wordlist,Uniform,i,305.0,2086.0,3045,FALSE,BY CZ DE LT PL RU SK UA,51.8439,18.6255,FALSE
+pol,Polish,Standard,IndoEuropean>BaltoSlavic>Slavic>West>Lechitic,3,Wordlist,Uniform,u,389.0,1025.0,2435,FALSE,BY CZ DE LT PL RU SK UA,51.8439,18.6255,FALSE
+por,Portuguese,Blumenau Brazilian,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>IberoRomance>WestIberian,3,Wordlist,Uniform,i,337.0,2118.0,2695,FALSE,AD AR BO BR CO ES FR GF GY PE PT PY SR UY VE,39.91,-8.1,FALSE
+por,Portuguese,Blumenau Brazilian,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>IberoRomance>WestIberian,3,Wordlist,Uniform,u,330.0,783.0,NA,FALSE,AD AR BO BR CO ES FR GF GY PE PT PY SR UY VE,39.91,-8.1,FALSE
+pri,Paici,NA,Austronesian>MalayoPolinesian>Oceanic>SouthernOceanic>NewCaledonian>Norhten>CentralNorthern,5,Wordlist,Uniform,i,280.0,2106.0,2948,FALSE,NC,-21.096,165.15,FALSE
+pri,Paici,NA,Austronesian>MalayoPolinesian>Oceanic>SouthernOceanic>NewCaledonian>Norhten>CentralNorthern,5,Wordlist,Uniform,u,318.0,787.0,2320,FALSE,NC,-21.096,165.15,FALSE
+prk,Wa,Kunming,AustroAsiatic>MonKhmer>Northern>Palaungic>Waic,1,Wordlist,Uniform,i,315.0,2488.0,NA,FALSE,CN MM,22.8658,99.375,FALSE
+prk,Wa,Kunming,AustroAsiatic>MonKhmer>Northern>Palaungic>Waic,1,Wordlist,Uniform,u,334.0,784.0,NA,FALSE,CN MM,22.8658,99.375,FALSE
+pwn,Paiwan,NA,Austronesian>Paiwanic,3,Wordlist,Uniform,i,419.0,2185.0,2630,FALSE,TW,22.3271,120.806,FALSE
+pwn,Paiwan,NA,Austronesian>Paiwanic,3,Wordlist,Uniform,u,470.0,809.0,2631,FALSE,TW,22.3271,120.806,FALSE
+quz,Quechua,Cusco,Quechuan>QuechuaII>C,5,Carrier sentence,Uniform,i,316.0,2246.0,2839,FALSE,PE,-14.0853,-71.7663,FALSE
+quz,Quechua,Cusco,Quechuan>QuechuaII>C,5,Carrier sentence,Uniform,u,370.0,1192.0,2436,FALSE,PE,-14.0853,-71.7663,FALSE
+ron,Romanian,Stadard,IndoEuropean>Italic>Romance>EastRomance,3,Wordlist,Uniform,i,232.0,2123.0,2768,FALSE,BG HU MD RO RS UA,46.3913,24.2256,FALSE
+ron,Romanian,Stadard,IndoEuropean>Italic>Romance>EastRomance,3,Wordlist,Uniform,u,260.0,695.0,2035,FALSE,BG HU MD RO RS UA,46.3913,24.2256,FALSE
+rus,Russian,NA,IndoEuropean>BaltoSlavic>Slavic>EastSlavic,2,Wordlist,Uniform,i,350.0,2460.0,NA,FALSE,BY CN EE FI GE KG KP KZ LT LV MD MN NO PL RO RU TM UA UZ,59.0,50.0,FALSE
+rus,Russian,NA,IndoEuropean>BaltoSlavic>Slavic>EastSlavic,2,Wordlist,Uniform,u,380.0,825.0,NA,FALSE,BY CN EE FI GE KG KP KZ LT LV MD MN NO PL RO RU TM UA UZ,59.0,50.0,FALSE
+sbz,Kaba,Paoua,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,i,235.0,2031.0,2661,FALSE,CF SD TD,10.5376,22.1637,FALSE
+sbz,Kaba,Paoua,NiloSaharan>ChariNile>CentralSudanic>BongoBagirmi>Sara,1,Carrier sentence,Long,u,269.0,1088.0,2011,FALSE,CF SD TD,10.5376,22.1637,FALSE
+scn,Sicilian,Sallentinian>Lecce,IndoEuropean>Italic>Romance>ItaloWestern>ItaloDalmatian,4,Meaningful sentence,Uniform,i,336.0,2278.0,2896,FALSE,IT,37.5735,14.0414,FALSE
+scn,Sicilian,Sallentinian>Lecce,IndoEuropean>Italic>Romance>ItaloWestern>ItaloDalmatian,4,Meaningful sentence,Uniform,u,373.0,945.0,2690,FALSE,IT,37.5735,14.0414,FALSE
+shi,Tachelhit,NA,AfroAsiatic>Berber>Northern>Atlas,1,Carrier sentence,Uniform,i,350.0,1880.0,2760,FALSE,DZ MA,29.7854,-7.77879,FALSE
+shi,Tachelhit,NA,AfroAsiatic>Berber>Northern>Atlas,1,Carrier sentence,Uniform,u,390.0,1150.0,2190,FALSE,DZ MA,29.7854,-7.77879,FALSE
+shq,Albanian,Central Standard,IndoEuropean>Albanian,1,Wordlist,Uniform,i,342.0,2074.0,2788,TRUE,ZM,-15.5848,27.4534,FALSE
+shq,Albanian,Central Standard,IndoEuropean>Albanian,1,Wordlist,Uniform,u,378.0,812.0,2784,TRUE,ZM,-15.5848,27.4534,FALSE
+shq,Albanian,Central Standard,IndoEuropean>Albanian,1,Wordlist,Uniform,y,315.0,1624.0,2236,TRUE,ZM,-15.5848,27.4534,FALSE
+skf,Sakurabiat,NA,Tupian>Tupari,2,Carrier sentence,Long,i,309.0,2475.0,NA,FALSE,BR,-13.054,-62.0927,FALSE
+slk,Slovak,NA,IndoEuropean>Slavic>West>CzeckSlovak,2,Wordlist,Long,i,225.0,2125.0,2683,FALSE,AT CZ HU PL RS SK UA,48.545705,18.78479,FALSE
+slk,Slovak,NA,IndoEuropean>Slavic>West>CzeckSlovak,2,Wordlist,Long,u,250.0,750.0,2200,FALSE,AT CZ HU PL RS SK UA,48.545705,18.78479,FALSE
+slv,Slovenian,Standard,IndoEuropean>BaltoSlavic>Slavic>South>Western,5,Wordlist,Long,i,282.0,2174.0,2787,FALSE,AT HR HU IT SI,46.2543,14.7766,FALSE
+slv,Slovenian,Standard,IndoEuropean>BaltoSlavic>Slavic>South>Western,5,Wordlist,Long,u,321.0,855.0,2446,FALSE,AT HR HU IT SI,46.2543,14.7766,FALSE
+sna,Shona,NA,NigerCongo>AtlanticCongo>BantuCongo>Bantoid>SouthernBantoid>Bantu>Central>Southern,3,Carrier sentence,Uniform,i,260.0,1960.0,NA,FALSE,BW ZA ZM ZW,-17.20849,29.75725,FALSE
+sna,Shona,NA,NigerCongo>AtlanticCongo>BantuCongo>Bantoid>SouthernBantoid>Bantu>Central>Southern,3,Carrier sentence,Uniform,u,270.0,750.0,NA,FALSE,BW ZA ZM ZW,-17.20849,29.75725,FALSE
+snw,Sele,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>Nyo>PotouTano>Lelemi,8,Wordlist,Uniform,i,293.0,2025.0,2956,FALSE,GH,7.17462,0.42458,FALSE
+snw,Sele,NA,NigerCongo>AtlanticCongo>VoltaCongo>Kwa>Nyo>PotouTano>Lelemi,8,Wordlist,Uniform,u,300.0,887.0,2008,FALSE,GH,7.17462,0.42458,FALSE
+sot,Sotho,Southern,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>SouthernBantoid>Bantu>Central>Southern>SothoTswana>Sotho,1,Carrier sentence,Uniform,i,276.0,2264.0,3092,FALSE,LS ZA,-30.4445,27.8951,FALSE
+sot,Sotho,Southern,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>SouthernBantoid>Bantu>Central>Southern>SothoTswana>Sotho,1,Carrier sentence,Uniform,u,255.0,1016.0,2703,FALSE,LS ZA,-30.4445,27.8951,FALSE
+spa,Spanish,Canaria,IndoEuropean>Italic>Romance>ItaloWestern>GalloIberian>IberoRomance>WestIberian,5,Running speech,Uniform,i,276.0,2057.0,NA,FALSE,AD AR BO BR BZ CL CO CR CU DO EC ES FR GI GT GY HN HT MA MX NI PA PE PR PT PY SV US UY VE,40.4414,-1.11788,FALSE
+spa,Spanish,Canaria,IndoEuropean>Italic>Romance>ItaloWestern>GalloIberian>IberoRomance>WestIberian,5,Running speech,Uniform,u,281.0,703.0,NA,FALSE,AD AR BO BR BZ CL CO CR CU DO EC ES FR GI GT GY HN HT MA MX NI PA PE PR PT PY SV US UY VE,40.4414,-1.11788,FALSE
+sro,Sardinian,Campadinese,IndoEuropean>Italic>Romance>SouthernRomance,2,Wordlist,Uniform,i,290.0,2182.0,2822,FALSE,IT,39.0566,9.03935,FALSE
+sro,Sardinian,Campadinese,IndoEuropean>Italic>Romance>SouthernRomance,2,Wordlist,Uniform,u,332.0,785.0,2115,FALSE,IT,39.0566,9.03935,FALSE
+ssw,Siswati,NA,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>Southern>Bantu>Central>Southern>Nguni>Tekela,5,Wordlist,Uniform,i,343.0,2036.0,NA,FALSE,LS MZ SZ ZA,-26.0,31.5,FALSE
+ssw,Siswati,NA,NigerCongo>AtlanticCongo>BenueCongo>Bantoid>Southern>Bantu>Central>Southern>Nguni>Tekela,5,Wordlist,Uniform,u,324.0,786.0,NA,FALSE,LS MZ SZ ZA,-26.0,31.5,FALSE
+sun,Sundenese,NA,Austronesian>MalayoPolynesian>Nuclear>MalayoSumbawan,4,Wordlist,Uniform,i,329.0,2310.0,2862,FALSE,ID,-6.89708,107.106,FALSE
+sun,Sundenese,NA,Austronesian>MalayoPolynesian>Nuclear>MalayoSumbawan,4,Wordlist,Uniform,u,347.0,1087.0,2599,FALSE,ID,-6.89708,107.106,FALSE
+swe,Swedish,Helsinki,IndoEuropean>Germanic>NorthGermanic>EastScandinavian,4,Meaningful sentence,Long,i,319.0,2228.0,2972,TRUE,DK FI NO SE,59.800634,17.389526,FALSE
+swe,Swedish,Helsinki,IndoEuropean>Germanic>NorthGermanic>EastScandinavian,4,Meaningful sentence,Long,u,328.0,763.0,2365,TRUE,DK FI NO SE,59.800634,17.389526,FALSE
+swe,Swedish,Helsinki,IndoEuropean>Germanic>NorthGermanic>EastScandinavian,4,Meaningful sentence,Long,y,318.0,1975.0,2452,TRUE,DK FI NO SE,59.800634,17.389526,FALSE
+tca,Ticuna,NA,Isolate,6,Wordlist,Uniform,i,358.0,2450.0,3200,FALSE,BR CO PE,-3.66289,-69.8723,FALSE
+tca,Ticuna,NA,Isolate,6,Wordlist,Uniform,u,358.0,825.0,NA,FALSE,BR CO PE,-3.66289,-69.8723,FALSE
+tel,Telugu,NA,Dravidian>SouthCentral,3,Wordlist,Long,i,325.0,2260.0,2836,FALSE,IN,16.4529,78.7024,FALSE
+tel,Telugu,NA,Dravidian>SouthCentral,3,Wordlist,Long,u,348.0,923.0,2543,FALSE,IN,16.4529,78.7024,FALSE
+tha,Thai,Standard,Kradai>Tai>SouthWestern>EastCentral>ChiangSaeng,1,Isolation,Long,i,299.0,2248.0,2968,FALSE,KH MM TH,14.192,100.671,FALSE
+tha,Thai,Standard,Kradai>Tai>SouthWestern>EastCentral>ChiangSaeng,1,Isolation,Long,u,366.0,740.0,2548,FALSE,KH MM TH,14.192,100.671,FALSE
+tlj,Lubwisi,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Central>J>HayaJita,3,Wordlist,Uniform,i,295.0,2206.0,XXX,FALSE,CD UG,0.676185,29.9494,FALSE
+tlj,Lubwisi,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>NarrowBantu>Central>J>HayaJita,3,Wordlist,Uniform,u,332.0,943.0,XXX,FALSE,CD UG,0.676185,29.9494,FALSE
+trv,Truku,Hualian,Austronesian>NorthernFormosan>Atayalic,3,Wordlist,Uniform,i,354.0,2294.0,NA,FALSE,TW,23.9032,121.358,FALSE
+trv,Truku,Hualian,Austronesian>NorthernFormosan>Atayalic,3,Wordlist,Uniform,u,370.0,915.0,NA,FALSE,TW,23.9032,121.358,FALSE
+tsg,Tausug,Sulu,Austronesian>MalayoPolynesian>Philipine>CentralPhilipine>Mansakan,4,Meaningful sentence,Long,i,395.0,2224.0,2885,FALSE,ID MY PH,5.12236,118.88,FALSE
+tsg,Tausug,Sulu,Austronesian>MalayoPolynesian>Philipine>CentralPhilipine>Mansakan,4,Meaningful sentence,Long,u,431.0,847.0,2592,FALSE,ID MY PH,5.12236,118.88,FALSE
+tsn,Setswana,NA,NigerCongo>AtlanticCongo>BenueCongoBantoid>Southern>Bantu>Central>Southern>SothoTswana,5,Wordlist,Uniform,i,306.0,1980.0,2739,FALSE,BW NA ZA ZM ZW,-24.368,24.7587,FALSE
+tsn,Setswana,NA,NigerCongo>AtlanticCongo>BenueCongoBantoid>Southern>Bantu>Central>Southern>SothoTswana,5,Wordlist,Uniform,u,293.0,1015.0,2267,FALSE,BW NA ZA ZM ZW,-24.368,24.7587,FALSE
+tsu,Tsou,Tfuea,Austronesian>TsouRukai>Tsouic,8,Wordlist,Uniform,i,369.0,2157.0,2864,FALSE,TW,23.216,120.787,FALSE
+tsu,Tsou,Tfuea,Austronesian>TsouRukai>Tsouic,8,Wordlist,Uniform,u,407.0,915.0,2464,FALSE,TW,23.216,120.787,FALSE
+tur,Turkish,Istanbul,Altaic>Turkic>Oghuz>Western,15,Isolation,Uniform,i,286.0,2178.0,2943,TRUE,AL AM AZ BG CY GE GR IQ IR MK SY TR,39.8667,32.8667,FALSE
+tur,Turkish,Istanbul,Altaic>Turkic>Oghuz>Western,15,Isolation,Uniform,u,310.0,909.0,2401,TRUE,AL AM AZ BG CY GE GR IQ IR MK SY TR,39.8667,32.8667,FALSE
+tur,Turkish,Istanbul,Altaic>Turkic>Oghuz>Western,15,Isolation,Uniform,y,372.0,1633.0,2369,TRUE,AL AM AZ BG CY GE GR IQ IR MK SY TR,39.8667,32.8667,FALSE
+udm,Udmurt,Izhevsk,Uralic>FinnoUgric>FinnoPermic>Permic,1,Wordlist,Uniform,i,333.0,2083.0,NA,FALSE,KZ RU,56.12921,52.63548,FALSE
+udm,Udmurt,Izhevsk,Uralic>FinnoUgric>FinnoPermic>Permic,1,Wordlist,Uniform,u,373.0,730.0,NA,FALSE,KZ RU,56.12921,52.63548,FALSE
+uig,Uyghur,NA,Altaic>Turkic>Uyghuric,3,Wordlist,Uniform,i,270.0,2e3,2933,TRUE,CN IN KG KZ MN PK UZ,43.67,79.75,FALSE
+uig,Uyghur,NA,Altaic>Turkic>Uyghuric,3,Wordlist,Uniform,u,353.0,820.0,NA,TRUE,CN IN KG KZ MN PK UZ,43.67,79.75,FALSE
+uig,Uyghur,NA,Altaic>Turkic>Uyghuric,3,Wordlist,Uniform,y,307.0,1700.0,2267,TRUE,CN IN KG KZ MN PK UZ,43.67,79.75,FALSE
+ukr,Ukrainian,Standard,IndoEuropean>BaltoSlavic>Slavic>Eastern,1,Wordlist,Uniform,i,280.0,2300.0,3000,FALSE,BY HU MD PL RO RU SK UA,48.175842,24.395786,FALSE
+ukr,Ukrainian,Standard,IndoEuropean>BaltoSlavic>Slavic>Eastern,1,Wordlist,Uniform,u,350.0,600.0,2470,FALSE,BY HU MD PL RO RU SK UA,48.175842,24.395786,FALSE
+urd,Urdu,NA,IndoEuropean>IndoIranian>IndoAryan>Central>WesternHindi>Khariboli,5,Wordlist,Long,i,288.0,2297.0,2939,FALSE,AF BD IN PK,25.0,67.0,FALSE
+urd,Urdu,NA,IndoEuropean>IndoIranian>IndoAryan>Central>WesternHindi>Khariboli,5,Wordlist,Long,u,343.0,818.0,2413,FALSE,AF BD IN PK,25.0,67.0,FALSE
+vec,Venetian,Padua,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloItalic,NA,Wordlist,Uniform,i,289.0,2481.0,NA,FALSE,BR,45.503581,12.214167,FALSE
+vec,Venetian,Padua,IndoEuropean>Italic>Romance>ItaloWestern>Western>GalloIberian>GalloRomance>GalloItalic,NA,Wordlist,Uniform,u,313.0,926.0,NA,FALSE,BR,45.503581,12.214167,FALSE
+wol,Wolof,Baol,NigerCongo>AtlanticCongo>SenegalGuinea>Senegambian>FulaWolof,1,Running speech,Long,i,240.0,2500.0,NA,FALSE,GM GW ML MR SN,15.2534,-15.383,FALSE
+wol,Wolof,Baol,NigerCongo>AtlanticCongo>SenegalGuinea>Senegambian>FulaWolof,1,Running speech,Long,u,250.0,810.0,NA,FALSE,GM GW ML MR SN,15.2534,-15.383,FALSE
+wuu,Wu,Ningbo,SinoTibetan>Chinese,10,Carrier sentence,Uniform,i,282.0,2257.0,3288,TRUE,CN,29.8621,119.682,FALSE
+wuu,Wu,Ningbo,SinoTibetan>Chinese,10,Carrier sentence,Uniform,u,330.0,772.0,2552,TRUE,CN,29.8621,119.682,FALSE
+wuu,Wu,Ningbo,SinoTibetan>Chinese,10,Carrier sentence,Uniform,y,295.0,1982.0,2427,TRUE,CN,29.8621,119.682,FALSE
+xal,Oriat,Kalmyk,Altaic>Mongolic>Eastern,4,Wordlist,Long,i,349.0,2105.0,2767,TRUE,CN KZ MN RU,46.566667,45.316667,FALSE
+xal,Oriat,Kalmyk,Altaic>Mongolic>Eastern,4,Wordlist,Long,u,382.0,713.0,2566,TRUE,CN KZ MN RU,46.566667,45.316667,FALSE
+xal,Oriat,Kalmyk,Altaic>Mongolic>Eastern,4,Wordlist,Long,y,338.0,1729.0,2305,TRUE,CN KZ MN RU,46.566667,45.316667,FALSE
+yas,Gunu,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>Mbam>Yambasa,1,Wordlist,Long,i,261.0,2332.0,NA,FALSE,CM,4.63103,11.1837,FALSE
+yas,Gunu,NA,NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Bantoid>Southern>Mbam>Yambasa,1,Wordlist,Long,u,330.0,795.0,NA,FALSE,CM,4.63103,11.1837,FALSE
+yid,Yiddish,NA,IndoEuropean>Germanic>West>HighGerman,23,Running speech,Uniform,i,389.0,2169.0,NA,FALSE,IL,NA,NA,FALSE
+yid,Yiddish,NA,IndoEuropean>Germanic>West>HighGerman,23,Running speech,Uniform,u,345.0,939.0,NA,FALSE,IL,NA,NA,FALSE
+yor,Yoruba,NA,NigerCongo>AtlanticCongo>VoltaNiger>YEAI>Yoruboid>Edekiri,10,Isolation,Uniform,i,304.0,2205.0,2967,FALSE,BJ NG,7.15345,3.67225,FALSE
+yor,Yoruba,NA,NigerCongo>AtlanticCongo>VoltaNiger>YEAI>Yoruboid>Edekiri,10,Isolation,Uniform,u,314.0,842.0,2324,FALSE,BJ NG,7.15345,3.67225,FALSE
+yue,Cantonese,Guangzhou,SinoTibetan>Sinitic>Chinese,3,Wordlist,Long,i,280.0,2116.0,3056,TRUE,CN VN,23.0,113.0,FALSE
+yue,Cantonese,Guangzhou,SinoTibetan>Sinitic>Chinese,3,Wordlist,Long,u,315.0,685.0,NA,TRUE,CN VN,23.0,113.0,FALSE
+yue,Cantonese,Guangzhou,SinoTibetan>Sinitic>Chinese,3,Wordlist,Long,y,285.0,1853.0,2289,TRUE,CN VN,23.0,113.0,FALSE
+zai,Juchitan Zapotec,NA,OtoManguean>Zapotecan,1,Wordlist,Uniform,i,320.0,2050.0,NA,FALSE,MX,16.4548,-94.8444,FALSE
+zai,Juchitan Zapotec,NA,OtoManguean>Zapotecan,1,Wordlist,Uniform,u,340.0,700.0,NA,FALSE,MX,16.4548,-94.8444,FALSE

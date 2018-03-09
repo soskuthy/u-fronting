@@ -9,15 +9,597 @@ output: html_document
 library(brms)
 library(tidyverse)
 library(ggplot2)
+library(mgcv)
+library(itsadug)
+library(arm)
+library(maps)
+library(here)
+
+source(here("helper_scripts", "sizeit.r"))
 
 knitr::opts_chunk$set(echo = TRUE)
+
+background.colour <- "#EFF5F6"
+theme_set(theme_bw() + 
+            theme(panel.grid=element_blank(),
+                  plot.background=element_rect(fill=background.colour),
+                  axis.title=element_text(size=14, face="bold"),
+                  axis.text=element_text(size=12),
+                  plot.title=element_text(size=16, face="bold"),
+                  strip.text=element_text(size=11))
+          )
+
+
 ```
 
-## Where does /y/ come from?
+## Introduction
 
-/y/ can arise in a number of ways: through vowel harmony, contextual effects, fronting of /u/, rounding of /i/, etc. Here we classify the XX languages in WALS with /y/ according to the likely source of /u/, relying mainly on info about language families & linguistic history.
+This document contains analyses of simulations, cross-linguistic data and historical corpus data related to /u/-fronting. Most of the analyses are summarised in the form of various plots, and much of the code here is used to create these plots.
 
-```{r cars}
+## Some examples of sound systems
 
+This is a plot for illustrating the systematicity of vowel inventories. The data is from
+
+Becker-Kristal, R. (2010). Acoustic typology of vowel inventories and Dispersion Theory: Insights from a large cross-linguistic corpus. University of California, Los Angeles.
+
+```{r}
+becker.vowels <- read_csv(here("data","final_data","becker_vowels.csv"))
+
+set.seed(121)
+
+# data processing & randomly choosing 20 vowel systems
+
+becker.examples <- becker.vowels %>%
+  filter(Quantity %in% c("Uniform", "Long")) %>%
+  group_by(Language) %>%
+  mutate(annotations.present = sum(vowel=="")==0) %>%
+  ungroup() %>%
+  filter(annotations.present) %>%
+  filter(Language %in% sample(unique(Language), 20))
+  
+# plotting
+ggplot(becker.examples, aes(x=f2, y=f1)) + 
+  facet_wrap(~Language) +
+  geom_text(aes(label=vowel)) +
+  xlab("F2 (Hz)") +
+  ylab("F1 (Hz)") +
+  scale_x_continuous(limits=c(2750,400), breaks=seq(2500,500,-500), trans="reverse") +
+  scale_y_continuous(limits=c(1000,150),trans="reverse") +
+  theme(axis.text.x=element_text(angle=360-55, vjust=1, hjust=0))
+
+# creating output png file
+# ggsave(here("graphs", "vowel_systems.png"), width=8.5, height=6.3, dpi=300)
+  
+```
+
+
+## Simulation results
+
+The simulation data analysed here was created using the Shiny app in the folder shiny_app. Four different combinations of parameter settings are represented here:
+
+1) a low proportion of coronal contexts & no high front rounded competitor vowel
+2) a low proportion of coronal contexts & high front rounded competitor vowel
+3) a high proportion of coronal contexts & no high front rounded competitor vowel
+4) a high proportion of coronal contexts & high front rounded competitor vowel
+
+A separate plot is created for each set. The plots show the evolution of a simulated /u/ category over time across 200 simulation runs.
+
+```{r}
+low.prop.no.y <- bind_rows(
+  readRDS(here("data", "final_data", "simulation", "prop_0.15_comp_0.85_200.rds")), .id="id")
+low.prop.yes.y <- bind_rows(
+  readRDS(here("data", "final_data", "simulation", "prop_0.15_comp_0.7_200.rds")), .id="id")
+high.prop.no.y <- bind_rows(
+  readRDS(here("data", "final_data", "simulation", "prop_0.85_comp_0.85_200.rds")), .id="id")
+high.prop.yes.y <- bind_rows(
+  readRDS(here("data", "final_data", "simulation", "prop_0.85_comp_0.7_200.rds")), .id="id")
+
+ggplot(low.prop.no.y, aes(x=i, y=u.mean, group=id)) +
+  geom_line(col="deepskyblue4", alpha=0.2, lwd=1) +
+  geom_hline(yintercept=0.7, col="grey", lwd=1, lty=2) +
+  geom_hline(yintercept=0.85, col="salmon", lwd=1, lty=2) +
+  annotate(geom="text", y=0.75, x=1000, label="coronal bias", hjust=0, col="darkgrey", size=5) +
+  annotate(geom="text", y=0.9, x=1000, label="competitor V = /i/", hjust=0, col="salmon", size=5) +
+  ylim(-0.02,1) +
+  xlab("Iterations") +
+  ylab(expression(bold("Frontness") %->% "")) +
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs", "low_prop_no_y.pdf"), device=cairo_pdf, width=4, height=3)
+
+ggplot(low.prop.yes.y, aes(x=i, y=u.mean, group=id)) +
+  geom_line(col="deepskyblue4", alpha=0.2, lwd=1) +
+  geom_hline(yintercept=0.7, col="grey", lwd=1, lty=2) +
+  geom_hline(yintercept=0.71, col="salmon", lwd=1, lty=2) +
+  annotate(geom="text", y=0.66, x=1000, label="coronal bias", hjust=0, col="darkgrey", size=5) +
+  annotate(geom="text", y=0.75, x=1000, label="competitor V = /y/", hjust=0, col="salmon", size=5) +
+  ylim(-0.02,1) +
+  xlab("Iterations") +
+  ylab(expression(bold("Frontness") %->% "")) +
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs", "low_prop_yes_y.pdf"), device=cairo_pdf, width=4, height=3)
+
+ggplot(high.prop.no.y, aes(x=i, y=u.mean, group=id)) +
+  geom_line(col="deepskyblue4", alpha=0.2, lwd=1) +
+  geom_hline(yintercept=0.7, col="grey", lwd=1, lty=2) +
+  geom_hline(yintercept=0.85, col="salmon", lwd=1, lty=2) +
+  annotate(geom="text", y=0.75, x=1000, label="coronal bias", hjust=0, col="darkgrey", size=5) +
+  annotate(geom="text", y=0.9, x=1000, label="competitor V = /i/", hjust=0, col="salmon", size=5) +
+  ylim(-0.02,1) +
+  xlab("Iterations") +
+  ylab(expression(bold("Frontness") %->% "")) +
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs", "high_prop_no_y.pdf"), device=cairo_pdf, width=4, height=3)
+
+ggplot(high.prop.yes.y, aes(x=i, y=u.mean, group=id)) +
+  geom_line(col="deepskyblue4", alpha=0.2, lwd=1) +
+  geom_hline(yintercept=0.7, col="grey", lwd=1, lty=2) +
+  geom_hline(yintercept=0.71, col="salmon", lwd=1, lty=2) +
+  annotate(geom="text", y=0.66, x=1000, label="coronal bias", hjust=0, col="darkgrey", size=5) +
+  annotate(geom="text", y=0.75, x=1000, label="competitor V = /y/", hjust=0, col="salmon", size=5) +
+  ylim(-0.02,1) +
+  xlab("Iterations") +
+  ylab(expression(bold("Frontness") %->% "")) +
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs", "high_prop_yes_y.pdf"), device=cairo_pdf, width=4, height=3)
+
+```
+
+## IDS data
+
+Do languages that have undergone wholesale /u/-fronting have a higher proportion of coronals/palatals before fronted /u/ than languages that haven't? An analysis based on lexical data from 41 languages from the Intercontinental Dictionary Series. 
+
+http://ids.clld.org
+
+The raw data and the code for creating counts of different phonetic environments is available in the data folder.
+
+```{r}
+ids.wholesale <- read_csv(here("data", "final_data", "ids_wholesale.csv"))
+
+# these are utility functions for the plot (creating counts and medians for subgroups)
+
+n_fun <- function(x){
+  return(data.frame(y = 80, label = paste0("n = ",length(x))))
+}
+
+med_fun <- function(x){
+  return(data.frame(y = median(x), label = paste0(median(x), "%")))
+}
+
+# boxplot showing proportion of coronals vs. other sounds preceding /u/ for two different sets of languages
+
+# fronting.l = language that has undergone wholesale fronting at some point during its history
+# favouring.count = count of preceding coronals + palatals
+# all.count = count of all words with /u/
+
+ggplot(ids.wholesale, aes(x=as.numeric(factor(fronting.l)), y=as.integer((favouring.count/all.count)*100), fill=fronting.l)) +
+  geom_boxplot(width=0.5) +
+  scale_fill_manual(values=c("deepskyblue3", "firebrick2")) +
+  scale_x_continuous("Fronted /u/?", breaks=c(1,2), labels=c("Yes", "No"), limits=c(0.6,2.6)) +
+  scale_y_continuous("Proportion of preceding coronals", breaks=seq(0,100,25), 
+                     labels=paste0(seq(0,100,25), "%"), limits=c(0,100)) +
+  stat_summary(fun.data = n_fun, geom = "text", size=5) +
+  #stat_summary(fun.data = med_line_fun, geom = "segment", xend=0.5, yend=y) +
+  stat_summary(aes(x=as.numeric(factor(fronting.l)) + 0.5), fun.data = med_fun, geom = "text", size=5) +
+  theme(legend.position="none")
+#ggsave(here("graphs","coronal_props_boxplot.pdf"), device=cairo_pdf, width=3.5, height=3.5)
+
+```
+
+The data is analysed using Bayesian mixed effects models. We model the proportion of favouring contexts as a function of whether the language has undergone fronting. Therefore, this is a binomial model (essentially logistic regression). The model includes random intercepts by language.
+
+```{r}
+# fitting the model using the brms package
+set.seed(123)
+wholesale.brm <- brm(favouring.count | trials(all.count) ~
+                     fronting.l + 
+                     (1 | language),
+                   data=ids.wholesale,
+                   family=binomial(),
+                   prior = c(set_prior("normal(0,2)", class = "Intercept"),
+                             set_prior("normal(0,2)", class = "b", coef="fronting.lTRUE")),
+                   warmup = 1000, iter = 4000, chains = 4, save_all_pars=T
+                   )
+summary(wholesale.brm)
+
+# extract posterior samples from the model
+wholesale.brm.s <- posterior_samples(wholesale.brm)
+# translate model parameters to response scale (log odds -> probabilities)
+wholesale.brm.s.plot <- data.frame(diff_prop_cor=invlogit(wholesale.brm.s[,1] + wholesale.brm.s[,2]) - invlogit(wholesale.brm.s[,1]))
+# what percentage of the posterior mass is higher than 0?
+round(mean(wholesale.brm.s.plot$diff_prop_cor > 0),2)
+
+# make a plot of fronting_l effect
+
+cred.int <- quantile(wholesale.brm.s.plot$diff_prop_cor, c(0.025, 0.975))
+
+ggplot(wholesale.brm.s.plot, aes(x=diff_prop_cor*100)) + 
+  geom_density(fill="grey", col=NA) +
+  coord_flip() +
+  scale_x_continuous("Est. diff. between groups", breaks=seq(-10,20,10), labels=paste0(seq(-10,20,10), "%")) +
+  annotate("text", x=9.5, y=0.04, label=paste0(round(mean(wholesale.brm.s.plot$diff_prop_cor > 0),2)*100, "%"), size=5) +
+  geom_vline(xintercept=0, lty=2) +
+  annotate("errorbarh", x=quantile(wholesale.brm.s.plot$diff_prop_cor*100, 0.025), xmin=quantile(wholesale.brm.s.plot$diff_prop_cor*100, 0.025), xmax=quantile(wholesale.brm.s.plot$diff_prop_cor*100, 0.975), y=0.005, height=0.005) +
+  theme(axis.text.x=element_blank(),
+        axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        plot.margin=unit(c(5.5,5.5,5.5+26,5.5), "pt"))
+#ggsave(here("graphs","coronal_props_model.pdf"), device=cairo_pdf, width=1.94, height=3.5)
+```
+
+## Glottolog + Becker-Kristal data sets
+
+The main data set here is a set of F2 measurements for /u/ from the Becker-Kristal data set. These measurements are paired with geographical coordinates from Glottolog and further information about (i) whether the language has a high front rounded competitor vowel and (ii) whether it is spoken in a country where English is the primary language (= spoken as an L1 by the majority of the population; this is a small set including Australia, New Zealand, Canada, UK and USA; there are other similar countries as well, but the data set has no languages from these countries).
+
+We plot world maps with dots indicating the different languages and fit Bayesian regression models including geographical smoothers to the data. These models handle spatial trends in the data (e.g. pockets of high F2 for /u/) and other predictors (e.g. presence of /y/ competitor) simultaneously.
+
+### Simple smooth
+
+Let us first fit a simple smooth to the languages in the Becker-Kristal data set.
+
+```{r}
+# loading & filtering data
+becker.iyu <- read_csv(here("data", "final_data", "becker_ui.csv"))
+becker.u <- filter(becker.iyu, vowel=="u")
+
+# simple geographical smoother without any additional predictors (takes a little while to fit)
+becker.u.mod.0 <- brm(f2 ~  s(latitude,longitude,bs="sos",k=10), data=becker.u)
+summary(becker.u.mod.0)
+
+# average predicted f2 based on posterior
+baseline.f2 <- mean(posterior_samples(becker.u.mod.0)[,1])
+
+# extracting marginal smooth for plotting, adding mean F2
+# (otherwise smooth would simply show deviation from mean F2 value)
+# (takes a little while)
+ms <- marginal_smooths(becker.u.mod.0)
+p.data <- ms[[1]]
+p.data$estimate__ <- p.data$estimate__ + baseline.f2
+```
+
+We first create a plot which shows individual languages as points over a map.
+
+```{r}
+ggplot(p.data, aes(x=longitude, y=latitude)) +
+  borders("world", xlim=range(p.data$longitude), ylim=range(p.data$latitude), col="black",
+          lwd=0.2) +
+  geom_point(data=becker.u, aes(col=f2), alpha=0.8, size=2) +
+  coord_quickmap(xlim = range(p.data$longitude),ylim=range(p.data$latitude)) +
+  scale_y_continuous(expand=c(0.02,0.02)) +
+  scale_x_continuous(expand=c(0.02,0.02)) +
+  scale_colour_gradientn(name="F2", colours=heat.colors(20)) +
+  theme(legend.background=element_rect(fill="#EFF5F6"),
+        legend.title=element_text(size=14, face="bold"),
+        legend.text=element_text(size=12),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs","world_map_points.pdf"), device=cairo_pdf, width=8, height=2.5558)
+```
+
+And now plotting the predictions from the regression model with the smooth.
+
+```{r}
+colour.scale.limits <- c(-65,90) + baseline.f2
+
+ggplot(p.data, aes(x=longitude, y=latitude)) +
+  geom_raster(aes(fill=estimate__)) +
+  #geom_point(data=becker.u, alpha=0.5) +
+  borders("world", xlim=range(p.data$longitude), ylim=range(p.data$latitude), col="black", lwd=0.2) +
+  scale_fill_gradientn(name="F2",colours=heat.colors(50), limits=colour.scale.limits) +
+  coord_quickmap(xlim = range(p.data$longitude),ylim=range(p.data$latitude)) +
+  scale_y_continuous(expand=c(0,0), labels=c()) +
+  scale_x_continuous(expand=c(0,0)) +
+  theme(legend.background=element_rect(fill="#EFF5F6"),
+        legend.title=element_text(size=14, face="bold"),
+        legend.text=element_text(size=12),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs","world_map_smooth1.pdf"), device=cairo_pdf, width=8, height=2.6)
+```
+
+### Simple smooth + presence of /y/ competitor
+
+This is largely the same as before, but we now also create plots for the effect of the categorical presence of /y/ predictor.
+
+```{r}
+# Bayesian regression with geographical smooth + categorical predictor (takes a little while to fit)
+set.seed(123)
+becker.u.mod.1 <- brm(f2 ~  s(latitude,longitude,bs="sos",k=10) + y, data=becker.u)
+summary(becker.u.mod.1)
+
+# extracting marginal smooth for plotting, adding mean F2
+# (otherwise smooth would simply show deviation from mean F2 value)
+# (takes a little while)
+ms.2 <- marginal_smooths(becker.u.mod.1)
+p.data.2 <- ms.2[[1]]
+
+# baseline f2 from previous section
+p.data.2$estimate__ <- p.data.2$estimate__ + baseline.f2
+```
+
+First creating a scatterplot.
+
+```{r}
+# some formatting for the scatterplot
+becker.u.plot <- becker.u %>% 
+  arrange(y) %>%
+  mutate(`/y/?`=ifelse(y, "Yes", "No"))
+
+# scatterplot of languages with /y/
+ggplot(p.data, aes(x=longitude, y=latitude)) +
+  borders("world", xlim=range(p.data$longitude), ylim=range(p.data$latitude), col="black",
+          lwd=0.2) +
+  geom_point(data=becker.u.plot, aes(col=`/y/?`, pch=`/y/?`), size=2) +
+  coord_quickmap(xlim = range(p.data$longitude),ylim=range(p.data$latitude)) +
+  scale_y_continuous(expand=c(0.02,0.02)) +
+  scale_x_continuous(expand=c(0.02,0.02)) +
+  scale_colour_manual(values=c("darkgrey", "firebrick1")) +
+  theme(legend.background=element_rect(fill="#EFF5F6"),
+        legend.title=element_text(size=14, face="bold"),
+        legend.text=element_text(size=12),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs","world_map_points_y.pdf"), device=cairo_pdf, width=8, height=2.6)
+```
+
+And now plotting the geo smooth.
+
+```{r}
+colour.scale.limits <- c(-65,90) + baseline.f2
+
+ggplot(p.data.2, aes(x=longitude, y=latitude)) +
+  geom_raster(aes(fill=estimate__)) +
+  #geom_point(data=becker.u, alpha=0.5) +
+  borders("world", xlim=range(p.data.2$longitude), ylim=range(p.data.2$latitude), col="black", lwd=0.2) +
+  scale_fill_gradientn(name="F2", colours=heat.colors(50), limits=colour.scale.limits) +
+  coord_quickmap(xlim = range(p.data.2$longitude),ylim=range(p.data.2$latitude)) +
+  scale_y_continuous(expand=c(0,0), labels=c()) +
+  scale_x_continuous(expand=c(0,0)) +
+  theme(legend.background=element_rect(fill="#EFF5F6"),
+        legend.title=element_text(size=14, face="bold"),
+        legend.text=element_text(size=12),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs","world_map_smooth2.pdf"), device=cairo_pdf, width=8, height=2.6)
+```
+
+We now create two graphs for the presence of /y/ predictor: one based on the raw data with boxplots, and another one showing the posterior distribution of the `presence of /y/' parameter (i.e. the estimated effect from the regression model).
+
+Boxplot first (very similar to the IDS boxplot).
+
+```{r}
+n_fun <- function(x){
+  return(data.frame(y = 500, label = paste0("n = ",length(x))))
+}
+
+med_fun <- function(x){
+  return(data.frame(y = median(x), label = paste(round(median(x)), "Hz")))
+}
+
+ggplot(becker.u, aes(x=as.numeric(factor(y)), y=f2, fill=y)) +
+  geom_boxplot(width=0.4) +
+  scale_fill_manual(values=c("deepskyblue3", "firebrick2")) +
+  scale_x_continuous("Inventory has /u/?", breaks=c(1,2), labels=c("No", "Yes"), limits=c(0.6,2.6)) +
+  scale_y_continuous("F2 (Hz)") +
+  stat_summary(fun.data = n_fun, geom = "text", size=4) +
+  #stat_summary(fun.data = med_line_fun, geom = "segment", xend=0.5, yend=y) +
+  stat_summary(aes(x=as.numeric(factor(y)) + 0.46), fun.data = med_fun, geom = "text", size=4) +
+  theme(legend.position="none")
+#ggsave(here("graphs", "y_boxplot.pdf"), device=cairo_pdf, width=3.5, height=3.5)
+```
+
+And now a plot of the estimated effect.
+
+```{r}
+# extract posterior samples
+becker.u.mod.1.s <- posterior_samples(becker.u.mod.1, pars="b_yTRUE")
+# what percentage under 0?
+round(mean(becker.u.mod.1.s < 0),2)
+
+cred.int <- quantile(becker.u.mod.1.s[,1], c(0.025, 0.975))
+
+ggplot(becker.u.mod.1.s, aes(x=b_yTRUE)) + 
+  geom_density(fill="grey", col=NA) +
+  coord_flip() +
+  scale_x_continuous("Est. diff. between groups") +
+  annotate("text", x=-90, y=0.005, label=paste0(round(mean(becker.u.mod.1.s[,1] < 0),2)*100, "%"), size=5) +
+  geom_vline(xintercept=0, lty=2) +
+  annotate("errorbarh", x=quantile(becker.u.mod.1.s[,1], 0.025), xmin=quantile(becker.u.mod.1.s[,1], 0.025), xmax=quantile(becker.u.mod.1.s[,1], 0.975), y=0.0005, height=0.0005) +
+  #geom_errorbarh(aes(x=quantile(diff_prop_cor, 0.025),xmin=quantile(diff_prop_cor, 0.025), xmax=quantile(diff_prop_cor, 0.975)), y=0.1) +
+  
+  theme(axis.text.x=element_blank(),
+        axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        plot.margin=unit(c(5.5,5.5,5.5+26,5.5), "pt"))
+#ggsave(here("graphs","y_model.pdf"), device=cairo_pdf, width=1.94, height=3.5)
+```
+
+### Simple smooth + presence of /y/ competitor + English primary
+
+And, finally, is the language spoken in a country where English is the primary language? The same graphs are created as before.
+
+```{r}
+# Bayesian regression with geographical smooth + categorical predictors (takes a little while to fit)
+set.seed(123)
+becker.u.mod.2 <- brm(f2 ~  s(latitude,longitude,bs="sos",k=10) + y + eng.prim, data=becker.u)
+summary(becker.u.mod.2)
+
+# marginal smooth
+ms.3 <- marginal_smooths(becker.u.mod.2)
+p.data.3 <- ms.3[[1]]
+
+# baseline from previous sections
+p.data.3$estimate__ <- p.data.3$estimate__ + baseline.f2
+```
+
+First: scatterplot (Is English the primary language in the country where this language is spoken?).
+
+```{r}
+becker.u.plot.2 <- becker.u %>% 
+  arrange(eng.prim) %>%
+  mutate(`English\nprimary?`=ifelse(eng.prim, "Yes", "No"))
+
+# languages spoken in countries where English is the primary language
+ggplot(p.data.3, aes(x=longitude, y=latitude)) +
+  #geom_raster(aes(fill=estimate__)) +
+  borders("world", xlim=range(p.data$longitude), ylim=range(p.data$latitude), col="black",
+          lwd=0.2) +
+  geom_point(data=becker.u.plot.2, aes(col=`English\nprimary?`, pch=`English\nprimary?`), size=2) +
+  #scale_fill_viridis() +
+  coord_quickmap(xlim = range(p.data$longitude),ylim=range(p.data$latitude)) +
+  scale_y_continuous(expand=c(0.02,0.02)) +
+  scale_x_continuous(expand=c(0.02,0.02)) +
+  scale_colour_manual(values=c("darkgrey", "firebrick1")) +
+  theme(legend.background=element_rect(fill="#EFF5F6"),
+        legend.title=element_text(size=14, face="bold"),
+        legend.text=element_text(size=12),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs","world_map_points_eng.pdf"), device=cairo_pdf, width=8, height=2.5)
+```
+
+Second: geo smooth once we control for presence of /y/ and English primary.
+
+```{r}
+colour.scale.limits <- c(-65,90) + baseline.f2
+
+ggplot(p.data.3, aes(x=longitude, y=latitude)) +
+  geom_raster(aes(fill=estimate__)) +
+  #geom_point(data=becker.u, alpha=0.5) +
+  borders("world", xlim=range(p.data.3$longitude), ylim=range(p.data.3$latitude), col="black", lwd=0.2) +
+  scale_fill_gradientn(name="F2", colours=heat.colors(50), limits=colour.scale.limits) +
+  coord_quickmap(xlim = range(p.data.3$longitude),ylim=range(p.data.3$latitude)) +
+  scale_y_continuous(expand=c(0,0), labels=c()) +
+  scale_x_continuous(expand=c(0,0)) +
+  theme(legend.background=element_rect(fill="#EFF5F6"),
+        legend.title=element_text(size=14, face="bold"),
+        legend.text=element_text(size=12),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.ticks.y=element_blank())
+#ggsave(here("graphs","world_map_smooth3.pdf"), device=cairo_pdf, width=8, height=2.6)
+```
+
+Create boxplots for English primary (same as before).
+
+```{r}
+n_fun <- function(x){
+  return(data.frame(y = 500, label = paste0("n = ",length(x))))
+}
+
+med_fun <- function(x){
+  return(data.frame(y = median(x), label = paste(round(median(x)), "Hz")))
+}
+
+ggplot(becker.u, aes(x=as.numeric(factor(eng.prim)), y=f2, fill=eng.prim)) +
+  geom_boxplot(width=0.4) +
+  scale_fill_manual(values=c("deepskyblue3", "firebrick2")) +
+  scale_x_continuous("English primary?", breaks=c(1,2), labels=c("No", "Yes"), limits=c(0.6,2.6)) +
+  scale_y_continuous("F2 (Hz)") +
+  stat_summary(fun.data = n_fun, geom = "text", size=4) +
+  #stat_summary(fun.data = med_line_fun, geom = "segment", xend=0.5, yend=y) +
+  stat_summary(aes(x=as.numeric(factor(eng.prim)) + 0.46), fun.data = med_fun, geom = "text", size=4) +
+  theme(legend.position="none")
+#ggsave(here("graphs", "eng_boxplot.pdf"), device=cairo_pdf, width=3.5, height=3.5)
+```
+
+And now a plot of the estimated effect.
+
+```{r}
+# extract posterior samples
+becker.u.mod.2.s <- posterior_samples(becker.u.mod.2, pars="b_eng.primTRUE")
+# what percentage over 0?
+round(mean(becker.u.mod.2.s > 0),2)
+
+cred.int <- quantile(becker.u.mod.2.s[,1], c(0.025, 0.975))
+
+# creat plot
+ggplot(becker.u.mod.2.s, aes(x=b_eng.primTRUE)) + 
+  geom_density(fill="grey", col=NA) +
+  coord_flip() +
+  scale_x_continuous("Est. diff. between groups") +
+  annotate("text", x=250, y=0.003, label=paste0(round(mean(becker.u.mod.2.s[,1] > 0),2)*100, "%"), size=5) +
+  geom_vline(xintercept=0, lty=2) +
+  annotate("errorbarh", x=quantile(becker.u.mod.2.s[,1], 0.025), xmin=quantile(becker.u.mod.2.s[,1], 0.025), xmax=quantile(becker.u.mod.2.s[,1], 0.975), y=0.0004, height=0.0004) +
+  #geom_errorbarh(aes(x=quantile(diff_prop_cor, 0.025),xmin=quantile(diff_prop_cor, 0.025), xmax=quantile(diff_prop_cor, 0.975)), y=0.1) +
+  
+  theme(axis.text.x=element_blank(),
+        axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        plot.margin=unit(c(5.5,5.5,5.5+26,5.5), "pt"))
+#ggsave(here("graphs","eng_model.pdf"), device=cairo_pdf, width=1.94, height=3.5)
+```
+
+## /u/-fronting in Derby English
+
+This is based on dynamic formant data from Derby English. Unfortunately, the raw data can't be shared due to data protection issues. What I have here is a model fitted with GCM. I first create model predictions for plotting. The data vary by age, preceding context & frequency.
+
+
+```{r, fig.show='hide', warning=F, error=F, message=F, include=F}
+#library(devtools)
+#install_github("gganimate")
+library(gganimate)
+goose.mod.full <- readRDS(here("data", "topics", "goose_mod_full.rds"))
+
+# plotting
+ages <- list("old","mid","young")
+freqs <- c(1.609438, 6.929798)
+freqs.s <- list("low-frequency", "high-frequency")
+
+d <- list()
+i <- 1
+for (a in seq(1,3,length.out=150)) {
+  for (f in 1:2) {
+    d[[i]] <- plot_smooth( goose.mod.full, view="measurement.no", plot_all="prev.tri", 
+                 cond=list(bnc.freq.log=freqs[f], age.num=a), rm.ranef=T,
+                 rug=F, se=0, ylim=c(1.0, 1.6),
+                 main=paste(ages[a], ", ", freqs.s[f], sep=""),
+                 hide.label=T
+               )$fv
+    d[[i]]$freq <- freqs.s[[f]]
+    d[[i]]$freq <- as.factor(d[[i]]$freq)
+    i <- i + 1
+  }
+}
+full <- do.call(rbind, d)
+full$measurement.no <- full$measurement.no*10
+```
+
+And now an animation from the model predictions. (Not shown correctly in the HTML version -- create mp4 output with gganimate to view.)
+
+```{r}
+p <- ggplot(full, aes(x=measurement.no, y=fit, col=prev.tri, frame=age.num)) +
+  facet_grid(~freq) +
+  geom_line(lwd=1) +
+  theme(legend.background=element_rect(fill="#EFF5F6"),
+        legend.position="top",
+        legend.title = element_text(size=18, face="bold"), 
+        legend.text = element_text(size=18),
+        legend.key=element_rect(fill="#EFF5F6"),
+        strip.text = element_text(size=18),
+        plot.title=element_blank(),
+        axis.title=element_text(size=18, face="bold"),
+        axis.text=element_text(size=16)) +
+  scale_color_manual(name="preceding",breaks=c("yod","front", "back"), labels=c("/j/", "favouring", "non-favouring"),
+                     values=c("#E69F00", "#56B4E9", "#009E73")) +
+  scale_x_continuous(name="Vowel duration", limits = c(0, 100), breaks=seq(0,100,25),
+                     labels=paste0(seq(0,100,25), "%")) +
+  scale_y_continuous(name="Normalised F2", limits=c(1,1.6))
+p
+#gganimate(p, here("graphs", filename="topics_video.mp4"), interval=0.04, ani.width=800, height=300)
 ```
 

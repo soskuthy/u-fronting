@@ -1,0 +1,61 @@
+Country,Region,Population1,Primary,Country_code
+ Antigua and Barbuda[1],Caribbean,"85,000",Yes,AG
+ Bahamas[1],Caribbean,"331,000",Yes,BS
+ Barbados[2],Caribbean,"294,000",Yes,BB
+ Belize[3],Central America,"288,000",Yes,BZ
+ Botswana[3],Africa,"1,882,000",No,BW
+ Burundi[4],Africa,"10,114,505",No,BI
+ Cameroon[1],Africa,"22,534,532",No,CM
+ Canada[1],North America,"35,985,751",Yes,CA
+ Cook Islands14[1],Oceania,"20,000",Yes,CK
+ Dominica[1],Caribbean,"73,000",Yes,DM
+ Federated States of Micronesia[1],Oceania,"110,000",No,FM
+ Fiji[1],Oceania,"828,000",No,FJ
+ Gambia[1],Africa,"1,709,000",No,GM
+ Ghana[1],Africa,"27,000,000",Yes (used as lingua franca),GH
+ Grenada[1],Caribbean,"106,000",Yes,GD
+ Guyana[5],South America,"738,000",Yes,GY
+ India[3][6],Asia,"1,247,540,000",No (used in education),IN
+ Ireland[7][8],Europe,"4,581,000",Yes,IE
+ Jamaica[9],Caribbean,"2,714,000",Yes,JM
+ Kenya[1],Africa,"45,010,056",Yes (used in business and education),KE
+ Kiribati[1],Oceania,"95,000",No,KI
+ Lesotho[1],Africa,"2,008,000",No,LS
+ Liberia[1],Africa,"3,750,000",No (Majority of people speaks English),LR
+ Malawi[10],Africa,"16,407,000",No,MW
+ Malta[1],Europe,"430,000",No (but official and educational),MT
+ Marshall Islands[1],Oceania,"59,000",No,MH
+ Mauritius[1],Africa / Indian Ocean,"1,262,000",No,MU
+ Namibia[1],Africa,"2,074,000",No (used as lingua franca),NA
+ Nauru[11],Oceania,"10,000",No,NR
+ Nigeria[1][12],Africa,"182,202,000",Yes (used as lingua franca),NG
+ Niue14[1],Oceania,"1,600",No,NU
+ Pakistan[1],Asia,"199,085,847",No (but official and educational),PK
+ Palau[3],Oceania,"20,000",No,PW
+ Papua New Guinea[13][14],Oceania,"7,059,653",No,PG
+ Philippines[1][15],Asia,"102,885,100",No (but official and educational),PH
+ Rwanda[1],Africa,"11,262,564",No (but official and educational),RW
+ Saint Kitts and Nevis[16],Caribbean,"50,000",Yes,KN
+ Saint Lucia[1],Caribbean,"165,000",Yes,LC
+ Saint Vincent and the Grenadines[17],Caribbean,"120,000",Yes,VC
+ Samoa[18],Oceania,"188,000",No,WS
+ Seychelles[1],Africa / Indian Ocean,"87,000",No,SC
+ Sierra Leone[1],Africa,"6,190,280",Yes,SL
+ Singapore[19],Asia,"5,469,700[20]",No (but official and educational),SG
+ Solomon Islands[1],Oceania,"507,000",No,SB
+ South Africa[21],Africa,"54,956,900","No (but official, educated and",ZA
+ South Sudan[22],Africa,"12,340,000",No,SS
+ Sudan[1],Africa,"40,235,000",No,SD
+ Swaziland[1],Africa,"1,141,000",No,SZ
+ Tanzania[1],Africa,"51,820,000",No,TZ
+ Tonga[23],Oceania,"100,000",No,TO
+ Trinidad and Tobago[1],Caribbean,"1,333,000",Yes,TT
+ Tuvalu[3],Oceania,"11,000",No,TV
+ Uganda[1],Africa,"37,873,253",No (official and educated)[24],UG
+ Vanuatu[25],Oceania,"226,000",No,VU
+ Zambia[1],Africa,"16,212,000",No,ZM
+ Zimbabwe[1],Africa,"13,061,239",No (used as lingua franca),ZW
+ Australia,Oceania,"23,520,000",Yes,AU
+ New Zealand[26],Oceania,"4,294,000",Yes,NZ
+ United Kingdom,Europe,"63,705,000",Yes,GB
+ United States,North America,"318,224,000",Yes,US
