@@ -178,7 +178,7 @@ med_fun <- function(x){
 ggplot(ids.wholesale, aes(x=as.numeric(factor(fronting.l)), y=as.integer((favouring.count/all.count)*100), fill=fronting.l)) +
   geom_boxplot(width=0.5) +
   scale_fill_manual(values=c("deepskyblue3", "firebrick2")) +
-  scale_x_continuous("Fronted /u/?", breaks=c(1,2), labels=c("Yes", "No"), limits=c(0.6,2.6)) +
+  scale_x_continuous("Fronted /u/?", breaks=c(1,2), labels=c("No", "Yes"), limits=c(0.6,2.6)) +
   scale_y_continuous("Proportion of preceding coronals", breaks=seq(0,100,25), 
                      labels=paste0(seq(0,100,25), "%"), limits=c(0,100)) +
   stat_summary(fun.data = n_fun, geom = "text", size=5) +
@@ -220,7 +220,7 @@ ggplot(wholesale.brm.s.plot, aes(x=diff_prop_cor*100)) +
   geom_density(fill="grey", col=NA) +
   coord_flip() +
   scale_x_continuous("Est. diff. between groups", breaks=seq(-10,20,10), labels=paste0(seq(-10,20,10), "%")) +
-  annotate("text", x=9.5, y=0.04, label=paste0(round(mean(wholesale.brm.s.plot$diff_prop_cor > 0),2)*100, "%"), size=5) +
+  #annotate("text", x=9.5, y=0.04, label=paste0(round(mean(wholesale.brm.s.plot$diff_prop_cor > 0),2)*100, "%"), size=5) +
   geom_vline(xintercept=0, lty=2) +
   annotate("errorbarh", x=quantile(wholesale.brm.s.plot$diff_prop_cor*100, 0.025), xmin=quantile(wholesale.brm.s.plot$diff_prop_cor*100, 0.025), xmax=quantile(wholesale.brm.s.plot$diff_prop_cor*100, 0.975), y=0.005, height=0.005) +
   theme(axis.text.x=element_blank(),
@@ -390,7 +390,7 @@ med_fun <- function(x){
 ggplot(becker.u, aes(x=as.numeric(factor(y)), y=f2, fill=y)) +
   geom_boxplot(width=0.4) +
   scale_fill_manual(values=c("deepskyblue3", "firebrick2")) +
-  scale_x_continuous("Inventory has /u/?", breaks=c(1,2), labels=c("No", "Yes"), limits=c(0.6,2.6)) +
+  scale_x_continuous("Inventory has /y/?", breaks=c(1,2), labels=c("No", "Yes"), limits=c(0.6,2.6)) +
   scale_y_continuous("F2 (Hz)") +
   stat_summary(fun.data = n_fun, geom = "text", size=4) +
   #stat_summary(fun.data = med_line_fun, geom = "segment", xend=0.5, yend=y) +
@@ -413,7 +413,7 @@ ggplot(becker.u.mod.1.s, aes(x=b_yTRUE)) +
   geom_density(fill="grey", col=NA) +
   coord_flip() +
   scale_x_continuous("Est. diff. between groups") +
-  annotate("text", x=-90, y=0.005, label=paste0(round(mean(becker.u.mod.1.s[,1] < 0),2)*100, "%"), size=5) +
+  #annotate("text", x=-90, y=0.005, label=paste0(round(mean(becker.u.mod.1.s[,1] < 0),2)*100, "%"), size=5) +
   geom_vline(xintercept=0, lty=2) +
   annotate("errorbarh", x=quantile(becker.u.mod.1.s[,1], 0.025), xmin=quantile(becker.u.mod.1.s[,1], 0.025), xmax=quantile(becker.u.mod.1.s[,1], 0.975), y=0.0005, height=0.0005) +
   #geom_errorbarh(aes(x=quantile(diff_prop_cor, 0.025),xmin=quantile(diff_prop_cor, 0.025), xmax=quantile(diff_prop_cor, 0.975)), y=0.1) +
@@ -434,6 +434,7 @@ And, finally, is the language spoken in a country where English is the primary l
 set.seed(123)
 becker.u.mod.2 <- brm(f2 ~  s(latitude,longitude,bs="sos",k=10) + y + eng.prim, data=becker.u)
 summary(becker.u.mod.2)
+
 
 # marginal smooth
 ms.3 <- marginal_smooths(becker.u.mod.2)
@@ -532,11 +533,9 @@ ggplot(becker.u.mod.2.s, aes(x=b_eng.primTRUE)) +
   geom_density(fill="grey", col=NA) +
   coord_flip() +
   scale_x_continuous("Est. diff. between groups") +
-  annotate("text", x=250, y=0.003, label=paste0(round(mean(becker.u.mod.2.s[,1] > 0),2)*100, "%"), size=5) +
+  #annotate("text", x=250, y=0.003, label=paste0(round(mean(becker.u.mod.2.s[,1] > 0),2)*100, "%"), size=5) +
   geom_vline(xintercept=0, lty=2) +
   annotate("errorbarh", x=quantile(becker.u.mod.2.s[,1], 0.025), xmin=quantile(becker.u.mod.2.s[,1], 0.025), xmax=quantile(becker.u.mod.2.s[,1], 0.975), y=0.0004, height=0.0004) +
-  #geom_errorbarh(aes(x=quantile(diff_prop_cor, 0.025),xmin=quantile(diff_prop_cor, 0.025), xmax=quantile(diff_prop_cor, 0.975)), y=0.1) +
-  
   theme(axis.text.x=element_blank(),
         axis.title.x=element_blank(),
         axis.ticks.x=element_blank(),

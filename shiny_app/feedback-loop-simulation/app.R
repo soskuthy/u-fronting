@@ -65,7 +65,7 @@ create.single.hist.plot <- function (canvas, u.mean, u.sd, comp.mean, comp.sd, b
   ys.1 <- ys.1*(0.8/max(ys.1))
   ys.2 <- dnorm(xs.2, comp.mean, comp.sd)
   ys.2 <- ys.2*(0.8/max(ys.2))
-  plot(c(), c(), type="n", xlim=canvas, ylim=c(0,1),
+  plot(c(), c(), type="n", xlim=rev(canvas), ylim=c(0,1),
        xlab="F2",ylab="",
        cex.lab=1.5, font.lab=2,
        cex.axis=1.2, yaxt="n")
@@ -81,7 +81,7 @@ create.multi.hist.plot <- function (canvas, u.means.multi, comp.mean, comp.sd, b
   d$y <- d$y*(0.8/max(d$y))
   ys.2 <- dnorm(xs.2, comp.mean, comp.sd)
   ys.2 <- ys.2*(0.8/max(ys.2))
-  plot(c(), c(), type="n", xlim=canvas, ylim=c(0,1),
+  plot(c(), c(), type="n", xlim=rev(canvas), ylim=c(0,1),
        xlab="F2",ylab="",
        cex.lab=1.5, font.lab=2,
        cex.axis=1.2, yaxt="n")
