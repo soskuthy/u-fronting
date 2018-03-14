@@ -12,11 +12,17 @@ This github repo contains data, simulations and analyses for my talk on /u/-fron
 
 # References for talk
 
+Becker-Kristal, R. (2010). *Acoustic typology of vowel inventories and Dispersion Theory: Insights from a large cross-linguistic corpus*. University of California, Los Angeles.
+
 Flege, J. E., Yeni-Komshian, G. H., & Liu, S. (1999). Age constraints on second-language acquisition. *Journal of memory and language*, 41(1), 78-104.
 
 Gordon, E., Maclagan, M., & Hay, J. (2007). The ONZE corpus. In *Creating and digitizing language corpora*. Palgrave Macmillan, London, pp. 82–104.
 
+Hammarström, H., Forkel, R., Haspelmath, M., & Bank, S. (2015). *Glottolog 2.3*. Leipzig: Max Planck Institute for Evolutionary Anthropology. Available online at http://glottolog.org.
+
 Harrington, J., Hoole, P., Kleber, F., & Reubold, U. (2011). The physiological, acoustic, and perceptual basis of high back vowel fronting: Evidence from German tense and lax vowels. *Journal of Phonetics*, 39(2), 121–131.
+
+Key, M. R. & Comrie, B. (2015) *The Intercontinental Dictionary Series*. Leipzig: Max Planck Institute for Evolutionary Anthropology. Available online at http://ids.clld.org.
 
 Ohala, J. J. (1981). The listener as a source of sound change. In *Papers from the Parasession on Language and Behaviour*, Chicago Linguistic Society, Chicago, pp. 178–203.
 
