@@ -24,8 +24,6 @@ Pierrehumbert, J. (2001). Exemplar dynamics: Word frequency, lenition and contra
 
 Sancier, M. L., & Fowler, C. A. (1997). Gestural drift in a bilingual speaker of Brazilian Portuguese and English. *Journal of phonetics*, 25(4), 421–436.
 
-Sóskuthy, M. and Hay, J. (2017). Changing word usage predicts changing word durations in New Zealand English. *Cognition* 166, 298–313.
-
 Sóskuthy, M. (2014) Formant Editor: Software for editing dynamic formant measurements. URL: https://github.com/soskuthy/formant_edit.
 
 Sóskuthy, M. (2015). Understanding change through stability: a computational study of sound change actuation. *Lingua* 163, 40–60.
@@ -33,6 +31,8 @@ Sóskuthy, M. (2015). Understanding change through stability: a computational st
 Sóskuthy, M. (2017). Generalised Additive Mixed Models for dynamic analysis in linguistics: A practical introduction. *arXiv*:1703.05339 [stat:AP].
 
 Sóskuthy, M. (under review). Evaluating generalised additive mixed modelling strategies for dynamic phonetic analysis. *Journal of Phonetics*.
+
+Sóskuthy, M. and Hay, J. (2017). Changing word usage predicts changing word durations in New Zealand English. *Cognition* 166, 298–313.
 
 Sóskuthy, M., Foulkes, P., Hughes, V. & Haddican, W. (in press) Changing words and sounds: the roles of different cognitive units in sound change. *Topics in Cognitive Science*.
 
