@@ -66,7 +66,7 @@ create.single.hist.plot <- function (canvas, u.mean, u.sd, comp.mean, comp.sd, b
   ys.2 <- dnorm(xs.2, comp.mean, comp.sd)
   ys.2 <- ys.2*(0.8/max(ys.2))
   plot(c(), c(), type="n", xlim=rev(canvas), ylim=c(0,1),
-       xlab="F2",ylab="",
+       xlab="frontness",ylab="",
        cex.lab=1.5, font.lab=2,
        cex.axis=1.2, yaxt="n")
   mtext("Density", 2, line=1, cex=1.5, font=2)
@@ -82,7 +82,7 @@ create.multi.hist.plot <- function (canvas, u.means.multi, comp.mean, comp.sd, b
   ys.2 <- dnorm(xs.2, comp.mean, comp.sd)
   ys.2 <- ys.2*(0.8/max(ys.2))
   plot(c(), c(), type="n", xlim=rev(canvas), ylim=c(0,1),
-       xlab="F2",ylab="",
+       xlab="frontness",ylab="",
        cex.lab=1.5, font.lab=2,
        cex.axis=1.2, yaxt="n")
   mtext("Density", 2, line=1, cex=1.5, font=2)
@@ -94,7 +94,7 @@ create.multi.hist.plot <- function (canvas, u.means.multi, comp.mean, comp.sd, b
 create.single.traj.plot <- function (canvas, u.means, comp.mean, bias) {
   xs <- seq(0, temp.iter, vis.freq)
   plot(c(), c(), type="n", xlim=c(0,iterations), ylim=canvas,
-       xlab="Iterations", ylab="F2",
+       xlab="Iterations", ylab="frontness",
        cex.lab=1.5, font.lab=2,
        cex.axis=1.2)
   lines(xs, u.means, lwd=3, col="deepskyblue4")
@@ -105,7 +105,7 @@ create.single.traj.plot <- function (canvas, u.means, comp.mean, bias) {
 create.multi.traj.plot <- function (canvas, u.means.multi, comp.mean, bias) {
   xs <- seq(0, iterations, vis.freq)
   plot(c(), c(), type="n", xlim=c(0,iterations), ylim=canvas,
-       xlab="Iterations", ylab="F2",
+       xlab="Iterations", ylab="frontness",
        cex.lab=1.5, font.lab=2,
        cex.axis=1.2)
   for (i in 1:length(u.means.multi)) {
@@ -146,8 +146,8 @@ ui <- fluidPage(
       numericInput(inputId="noise.prod", label="Production noise", value=0.005),
       br(),
       h4("/u/ parameters"),
-      numericInput(inputId="bias.freq", label="Coronal proportion", value=0.5),
-      numericInput(inputId="bias.strength", label="Degree of coarticulation", value=0.001),
+      numericInput(inputId="bias.freq", label="Coronal proportion", value=0.1),
+      numericInput(inputId="bias.strength", label="Degree of coarticulation", value=0.005),
       br(), 
       h4("Competitor parameters"),
       br(), 
@@ -182,10 +182,13 @@ server <- function(input, output, session) {
   output$histPlot <- renderPlot({
     if (trigger$plot > 0) {
       isolate({
-        if (input$simulations==1) {
+        if (simulations==1) {
           create.single.hist.plot(canvas.plot, u.mean, u.sd, comp.mean, comp.sd, bias)
-        } else {
-          create.multi.hist.plot(canvas.plot, u.means.multi, comp.mean, comp.sd, bias)
+        } #else {
+          #create.multi.hist.plot(canvas.plot, u.means.multi, comp.mean, comp.sd, bias)
+        #}
+        else {
+          create.multi.traj.plot(canvas.plot, u.means.multi, comp.mean, bias)
         }
       })
     }
@@ -194,17 +197,16 @@ server <- function(input, output, session) {
   output$seriesPlot <- renderPlot({
     if (trigger$plot > 0) {
       isolate({
-        if (input$simulations==1) {
+        if (simulations==1) {
           create.single.traj.plot(canvas.plot, u.means, comp.mean, bias)
-        } else {
-          create.multi.traj.plot(canvas.plot, u.means.multi, comp.mean, bias)
-        }
+        } #else {
+          #create.multi.traj.plot(canvas.plot, u.means.multi, comp.mean, bias)
+        #}
       })
     }
   })
 
   observeEvent(input$run, {
-    
     trigger$plot <- 0
 
     # initialise parameters
@@ -233,7 +235,7 @@ server <- function(input, output, session) {
     temp.iter <<- 0
     sim.counter <<- 1
     
-    
+    trigger$go <- FALSE
     trigger$go <- TRUE
   })
   
@@ -241,7 +243,7 @@ server <- function(input, output, session) {
     if (!trigger$go) {
       return(NULL)
     }
-    if (isolate(input$simulations==1)) {
+    if (simulations==1) {
       if (temp.iter < iterations) {
         from <- temp.iter + 1
         to <- min(temp.iter+vis.freq, iterations)
@@ -268,7 +270,7 @@ server <- function(input, output, session) {
     if (!trigger$go) {
       return(NULL)
     }
-    if (isolate(input$simulations) > 1) {
+    if (simulations > 1) {
       if (sim.counter <= simulations) {
         isolate(u.mean <<- u.start.m)
         u.sd <<- u.sd
