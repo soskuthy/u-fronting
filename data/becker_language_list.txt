@@ -1,0 +1,231 @@
+!Xoo
+Afrikaans
+Akan
+Akuntsu
+Albanian
+Aleut
+Amharic
+Amis
+Amuzgo
+Angami
+Anong
+Ao
+Apache
+Aragonese
+Assyrian Neo-Aramaic
+Ayutla Mixe
+Baale
+Babine
+Bambassi
+Banawa
+Basque
+Bavarian
+Bedjond
+Bengali
+Bininj Gun-Wok
+Bodo
+Bora
+Breton
+Brou
+Bulgarian
+Burarra
+Burmese
+Cantonese
+Catalan
+Cherokee
+Chichimeca
+Chickasaw
+Chong
+Chontal
+Chuvash
+Creek
+Dalabon
+Danish
+Dari
+Darma
+Defaka
+Degema
+Dholuo
+Dibole
+Didinga
+Diola
+Dogri
+Dutch
+Eastern Dinka
+Egyptian Arabic
+Emilian
+English
+Estonian
+Eton
+Fe'fe'
+Finnish
+Foodo
+French
+Frisian
+G|wi
+Galician
+Gban
+Georgian
+German
+Gheg Albanian
+Greek
+Greenlandic
+Gujarati
+Gumuz
+Gunu
+Hadza
+Hakka
+Hausa
+Hebrew
+Huehuetla Tepehua
+Hungarian
+Hupa
+Iaai
+Icelandic
+Ife
+Igbo
+Ikposo
+Indonesian
+Inner Mongolian
+Isthmus Mixe
+Italian
+Jalapa Mazatec
+Japanese
+Juchitan Zapotec
+Kaba
+Kannada
+Karitiana
+Kazakh
+Kera
+Khalkha
+Khana
+Khanty
+Khmer
+Kinande
+Kirikiri
+Komi
+Konni
+Korean
+Kunwinjku
+Kurtoep
+Kuruaya
+Kuy
+Lango
+Latvian
+Lele
+Lithuanian
+Livonian
+Low German
+Lubwisi
+Maa
+Madurese
+Maithili
+Majang
+Maltese
+Mandarin
+Mangbetu
+Maori
+Mawa
+Mayogo
+Mbay
+Mbosi Olee
+Megleno-Romanian
+Min Taiwanese
+Molalla
+Mono
+Montana Salish
+Moore
+Moroccan Arabic
+Moukoulu
+Mpiemo
+Munduruku
+Musey
+Nambikwara
+Nar
+Navajo
+Nawuri
+Ndebele
+Ndumbea
+Ndut
+Neapolitan
+Nepali
+Ngwe
+Nias
+Norman
+North Frisian
+Northern Khmer
+Northern Qiang
+Norwegian
+O'odham
+Occitan
+Oriat
+Oriya
+Oroko
+Paici
+Paiwan
+Palestinian Arabic
+Paraguayan Guarani
+Pashto
+Persian
+Piedmontese
+Polish
+Portuguese
+Punjabi
+Quechua
+Quichua
+Romanian
+Rukai
+Russian
+Sakurabiat
+Sar
+Sardinian
+Scottish Gaelic
+Sele
+Serbo-Croatian
+Setswana
+Shona
+Sicilian
+Siswati
+Slovak
+Slovenian
+Solon
+Somali
+Sotho
+Southern Dinka
+Southwestern Dinka
+Spanish
+Sundenese
+Sursurunga
+Swedish
+Tachelhit
+Tajik
+Tausug
+Telugu
+Tepetotutla Chinantec
+Thai
+Ticuna
+Toba Batak
+Toda
+Totonac
+Truku
+Tsez
+Tsou
+Tunisian Arabic
+Turkish
+Tuwuli
+Twi
+Udmurt
+Ukrainian
+Urdu
+Uyghur
+Venetian
+Vietnamese
+Viri
+Voru
+Wa
+Wari'
+Welsh
+Wolof
+Wu
+Yiddish
+Yoruba
