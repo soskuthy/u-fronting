@@ -1,0 +1,1 @@
+﻿Language,Corpus,Pattern_type,Pattern_id,Pattern,word_col,freq_col,cleaning,notesAkan,ak-words.txt,vowel,i,i,1,2,"grep -v ""[#@A-Z.]""",Akan,ak-words.txt,vowel,ɛ,ɛ,1,2,"grep -v ""[#@A-Z.]""",Akan,ak-words.txt,vowel,ɔ,ɔ,1,2,"grep -v ""[#@A-Z.]""",Akan,ak-words.txt,vowel,u,u,1,2,"grep -v ""[#@A-Z.]""",
