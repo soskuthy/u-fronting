@@ -1,4 +1,4 @@
-	Language	Corpus	Pattern Type (context/vowel)	Pattern ID (identifier for vowel/consonant)	pattern	Exclusions	word column	frec column	cleaning	Pre-F2 Raising	Pre-F2 Lowering	Post-F2 Raising	Post-F2 Lowering	notes
+ISO	Language	Corpus	Pattern Type (context/vowel)	Pattern ID (identifier for vowel/consonant)	pattern	Exclusions	word column	frec column	cleaning	Pre-F2 Raising	Pre-F2 Lowering	Post-F2 Raising	Post-F2 Lowering	notes
 aka	Akan	ak-words.txt	vowel	i	i		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
 aka	Akan	ak-words.txt	vowel	ɛ	ɛ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
 aka	Akan	ak-words.txt	vowel	ɔ	ɔ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
