@@ -1,4 +1,4 @@
-	Language	Corpus	Pattern Type (context/vowel)	Pattern ID (identifier for vowel/consonant)	pattern	Exclusions	word column	frec column	cleaning	Pre-F2 Raising	Pre-F2 Lowering	Post-F2 Raising	Post-F2 Lowering	notes
+ISO	Language	Corpus	Pattern Type (context/vowel)	Pattern ID (identifier for vowel/consonant)	pattern	Exclusions	word column	frec column	cleaning	Pre-F2 Raising	Pre-F2 Lowering	Post-F2 Raising	Post-F2 Lowering	notes
 aka	Akan	ak-words.txt	vowel	i	i		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
 aka	Akan	ak-words.txt	vowel	ɛ	ɛ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
 aka	Akan	ak-words.txt	vowel	ɔ	ɔ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
@@ -427,14 +427,14 @@ nan	Min Taiwanese	nan-words.txt	vowel	e	[eêèéēe̍]		1	2	n/a	([ntszj]|chh|c
 nan	Min Taiwanese	nan-words.txt	vowel	a	[aāâáàa̍]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
 nan	Min Taiwanese	nan-words.txt	vowel	ɔ	[oóōo̍òô]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
 nan	Min Taiwanese	nan-words.txt	vowel	u	[uūúûùu̍]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
-nav	Navajo	nav-words.txt	vowel	a	[^aá][aá][^aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nav-words.txt	vowel	ɛ	[^eé][eé][^eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nav-words.txt	vowel	ɪ	[^ií][ií][^ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nav-words.txt	vowel	ɔ	[^oó][oó][^oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nav-words.txt	vowel	ɑː	[aá][aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nav-words.txt	vowel	iː	[ií][ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nav-words.txt	vowel	eː	[eé][eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nav-words.txt	vowel	oː	[oó][oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	a	[^aá][aá][^aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	ɛ	[^eé][eé][^eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	ɪ	[^ií][ií][^ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	ɔ	[^oó][oó][^oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	ɑː	[aá][aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	iː	[ií][ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	eː	[eé][eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
+nav	Navajo	nv-words.txt	vowel	oː	[oó][oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
 nde	Ndebele	nd-words.txt	vowel	a	a		1	2	n/a					
 nde	Ndebele	nd-words.txt	vowel	i	i		1	2	n/a					
 nde	Ndebele	nd-words.txt	vowel	u	u		1	2	n/a					
