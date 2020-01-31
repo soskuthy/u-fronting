@@ -324,7 +324,6 @@ tsukande 3
 tsuite 3
 tsugi 3
 tori 3
-tonī 3
 tomodachi 3
 tomadoi 3
 toku 3
@@ -486,7 +485,7 @@ tsutau 2
 tsunagu 2
 tsunagatteku 2
 tsumori 2
-tsumannakunacchau 2
+tsumannakunachau 2
 tsukinuketara 2
 tsukereba 2
 tsukandatte 2
@@ -640,11 +639,11 @@ kouen 2
 kou 2
 kotsu 2
 korekara 2
-korebbocchi 2
+korebbochi 2
 kokyuu 2
 koibitotachi 2
 kodomo 2
-kocchi 2
+kochi 2
 koboreochita 2
 koakuma 2
 kizutsuku 2
@@ -672,7 +671,7 @@ kezuru 2
 keshiki 2
 keredo 2
 kawaii 2
-kawacchainaindana 2
+kawachainaindana 2
 kashi 2
 karappona 2
 karada 2
@@ -686,7 +685,6 @@ kanaetai 2
 kanaerarezu 2
 kana 2
 kamisama 2
-kami-sama 2
 kakusa 2
 kaketara 2
 kakehiki 2
@@ -718,7 +716,6 @@ ikiteta 2
 ikereba 2
 iiya 2
 iikai 2
-hītoappu 2
 hoshizora 2
 honki 2
 hohoemi 2
@@ -847,7 +844,6 @@ wasureta 1
 wasureru 1
 wasurenaide 1
 wasurekakete 1
-warawareta-tte 1
 warat 1
 waraigoe 1
 warai 1
@@ -922,7 +918,6 @@ toraeru 1
 tooru 1
 toomawarishite 1
 tookutemo 1
-tonītonīowataowata 1
 tonari 1
 tomonau 1
 tomonai 1
@@ -937,7 +932,7 @@ toikakeru 1
 toida 1
 togatte 1
 todoketai 1
-tocchirakatta 1
+tochirakatta 1
 toboru 1
 tobitate 1
 tobisokoneta 1
@@ -946,7 +941,6 @@ tobiko 1
 tobidatsu 1
 tobi 1
 toaru 1
-thenarutocrew 1
 tesuto 1
 terekusai 1
 terasu 1
@@ -990,7 +984,6 @@ sura 1
 supein 1
 sunde 1
 sunda 1
-sukōn 1
 sukutte 1
 sukunaku 1
 sukuidashi 1
@@ -1101,13 +1094,11 @@ sagashita 1
 sagashi 1
 sabita 1
 sabetsu 1
-rēru 1
 ryoute 1
 ryoushin 1
 rui 1
 ru 1
 ros 1
-robātoson 1
 rete 1
 ressha 1
 reru 1
@@ -1153,7 +1144,6 @@ okiru 1
 oitsuzukete 1
 oitsuzukereba 1
 oikakeru 1
-ohime-sama 1
 ogenki 1
 ochite 1
 oboeteru 1
@@ -1234,7 +1224,6 @@ nagasaresou 1
 nagareteru 1
 nagarenainda 1
 nagaku 1
-mōdo 1
 muzukashii 1
 musuu 1
 musubu 1
@@ -1310,7 +1299,6 @@ mashi 1
 mase 1
 maru 1
 marete 1
-manā 1
 mamotteku 1
 mamoritai 1
 mamori 1
@@ -1325,12 +1313,11 @@ magarimichi 1
 madashiteru 1
 madamada 1
 machigaide 1
-macchainai 1
+machainai 1
 mabushiku 1
 mabushii 1
 mabushi 1
 mabayui 1
-kēki 1
 kyoufu 1
 kyonen 1
 kuzureteiru 1
@@ -1357,7 +1344,6 @@ koudai 1
 kotononai 1
 koso 1
 koshi 1
-koruhōzukorukoru 1
 koofun 1
 konya 1
 konan 1
@@ -1508,9 +1494,6 @@ ienai 1
 ie 1
 idomu 1
 idaku 1
-iconhappy 1
-iconfourteenthstar 1
-iconariisachandesu 1
 ichijiku 1
 ibutsuna 1
 hyoumei 1
@@ -1596,7 +1579,6 @@ futashika 1
 fushigi 1
 furusato 1
 furueteru 1
-furu-tsu 1
 furitsuzuketeru 1
 furitsumoru 1
 furidasu 1
@@ -1620,7 +1602,6 @@ eran 1
 ekishou 1
 eiyuu 1
 eeru 1
-dākuhōsu 1
 doutoku 1
 doushiyou 1
 doushita 1
@@ -1671,9 +1652,7 @@ chigau 1
 chigai 1
 chi 1
 chau 1
-chattan’da 1
 chanto 1
-burūberī 1
 bunno 1
 bunkiten 1
 bunkei 1
@@ -1693,7 +1672,6 @@ asufaruto 1
 asobi 1
 aseranaide 1
 asa 1
-arutsuhaimā 1
 arun 1
 aruki 1
 arifureteiku 1
