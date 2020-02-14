@@ -1,8 +1,8 @@
 ISO Code	Language	Corpus	Pattern Type (context/vowel)	Pattern ID (identifier for vowel/consonant)	pattern	Exclusions	word column	frec column	cleaning	Pre-F2 Raising	Pre-F2 Lowering	Post-F2 Raising	Post-F2 Lowering	notes
-aka	Akan	ak-words.txt	vowel	i	i		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
-aka	Akan	ak-words.txt	vowel	ɛ	ɛ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
-aka	Akan	ak-words.txt	vowel	ɔ	ɔ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
-aka	Akan	ak-words.txt	vowel	u	u		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
+aka	Akan	ak-words.txt	vowel	i	[^ei]i[^aei]		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
+aka	Akan	ak-words.txt	vowel	ɛ	[^e]ɛ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
+aka	Akan	ak-words.txt	vowel	ɔ	[^o]ɔ		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
+aka	Akan	ak-words.txt	vowel	u	u[^eo]		1	2	[#@A-Z]	[nytidsr]	[mpbfw]	 [ntdsr][^gwu]	([mpbfwu]|[ntdsrkgh][w])	
 amh	Amharic	am-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszlrɲʃʒj]|tʼ|t͡sʼ|t͡ʃ|d͡ʒ|t͡ʃʼ)	([mbpvfw]|pʼ)	([ntdszlrɲʃʒj]|tʼ|t͡sʼ|t͡ʃ|d͡ʒ|t͡ʃʼ	([mbpvfw]|pʼ)	
 amh	Amharic	am-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdszlrɲʃʒj]|tʼ|t͡sʼ|t͡ʃ|d͡ʒ|t͡ʃʼ)	([mbpvfw]|pʼ)	([ntdszlrɲʃʒj]|tʼ|t͡sʼ|t͡ʃ|d͡ʒ|t͡ʃʼ	([mbpvfw]|pʼ)	
 amh	Amharic	am-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdszlrɲʃʒj]|tʼ|t͡sʼ|t͡ʃ|d͡ʒ|t͡ʃʼ)	([mbpvfw]|pʼ)	([ntdszlrɲʃʒj]|tʼ|t͡sʼ|t͡ʃ|d͡ʒ|t͡ʃʼ	([mbpvfw]|pʼ)	
@@ -13,150 +13,140 @@ amh	Amharic	am-words-ipa.txt	vowel	ə	ə		1	2	n/a	([ntdszlrɲʃʒj]|tʼ|t͡sʼ|t
 ami	Amis	ami-words.txt	vowel	a	a		1	2	n/a	[yndtsrclz]	[mvfwp]	([dtsrclz]|n[^g])	[mvfwp]	
 ami	Amis	ami-words.txt	vowel	i	i		1	2	n/a	[yndtsrclz]	[mvfwp]	([dtsrclz]|n[^g])	[mvfwp]	
 ami	Amis	ami-words.txt	vowel	u	u		1	2	n/a	[yndtsrclz]	[mvfwp]	([dtsrclz]|n[^g])	[mvfwp]	
-apw	Apache	apw-words.txt	vowel	a	[^a]a[^a]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-apw	Apache	apw-words.txt	vowel	e	[^e]e[^e]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-apw	Apache	apw-words.txt	vowel	i	[^i]i[^i]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-apw	Apache	apw-words.txt	vowel	o	[^o]o[^o]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-apw	Apache	apw-words.txt	vowel	aː	aa		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-apw	Apache	apw-words.txt	vowel	eː	ee		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-apw	Apache	apw-words.txt	vowel	iː	ii		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-apw	Apache	apw-words.txt	vowel	oː	oo		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	"hw" = ʍ labial-velar? Lowering?
-arg	Aragonese	an-words.txt	vowel	i	i		1	2	 [#@]	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	"c" is pronounced as θ before I and e
-arg	Aragonese	an-words.txt	vowel	e	e		1	2	 [#@]	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	"c" is pronounced as θ before I and e
-arg	Aragonese	an-words.txt	vowel	a	a		1	2	 [#@]	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	"c" is pronounced as θ before I and e
-arg	Aragonese	an-words.txt	vowel	o	o		1	2	 [#@]	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	"c" is pronounced as θ before I and e
-arg	Aragonese	an-words.txt	vowel	u	u		1	2	 [#@]	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	([cdnstzyx]|ch|ny)	([bfmvw]|gü|qü)	"c" is pronounced as θ before I and e
-bar	Bavarian 	bar-words.txt	vowel	i	i		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	e	e		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	ɛ	é 		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	æ	ä		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	a	a		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	ɒ	å		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	ɔ		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	o		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	u	u		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	y	ü		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	ø	Ö		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	œ	Ö		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-bar	Bavarian 	bar-words.txt	vowel	ɶ		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	"ch" can sometimes be pronounced as palatal, unclear when
-ben	Bengali	bn-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	unclear what orthographical "v" maps to
-ben	Bengali	bn-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	unclear what orthographical "v" maps to
-ben	Bengali	bn-words-ipa.txt	vowel	æ	æ		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	unclear what orthographical "v" maps to
-ben	Bengali	bn-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	unclear what orthographical "v" maps to
-ben	Bengali	bn-words-ipa.txt	vowel	ɔ	ɔ		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	unclear what orthographical "v" maps to
-ben	Bengali	bn-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	unclear what orthographical "v" maps to
-ben	Bengali	bn-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	unclear what orthographical "v" maps to
-boa	Bora	boa-words.txt	vowel	iː	ii|íí|íi|ií		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh)	[bmpvw]	the accent mark notes high tone;  becker list only addresses long vowels, txt file contains ɔ and ə not accounted for orthography system; also has markings for creaky voice
-boa	Bora	boa-words.txt	vowel	eː	ee|éé|ée|eé		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh)	[bmpvw]	the accent mark notes high tone, no mark=low tone; also not that becker list only addresses long vowels, txt file contains ɔ, not accounted for orthography system; also has markings for creaky voice
-boa	Bora	boa-words.txt	vowel	aː	aa|áá|áa|aá		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh)	[bmpvw]	the accent mark notes high tone, no mark=low tone; also not that becker list only addresses long vowels, txt file contains ɔ, not accounted for orthography system; also has markings for creaky voice
-boa	Bora	boa-words.txt	vowel	oː	oo|óó|oó|óo		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh)	[bmpvw]	the accent mark notes high tone, no mark=low tone; also not that becker list only addresses long vowels, txt file contains ɔ, not accounted for orthography system; also has markings for creaky voice
-boa	Bora	boa-words.txt	vowel	ɨː	ɨɨ		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh)	[bmpvw]	the accent mark notes high tone, no mark=low tone; also not that becker list only addresses long vowels, txt file contains ɔ, not accounted for orthography system; also has markings for creaky voice
-boa	Bora	boa-words.txt	vowel	ɯː	uu|úu|úú|uú		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh)	[bmpvw]	the accent mark notes high tone, no mark=low tone; also not that becker list only addresses long vowels, txt file contains ɔ, not accounted for orthography system; also has markings for creaky voice
-bov	Bowili	bov-words.txt	vowel	i	i		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	Can't find mapping for accented vowels (í, á, etc…), so exclude?
-bov	Bowili	bov-words.txt	vowel	e	e		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	Can't find mapping for accented vowels (í, á, etc…), so exclude?
-bov	Bowili	bov-words.txt	vowel	ɛ	ɛ		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	Can't find mapping for accented vowels (í, á, etc…), so exclude?
-bov	Bowili	bov-words.txt	vowel	a	a		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	Can't find mapping for accented vowels (í, á, etc…), so exclude?
-bov	Bowili	bov-words.txt	vowel	ɔ	ɔ		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	Can't find mapping for accented vowels (í, á, etc…), so exclude?
-bov	Bowili	bov-words.txt	vowel	o	o		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	Can't find mapping for accented vowels (í, á, etc…), so exclude?
-bov	Bowili	bov-words.txt	vowel	u	u		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	Can't find mapping for accented vowels (í, á, etc…), so exclude?
-bre	Breton 	br-words.txt	vowel	[^ae]i	[^ae]i		1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	e		x	1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	ɛ		x	1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	a[^i]	[aâ][^i]		1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	o	[oô][^u]		1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	ọ		x	1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	u	ou		1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	y	[^oe][uùü]		1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bre	Breton	br-words.txt	vowel	ø	eu		1	2	n/a	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
-bru	Brou (exclude preceding/following)	bru-words.txt	vowel	i	í		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	e	ế		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɛ	é		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	a	[^o]á		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɑ	ṓ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɔ	ó		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	o	ố		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	u	ú		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɨ	ứ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ə	ớ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	iː	ĩ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	eː	ễ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɛː	e		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	aː	[^ou]a		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɑː	ō		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɔː	o		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	oː	ỗ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	uː	ũ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	ɨː	ữ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-bru	Brou	bru-words.txt	vowel	əː	ỡ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	 vowels in the corpus not in becker :  ố = /ɒ/     â = /ɜ/   i = /i̤ː/   u = /uː/  (with the same diacritc as the "I")    ơ = /ə̤ː/   Ê = ??
-brx	Bodo	brx-words.txt	vowel	i	इ		1	2	n/a					Devanagari Script
-brx	Bodo	brx-words.txt	vowel	e	ए		1	2	n/a					Devanagari Script
-brx	Bodo	brx-words.txt	vowel	a	आ		1	2	n/a					Devanagari Script
-brx	Bodo	brx-words.txt	vowel	o	ओ		1	2	n/a					Devanagari Script
-brx	Bodo	brx-words.txt	vowel	u	उ		1	2	n/a					Devanagari Script
-brx	Bodo	brx-words.txt	vowel	ɯ	अ		1	2	n/a					Devanagari Script
-bul	Bulgarian	bg-words.txt	vowel	i	и		1	2	n/a		[БВМП]	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	
-bul	Bulgarian	bg-words.txt	vowel	e	е		1	2	n/a	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	
-bul	Bulgarian	bg-words.txt	vowel	a	а		1	2	n/a	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	
-bul	Bulgarian	bg-words.txt	vowel	o	о		1	2	n/a	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	
-bul	Bulgarian	bg-words.txt	vowel	u	у		1	2	n/a	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	
-bul	Bulgarian	bg-words.txt	vowel	ə	Ъ		1	2	n/a	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	[ДЖЗЙЛНРСТЦЧШЩЬЮЯ]	[БВМП]	
-bvr	Burarra	bvr-words.txt	vowel	i	i		1	2	n/a	([tdnlry]|ch)	[pbmw]	([tdnlry]|ch)	[pbmw]	
-bvr	Burarra	bvr-words.txt	vowel	e	e		1	2	n/a	([tdnlry]|ch)	[pbmw]	([tdnlry]|ch)	[pbmw]	
-bvr	Burarra	bvr-words.txt	vowel	a	a		1	2	n/a	([tdnlry]|ch)	[pbmw]	([tdnlry]|ch)	[pbmw]	
-bvr	Burarra	bvr-words.txt	vowel	o	o		1	2	n/a	([tdnlry]|ch)	[pbmw]	([tdnlry]|ch)	[pbmw]	
-bvr	Burarra	bvr-words.txt	vowel	u	u		1	2	n/a	([tdnlry]|ch)	[pbmw]	([tdnlry]|ch)	[pbmw]	
-cat	Catalan 	ca-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
-cat	Catalan	ca-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
+apw	Apache	apw-words.txt	vowel	a	[^a]a[^a]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+apw	Apache	apw-words.txt	vowel	e	[^e]e[^e]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+apw	Apache	apw-words.txt	vowel	i	[^i]i[^i]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+apw	Apache	apw-words.txt	vowel	o	[^o]o[^o]		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+apw	Apache	apw-words.txt	vowel	aː	aa		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+apw	Apache	apw-words.txt	vowel	eː	ee		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+apw	Apache	apw-words.txt	vowel	iː	ii		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+apw	Apache	apw-words.txt	vowel	oː	oo		1	2	n/a	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	([djłnstlz]|ch|ch’|sh|t’|ł’|s’|zh)	([mpbw]|hw)	
+arg	Aragonese	an-words-ipa.txt	vowel	i	[^weaou]i		1	2	 [#@]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	
+arg	Aragonese	an-words-ipa.txt	vowel	e	[^jw][eɛ][^iu]		1	2	 [#@]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	
+arg	Aragonese	an-words-ipa.txt	vowel	a	[^jw]a[^iu]		1	2	 [#@]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	
+arg	Aragonese	an-words-ipa.txt	vowel	o	[^jw][ɔo][^iu]		1	2	 [#@]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	
+arg	Aragonese	an-words-ipa.txt	vowel	u	[^jeao]u[^i]		1	2	 [#@]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	([tdθnslɾrʃʎð]|tʃ)	[mpbfβw]	
+bar	Bavarian 	bar-words.txt	vowel	i	[^áäou]i[^a]		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	e	e[^aj]		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	ɛ	[^ä]é[^aij]		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	æ	ä[^ié]		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	a	[^oeéiuj][aá]		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	ɒ	å[^u]		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	ɔ		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	o		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	u	[^aáåo]u[^ai]		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	y	ü		1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	ø		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	œ		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+bar	Bavarian 	bar-words.txt	vowel	ɶ		x	1	2	[@]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	([djlnstz]|dsch|sch|schh)	[bfmpßvw]	
+ben	Bengali	bn-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	
+ben	Bengali	bn-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	
+ben	Bengali	bn-words-ipa.txt	vowel	æ	æ		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	
+ben	Bengali	bn-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	
+ben	Bengali	bn-words-ipa.txt	vowel	ɔ	ɔ		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	
+ben	Bengali	bn-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	
+ben	Bengali	bn-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	([ntdslr]|t͡ɕʰ|t͡ɕ|tʰ|d͡ʑ|d͡z)	[mpbw]	
+boa	Bora	boa-words.txt	vowel	iː	ii|íí|íi|ií		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh|[gkjmpbv]y)	w|[mpbv][^y]	
+boa	Bora	boa-words.txt	vowel	eː	ee|éé|ée|eé		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh|[gkjmpbv]y)	w|[mpbv][^y]	
+boa	Bora	boa-words.txt	vowel	aː	aa|áá|áa|aá		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh|[gkjmpbv]y)	w|[mpbv][^y]	
+boa	Bora	boa-words.txt	vowel	oː	oo|óó|oó|óo		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh|[gkjmpbv]y)	w|[mpbv][^y]	
+boa	Bora	boa-words.txt	vowel	ɨː	ɨɨ		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh|[gkjmpbv]y)	w|[mpbv][^y]	
+boa	Bora	boa-words.txt	vowel	ɯː	uu|úu|úú|uú		1	2	n/a	([dñnrsty]|ll|sh)	[bmpvw]	([dñnrsty]|ll|sh|[gkjmpbv]y)	w|[mpbv][^y]	
+bov	Bowili	bov-words.txt	vowel	i	i		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	
+bov	Bowili	bov-words.txt	vowel	e	e		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	
+bov	Bowili	bov-words.txt	vowel	ɛ	ɛ		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	
+bov	Bowili	bov-words.txt	vowel	a	a		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	
+bov	Bowili	bov-words.txt	vowel	ɔ	ɔ		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	
+bov	Bowili	bov-words.txt	vowel	o	o		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	
+bov	Bowili	bov-words.txt	vowel	u	u		1	2	n/a	[tsznl]	([pbmfv]|kp)	[tsznl]	([pbmfv]|kp)	
+bre	Breton 	br-words.txt	vowel	i	[^ae]i		1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	e		x	1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	ɛ		x	1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	a	[aâ][^i]		1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	o	[oô][^u]		1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	ọ		x	1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	u	ou		1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	y	[^oe][uùü]		1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bre	Breton	br-words.txt	vowel	ø	eu		1	2	n/a	([djlnrstyzl]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	([djlnrstyz]|ch|gn|lh|zh)	([bfmpvw]|gw|gou|kw)	e and ê surface as /e/ and /ɛ/ unpredictably. long vowels appear in corpus (marked with circumflex accent ie: ê; corpus contains ü and ù too
+bru	Brou 	bru-words.txt	vowel	i	í[^ớáaṓâ]		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	e	ế		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɛ	é		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	a	[^oiíĩúu]á		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɑ	ṓ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɔ	ó		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	o	ố		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	u	ú[^ớáa]		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɨ	ứ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ə	[^iíĩúứu]ớ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	iː	ĩ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	eː	ễ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɛː	e		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	aː	[^ou]a		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɑː	ō		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɔː	o		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	oː	ỗ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	uː	ũ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	ɨː	ữ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+bru	Brou	bru-words.txt	vowel	əː	ỡ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
+brx	Bodo	brx-latn-words.txt	vowel	i	इ		1	2	n/a					
+brx	Bodo	brx-latn-words.txt	vowel	e	ए		1	2	n/a					
+brx	Bodo	brx-latn-words.txt	vowel	a	आ		1	2	n/a					
+brx	Bodo	brx-latn-words.txt	vowel	o	ओ		1	2	n/a					
+brx	Bodo	brx-latn-words.txt	vowel	u	उ		1	2	n/a					
+brx	Bodo	brx-latn-words.txt	vowel	ɯ	अ		1	2	n/a					
+bul	Bulgarian	bg-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
+bul	Bulgarian	bg-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
+bul	Bulgarian	bg-words-ipa.txt	vowel	a	[aɐ]		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
+bul	Bulgarian	bg-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
+bul	Bulgarian	bg-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
+bul	Bulgarian	bg-words-ipa.txt	vowel	ə	ə		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
+bvr	Burarra	bvr-words.txt	vowel	i	i		1	2	n/a	([yj]|ch|rr|[^r][tdnl])	[pbmw]	([yj]|ch|rr|[^r][tdnl])	[pbmw]	
+bvr	Burarra	bvr-words.txt	vowel	e	e		1	2	n/a	([yj]|ch|rr|[^r][tdnl])	[pbmw]	([yj]|ch|rr|[^r][tdnl])	[pbmw]	
+bvr	Burarra	bvr-words.txt	vowel	a	a		1	2	n/a	([yj]|ch|rr|[^r][tdnl])	[pbmw]	([yj]|ch|rr|[^r][tdnl])	[pbmw]	
+bvr	Burarra	bvr-words.txt	vowel	o	o		1	2	n/a	([yj]|ch|rr|[^r][tdnl])	[pbmw]	([yj]|ch|rr|[^r][tdnl])	[pbmw]	
+bvr	Burarra	bvr-words.txt	vowel	u	u		1	2	n/a	([yj]|ch|rr|[^r][tdnl])	[pbmw]	([yj]|ch|rr|[^r][tdnl])	[pbmw]	
+cat	Catalan 	ca-words-ipa.txt	vowel	i	[^eao]i		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
+cat	Catalan	ca-words-ipa.txt	vowel	e	e[^iu]		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
 cat	Catalan	ca-words-ipa.txt	vowel	ɛ	ɛ		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
-cat	Catalan	ca-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
+cat	Catalan	ca-words-ipa.txt	vowel	a	a[^iu]		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
 cat	Catalan	ca-words-ipa.txt	vowel	ɔ	ɔ		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
-cat	Catalan	ca-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
-cat	Catalan	ca-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
-chf	Chontal	chf-words.txt	vowel	i	i		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	corpus contains ä, refering to /ɨ/
-chf	Chontal	chf-words.txt	vowel	e	e[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	corpus contains ä, refering to /ɨ/
-chf	Chontal	chf-words.txt	vowel	a	a[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	corpus contains ä, refering to /ɨ/
-chf	Chontal	chf-words.txt	vowel	o	o[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	corpus contains ä, refering to /ɨ/
-chf	Chontal	chf-words.txt	vowel	u	[^q]u[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch'|t'|ts|ts')	([bmpw]|kw|p')	corpus contains ä, refering to /ɨ/
-chv	Chuvash	cv-words.txt	vowel	i	и		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	ɪ	э		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	ɛ	е		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	a	а		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	o	о		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	u	у		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	y	ӳ		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	ɨ	ӗ		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-chv	Chuvash	cv-words.txt	vowel	ə	ӑ		1	2	n/a	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	[ДЁЗЙЛНРСҪТЦЧШЮЯ]	[БВМПФ]	
-cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	i	[ií]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	ü appears in corpus as well, unclear what this corresponds too   
-cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	e	[eé]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	ü appears in corpus as well, unclear what this corresponds too   
-cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	a	[aá]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	ü appears in corpus as well, unclear what this corresponds too   
-cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	o	[oó]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	ü appears in corpus as well, unclear what this corresponds too   
-cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	u	[^q][uú]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	ü appears in corpus as well, unclear what this corresponds too   
-cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	ɨ	[ɨɨ́] 		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	ü appears in corpus as well, unclear what this corresponds too   
-cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	ə	[ëë́]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	ü appears in corpus as well, unclear what this corresponds too   
-cym	Welsh	cy-words.txt	vowel	i	[^aeiouwy]i[^aeiouwy]		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	e	[^aeiouwy]e[^aeiouwy]		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	a	[^aeiouwy]a[^aeiouwy]		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	o	[^aeiouwy]o[^aeiouwy]		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	u	[^aeiouwy]w[^aeiouwy]		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	ɨ	[^aeiouwy]u[^aeiouwy]		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	ʌ	[^aeiouwy]y[^aeiouwy]		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	iː	î		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	eː	ê		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	aː	â		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	oː	ô		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	uː	ŵ		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	ɨː	û		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-cym	Welsh	cy-words.txt	vowel	ʌː	ŷ		1	2	n/a	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	([dlnrts|dd|ll|rh|th)	([bfmp]|ff|ph)	
-dgo	Dogri	dgo-words.txt	vowel	i	[इपि]		1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	e	[एपे]		1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	ɛ	[आपा]		1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	a	[अप]		1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	ɔ		x	1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	o		x	1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	u	[उपु]		1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	ɪ		x	1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	ə		x	1	2	n/a					Each vowel has two corresponding orthographic characters
-dgo	Dogri	dgo-words.txt	vowel	ʊ	[ऊपू]		1	2	n/a					Each vowel has two corresponding orthographic characters
+cat	Catalan	ca-words-ipa.txt	vowel	o	o[^iu]		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
+cat	Catalan	ca-words-ipa.txt	vowel	u	[^aeo]u		1	2	n/a	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	([ntdszlrɾɲʒʎj]|t͡s|d͡z|t͡ʃ|d͡ʒ|ʃ)	[mpbfw]	
+chf	Chontal	chf-words.txt	vowel	i	i		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch')	([bmpw]|kw)	
+chf	Chontal	chf-words.txt	vowel	e	e[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch')	([bmpw]|kw)	
+chf	Chontal	chf-words.txt	vowel	a	a[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch')	([bmpw]|kw)	
+chf	Chontal	chf-words.txt	vowel	o	o[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch')	([bmpw]|kw)	
+chf	Chontal	chf-words.txt	vowel	u	[^q]u[^y]		1	2	n/a	([dlnrstxy]|ch|ch'|t'|ts')	([bmpw]|kw|p')	([dlnrstxy]|ch|ch')	([bmpw]|kw)	
+chv	Chuvash	cv-words.txt	vowel	i	и		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	ɪ	э		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	ɛ	е		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	a	а		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	o	о		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	u	у		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	y	ӳ		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	ɨ	ӗ		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+chv	Chuvash	cv-words.txt	vowel	ə	ӑ		1	2	n/a	[дзйлнрсҫтцчш]	[бмпфхв]	[дзйлнрсҫтцчш]	[бмпфхв]	
+cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	i	[ií][^aá]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	
+cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	e	[eé]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	
+cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	a	[^ií][aá]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	
+cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	o	[oó]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	
+cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	u	[^q][uú]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	
+cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	ɨ	[ɨɨ́] 		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	
+cnt	Tepetotutla Chinantec	cnt-words.txt	vowel	ə	[ëë́]		1	2	n/a	([dlnrst]|ch|ds|ts)	[bfmp]	([dlnrst]|ch|ds|ts)	[bfmp]	
+cym	Welsh	cy-words-ipa.txt	vowel	i	[^ʊəɛɔa]i[^ː]		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	e	[əɛø][^iɨuː]		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	a	[ɑa][^ɪiɨː]		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	o	ɔ[^ui]		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	u	[^ɪɨɛəɔa][uʊ][^ːi]		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	ɨ	[^ɑaʊəɛɔ]ɨ[^ːu]		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	ʌ	ʌ		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	iː	iː		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	eː	eː		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	aː	ɑː		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	oː	oː		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	uː	uː		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	ɨː	ɨː		1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
+cym	Welsh	cy-words-ipa.txt	vowel	ʌː			1	2	n/a	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	([ntdszrɬlθðʃjç]|tʃ)	[bfvmbpwd]	
 dik	Southwestern Dinka	dik-words.txt	vowel	i	[Iï]		1	2	n/a	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	
 dik	Southwestern Dinka	dik-words.txt	vowel	e	([^e]e[^e]|[^ë]ë[^ë])		1	2	n/a	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	
 dik	Southwestern Dinka	dik-words.txt	vowel	ɛː	ɛɛ|ɛ̈ɛ̈		1	2	n/a	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	
@@ -170,26 +160,26 @@ dik	Southwestern Dinka	dik-words.txt	vowel	aː	aa|ää		1	2	n/a	([cdjlnrty]|dh|n
 dik	Southwestern Dinka	dik-words.txt	vowel	ɔː	ɔɔ|ɔ̈ɔ̈		1	2	n/a	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	
 dik	Southwestern Dinka	dik-words.txt	vowel	oː	oo|öö		1	2	n/a	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	
 dik	Southwestern Dinka	dik-words.txt	vowel	uː	uu		1	2	n/a	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	([cdjlnrty]|dh|nh|ny|th)	[bmpw]	
-ekk	Estonian	ekk-words.txt	vowel	i	[^aeiouõäöü]i[^aeiou]		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	e	[^aeiouõäöü]e[^aeiou]		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	æ	[^aeiouõäöü]ä[^aeiou]		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	ɑ	[^aeiouõäöü]a[^aeiou]		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	o	[^aeiouõäöü]o[^aeiou]		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	u	[^aeiouõäöü]u[^aeiou]		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	ø	ö		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	iː	ii		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	eː	ee		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	æː	ää		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	ɑː	aa		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	oː	oo		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	uː	uu		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	y	[^aeiouõäöü]ü[^aeiou]		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ekk	Estonian	ekk-words.txt	vowel	øː	öö		1	2	n/a	([cdjlnrsztšžx]|ll|ng|nk)	([bfmpvw]|qu)	([cdjlnrsztšž]|ll|ng|nk)	([bfmpvw]|qu)	
-ell	Greek	el-Latn-words.txt	vowel	i	[^aeiouy][iu][^aeiouy]		1	2	n/a	([dzlnxrst]|th|rh)	([bmpf]|ph)	([dzlnrst]|th|rh)	([bmpf]|ph)	
-ell	Greek	el-Latn-words.txt	vowel	e	[^aeiouy]e[^aeiouy]		1	2	n/a	([dzlnxrst]|th|rh)	([bmpf]|ph)	([dzlnrst]|th|rh)	([bmpf]|ph)	
-ell	Greek	el-Latn-words.txt	vowel	a	[^aeiouy]a[^aeiouy]		1	2	n/a	([dzlnxrst]|th|rh)	([bmpf]|ph)	([dzlnrst]|th|rh)	([bmpf]|ph)	
-ell	Greek	el-Latn-words.txt	vowel	o	[^aeiouy]o[^aeiouy]		1	2	n/a	([dzlnxrst]|th|rh)	([bmpf]|ph)	([dzlnrst]|th|rh)	([bmpf]|ph)	
-ell	Greek	el-Latn-words.txt	vowel	u	ou		1	2	n/a	([dzlnxrst]|th|rh)	([bmpf]|ph)	([dzlnrst]|th|rh)	([bmpf]|ph)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	i	[^ɑeouæøy]i[^ːɑeou]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	e	[^ɑiouæøy]e[^ːɑiou]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	æ	æ[^ːeiou]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	ɑ	a[^ː]|[^eiouøy]ɑ[^ːeiou]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	o	[^ɑeiuyæø]o[^ːɑeiu]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	u	[^ɑeioæø]u[^ːɑeio]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	ø	ø[^ːɑeiou]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	iː	iː		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	eː	eː		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	æː	æː		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	ɑː	[ɑa]ː		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	oː	oː		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	uː	uː		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	y	y[^ɑeio]		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ekk	Estonian	ekk-words-ipa.txt	vowel	øː	øː		1	2	n/a	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	([ntdslrʃj]|tː|s^|t^)	([mpbfv]|pː)	
+ell	Greek	el-words-ipa.txt	vowel	i	[^eao]i		1	2	n/a	[ntdszrlθð]	[mpbfv]	[ntdszrlθð]	[mpbfv]	
+ell	Greek	el-words-ipa.txt	vowel	e	e[^iu]		1	2	n/a	[ntdszrlθð]	[mpbfv]	[ntdszrlθð]	[mpbfv]	
+ell	Greek	el-words-ipa.txt	vowel	a	a[^ɪiu]		1	2	n/a	[ntdszrlθð]	[mpbfv]	[ntdszrlθð]	[mpbfv]	
+ell	Greek	el-words-ipa.txt	vowel	o	o[^ui]		1	2	n/a	[ntdszrlθð]	[mpbfv]	[ntdszrlθð]	[mpbfv]	
+ell	Greek	el-words-ipa.txt	vowel	u	[^eao]u		1	2	n/a	[ntdszrlθð]	[mpbfv]	[ntdszrlθð]	[mpbfv]	
 eus	Basque	eu-words.txt	vowel	i	i		1	2	n/a	[djlnñrstxz]	[bfmpv]	[djlnñrstxz]	[bfmpv]	
 eus	Basque	eu-words.txt	vowel	e	e		1	2	n/a	[djlnñrstxz]	[bfmpv]	[djlnñrstxz]	[bfmpv]	
 eus	Basque	eu-words.txt	vowel	a	a		1	2	n/a	[djlnñrstxz]	[bfmpv]	[djlnñrstxz]	[bfmpv]	
@@ -203,46 +193,46 @@ evn	Evenki	evn-words.txt	vowel	a	а̄		1	2	n/a	[ДЕЁЖЗЙЛНРСТЦЧЩЮЯ
 evn	Evenki	evn-words.txt	vowel	ɔ	о̄		1	2	n/a	[ДЕЁЖЗЙЛНРСТЦЧЩЮЯ]	[БВМПФ]	[ДЕЁЖЗЙЛНРСТЦЧЩЮЯ]	[БВМПФ]	
 evn	Evenki	evn-words.txt	vowel	ʊ		x	1	2	n/a	[ДЕЁЖЗЙЛНРСТЦЧЩЮЯ]	[БВМПФ]	[ДЕЁЖЗЙЛНРСТЦЧЩЮЯ]	[БВМПФ]	
 evn	Evenki	evn-words.txt	vowel	u	ӯ		1	2	n/a	[ДЕЁЖЗЙЛНРСТЦЧЩЮЯ]	[БВМПФ]	[ДЕЁЖЗЙЛНРСТЦЧЩЮЯ]	[БВМПФ]	
-fin	Finnish	fi-words.txt	vowel	iː	ii		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	e̞ː	ee		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	æː	ää		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	ɑː	aa		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	o̞ː	oo		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	uː	uu		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	yː	yy		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	ø̞ː	öö		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	i	[^iaeouyäö]i[^iaeouyäö]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	ɛ̝	[^iaeouyäö]e[^iaeouyäouy]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	æ	[^iaeouyäö]ä[^iaeouyäö]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	ɑ	[^iaeouyäö]a[^iaeouyäö]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	ɔ̝	[^iaeouyäö]o[^iaeouyäö]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	u	[^iaeouyäö]u[^iaeouyäö]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	y	[^iaeouyäö]y[^iaeouyäö]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-fin	Finnish	fi-words.txt	vowel	œ̝	[^iaeouyäö]ö[^iaeouyäö]		1	2	n/a	([djlnrstxz]|sh)	([bfmpvw]|qu)	([djlnrstz]|sh)	[bfmpvw]	
-frr	North Frisian 	frr-words.txt	vowel	iː	ii		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	eː	ee		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	ɛː	ää|ē		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	ɒː	åå		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	oː	oo		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	uː	uu		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	yː	üü		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	øː	öö		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	ɪ	[^ioöuaä]i[^ia]		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	ɛ	[^ä]ä[^äi]		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	a	[^aiu]a[^aiu]		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	ɔ	[^o]o[^oiu]		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	ʊ	[^ua]u[^uai]		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	ʏ	[^ü]ü[^ü]		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-frr	North Frisian 	frr-words.txt	vowel	œ	[^ö]ö[^öi]		1	2	n/a	([djlrst]|dj|n[^g]|sch)	[bfmpw]	([djlrst]|dj|n[^g]|sch)	[bfmpw]	
-fry	Frisian	fy-words.txt	vowel	iː	ii		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	eː	ee		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	ɛː	ê		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	aː	aa		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	ɔː	ô		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	oː	oo		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	uː	û		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	yː	ú		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
-fry	Frisian	fy-words.txt	vowel	øː	eu		1	2	[@]	([djlrstxyz]|n[^g])	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fin	Finnish	fi-words-ipa.txt	vowel	iː	iː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	e̞ː	eː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	æː	æː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	ɑː	aː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	o̞ː	oː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	uː	uː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	yː	yː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	ø̞ː	øː		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	i	[^øaoeuyæ]i[^ːuye]		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	ɛ̝	[^i]e[^ːiuy]		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	æ	æ[^ːiy]		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	ɑ	a[^ːiu]		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	ɔ̝	[^u]o[^ːiu]		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	u	[^aoei]u[^ːio]		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	y	[^øeiæ]y[^ːiø]		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+fin	Finnish	fi-words-ipa.txt	vowel	œ̝	oe		1	2	n/a	[ntdslrjʃ]	[mpbfv]	[ntdslrjʃ]	[mpbfv]	
+frr	North Frisian 	frr-words.txt	vowel	iː	ii		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	eː	ee		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	ɛː	ää|ē		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	ɒː	åå		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	oː	oo		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	uː	uu		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	yː	üü		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	øː	öö		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	ɪ	[^ioöuaä]i[^ia]		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	ɛ	[^ä]ä[^äi]		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	a	[^aiu]a[^aiu]		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	ɔ	[^o]o[^oiu]		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	ʊ	[^ua]u[^uai]		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	ʏ	[^ü]ü[^ü]		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+frr	North Frisian 	frr-words.txt	vowel	œ	[^ö]ö[^öi]		1	2	n/a	([djlrstn]|sch)	[bfmpw]	([djlrst]|n[^g]|sch)	[bfmpw]	
+fry	Frisian	fy-words.txt	vowel	iː	ii		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	eː	ee		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	ɛː	ê		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	aː	aa[^i]		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	ɔː	ô		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	oː	oo		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	uː	û		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	yː	ú		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
+fry	Frisian	fy-words.txt	vowel	øː	eu		1	2	[@]	[djlrstxyzn]	[bfmpvw]	([djlrstyz]|n[^g])	[bfmpvw]	
 gla	Scottish Gaelic	gd-words.txt	vowel	iː	ì|ìo		1	2	n/a	([dnrst]|rd|tr)	([bfmp]|bh|mh)	([dnrst]|rd|tr)	([bfmp]|bh|mh)	
 gla	Scottish Gaelic	gd-words.txt	vowel	eː	é[^i]		1	2	n/a	([dnrst]|rd|tr)	([bfmp]|bh|mh)	([dnrst]|rd|tr)	([bfmp]|bh|mh)	
 gla	Scottish Gaelic	gd-words.txt	vowel	ɛː	è|eu|éi		1	2	n/a	([dnrst]|rd|tr)	([bfmp]|bh|mh)	([dnrst]|rd|tr)	([bfmp]|bh|mh)	
@@ -252,32 +242,32 @@ gla	Scottish Gaelic	gd-words.txt	vowel	oː	ó|ói		1	2	n/a	([dnrst]|rd|tr)	([b
 gla	Scottish Gaelic	gd-words.txt	vowel	uː	ù|io|ùi|iùi		1	2	n/a	([dnrst]|rd|tr)	([bfmp]|bh|mh)	([dnrst]|rd|tr)	([bfmp]|bh|mh)	
 gla	Scottish Gaelic	gd-words.txt	vowel	ɯː	ao|aoi		1	2	n/a	([dnrst]|rd|tr)	([bfmp]|bh|mh)	([dnrst]|rd|tr)	([bfmp]|bh|mh)	
 gla	Scottish Gaelic	gd-words.txt	vowel	ɤː	agh|adh		1	2	n/a	([dnrst]|rd|tr)	([bfmp]|bh|mh)	([dnrst]|rd|tr)	([bfmp]|bh|mh)	
-glg	Galician	gl-words.txt	vowel	i	[ií]		1	2	n/a	([dlñrstx]|ch|ll|n[^h])	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	([bfmpv]|gu|gü)	o and ɔ; e and ɛ surface unpredictibly as o and e respectively
-glg	Galician	gl-words.txt	vowel	e		x	1	2	n/a	([dlñrstx]|ch|ll|n[^h])	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	([bfmpv]|gu|gü)	o and ɔ; e and ɛ surface unpredictibly as o and e respectively
-glg	Galician	gl-words.txt	vowel	ɛ		x	1	2	n/a	([dlñrstx]|ch|ll|n[^h])	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	([bfmpv]|gu|gü)	o and ɔ; e and ɛ surface unpredictibly as o and e respectively
-glg	Galician	gl-words.txt	vowel	a	[aá]|ai		1	2	n/a	([dlñrstx]|ch|ll|n[^h])	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	([bfmpv]|gu|gü)	o and ɔ; e and ɛ surface unpredictibly as o and e respectively
-glg	Galician	gl-words.txt	vowel	ɔ		x	1	2	n/a	([dlñrstx]|ch|ll|n[^h])	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	([bfmpv]|gu|gü)	o and ɔ; e and ɛ surface unpredictibly as o and e respectively
-glg	Galician	gl-words.txt	vowel	o		x	1	2	n/a	([dlñrstx]|ch|ll|n[^h])	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	([bfmpv]|gu|gü)	o and ɔ; e and ɛ surface unpredictibly as o and e respectively
-glg	Galician	gl-words.txt	vowel	u	[^aeio]u[^aeio]		1	2	n/a	([dlñrstx]|ch|ll|n[^h])	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	([bfmpv]|gu|gü)	o and ɔ; e and ɛ surface unpredictibly as o and e respectively
-gug	Paraguayan Guarani	gug-words.txt	vowel	i	i		1	2	n/a	([tdsrjñ]|ch|n[^g])	[pbmv]	([tdsrjñ]|ch|n[^g])	[pbmv]	
-gug	Paraguayan Guarani	gug-words.txt	vowel	e	e		1	2	n/a	([tdsrjñ]|ch|n[^g])	[pbmv]	([tdsrjñ]|ch|n[^g])	[pbmv]	
-gug	Paraguayan Guarani	gug-words.txt	vowel	a	a		1	2	n/a	([tdsrjñ]|ch|n[^g])	[pbmv]	([tdsrjñ]|ch|n[^g])	[pbmv]	
-gug	Paraguayan Guarani	gug-words.txt	vowel	o	o		1	2	n/a	([tdsrjñ]|ch|n[^g])	[pbmv]	([tdsrjñ]|ch|n[^g])	[pbmv]	
-gug	Paraguayan Guarani	gug-words.txt	vowel	u	u		1	2	n/a	([tdsrjñ]|ch|n[^g])	[pbmv]	([tdsrjñ]|ch|n[^g])	[pbmv]	
-gug	Paraguayan Guarani	gug-words.txt	vowel	ɯ	y		1	2	n/a	([tdsrjñ]|ch|n[^g])	[pbmv]	([tdsrjñ]|ch|n[^g])	[pbmv]	
-hak	Hakka	hak-words.txt	vowel	i	[^iîìí][iîìí][^iîìí]		1	2	n/a	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	
-hak	Hakka	hak-words.txt	vowel	e	[^eêéè][eêéè][^eêéè]		1	2	n/a	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	
-hak	Hakka	hak-words.txt	vowel	a	[^aâàá][aâàá][^aâàá]		1	2	n/a	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	
-hak	Hakka	hak-words.txt	vowel	o	[^oôóò][oôóò][^oôóò]		1	2	n/a	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	
-hak	Hakka	hak-words.txt	vowel	u	[^uûúù][uûúù][^uûúù]		1	2	n/a	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	([tnlsjz]|ts|ch|n[^g]|gn)	[pbmfw]	
-hau	Hausa	hau-words.txt	vowel	iː	[iì]i 		1	2	n/a	([cdɗjlnrstyz]|sh|ts)	[bɓfmw]	([cdɗjlnrstyz]|sh|ts)	[bɓfmw]	
+glg	Galician	gl-words.txt	vowel	i	[^aáeéoóuú][ií][^aáeéoóuú]		1	2	n/a	([dlñrstxn]|ch|ll)	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	[bfmpv]	
+glg	Galician	gl-words.txt	vowel	e		x	1	2	n/a	([dlñrstxn]|ch|ll)	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	[bfmpv]	
+glg	Galician	gl-words.txt	vowel	ɛ		x	1	2	n/a	([dlñrstxn]|ch|ll)	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	[bfmpv]	
+glg	Galician	gl-words.txt	vowel	a	[^iíuú][aá][^iíuú]		1	2	n/a	([dlñrstxn]|ch|ll)	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	[bfmpv]	
+glg	Galician	gl-words.txt	vowel	ɔ		x	1	2	n/a	([dlñrstxn]|ch|ll)	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	[bfmpv]	
+glg	Galician	gl-words.txt	vowel	o		x	1	2	n/a	([dlñrstxn]|ch|ll)	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	[bfmpv]	
+glg	Galician	gl-words.txt	vowel	u	[^aáeéoóií][uú][^aáeéoóií]		1	2	n/a	([dlñrstxn]|ch|ll)	([bfmpv]|gu|gü)	([dlñrst]|ch|ll|n[^h])	[bfmpv]	
+gug	Paraguayan Guarani	gug-words.txt	vowel	i	[^a]i		1	2	n/a	([tdsrjñn]|ch)	([pbmv]|gu|ku)	([tdsrjñ]|ch|n[^g])	([pbmv]|gu|ku)	
+gug	Paraguayan Guarani	gug-words.txt	vowel	e	e		1	2	n/a	([tdsrjñn]|ch)	([pbmv]|gu|ku)	([tdsrjñ]|ch|n[^g])	([pbmv]|gu|ku)	
+gug	Paraguayan Guarani	gug-words.txt	vowel	a	a[^iu]		1	2	n/a	([tdsrjñn]|ch)	([pbmv]|gu|ku)	([tdsrjñ]|ch|n[^g])	([pbmv]|gu|ku)	
+gug	Paraguayan Guarani	gug-words.txt	vowel	o	o		1	2	n/a	([tdsrjñn]|ch)	([pbmv]|gu|ku)	([tdsrjñ]|ch|n[^g])	([pbmv]|gu|ku)	
+gug	Paraguayan Guarani	gug-words.txt	vowel	u	[^a]u		1	2	n/a	([tdsrjñn]|ch)	([pbmv]|gu|ku)	([tdsrjñ]|ch|n[^g])	([pbmv]|gu|ku)	
+gug	Paraguayan Guarani	gug-words.txt	vowel	ɯ	y		1	2	n/a	([tdsrjñn]|ch)	([pbmv]|gu|ku)	([tdsrjñ]|ch|n[^g])	([pbmv]|gu|ku)	
+hak	Hakka	hak-words.txt	vowel	i	[^iîìíaâàáoôóò][iîìí][^iîìíuûúù]		1	2	n/a	([tnlsjz]|ch)	[pbmfw]	([tlsjz]|ch|n[^g]|gn)	[pbmfw]	
+hak	Hakka	hak-words.txt	vowel	e	[^eêéè][eêéè][^eêéè]		1	2	n/a	([tnlsjz]|ch)	[pbmfw]	([tlsjz]|ch|n[^g]|gn)	[pbmfw]	
+hak	Hakka	hak-words.txt	vowel	a	[^aâàá][aâàá][^aâàáiîìíuûúù]		1	2	n/a	([tnlsjz]|ch)	[pbmfw]	([tlsjz]|ch|n[^g]|gn)	[pbmfw]	
+hak	Hakka	hak-words.txt	vowel	o	[^oôóò][oôóò][^oôóòiîìí]		1	2	n/a	([tnlsjz]|ch)	[pbmfw]	([tlsjz]|ch|n[^g]|gn)	[pbmfw]	
+hak	Hakka	hak-words.txt	vowel	u	[^uûúùiîìíaâàá][uûúù][^uûúù]		1	2	n/a	([tnlsjz]|ch)	[pbmfw]	([tlsjz]|ch|n[^g]|gn)	[pbmfw]	
+hau	Hausa	hau-words-ipa.txt	vowel	iː	[iì]i		1	2	n/a	([cdɗjlnrstyz]|sh|ts)	[bɓfmw]	([cdɗjlnrstyz]|sh|ts)	[bɓfmw]	
 hau	Hausa	hau-words-ipa.txt	vowel	eː	[eêèè]e		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
-hau	Hausa	hau-words-ipa.txt	vowel	aː	[aâà]a 		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
+hau	Hausa	hau-words-ipa.txt	vowel	aː	[aâà]a		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
 hau	Hausa	hau-words-ipa.txt	vowel	oː	[oôò]o		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
 hau	Hausa	hau-words-ipa.txt	vowel	uː	[uù]u		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
-hau	Hausa	hau-words-ipa.txt	vowel	i	[^iì][Iìíīîī̀][^iì]		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
-hau	Hausa	hau-words-ipa.txt	vowel	a	[^âàa][aàáāâā̀][^âàa]		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
-hau	Hausa	hau-words-ipa.txt	vowel	u	[^uù][uùúūū̀û][^uù]		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
+hau	Hausa	hau-words-ipa.txt	vowel	i	[^iìaàáāâā̀uùúūū̀û][Iìíīîī̀][^iìuùúūū̀û]		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
+hau	Hausa	hau-words-ipa.txt	vowel	a	[^âàa][aàáāâā̀][^âàauùúūū̀ûIìíīîī̀]		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
+hau	Hausa	hau-words-ipa.txt	vowel	u	[^uùaàáāâā̀Iìíīîī̀][uùúūū̀û][^uùIìíīîī̀]		1	2	n/a	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	([ndɗtszrlʃj]|d͡ʒ|t͡ʃ)	[bɓɸmw]	
 hun	Hungarian	hu-words-ipa.txt	vowel	iː	iː		1	2	n/a	([ntdszrljcɟɲ]|t͡s|d͡ʒ)	[bfmpv]	([ntdszrljcɟɲ]|t͡s|d͡ʒ)	[bfmpv]	
 hun	Hungarian	hu-words-ipa.txt	vowel	eː	eː		1	2	n/a	([ntdszrljcɟɲ]|t͡s|d͡ʒ)	[bfmpv]	([ntdszrljcɟɲ]|t͡s|d͡ʒ)	[bfmpv]	
 hun	Hungarian	hu-words-ipa.txt	vowel	aː	aː		1	2	n/a	([ntdszrljcɟɲ]|t͡s|d͡ʒ)	[bfmpv]	([ntdszrljcɟɲ]|t͡s|d͡ʒ)	[bfmpv]	
@@ -313,19 +303,19 @@ ita	Italian	it-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdszlrjʎɲʃ]|t͡ʃ|d͡ʒ|t�
 ita	Italian	it-words-ipa.txt	vowel	ɔ	ɔ		1	2	n/a	([ntdszlrjʎɲʃ]|t͡ʃ|d͡ʒ|t͡ʃ)	[mpbfv]	([ntdszlrjʎɲʃ]|t͡ʃ|d͡ʒ|t͡ʃ)	[mpbfv]	
 ita	Italian	it-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdszlrjʎɲʃ]|t͡ʃ|d͡ʒ|t͡ʃ)	[mpbfv]	([ntdszlrjʎɲʃ]|t͡ʃ|d͡ʒ|t͡ʃ)	[mpbfv]	
 ita	Italian	it-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszlrjʎɲʃ]|t͡ʃ|d͡ʒ|t͡ʃ)	[mpbfv]	([ntdszlrjʎɲʃ]|t͡ʃ|d͡ʒ|t͡ʃ)	[mpbfv]	
-jpn	Japanese	ja-words.txt	vowel	i	i		1	2	n/a	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
-jpn	Japanese	ja-words.txt	vowel	e	e		1	2	n/a	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
-jpn	Japanese	ja-words.txt	vowel	a	a		1	2	n/a	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
-jpn	Japanese	ja-words.txt	vowel	o	o		1	2	n/a	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
-jpn	Japanese	ja-words.txt	vowel	ɯ	u		1	2	n/a	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
-kal	Greenlandic	kl-words.txt	vowel	i	[^a]i		1	2	n/a	([jst]|[^r]n[^g]|gg)	[fmpv]	([jst]|[^r]n[^g]|gg)	[fmpv]	
-kal	Greenlandic	kl-words.txt	vowel	a	a[^i]		1	2	n/a	([jst]|[^r]n[^g]|gg)	[fmpv]	([jst]|[^r]n[^g]|gg)	[fmpv]	
-kal	Greenlandic	kl-words.txt	vowel	u	u		1	2	n/a	([jst]|[^r]n[^g]|gg)	[fmpv]	([jst]|[^r]n[^g]|gg)	[fmpv]	
-kat	Georgian	kat-words.txt	vowel	i	[^a]i		1	2	n/a	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	
-kat	Georgian	kat-words.txt	vowel	ɛ	e		1	2	n/a	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	
-kat	Georgian	kat-words.txt	vowel	a	a[^i]		1	2	n/a	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	
-kat	Georgian	kat-words.txt	vowel	ɔ	o		1	2	n/a	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	
-kat	Georgian	kat-words.txt	vowel	u	u		1	2	n/a	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	([ntdszrlj]|t'|s'|ch|ch'|)	([mpbv]|p')	
+jpn	Japanese	ja-words.txt	vowel	i	i		1	2	n/a	([tdszrjyn]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
+jpn	Japanese	ja-words.txt	vowel	e	e		1	2	n/a	([tdszrjyn]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
+jpn	Japanese	ja-words.txt	vowel	a	a		1	2	n/a	([tdszrjyn]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
+jpn	Japanese	ja-words.txt	vowel	o	o		1	2	n/a	([tdszrjyn]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
+jpn	Japanese	ja-words.txt	vowel	ɯ	u		1	2	n/a	([tdszrjyn]|sh|ch)	[mpbw]	([tdszrjy]|n[^g]|sh|ch)	[mpbw]	
+kal	Greenlandic	kl-words.txt	vowel	i	[^a]i		1	2	n/a	([jst]|[^r]n[^g]|gg)	([fmpvqr]|rn)	([jst]|[^r]n[^g]|gg)	([fmpvqr]|rn)	
+kal	Greenlandic	kl-words.txt	vowel	a	a[^i]		1	2	n/a	([jst]|[^r]n[^g]|gg)	([fmpvqr]|rn)	([jst]|[^r]n[^g]|gg)	([fmpvqr]|rn)	
+kal	Greenlandic	kl-words.txt	vowel	u	u		1	2	n/a	([jst]|[^r]n[^g]|gg)	([fmpvqr]|rn)	([jst]|[^r]n[^g]|gg)	([fmpvqr]|rn)	
+kat	Georgian	kat-words-ipa.txt	vowel	i	[^a]i		1	2	n/a	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	
+kat	Georgian	kat-words-ipa.txt	vowel	ɛ	e		1	2	n/a	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	
+kat	Georgian	kat-words-ipa.txt	vowel	a	a[^i]		1	2	n/a	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	
+kat	Georgian	kat-words-ipa.txt	vowel	ɔ	o		1	2	n/a	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	
+kat	Georgian	kat-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	([ntdszrlʃʒ]|tʰ|sʰ)	([mpbvq]|pʰ)	
 khm	Khmer	km-words.txt	vowel	iː	[្គ្ឃ្ង្ជ្ឈ្ញ្ឌ្ឍ្ទ្ធ្ន្ព្ភ្ម្យ្រ្ល្វ]ី		1	2	n/a					a-series consonants: [្ក្ខ្ច្ឆ្ដ្ឋ្ណ្ត្ថ្ប្ផ្ស្ហ្អ] o-series consonants: [្គ្ឃ្ង្ជ្ឈ្ញ្ឌ្ឍ្ទ្ធ្ន្ព្ភ្ម្យ្រ្ល្វ]
 khm	Khmer	km-words.txt	vowel	eː	[្គ្ឃ្ង្ជ្ឈ្ញ្ឌ្ឍ្ទ្ធ្ន្ព្ភ្ម្យ្រ្ល្វ]េ		1	2	n/a					a-series consonants: [្ក្ខ្ច្ឆ្ដ្ឋ្ណ្ត្ថ្ប្ផ្ស្ហ្អ] o-series consonants: [្គ្ឃ្ង្ជ្ឈ្ញ្ឌ្ឍ្ទ្ធ្ន្ព្ភ្ម្យ្រ្ល្វ]
 khm	Khmer	km-words.txt	vowel	aː	[្ក្ខ្ច្ឆ្ដ្ឋ្ណ្ត្ថ្ប្ផ្ស្ហ្អ]ា		1	2	n/a					a-series consonants: [្ក្ខ្ច្ឆ្ដ្ឋ្ណ្ត្ថ្ប្ផ្ស្ហ្អ] o-series consonants: [្គ្ឃ្ង្ជ្ឈ្ញ្ឌ្ឍ្ទ្ធ្ន្ព្ភ្ម្យ្រ្ល្វ]
@@ -359,23 +349,23 @@ kpv	Komi	kpv-words.txt	vowel	o	о		1	2	n/a	([джзйлнрстцчшщь]|дж|
 kpv	Komi	kpv-words.txt	vowel	u	у		1	2	n/a	([джзйлнрстцчшщь]|дж|дз|тш)	[бвмпф]	([джзйлнрстцчшщь]|дж|дз|тш)	[бвмпф]	
 kpv	Komi	kpv-words.txt	vowel	ɨ	ы		1	2	n/a	([джзйлнрстцчшщь]|дж|дз|тш)	[бвмпф]	([джзйлнрстцчшщь]|дж|дз|тш)	[бвмпф]	
 kpv	Komi	kpv-words.txt	vowel	ɘ	ӧ		1	2	n/a	([джзйлнрстцчшщь]|дж|дз|тш)	[бвмпф]	([джзйлнрстцчшщь]|дж|дз|тш)	[бвмпф]	
-lav	Latvian	lv-words.txt	vowel	iː	ī		1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	eː	ē		1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	æː		x	1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	aː		x	1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	oː		x	1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	uː	ū		1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	i	[^aue]i[^eu]		1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	e	[^i]e[^i]		1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	æ		x	1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	a		x	1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	o		x	1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lav	Latvian	lv-words.txt	vowel	u	[^i]u[^i]		1	2	n/a	[cčdjnņļlģķrsštvzž]	[bfmpv]	[cčdjnņļlģķrsštvzž]	[bfmpv]	
-lit	Lithuanian	lt-words.txt	vowel	i	i		1	2	n/a	[cčdjnrsštzž]	[bfpmv]	[cčdjnrsštzž]	[bfpmv]	impossible to discern length in other three vowels 
-lit	Lithuanian	lt-words.txt	vowel	e		x	1	2	n/a	[cčdjnrsštzž]	[bfpmv]	[cčdjnrsštzž]	[bfpmv]	impossible to discern length in other three vowels 
-lit	Lithuanian	lt-words.txt	vowel	a		x	1	2	n/a	[cčdjnrsštzž]	[bfpmv]	[cčdjnrsštzž]	[bfpmv]	impossible to discern length in other three vowels 
-lit	Lithuanian	lt-words.txt	vowel	ɔ		x	1	2	n/a	[cčdjnrsštzž]	[bfpmv]	[cčdjnrsštzž]	[bfpmv]	impossible to discern length in other three vowels 
-lit	Lithuanian	lt-words.txt	vowel	u	u		1	2	n/a	[cčdjnrsštzž]	[bfpmv]	[cčdjnrsštzž]	[bfpmv]	impossible to discern length in other three vowels 
+lav	Latvian	lv-words-ipa.txt	vowel	iː	iː		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	eː	eː		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	æː	æː		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	aː	aː		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	oː	oː		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	uː	uː		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	i	[^aueo]i[^ːe]		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	e	[^i]e[^ːiu]		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	æ	æ[^ː]		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	a	a[^ːiu]		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	o	[^u]o[^ːiu]		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lav	Latvian	lv-words-ipa.txt	vowel	u	[^aieo]u[^ːio]		1	2	n/a	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	[ntdszlrɲʃcɟʒʎ]	[ʀmpbfv]	
+lit	Lithuanian	lt-words-ipa.txt	vowel	i	[^aeou]i[^e]		1	2	n/a	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
+lit	Lithuanian	lt-words-ipa.txt	vowel	e	[^i]e[^iu]		1	2	n/a	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
+lit	Lithuanian	lt-words-ipa.txt	vowel	a	a[^iu]		1	2	n/a	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
+lit	Lithuanian	lt-words-ipa.txt	vowel	ɔ	ɔ		1	2	n/a	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
+lit	Lithuanian	lt-words-ipa.txt	vowel	u	[^aeo]u[^io]		1	2	n/a	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʃjʒɕʑ]|tʲ|dʲ|rʲ|nʲ|sʲ)	[mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
 mai	Maithili	mai-words.txt	vowel	i	[इई]		1	2	n/a					can't identify diacritc form of vowels without putting in every possible combo
 mai	Maithili	mai-words.txt	vowel	e	ए		1	2	n/a					can't identify diacritc form of vowels without putting in every possible combo
 mai	Maithili	mai-words.txt	vowel	æ	ऐ		1	2	n/a					can't identify diacritc form of vowels without putting in every possible combo
@@ -397,43 +387,43 @@ mos	Moore	mos-words.txt	vowel	a	[aã]		1	2	n/a	[ntdszrj]	[mwpbfv]	[ntdszrj]	[mwp
 mos	Moore	mos-words.txt	vowel	o	[oõ]		1	2	n/a	[ntdszrj]	[mwpbfv]	[ntdszrj]	[mwpbfv]	
 mos	Moore	mos-words.txt	vowel	ʊ	ʋ		1	2	n/a	[ntdszrj]	[mwpbfv]	[ntdszrj]	[mwpbfv]	
 mos	Moore	mos-words.txt	vowel	u	[uũ]		1	2	n/a	[ntdszrj]	[mwpbfv]	[ntdszrj]	[mwpbfv]	
-mri	Maori	mi-words.txt	vowel	iː	ī		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	eː	ē		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	aː	ā		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	oː	ō		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	uː	ū		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	i	i		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	e	e		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	a	a		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	o	o		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-mri	Maori	mi-words.txt	vowel	u	u		1	2	[#@] 	[tnr]	([wmp]|wh)	[tnr]	([wmp]|wh)	
-nab	Nambikwara	nab-words.txt	vowel	i	[iĩ]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx)	[tnsjy|yx]	([pfm]|fx|mx)	
-nab	Nambikwara	nab-words.txt	vowel	e	[eẽ]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx)	[tnsjy|yx]	([pfm]|fx|mx)	
-nab	Nambikwara	nab-words.txt	vowel	a	[aã]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx)	[tnsjy|yx]	([pfm]|fx|mx)	
-nab	Nambikwara	nab-words.txt	vowel	o	o		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx)	[tnsjy|yx]	([pfm]|fx|mx)	
-nab	Nambikwara	nab-words.txt	vowel	u	[uũ]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx)	[tnsjy|yx]	([pfm]|fx|mx)	
+mri	Maori	mi-words.txt	vowel	iː	ī[^oa]		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	eː	ē[^i]		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	aː	ā[^eou]		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	oː	ō[^iu]		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	uː	ū[^ai]		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	i	[^uūōēeaou]i		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	e	[^āaiou]e		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	a	[^ūīuoie]a		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	o	[^āīieau]o		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+mri	Maori	mi-words.txt	vowel	u	[^ōāoaei]u		1	2	[#@] 	[tnr]	([wmp]|wh)	([tr]|n[^g])	[wmp]	
+nab	Nambikwara	nab-words.txt	vowel	i	[iĩ]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx|kw)	[tnsjy|yx]	([pfm]|fx|mx|kw)	
+nab	Nambikwara	nab-words.txt	vowel	e	[eẽ]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx|kw)	[tnsjy|yx]	([pfm]|fx|mx|kw)	
+nab	Nambikwara	nab-words.txt	vowel	a	[aã][^uũ]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx|kw)	[tnsjy|yx]	([pfm]|fx|mx|kw)	
+nab	Nambikwara	nab-words.txt	vowel	o	o		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx|kw)	[tnsjy|yx]	([pfm]|fx|mx|kw)	
+nab	Nambikwara	nab-words.txt	vowel	u	[^aã][uũ]		1	2	n/a	[tnsjy|yx]	([pfm]|fx|mx|kw)	[tnsjy|yx]	([pfm]|fx|mx|kw)	
 nan	Min Taiwanese	nan-words.txt	vowel	i	[iīîi̍íì]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
 nan	Min Taiwanese	nan-words.txt	vowel	e	[eêèéēe̍]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
 nan	Min Taiwanese	nan-words.txt	vowel	a	[aāâáàa̍]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
 nan	Min Taiwanese	nan-words.txt	vowel	ɔ	[oóōo̍òô]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
 nan	Min Taiwanese	nan-words.txt	vowel	u	[uūúûùu̍]		1	2	n/a	([ntszj]|chh|ch|si|ji|chhi)	([pbm]|ph|th)	([tszj]|chh|ch|si|ji|chhi|n[^g])	([pbm]|ph|th)	
-nav	Navajo	nv-words.txt	vowel	a	[^aá][aá][^aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nv-words.txt	vowel	ɛ	[^eé][eé][^eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nv-words.txt	vowel	ɪ	[^ií][ií][^ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nv-words.txt	vowel	ɔ	[^oó][oó][^oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nv-words.txt	vowel	ɑː	[aá][aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nv-words.txt	vowel	iː	[ií][ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nv-words.txt	vowel	eː	[eé][eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nav	Navajo	nv-words.txt	vowel	oː	[oó][oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	[mwb]	
-nde	Ndebele	nd-words.txt	vowel	a	a		1	2	n/a	([jlprstyz]|d[^l]|n[^g]|ny|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	([jlprstyz]|d[^l]|n[^g]|ny|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	
-nde	Ndebele	nd-words.txt	vowel	i	i		1	2	n/a	([jlprstyz]|d[^l]|n[^g]|ny|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	([jlprstyz]|d[^l]|n[^g]|ny|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	
-nde	Ndebele	nd-words.txt	vowel	u	u		1	2	n/a	([jlprstyz]|d[^l]|n[^g]|ny|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	([jlprstyz]|d[^l]|n[^g]|ny|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	
-nep	Nepali	ne-words.txt	vowel	i	[पिइईपी]		1	2	n/a					
-nep	Nepali	ne-words.txt	vowel	e	[एपे]		1	2	n/a					
-nep	Nepali	ne-words.txt	vowel	a	[अपआपा]		1	2	n/a					
-nep	Nepali	ne-words.txt	vowel	ʌ	[अंपं]		1	2	n/a					
-nep	Nepali	ne-words.txt	vowel	o	[ओपो]		1	2	n/a					
-nep	Nepali	ne-words.txt	vowel	u	[उपुऊपू]		1	2	n/a					
+nav	Navajo	nv-words.txt	vowel	a	[^aá][aá][^aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nav	Navajo	nv-words.txt	vowel	ɛ	[^eé][eé][^eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nav	Navajo	nv-words.txt	vowel	ɪ	[^ií][ií][^ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nav	Navajo	nv-words.txt	vowel	ɔ	[^oó][oó][^oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nav	Navajo	nv-words.txt	vowel	ɑː	[aá][aá]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nav	Navajo	nv-words.txt	vowel	iː	[ií][ií]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nav	Navajo	nv-words.txt	vowel	eː	[eé][eé]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nav	Navajo	nv-words.txt	vowel	oː	[oó][oó]		1	2	[#@]	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	([dłnszy]|ch|ch'|dl|sh|t'|ł'|s'|zh)	([mwb]|gh|hw)	
+nde	Ndebele	nd-words.txt	vowel	a	a		1	2	n/a	([jdprstyzn]|[^d]l|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	([jlprstyz]|d[^l]|n[^g]|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	
+nde	Ndebele	nd-words.txt	vowel	i	i		1	2	n/a	([jdprstyzn]|[^d]l|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	([jlprstyz]|d[^l]|n[^g]|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	
+nde	Ndebele	nd-words.txt	vowel	u	u		1	2	n/a	([jdprstyzn]|[^d]l|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	([jlprstyz]|d[^l]|n[^g]|ph|sh|tlh|th)	([bfmvpw]|bh|ph)	
+nep	Nepali	ne-words-ipa.txt	vowel	i	[^uʊeoaʌəɔɛ][iɪ][^uʊ]		1	2	n/a	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	
+nep	Nepali	ne-words-ipa.txt	vowel	e	[eɛ][^iɪuʊ]		1	2	n/a	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	
+nep	Nepali	ne-words-ipa.txt	vowel	a	a[^iɪuʊ]		1	2	n/a	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	
+nep	Nepali	ne-words-ipa.txt	vowel	ʌ	[ʌəɔ][^uʊiɪ]		1	2	n/a	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	
+nep	Nepali	ne-words-ipa.txt	vowel	o	o[^iɪuʊ]		1	2	n/a	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	
+nep	Nepali	ne-words-ipa.txt	vowel	u	[^ieoaʌəɔɛɪ][uʊ][^iɪ]		1	2	n/a	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	([cnɲszrɾltdɟʃj]|ɟʰ|tʰ|dʰ|cʰ)	([mpbwf]|bʰ|pʰ)	
 nia	Nias	nia-words.txt	vowel	i	i[^a]		1	2	n/a	[cdlnrstyz]	[bfmpvw]	[cdlnrstyz]	[bfmpvw]	
 nia	Nias	nia-words.txt	vowel	e	e		1	2	n/a	[cdlnrstyz]	[bfmpvw]	[cdlnrstyz]	[bfmpvw]	
 nia	Nias	nia-words.txt	vowel	a	[^i]a[^u]		1	2	n/a	[cdlnrstyz]	[bfmpvw]	[cdlnrstyz]	[bfmpvw]	
@@ -469,181 +459,181 @@ pan	Punjabi	pa-words-ipa.txt	vowel	uː	u		1	2	n/a	([nt̪d̪sɾlɳj]|t͡ʃ|t͡ʃ�
 pan	Punjabi	pa-words-ipa.txt	vowel	ɪ	ɪ[^ɑ]		1	2	n/a	([nt̪d̪sɾlɳj]|t͡ʃ|t͡ʃʰ|d͡ʒ)	[mpbʋ]	([nt̪d̪sɾlɳj]|t͡ʃ|t͡ʃʰ|d͡ʒ)	[mpbʋ]	
 pan	Punjabi	pa-words-ipa.txt	vowel	ə	ə		1	2	n/a	([nt̪d̪sɾlɳj]|t͡ʃ|t͡ʃʰ|d͡ʒ)	[mpbʋ]	([nt̪d̪sɾlɳj]|t͡ʃ|t͡ʃʰ|d͡ʒ)	[mpbʋ]	
 pan	Punjabi	pa-words-ipa.txt	vowel	ʊ	ʊ		1	2	n/a	([nt̪d̪sɾlɳj]|t͡ʃ|t͡ʃʰ|d͡ʒ)	[mpbʋ]	([nt̪d̪sɾlɳj]|t͡ʃ|t͡ʃʰ|d͡ʒ)	[mpbʋ]	
-pol	Polish 	pl-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	
-pol	Polish 	pl-words-ipa.txt	vowel	e	ɛ		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	
-pol	Polish 	pl-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	
-pol	Polish 	pl-words-ipa.txt	vowel	o	ɔ		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	
-pol	Polish 	pl-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	
-pol	Polish 	pl-words-ipa.txt	vowel	ɨ	ɨ		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z)	[mpbfvw]	
-pri	Paici	pri-words.txt	vowel	i	i		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	e	é		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	ɛ	è		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	a	a		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	ɔ	ò		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	o	o		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	u	u		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	ɯ	ù		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	ɤ	e		1	2	n/a					
-pri	Paici	pri-words.txt	vowel	ʌ	ë		1	2	n/a					
-que	Quichua	qu-words.txt	vowel	ɪ	i		1	2	n/a					
-que	Quichua	qu-words.txt	vowel	a	a		1	2	n/a					
-que	Quichua	qu-words.txt	vowel	ʊ	u		1	2	n/a					
-quz	Quechua	quz-words.txt	vowel	i	i		1	2	n/a					
-quz	Quechua	quz-words.txt	vowel	e	e		1	2	n/a					
-quz	Quechua	quz-words.txt	vowel	a	a		1	2	n/a					
-quz	Quechua	quz-words.txt	vowel	o	o		1	2	n/a					
-quz	Quechua	quz-words.txt	vowel	u	u		1	2	n/a					
+pol	Polish 	pl-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	
+pol	Polish 	pl-words-ipa.txt	vowel	e	ɛ		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	
+pol	Polish 	pl-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	
+pol	Polish 	pl-words-ipa.txt	vowel	o	ɔ		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	
+pol	Polish 	pl-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	
+pol	Polish 	pl-words-ipa.txt	vowel	ɨ	ɨ		1	2	n/a	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	([ntdszrljɲɕʑ]|t͡ɕ|d͡ʑ|t͡s|d͡z|kʲ)	[mpbfvw]	
+pri	Paici	pri-words.txt	vowel	i	i		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	e	é		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	ɛ	è		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	a	a		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	ɔ	ò		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	o	o		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	u	u		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	ɯ	ù		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	ɤ	e		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+pri	Paici	pri-words.txt	vowel	ʌ	ë		1	2	n/a	[cdjlnrty]	[bmpw]	([cdjlrty]|n[^g])	[bmpw]	
+que	Quichua	qu-words.txt	vowel	ɪ	i		1	2	n/a	([lnñrsty]|ch|chh|ch'|th|t')	([mpqw]|ph|p'|qh|q')	([lnñrsty]|ch|chh|ch'|th|t')	([mpqw]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
+que	Quichua	qu-words.txt	vowel	a	a		1	2	n/a	([lnñrsty]|ch|chh|ch'|th|t')	([mpqw]|ph|p'|qh|q')	([lnñrsty]|ch|chh|ch'|th|t')	([mpqw]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
+que	Quichua	qu-words.txt	vowel	ʊ	u		1	2	n/a	([lnñrsty]|ch|chh|ch'|th|t')	([mpqw]|ph|p'|qh|q')	([lnñrsty]|ch|chh|ch'|th|t')	([mpqw]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
+quz	Quechua	quz-words.txt	vowel	i	[íi][^au]		1	2	n/a	([lnñrstydzx]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	([lnñrstydz]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
+quz	Quechua	quz-words.txt	vowel	e	[^u][eé]		1	2	n/a	([lnñrstydzx]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	([lnñrstydz]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
+quz	Quechua	quz-words.txt	vowel	a	[^iu][aá]		1	2	n/a	([lnñrstydzx]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	([lnñrstydz]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
+quz	Quechua	quz-words.txt	vowel	o	[oó]		1	2	n/a	([lnñrstydzx]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	([lnñrstydz]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
+quz	Quechua	quz-words.txt	vowel	u	[^i][uú][^ea]		1	2	n/a	([lnñrstydzx]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	([lnñrstydz]|ch|chh|ch'|th|t')	([mpqwbfv]|ph|p'|qh|q')	Both language "que" and "quz" are terribly named in becker. "Quichua" is the spanish name for the language "Kichwa" (which has 12 different iso codes for different dialects, not including que or quz). Language que should be labelled as "Quechua" and language quz should be "Cusco Quechua" (although this language reportedly has an official vowel inventory of only 3 vowels not 5). 
 rus	Russian	ru-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
 rus	Russian	ru-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
 rus	Russian	ru-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
 rus	Russian	ru-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
 rus	Russian	ru-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
 rus	Russian	ru-words-ipa.txt	vowel	ɨ	ɨ		1	2	n/a	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	([ntdszlʂr]|nʲ|tʲ|dʲ|sʲ|zʲ|lʲ|rʲ)	([mpbfv]|mʲ|pʲ|bʲ|fʲ|vʲ)	
-scn	Sicilian	scn-words.txt	vowel	i		x	1	2	n/a					
-scn	Sicilian	scn-words.txt	vowel	e	e		1	2	n/a					
-scn	Sicilian	scn-words.txt	vowel	a	a		1	2	n/a					
-scn	Sicilian	scn-words.txt	vowel	o	o		1	2	n/a					
-scn	Sicilian	scn-words.txt	vowel	u	o	x	1	2	n/a					
-shi	Tachelhit	scn-words.txt	vowel	i	i		1	2	n/a					
-shi	Tachelhit	scn-words.txt	vowel	a	a		1	2	n/a					
-shi	Tachelhit	scn-words.txt	vowel	u	u		1	2	n/a					
-shq	Albanian	sq-words.txt	vowel	i	i		1	2	n/a					
-shq	Albanian	sq-words.txt	vowel	e	e		1	2	n/a					
-shq	Albanian	sq-words.txt	vowel	a	a		1	2	n/a					
-shq	Albanian	sq-words.txt	vowel	o	o		1	2	n/a					
-shq	Albanian	sq-words.txt	vowel	u	u		1	2	n/a					
-shq	Albanian	sq-words.txt	vowel	y	y		1	2	n/a					
-shq	Albanian	sq-words.txt	vowel	ə	ë		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	iː	í		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	eː	é		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	aː	á		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	oː	ó		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	uː	ú		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	i	i		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	e	e		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	æ	ä		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	a	a		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	o	o		1	2	n/a					
-slk	Slovak	sk-words.txt	vowel	u	u		1	2	n/a					
+scn	Sicilian	scn-words.txt	vowel	i	[^eèêéaâàáoôòuùû][iìíî][^eèêéaâàáoôòuùû]		1	2	n/a	([jlnrstz]|[^d]d|gni|sc)	[bfmuv]	([jlnrstz]|d[^d]|gni|sc)	[bfmuv]	
+scn	Sicilian	scn-words.txt	vowel	e	[^iìíîuùû][eèêé][^iìíîuùû]		1	2	n/a	([jlnrstz]|[^d]d|gni|sc)	[bfmuv]	([jlnrstz]|d[^d]|gni|sc)	[bfmuv]	
+scn	Sicilian	scn-words.txt	vowel	a	[^iìíîuùû][aâàá][^iìíîuùû]		1	2	n/a	([jlnrstz]|[^d]d|gni|sc)	[bfmuv]	([jlnrstz]|d[^d]|gni|sc)	[bfmuv]	
+scn	Sicilian	scn-words.txt	vowel	o	[^iìíîuùû][oôò][^iìíî]		1	2	n/a	([jlnrstz]|[^d]d|gni|sc)	[bfmuv]	([jlnrstz]|d[^d]|gni|sc)	[bfmuv]	
+scn	Sicilian	scn-words.txt	vowel	u	[^eèêéaâàáiìíî][uùû][^eèêéaâàáoôòiìíî]		1	2	n/a	([jlnrstz]|[^d]d|gni|sc)	[bfmuv]	([jlnrstz]|d[^d]|gni|sc)	[bfmuv]	
+shi	Tachelhit	shi-words.txt	vowel	i	i		1	2	n/a	[dḍṭtḥlšṣẓnry]	[bfmqwx]	[dḍṭtḥlšṣẓnry]	[bfmqwx]	
+shi	Tachelhit	shi-words.txt	vowel	a	a		1	2	n/a	[dḍṭtḥlšṣẓnry]	[bfmqwx]	[dḍṭtḥlšṣẓnry]	[bfmqwx]	
+shi	Tachelhit	shi-words.txt	vowel	u	u		1	2	n/a	[dḍṭtḥlšṣẓnry]	[bfmqwx]	[dḍṭtḥlšṣẓnry]	[bfmqwx]	
+shq	Albanian	sq-words-ipa.txt	vowel	i	[^j][iɪ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+shq	Albanian	sq-words-ipa.txt	vowel	e	[^j][eɛ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+shq	Albanian	sq-words-ipa.txt	vowel	a	[^j][aɑ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+shq	Albanian	sq-words-ipa.txt	vowel	o	[^j][ɔʌ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+shq	Albanian	sq-words-ipa.txt	vowel	u	[^j]u		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+shq	Albanian	sq-words-ipa.txt	vowel	y	[^j]y		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+shq	Albanian	sq-words-ipa.txt	vowel	ə	[^j]ə		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+slk	Slovak	sk-words-ipa.txt	vowel	iː	iː		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	eː	eː		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	aː	aː		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	oː	oː		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	uː	uː		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	i	i[^ːeau]		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	e	[^i]e[^ː]		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	æ	æ		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	a	[^i]a[^ː]		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	o	[^u]o[^ː]		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
+slk	Slovak	sk-words-ipa.txt	vowel	u	[^i]u[^ːo]		1	2	n/a	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	([ntdszlrʃɲʎjr̩l̩ʑ]|tʲ|dʲ)	[mpbfvw]	
 sna	shona	sn-words-ipa.txt	vowel	i	i		1	2	grep -v [#@] 	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	
 sna	shona	sn-words-ipa.txt	vowel	e	e		1	2	grep -v [#@] 	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	
 sna	Shona	sn-words-ipa.txt	vowel	a	a		1	2	grep -v [#@] 	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	
 sna	Shona	sn-words-ipa.txt	vowel	o	o		1	2	grep -v [#@] 	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	
 sna	Shona	sn-words-ipa.txt	vowel	u	u		1	2	grep -v [#@] 	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	([td̤dnszrjʃɲ]|t͡s|d͡z|t͡ʃ|d͡ʒ)	([pbb̤mm̤vfʋ]|p͡f|b͡v)	
-spa	Spanish	es-words.txt	vowel	i	[iy]		1	2	n/a					
-spa	Spanish	es-words.txt	vowel	e	e		1	2	n/a					
-spa	Spanish	es-words.txt	vowel	a	a		1	2	n/a					
-spa	Spanish	es-words.txt	vowel	o	o		1	2	n/a					
-spa	Spanish	es-words.txt	vowel	u	u		1	2	n/a					
-ssw	Siswati	ss-words.txt	vowel	i	i		1	2	n/a					
-ssw	Siswati	ss-words.txt	vowel	e	e		1	2	n/a					
-ssw	Siswati	ss-words.txt	vowel	a	a		1	2	n/a					
-ssw	Siswati	ss-words.txt	vowel	o	o		1	2	n/a					
-ssw	Siswati	ss-words.txt	vowel	u	u		1	2	n/a					
-sun	Sundenese	su-words.txt	vowel	i	i		1	2	n/a					
-sun	Sundenese	su-words.txt	vowel	e	é		1	2	n/a					
-sun	Sundenese	su-words.txt	vowel	a	a		1	2	n/a					
-sun	Sundenese	su-words.txt	vowel	o	o		1	2	n/a					
-sun	Sundenese	su-words.txt	vowel	u	[^e]u		1	2	n/a					
-sun	Sundenese	su-words.txt	vowel	ɨ		x	1	2	n/a					
-sun	Sundenese	su-words.txt	vowel	ə	e[^u]		1	2	n/a					
-tca	Ticuna	tca-words.txt	vowel	i	[ií]		1	2	n/a					
-tca	Ticuna	tca-words.txt	vowel	ɛ	[eé]		1	2	n/a					
-tca	Ticuna	tca-words.txt	vowel	a	[ãaá]		1	2	n/a					
-tca	Ticuna	tca-words.txt	vowel	ɔ		x	1	2	n/a					
-tca	Ticuna	tca-words.txt	vowel	o		x	1	2	n/a					
-tca	Ticuna	tca-words.txt	vowel	u	[úu]		1	2	n/a					
-tca	Ticuna	tca-words.txt	vowel	ɨ	ü		1	2	n/a					
-tsn	Setswana	tn-words.txt	vowel	i	i		1	2	n/a					
-tsn	Setswana	tn-words.txt	vowel	e		x	1	2	n/a					
-tsn	Setswana	tn-words.txt	vowel	ɛ		x	1	2	n/a					
-tsn	Setswana	tn-words.txt	vowel	a	a		1	2	n/a					
-tsn	Setswana	tn-words.txt	vowel	ɔ		x	1	2	n/a					
-tsn	Setswana	tn-words.txt	vowel	o		x	1	2	n/a					
-tsn	Setswana	tn-words.txt	vowel	u	u		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	i	i		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	e	e		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	a	a		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	o	o		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	u	u		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	ü(y)	ü		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	ö(ø)	ö		1	2	n/a					
-tur	Turkish	tr-words.txt	vowel	ı(ɯ)	I		1	2	n/a					
-udm	Udmurt	udm-words.txt	vowel	i	И		1	2	n/a					
-udm	Udmurt	udm-words.txt	vowel	ɛ		x	1	2	n/a					
-udm	Udmurt	udm-words.txt	vowel	a	а		1	2	n/a					
-udm	Udmurt	udm-words.txt	vowel	ɔ	ӧ		1	2	n/a					
-udm	Udmurt	udm-words.txt	vowel	u	у		1	2	n/a					
-udm	Udmurt	udm-words.txt	vowel	ɨ	Ы		1	2	n/a					
-udm	Udmurt	udm-words.txt	vowel	œ		x	1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	i	i		1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	e	é		1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	ɛ	e		1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	ɑ	a		1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	o	o		1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	u	u		1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	y	ü		1	2	n/a					
-uig	Uyghur	ug-Latn-words.txt	vowel	ø	ö		1	2	n/a					
-ukr	Ukrainian	uk-words.txt	vowel	i	і		1	2	n/a					
-ukr	Ukrainian	uk-words.txt	vowel	ɪ	и		1	2	n/a					
-ukr	Ukrainian	uk-words.txt	vowel	ɛ	е		1	2	n/a					
-ukr	Ukrainian	uk-words.txt	vowel	a	а		1	2	n/a					
-ukr	Ukrainian	uk-words.txt	vowel	o	о		1	2	n/a					
-ukr	Ukrainian	uk-words.txt	vowel	u	У		1	2	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	iː		x	2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	eː	e		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	æː	ai		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	aː	aa		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	ɔː	au		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	oː	oo		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	uː	uu		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	ɪ	i		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	ɛ		x	2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	ə	a		2	1	n/a					
-urd	Urdu	ur-Latn-words.txt	vowel	ʊ	u		2	1	n/a					
-vec	Venetian	vec-word.txt	vowel	i	[iìí]		1	2	n/a					
-vec	Venetian	vec-word.txt	vowel	e	[eé]		1	2	n/a					
-vec	Venetian	vec-word.txt	vowel	ɛ	è		1	2	n/a					
-vec	Venetian	vec-word.txt	vowel	a	[àaá]		1	2	n/a					
-vec	Venetian	vec-word.txt	vowel	ɔ	ò		1	2	n/a					
-vec	Venetian	vec-word.txt	vowel	o	[oó]		1	2	n/a					
-vec	Venetian	vec-word.txt	vowel	u	[uùú]		1	2	n/a					
-wol	Wolof	wo-words.txt	vowel	iː	ii		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	eː	ée		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	ɛː	ee		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	aː	aa		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	ɔː	oo		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	oː	óo		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	uː	uu		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	i	[^i]i[^i]		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	e	[^e]é[^e]		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	ɛ	[^e]e[^e]		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	a	[^a]à[^a]		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	ɔ	[^o]o[^o]		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	ə	[^ë]ë[^ë]		1	2	grep -v [#@] 					
-wol	Wolof	wo-words.txt	vowel	u	[^u]u[^u]		1	2	grep -v [#@] 					
-xal	Oriat	xal-words.txt	vowel	iː	ии		1	2	n/a					
-xal	Oriat	xal-words.txt	vowel	eː	ее		1	2	n/a					
-xal	Oriat	xal-words.txt	vowel	ɛː	әә		1	2	n/a					
-xal	Oriat	xal-words.txt	vowel	aː	аа		1	2	n/a					
-xal	Oriat	xal-words.txt	vowel	oː		x	1	2	n/a					
-xal	Oriat	xal-words.txt	vowel	uː	уу		1	2	n/a					
-xal	Oriat	xal-words.txt	vowel	yː	үү		1	2	n/a					
-xal	Oriat	xal-words.txt	vowel	øː	ӨӨ		1	2	n/a					
-yid	Yiddish	yi-Latn-words.txt	vowel	i	i		1	2	n/a					
-yid	Yiddish	yi-Latn-words.txt	vowel	e	e		1	2	n/a					
-yid	Yiddish	yi-Latn-words.txt	vowel	a	a		1	2	n/a					
-yid	Yiddish	yi-Latn-words.txt	vowel	o	o		1	2	n/a					
-yid	Yiddish	yi-Latn-words.txt	vowel	u	u		1	2	n/a					
-yor	Yoruba	yo-words.txt	vowel	i	[íiì]		1	2	n/a					
-yor	Yoruba	yo-words.txt	vowel	e	[éeè]		1	2	n/a					
-yor	Yoruba	yo-words.txt	vowel	ɛ	[ẹ́ẹẹ̀]		1	2	n/a					
-yor	Yoruba	yo-words.txt	vowel	a	[áàa]		1	2	n/a					
-yor	Yoruba	yo-words.txt	vowel	ɔ	[ọ́ọọ̀]		1	2	n/a					
-yor	Yoruba	yo-words.txt	vowel	o	[óòo]		1	2	n/a					
-yor	Yoruba	yo-words.txt	vowel	u	[úuù]		1	2	n/a					
-zai	Juchitan Zapotec	zai-words.txt	vowel	i	[ií]		1	2	n/a					
-zai	Juchitan Zapotec	zai-words.txt	vowel	e	[eé]		1	2	n/a					
-zai	Juchitan Zapotec	zai-words.txt	vowel	a	[aá]		1	2	n/a					
-zai	Juchitan Zapotec	zai-words.txt	vowel	o	[oó]		1	2	n/a					
-zai	Juchitan Zapotec	zai-words.txt	vowel	u	[uú]		1	2	n/a					
+spa	Spanish	es-words-ipa.txt	vowel	i	[^aeou]i[^aeou]		1	2	n/a	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	
+spa	Spanish	es-words-ipa.txt	vowel	e	[^iu]e[^ui]		1	2	n/a	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	
+spa	Spanish	es-words-ipa.txt	vowel	a	[^iu]a[^ui]		1	2	n/a	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	
+spa	Spanish	es-words-ipa.txt	vowel	o	[^iu]o[^i]		1	2	n/a	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	
+spa	Spanish	es-words-ipa.txt	vowel	u	[^aei]u[^aeio]		1	2	n/a	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	([dtʝnslrɾɲ]|t͡ʃ)	[bfmpw]	
+ssw	Siswati	ss-words.txt	vowel	i	i		1	2	n/a	([cdljnrstxyz]|ch|nch|sh|th|zh)	([bfmpvw]|bh|ph)	([cdljrstyz]|ch|nch|sh|th|zh|n[^cg])	([bfmpvw]|bh|ph)	
+ssw	Siswati	ss-words.txt	vowel	e	e		1	2	n/a	([cdljnrstxyz]|ch|nch|sh|th|zh)	([bfmpvw]|bh|ph)	([cdljrstyz]|ch|nch|sh|th|zh|n[^cg])	([bfmpvw]|bh|ph)	
+ssw	Siswati	ss-words.txt	vowel	a	a		1	2	n/a	([cdljnrstxyz]|ch|nch|sh|th|zh)	([bfmpvw]|bh|ph)	([cdljrstyz]|ch|nch|sh|th|zh|n[^cg])	([bfmpvw]|bh|ph)	
+ssw	Siswati	ss-words.txt	vowel	o	o		1	2	n/a	([cdljnrstxyz]|ch|nch|sh|th|zh)	([bfmpvw]|bh|ph)	([cdljrstyz]|ch|nch|sh|th|zh|n[^cg])	([bfmpvw]|bh|ph)	
+ssw	Siswati	ss-words.txt	vowel	u	u		1	2	n/a	([cdljnrstxyz]|ch|nch|sh|th|zh)	([bfmpvw]|bh|ph)	([cdljrstyz]|ch|nch|sh|th|zh|n[^cg])	([bfmpvw]|bh|ph)	
+sun	Sundenese	su-words.txt	vowel	i	i		1	2	n/a	[cdjlnrstxyz]	[bfmpvw]	[cdjlrstyz]|n[^g]	[bfmpvw]	
+sun	Sundenese	su-words.txt	vowel	e	é		1	2	n/a	[cdjlnrstxyz]	[bfmpvw]	[cdjlrstyz]|n[^g]	[bfmpvw]	
+sun	Sundenese	su-words.txt	vowel	a	a		1	2	n/a	[cdjlnrstxyz]	[bfmpvw]	[cdjlrstyz]|n[^g]	[bfmpvw]	
+sun	Sundenese	su-words.txt	vowel	o	o		1	2	n/a	[cdjlnrstxyz]	[bfmpvw]	[cdjlrstyz]|n[^g]	[bfmpvw]	
+sun	Sundenese	su-words.txt	vowel	u	[^e]u		1	2	n/a	[cdjlnrstxyz]	[bfmpvw]	[cdjlrstyz]|n[^g]	[bfmpvw]	
+sun	Sundenese	su-words.txt	vowel	ɨ		x	1	2	n/a	[cdjlnrstxyz]	[bfmpvw]	[cdjlrstyz]|n[^g]	[bfmpvw]	
+sun	Sundenese	su-words.txt	vowel	ə	e[^u]		1	2	n/a	[cdjlnrstxyz]	[bfmpvw]	[cdjlrstyz]|n[^g]	[bfmpvw]	
+tca	Ticuna	tca-words.txt	vowel	i	[^ãaá][ií]		1	2	n/a	[ñdjlnrstyc]	[bpmwf]	[ñdjlnrstyc]	[bpmwf]	
+tca	Ticuna	tca-words.txt	vowel	ɛ	[eé]		1	2	n/a	[ñdjlnrstyc]	[bpmwf]	[ñdjlnrstyc]	[bpmwf]	
+tca	Ticuna	tca-words.txt	vowel	a	[ãaá][^iíúu]		1	2	n/a	[ñdjlnrstyc]	[bpmwf]	[ñdjlnrstyc]	[bpmwf]	
+tca	Ticuna	tca-words.txt	vowel	ɔ		x	1	2	n/a	[ñdjlnrstyc]	[bpmwf]	[ñdjlnrstyc]	[bpmwf]	
+tca	Ticuna	tca-words.txt	vowel	o		x	1	2	n/a	[ñdjlnrstyc]	[bpmwf]	[ñdjlnrstyc]	[bpmwf]	
+tca	Ticuna	tca-words.txt	vowel	u	[^ãaá][úu]		1	2	n/a	[ñdjlnrstyc]	[bpmwf]	[ñdjlnrstyc]	[bpmwf]	
+tca	Ticuna	tca-words.txt	vowel	ɨ	ü		1	2	n/a	[ñdjlnrstyc]	[bpmwf]	[ñdjlnrstyc]	[bpmwf]	
+tsn	Setswana	tn-words.txt	vowel	i	i		1	2	n/a	([ntdsrly]|th|ts|tsh|tlh)	([mpbfwg]|ph)	([tdsrly]|th|ts|tsh|tlh|n[^g])	([mpbfwg]|ph)	
+tsn	Setswana	tn-words.txt	vowel	e		x	1	2	n/a	([ntdsrly]|th|ts|tsh|tlh)	([mpbfwg]|ph)	([tdsrly]|th|ts|tsh|tlh|n[^g])	([mpbfwg]|ph)	
+tsn	Setswana	tn-words.txt	vowel	ɛ		x	1	2	n/a	([ntdsrly]|th|ts|tsh|tlh)	([mpbfwg]|ph)	([tdsrly]|th|ts|tsh|tlh|n[^g])	([mpbfwg]|ph)	
+tsn	Setswana	tn-words.txt	vowel	a	a		1	2	n/a	([ntdsrly]|th|ts|tsh|tlh)	([mpbfwg]|ph)	([tdsrly]|th|ts|tsh|tlh|n[^g])	([mpbfwg]|ph)	
+tsn	Setswana	tn-words.txt	vowel	ɔ		x	1	2	n/a	([ntdsrly]|th|ts|tsh|tlh)	([mpbfwg]|ph)	([tdsrly]|th|ts|tsh|tlh|n[^g])	([mpbfwg]|ph)	
+tsn	Setswana	tn-words.txt	vowel	o		x	1	2	n/a	([ntdsrly]|th|ts|tsh|tlh)	([mpbfwg]|ph)	([tdsrly]|th|ts|tsh|tlh|n[^g])	([mpbfwg]|ph)	
+tsn	Setswana	tn-words.txt	vowel	u	u		1	2	n/a	([ntdsrly]|th|ts|tsh|tlh)	([mpbfwg]|ph)	([tdsrly]|th|ts|tsh|tlh|n[^g])	([mpbfwg]|ph)	
+tur	Turkish	tr-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+tur	Turkish	tr-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+tur	Turkish	tr-words-ipa.txt	vowel	a	a		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+tur	Turkish	tr-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+tur	Turkish	tr-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+tur	Turkish	tr-words-ipa.txt	vowel	ü(y)	y		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+tur	Turkish	tr-words-ipa.txt	vowel	ö(ø)	œ		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+tur	Turkish	tr-words-ipa.txt	vowel	ı(ɯ)	ɯ		1	2	n/a	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	([ntdszɾlʃj]|t͡ʃ|d͡ʒ)	[mpbfv]	
+udm	Udmurt	udm-words.txt	vowel	i	и		1	2	n/a	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	
+udm	Udmurt	udm-words.txt	vowel	ɛ		x	1	2	n/a	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	
+udm	Udmurt	udm-words.txt	vowel	a	а		1	2	n/a	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	
+udm	Udmurt	udm-words.txt	vowel	ɔ	ӧ		1	2	n/a	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	
+udm	Udmurt	udm-words.txt	vowel	u	у		1	2	n/a	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	
+udm	Udmurt	udm-words.txt	vowel	ɨ	ы		1	2	n/a	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	
+udm	Udmurt	udm-words.txt	vowel	œ		x	1	2	n/a	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	[джӝзӟйлнрстцчӵшщь]	[бвмпф]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	ɛ	ɛ		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	ɑ	a		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	o	o		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	y	y		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+uig	Uyghur	ug-Arab-words-ipa.txt	vowel	ø	ø		1	2	n/a	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	([ntdszrlʃj]|d͡ʒ|t͡ʃ)	[mpbfqʁ]	
+ukr	Ukrainian	uk-words-ipa.txt	vowel	i	і		1	2	n/a	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	
+ukr	Ukrainian	uk-words-ipa.txt	vowel	ɪ	ɪ		1	2	n/a	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	
+ukr	Ukrainian	uk-words-ipa.txt	vowel	ɛ	ɛ		1	2	n/a	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	
+ukr	Ukrainian	uk-words-ipa.txt	vowel	a	ɑ		1	2	n/a	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	
+ukr	Ukrainian	uk-words-ipa.txt	vowel	o	ɔ		1	2	n/a	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	
+ukr	Ukrainian	uk-words-ipa.txt	vowel	u	u		1	2	n/a	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	([ntdszlrj]|t͡s|sʲ|nʲ|tʲ|dʲ|zʲ|lʲ|rʲ|t͡sʲ)	[mpbfv]	
+urd	Urdu	ur-Latn-words.txt	vowel	iː	ii		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	eː	ee		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	æː	ai		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	aː	aa		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	ɔː	au		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	oː	oo		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	uː	uu		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	ɪ	[^iao]i[^iu]		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	ɛ	[^eao]e[^ea]		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	ə	[^ae]a[^aoeui]		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+urd	Urdu	ur-Latn-words.txt	vowel	ʊ	[^uai]u[^u]		2	1	n/a	([ntdszrlj]|sh|ch|zh|th|dh|nh|lh)	([pbmqf]|ph|bh|mh)	([ntdszrlj]|ch)	[pbmqf]	
+vec	Venetian	vec-word.txt	vowel	i	[iìí]		1	2	n/a	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	
+vec	Venetian	vec-word.txt	vowel	e	[eé]		1	2	n/a	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	
+vec	Venetian	vec-word.txt	vowel	ɛ	è		1	2	n/a	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	
+vec	Venetian	vec-word.txt	vowel	a	[àaá]		1	2	n/a	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	
+vec	Venetian	vec-word.txt	vowel	ɔ	ò		1	2	n/a	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	
+vec	Venetian	vec-word.txt	vowel	o	[oó]		1	2	n/a	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	
+vec	Venetian	vec-word.txt	vowel	u	[uùú]		1	2	n/a	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	([łdjnrsšztx]|l'|c'|ł’|dh|gl|gn|s-c|zh)	[bfmpv]	
+wol	Wolof	wo-words.txt	vowel	iː	ii		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	eː	ée		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	ɛː	ee		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	aː	aa		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	ɔː	oo		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	oː	óo		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	uː	uu		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	i	[^i]i[^i]		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	e	[^e]é[^e]		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	ɛ	[^e]e[^e]		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	a	[^a]à[^a]		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	ɔ	[^o]o[^o]		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	ə	[^ë]ë[^ë]		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+wol	Wolof	wo-words.txt	vowel	u	[^u]u[^u]		1	2	grep -v [#@] 	[cdjlnñrsty]	([bfmpqwx]|nq)	([cdjlñrsty]|n[^gkq])	([bfmpqwx]|nq)	
+xal	Oriat	xal-words.txt	vowel	iː	ии		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+xal	Oriat	xal-words.txt	vowel	eː	ее		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+xal	Oriat	xal-words.txt	vowel	ɛː	әә		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+xal	Oriat	xal-words.txt	vowel	aː	аа		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+xal	Oriat	xal-words.txt	vowel	oː		x	1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+xal	Oriat	xal-words.txt	vowel	uː	уу		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+xal	Oriat	xal-words.txt	vowel	yː	үү		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+xal	Oriat	xal-words.txt	vowel	øː	ӨӨ		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	
+yid	Yiddish	yi-Latn-words.txt	vowel	i	[^eao]i		1	2	n/a	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	
+yid	Yiddish	yi-Latn-words.txt	vowel	e	[^ao]e[^i]		1	2	n/a	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	
+yid	Yiddish	yi-Latn-words.txt	vowel	a	a[^ie]		1	2	n/a	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	
+yid	Yiddish	yi-Latn-words.txt	vowel	o	o[^ie]		1	2	n/a	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	
+yid	Yiddish	yi-Latn-words.txt	vowel	u	u		1	2	n/a	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	([tdszlrj]|sh|tsh|zh|dzh)	[mpbfv]	
+yor	Yoruba	yo-words-ipa.txt	vowel	i	[íiì]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
+yor	Yoruba	yo-words-ipa.txt	vowel	e	[éeè]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
+yor	Yoruba	yo-words-ipa.txt	vowel	ɛ	[ɛ̀ɛɛ́]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
+yor	Yoruba	yo-words-ipa.txt	vowel	a	[áàa]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
+yor	Yoruba	yo-words-ipa.txt	vowel	ɔ	[ɔ̀ɔɔ́]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
+yor	Yoruba	yo-words-ipa.txt	vowel	o	[óòo]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
+yor	Yoruba	yo-words-ipa.txt	vowel	u	[úuù]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
+zai	Juchitan Zapotec	zai-words.txt	vowel	i	[ií][^aá]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
+zai	Juchitan Zapotec	zai-words.txt	vowel	e	[eé]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
+zai	Juchitan Zapotec	zai-words.txt	vowel	a	[^ií][aá]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
+zai	Juchitan Zapotec	zai-words.txt	vowel	o	[oó]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
+zai	Juchitan Zapotec	zai-words.txt	vowel	u	[uú]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
