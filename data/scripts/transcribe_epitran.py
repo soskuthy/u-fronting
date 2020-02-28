@@ -1,6 +1,6 @@
 import epitran, csv, os.path, codecs
 
-with open('/Users/soskuthy/Documents/Research/current/2017/u-fronting/u-fronting/data/raw_data/language_epitran.csv', 'rU') as csvfile:
+with open('/Users/soskuthy/Documents/Research/current/2017/u-fronting/u-fronting/data/raw_data/language_epitran_2.csv', 'rU') as csvfile:
 	rdr = csv.reader(csvfile, delimiter=',', quotechar='"')
 	c = 0
 	for row in rdr:

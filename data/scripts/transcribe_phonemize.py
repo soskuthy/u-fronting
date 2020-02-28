@@ -1,12 +1,12 @@
 import phonemizer, csv, os.path, codecs, re
 from phonemizer.phonemize import phonemize
 
-with open('/Users/soskuthy/Documents/Research/current/2017/u-fronting/u-fronting/data/raw_data/language_phonemize.csv', newline="") as csvfile:
+with open('/Users/soskuthy/Documents/Research/current/2017/u-fronting/u-fronting/data/raw_data/language_phonemize_2.csv', newline="") as csvfile:
 	rdr = csv.reader(csvfile, delimiter=',', quotechar='"')
 	c = 0
 	for row in rdr:
 		print(row)
-		if c > 7:
+		if c > 0:
 			language = row[3]
 			backend = row[4]
 			#phonemizer.phonemize.phonemize("hello", language="fr-fr", backend="espeak").strip()
