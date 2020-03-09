@@ -88,12 +88,6 @@ bru	Brou	bru-words.txt	vowel	oː	ỗ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]
 bru	Brou	bru-words.txt	vowel	uː	ũ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
 bru	Brou	bru-words.txt	vowel	ɨː	ữ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
 bru	Brou	bru-words.txt	vowel	əː	ỡ		1	2	n/a	[dtnlrsy]	[pbmw]	[dtnlrsy]	[pbmw]	
-brx	Bodo	brx-latn-words.txt	vowel	i	इ		1	2	n/a					
-brx	Bodo	brx-latn-words.txt	vowel	e	ए		1	2	n/a					
-brx	Bodo	brx-latn-words.txt	vowel	a	आ		1	2	n/a					
-brx	Bodo	brx-latn-words.txt	vowel	o	ओ		1	2	n/a					
-brx	Bodo	brx-latn-words.txt	vowel	u	उ		1	2	n/a					
-brx	Bodo	brx-latn-words.txt	vowel	ɯ	अ		1	2	n/a					
 bul	Bulgarian	bg-words-ipa.txt	vowel	i	i		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
 bul	Bulgarian	bg-words-ipa.txt	vowel	e	e		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
 bul	Bulgarian	bg-words-ipa.txt	vowel	a	[aɐ]		1	2	n/a	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	([ntdszɲɫʒjʎ]|tʲ|dʲ|tʃ|sʲ|rʲ)	([mbpfv]|bʲ|mʲ|pʲ|vʲ)	
