@@ -483,7 +483,7 @@ scn	Sicilian	scn-words.txt	vowel	u	[^eèêéaâàáiìíî][uùû][^eèê
 shi	Tachelhit	shi-words.txt	vowel	i	i		1	2	n/a	[dḍṭtḥlšṣẓnry]	[bfmqwx]	[dḍṭtḥlšṣẓnry]	[bfmqwx]	
 shi	Tachelhit	shi-words.txt	vowel	a	a		1	2	n/a	[dḍṭtḥlšṣẓnry]	[bfmqwx]	[dḍṭtḥlšṣẓnry]	[bfmqwx]	
 shi	Tachelhit	shi-words.txt	vowel	u	u		1	2	n/a	[dḍṭtḥlšṣẓnry]	[bfmqwx]	[dḍṭtḥlšṣẓnry]	[bfmqwx]	
-shq	Albanian	sq-words-ipa.txt	vowel	i	[[iɪ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
+shq	Albanian	sq-words-ipa.txt	vowel	i	[iɪ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
 shq	Albanian	sq-words-ipa.txt	vowel	e	[eɛ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
 shq	Albanian	sq-words-ipa.txt	vowel	a	[aɑ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
 shq	Albanian	sq-words-ipa.txt	vowel	o	[ɔʌ]		1	2	n/a	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	[ntdszlrʃʒʑɕɲ]	[mpbfvθð]	
