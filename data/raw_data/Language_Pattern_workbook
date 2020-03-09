@@ -602,7 +602,7 @@ xal	Oriat	xal-words.txt	vowel	iː	ии		1	2	n/a	[джҗзйлнрстцчшщь]
 xal	Oriat	xal-words.txt	vowel	eː	ее		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
 xal	Oriat	xal-words.txt	vowel	ɛː	әә		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
 xal	Oriat	xal-words.txt	vowel	aː	аа		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
-xal	Oriat	xal-words.txt	vowel	oː	о		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
+xal	Oriat	xal-words.txt	vowel	oː	оо		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
 xal	Oriat	xal-words.txt	vowel	uː	уу		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
 xal	Oriat	xal-words.txt	vowel	yː	үү		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
 xal	Oriat	xal-words.txt	vowel	øː	өө		1	2	n/a	[джҗзйлнрстцчшщь]	[бвмпф]	[джҗзйлнрстцчшщь]	[бвмпф]	should be spelled Oirat
@@ -618,7 +618,7 @@ yor	Yoruba	yo-words-ipa.txt	vowel	a	[áàa]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]
 yor	Yoruba	yo-words-ipa.txt	vowel	ɔ	[ɔ̀ɔɔ́]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
 yor	Yoruba	yo-words-ipa.txt	vowel	o	[óòo]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
 yor	Yoruba	yo-words-ipa.txt	vowel	u	[úuù]		1	2	n/a	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	([tdsnlrʃj]|d͡ʒ)	([mbfw]|ɡ͡b|k͡p)	
-zai	Juchitan Zapotec	zai-words.txt	vowel	i	[^ií[ií][^iíaá]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
+zai	Juchitan Zapotec	zai-words.txt	vowel	i	[^ií][ií][^iíaá]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
 zai	Juchitan Zapotec	zai-words.txt	vowel	e	[^e][eé][^e]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
 zai	Juchitan Zapotec	zai-words.txt	vowel	a	[^iíaá][aá][^aá]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
 zai	Juchitan Zapotec	zai-words.txt	vowel	o	[^o][oó][^o]		1	2	n/a	([tdzxsnñrl]|ch|xh)	[pbmvf]	([tdzxsnñrl]|ch|xh)	[pbmvf]	
