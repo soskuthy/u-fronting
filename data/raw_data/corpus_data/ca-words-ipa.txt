@@ -285,7 +285,6 @@ pɔdɛn 621
 alɡwn 618
 kɛ 618
 banda 613
- 611
 mɛntɾɛ 610
 paɾablɛs 609
 ɾɛalitat 604
@@ -2042,7 +2041,6 @@ tɔɾɾɛ 91
 kɔŋɡɾes 91
 andɾɛb 91
 sɛmblɛn 90
- 90
 musɛb 90
 l'ɛdisio 90
 iŋɡɾɛdiɛns 90
@@ -2254,7 +2252,6 @@ d'ɛntɾada 82
 kɔt͡ʃɛs 82
 kab 82
 bi 82
- 82
 puʒt͡ʃ 82
 fabɾa 82
 ɛmbiaɾ 82
@@ -3328,7 +3325,6 @@ aki 55
 altɛs 55
 aʒɛns 55
 ʎɔɾɛŋķ 55
- 55
 ɡalisia 55
 ɛspɾib 55
 baɾsɛlɔna 55

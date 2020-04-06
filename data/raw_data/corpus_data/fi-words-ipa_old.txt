@@ -176,10 +176,12 @@ tællæ 662
 kirjoitːɪ 652
 tekeː 648
 tæysɪn 645
+kaksi tuhatːa yhdeksæn 642
 kymmenen 642
 vuonna 640
 voidaːn 635
 saːnut 635
+kaksi tuhatːa kymmenen 627
 miksɪ 626
 jeːsus 620
 lisæː 619
@@ -248,6 +250,7 @@ lapsen 494
 olɪn 491
 næytːæː 490
 pæːstæ 489
+kaksi tuhatːa kahdeksan 488
 jolloin 484
 esɪm 484
 tæytyː 482
@@ -357,6 +360,7 @@ yhæ 375
 kommentːeja 374
 kannatːaː 373
 haluaː 373
+kaksi tuhatːa seitsemæn 373
 maːn 372
 asɪaː 369
 huolɪmatːa 367
@@ -382,6 +386,7 @@ elæmæn 356
 melkein 354
 jæi 354
 hænelle 354
+kaksi tuhatːa kaksitoista 353
 tunnɪsteːt 351
 læhɪnnæ 350
 kai 350
@@ -416,6 +421,7 @@ vaiheːssa 325
 nopeastɪ 325
 miesten 325
 kyse 325
+kaksi tuhatːa kuːsi 325
 lukea 324
 elæmæ 324
 joŋkun 323
@@ -450,6 +456,7 @@ tehty 307
 tænæːn 307
 kolmekymmentæ 307
 toimɪː 306
+kaksi tuhatːa viːsi 306
 ollaːn 305
 mielestæ 305
 tarkoitːaː 304
@@ -564,6 +571,7 @@ syːtæ 248
 jotakɪn 248
 jokɪn 248
 erɪtyisestɪ 248
+kaksi tuhatːa yksitoista 248
 sinua 247
 muː 247
 tællæ 247
@@ -797,6 +805,7 @@ tytːø 175
 molemmat 175
 enɪten 175
 joskus 175
+kaksi tuhatːa neljæ 175
 niːssæ 174
 kuvaː 174
 kuːlemma 174
@@ -912,11 +921,13 @@ kerta 156
 valmɪːksɪ 155
 todennækøisestɪ 155
 tekemistæ 155
+sæhkøpostɪtse bːloɡːaː 155
 saːtːoi 155
 puolestaːn 155
 kymmenen 155
 kerralla 155
 heillæ 155
+tvitːerɪːn jaː 155
 jotkut 155
 saːneːt 154
 oikeassa 154
@@ -938,6 +949,7 @@ aiheutːaː 152
 aiheːsta 152
 samalla 152
 eikø 152
+kaksi tuhatːa kolmetoista 152
 sellaisen 151
 kaikɪsta 151
 ellei 151
@@ -1508,6 +1520,7 @@ heitːæː 96
 etsɪæ 96
 vaːn 96
 kristus 96
+kaksi tuhatːa kolme 96
 æitɪnsæ 95
 æː 95
 todellakaːn 95
@@ -1906,6 +1919,7 @@ missæ 77
 kirja 77
 joten 77
 joː 77
+tuhat yhdeksænsataː yhdeksæŋkymmentæviːsi 77
 ylɪpæːtæːn 76
 væhɪtellen 76
 unohtaː 76
@@ -2135,6 +2149,7 @@ voiko 70
 jeːsusta 70
 ilmestys 70
 elæmæ 70
+tuhat yhdeksænsataː yhdeksæŋkymmentækahdeksan 70
 yrɪtys 69
 totːunut 69
 toisɪstaːn 69
@@ -2468,6 +2483,7 @@ tein 61
 pienɪ 61
 mut 61
 viːsisataː 61
+kaksi tuhatːa kaksi 61
 ælkæː 60
 voitːɪ 60
 voimakas 60
@@ -2865,6 +2881,7 @@ karɪ 53
 jaːkobɪn 53
 heŋkɪ 53
 ei 53
+nolla yksi 53
 yøtæ 52
 yhteys 52
 vikaː 52
@@ -2966,6 +2983,7 @@ olɪsiko 51
 kirkon 51
 haluan 51
 et 51
+nolla viːsi 51
 ælkæː 50
 vækɪvallan 50
 voineːt 50
@@ -3026,6 +3044,7 @@ leva 50
 kyllæhæn 50
 kirjan 50
 heikːɪ 50
+nolla yhdeksæn 50
 ystævæt 49
 ymmærræn 49
 voitu 49
@@ -3236,6 +3255,7 @@ anonymous 47
 ainoastaːn 47
 neljæsataː 47
 kolmesataː 47
+kaksi tuhatːa yksi 47
 yhdestæ 46
 voisɪt 46
 vapaːta 46
@@ -3310,6 +3330,8 @@ erɪ 46
 ensɪmmæisen 46
 bloɡɪt 46
 aluksɪ 46
+tuhat yhdeksænsataː yhdeksæŋkymmentæseitsemæn 46
+tuhat yhdeksænsataː yhdeksæŋkymmentæneljæ 46
 ylæpuolella 45
 yleːnsækɪn 45
 væsynyt 45
@@ -3391,6 +3413,8 @@ kirkːo 45
 kommentɪt 45
 haluaisɪn 45
 ehkæpæ 45
+sata viːsikymmentæ 45
+nolla kahdeksan 45
 vois 44
 vauhdɪlla 44
 vastuːssa 44
@@ -3468,6 +3492,7 @@ miksei 44
 kæytænnøssæ 44
 jostain 44
 anne 44
+tuhat yhdeksænsataː yhdeksæŋkymmentækaksi 44
 æsken 43
 vælein 43
 voita 43
@@ -3545,6 +3570,7 @@ kommentɪt 43
 hieman 43
 yhdeksæŋkymmentæyhdeksæn 43
 viːsikymmentæviːsi 43
+nolla neljæ 43
 yksɪkæːn 42
 voiko 42
 virtaː 42
@@ -3718,6 +3744,7 @@ faseboːkɪssa 41
 erkːɪ 41
 bloɡɪ 41
 aurɪŋko 41
+tuhat yhdeksænsataː yhdeksæŋkymmentækuːsi 41
 æːnet 40
 ylpeæ 40
 yleistæ 40
@@ -3814,6 +3841,8 @@ lopuksɪ 40
 janne 40
 efesolaisɪlle 40
 eu 40
+tuhat yhdeksænsataː kahdeksaŋkymmentæseitsemæn 40
+nolla nolla 40
 æitɪnɪ 39
 ympæristø 39
 yks 39
@@ -4013,6 +4042,8 @@ enæː 38
 edelleːn 38
 bloɡɪn 38
 neljækymmentækaksi 38
+nolla seitsemæn 38
+nolla kuːsi 38
 æːnɪæ 37
 ydɪn 37
 vækeæ 37
@@ -4261,6 +4292,7 @@ faseboːk 36
 asɪa 36
 kolmekymmentæyhdeksæn 36
 kolmekymmentæseitsemæn 36
+nolla kaksi 36
 ærsytːæː 35
 yrɪtæ 35
 yhteistyøtæ 35
@@ -4386,6 +4418,8 @@ eræːn 35
 eikøs 35
 eː 35
 ajatus 35
+tuhat yhdeksænsataː yhdeksæŋkymmentæ 35
+tuhat kahdeksansataːluvun 35
 æːreːn 34
 æːnen 34
 æidɪn 34
@@ -4646,6 +4680,7 @@ don 33
 avainsanat 33
 asɪan 33
 apostolɪ 33
+tuhat yhdeksænsataː kahdeksaŋkymmentæyhdeksæn 33
 ympærilleːn 32
 yllæpɪtæː 32
 yleisøn 32
@@ -4792,6 +4827,8 @@ hyvæt 32
 herrala 32
 ɡoːɡle 32
 elokuva 32
+tuhat yhdeksænsataːluvun 32
+nolla kolme 32
 ymmærsɪn 31
 ylɪopisto 31
 vælɪn 31
@@ -5076,6 +5113,7 @@ joutuneːt 30
 joissain 30
 inte 30
 ilmenɪ 30
+iː phone 30
 hyvien 30
 huomatːavan 30
 hevosen 30
@@ -5536,6 +5574,7 @@ viːsikymmentækuːsi 28
 viːsikymmentæneljæ 28
 neljækymmentæyhdeksæn 28
 neljækymmentækuːsi 28
+tuhat yhdeksænsataː yhdeksæŋkymmentækolme 28
 æːnestæː 27
 æːnɪ 27
 yøksɪ 27
@@ -5732,6 +5771,7 @@ paːvo 27
 nykyisɪn 27
 nasu 27
 monɪssa 27
+mi ɡin 27
 matkalla 27
 mao 27
 kirjoitan 27
@@ -5926,6 +5966,7 @@ uːsɪmmat 26
 tætæ 26
 tutkɪmuksen 26
 tieteːn 26
+teːveː yksi 26
 sivustan 26
 siten 26
 satu 26
@@ -5960,6 +6001,8 @@ seitsemæŋkymmentækaksi 26
 kuːsikymmentæviːsi 26
 viːsikymmentækolme 26
 neljækymmentæseitsemæn 26
+tuhat yhdeksænsataː kahdeksaŋkymmentæneljæ 26
+tuhat yhdeksænsataː kahdeksaŋkymmentækolme 26
 ælytːømæn 25
 æitien 25
 ystævien 25
@@ -6182,6 +6225,7 @@ perhe 25
 polɪtiːkːa 25
 oːkoː 25
 mieleŋkiːntoista 25
+mi ɡeː 25
 kuvalehtɪ 25
 kuːsɪmækɪ 25
 kotɪmaːn 25
@@ -6456,6 +6500,7 @@ toa 24
 tiːstaina 24
 teːmu 24
 tarkoitus 24
+susu petal 24
 sitæpaitsɪ 24
 siːrry 24
 sellaista 24
@@ -6464,6 +6509,7 @@ real 24
 rauman 24
 pelɪt 24
 ovat 24
+oːm yhdeksæn 24
 monta 24
 molemmissa 24
 mitæhæn 24
@@ -6483,6 +6529,8 @@ davɪd 24
 bloɡ 24
 asɪaː 24
 kuːsisataː 24
+tuhat yhdeksænsataː yhdeksæŋkymmentæyksi 24
+sata kaksikymmentæ 24
 øljyæ 23
 æːrellæ 23
 æidɪt 23
@@ -6751,6 +6799,9 @@ arto 23
 arhɪ 23
 afrɪkan 23
 kuːsikymmentæyhdeksæn 23
+kolme neljæ 23
+tuhat yhdeksænsataː kahdeksaŋkymmentækaksi 23
+tuhat yhdeksænsataː kolmekymmentækahdeksan 23
 yleisøæ 22
 yksɪløt 22
 yksɪløiden 22
@@ -6894,6 +6945,7 @@ nukːwɪ 22
 niskaːn 22
 nimenɪ 22
 neuvoston 22
+napɪsa ruotsalainenoː 22
 møkɪlle 22
 muːtamassa 22
 moinen 22
@@ -7026,10 +7078,12 @@ olavɪ 22
 myøskæːn 22
 millaisia 22
 mia 22
+mi ɡit 22
 messɪas 22
 mallɪ 22
 make 22
 maisa 22
+ma pa 22
 læhɪnnæ 22
 lopːujen 22
 leːna 22
@@ -7062,6 +7116,7 @@ aikaisemmɪn 22
 kuːsikymmentæneljæ 22
 viːsikymmentækahdeksan 22
 neljækymmentæyksi 22
+tuhat yhdeksænsataː kahdeksaŋkymmentæ 22
 æidɪlleːn 21
 yhtækæːn 21
 yhtyeːn 21
@@ -7391,6 +7446,9 @@ arkɪsto 21
 aːlto 21
 yhdeksæŋkymmentækaksi 21
 kahdeksaŋkymmentæluvun 21
+kaksisataː viːsikymmentæ 21
+tuhat yhdeksænsataː seitsemæŋkymmentæseitsemæn 21
+sata kymmenen 21
 æːretːømæn 20
 ystævæn 20
 yrɪtystæ 20
@@ -7732,6 +7790,8 @@ kahdeksaŋkymmentæyhdeksæn 20
 kahdeksaŋkymmentæviːsi 20
 seitsemæŋkymmentækuːsi 20
 kuːsikymmentækaksi 20
+tuhat yhdeksænsataː yhdeksæŋkymmentæluvun 20
+tuhat yhdeksænsataː kuːsikymmentæluvun 20
 øljy 19
 æːnestæ 19
 ælækæ 19
@@ -8102,6 +8162,7 @@ noːan 19
 muː 19
 æmær 19
 millaista 19
+mi ɡiæ 19
 martɪn 19
 maː 19
 luka 19
@@ -8141,6 +8202,7 @@ ah 19
 aːpo 19
 yhdeksæŋkymmentækahdeksan 19
 kuːsikymmentækahdeksan 19
+tuhat yhdeksænsataː neljækymmentæyksi 19
 æːnensæ 18
 yrɪtetːy 18
 ymmærtæmɪnen 18
@@ -8592,6 +8654,7 @@ muːtamia 18
 minæhæn 18
 mestarɪ 18
 maːɪlmassa 18
+æmteːveː kolme 18
 læːkærɪ 18
 luːlɪsɪ 18
 luojan 18
@@ -8637,6 +8700,9 @@ akɪ 18
 kahdeksansataː 18
 seitsemæŋkymmentæluvulla 18
 viːsikymmentæyhdeksæn 18
+tuhat yhdeksænsataː kahdeksaŋkymmentæviːsi 18
+sata neljækymmentæ 18
+yksi kaksi 18
 æidɪstæ 17
 yllætyksɪæ 17
 yksɪtyiskohdat 17
@@ -9096,6 +9162,7 @@ ohjelmassa 17
 næinhæn 17
 nosta 17
 mulle 17
+mi ɡeː seitsemæntoista 17
 meitæ 17
 medɪa 17
 luoja 17
@@ -9152,6 +9219,9 @@ aːmulehtɪ 17
 yhdeksæŋkymmentæseitsemæn 17
 yhdeksæŋkymmentækolme 17
 kahdeksaŋkymmentæyksi 17
+tuhat yhdeksænsataː kahdeksaŋkymmentækahdeksan 17
+tuhat yhdeksænsataː neljækymmentæneljæ 17
+yksi nolla 17
 yrɪtːæneːt 16
 ymmærtæneːt 16
 ylɪmæːræisiæ 16
@@ -9724,6 +9794,11 @@ ainut 16
 kahdeksaŋkymmentækuːsi 16
 seitsemæŋkymmentæseitsemæn 16
 seitsemæŋkymmentækolme 16
+kaksi kolme 16
+tuhat yhdeksænsataː seitsemæŋkymmentækaksi 16
+tuhat yhdeksænsataː seitsemæŋkymmentæluvun 16
+sata kahdeksaŋkymmentæ 16
+sata kolmekymmentæ 16
 øljyn 15
 æː 15
 ækːɪæ 15
@@ -10397,6 +10472,11 @@ yhdeksæŋkymmentæluvun 15
 kahdeksaŋkymmentæseitsemæn 15
 kahdeksaŋkymmentækaksi 15
 seitsemæŋkymmentæluvun 15
+kolmekymmentæ min 15
+tuhat yhdeksænsataː neljækymmentæseitsemæn 15
+tuhat yhdeksænsataː neljækymmentæ 15
+tuhat kahdeksansataːluvulla 15
+sata neljækymmentæneljæ 15
 æitɪæːn 14
 ystæville 14
 yrɪtetːɪːn 14
@@ -11100,6 +11180,8 @@ minnan 14
 mikæs 14
 mikael 14
 mieluːmmɪn 14
+mi ɡien 14
+mi ɡeː kaksikymmentæyksi 14
 mallɪnen 14
 madrɪd 14
 mak 14
@@ -11146,6 +11228,8 @@ heavy 14
 haŋkɪ 14
 ɡambusino 14
 finnsanity 14
+æf neljæ 14
+æf sata viːsi 14
 euroːpasta 14
 epːu 14
 ensɪmmæisessæ 14
@@ -11165,6 +11249,8 @@ kahdeksaŋkymmentæneljæ 14
 seitsemæŋkymmentæyhdeksæn 14
 kuːsikymmentækolme 14
 kuːsikymmentæyksi 14
+tuhat yhdeksænsataː kahdeksaŋkymmentæluvun 14
+tuhat yhdeksænsataː kuːsikymmentæyhdeksæn 14
 ærsytːævæː 13
 ælyllistæ 13
 ælykːyːs 13
@@ -12029,6 +12115,20 @@ aseta 13
 arɪspeːn 13
 alun 13
 seitsemæŋkymmentæyksi 13
+neljæ viːsi 13
+tuhat yhdeksænsataː kahdeksaŋkymmentæyksi 13
+tuhat yhdeksænsataː kahdeksaŋkymmentæluvulla 13
+tuhat yhdeksænsataː seitsemæŋkymmentæluvulla 13
+tuhat yhdeksænsataː kuːsikymmentæ 13
+tuhat yhdeksænsataː viːsikymmentæyhdeksæn 13
+tuhat yhdeksænsataː viːsikymmentækaksi 13
+tuhat yhdeksænsataː neljækymmentækahdeksan 13
+tuhat yhdeksænsataː neljækymmentæviːsi 13
+tuhat yhdeksænsataː neljækymmentækolme 13
+tuhat yhdeksænsataː neljækymmentækaksi 13
+tuhat yhdeksænsataː kolmekymmentæyhdeksæn 13
+tuhat yhdeksænsataː neljætoista 13
+sata neljækymmentækolme 13
 æːnekːæːstɪ 12
 æitɪn 12
 æitejæ 12
@@ -12947,6 +13047,7 @@ kallɪon 12
 kaikɪssa 12
 kaːrle 12
 kaːrɪna 12
+koːhoː kaksi 12
 koːhoː 12
 jæin 12
 jutːu 12
@@ -13007,6 +13108,16 @@ aho 12
 afrɪkassa 12
 abrahamɪn 12
 kahdeksaŋkymmentækahdeksan 12
+tuhat yhdeksænsataː yhdeksæŋkymmentæluvulla 12
+tuhat yhdeksænsataː seitsemæŋkymmentæneljæ 12
+tuhat yhdeksænsataː seitsemæŋkymmentækolme 12
+tuhat yhdeksænsataː kuːsikymmentækahdeksan 12
+tuhat yhdeksænsataː kuːsikymmentækuːsi 12
+tuhat yhdeksænsataː kaksikymmentæyhdeksæn 12
+tuhat yhdeksænsataː kahdeksantoista 12
+sata kaksikymmentækahdeksan 12
+sata seitsemæn 12
+yksi yksi 12
 æːnestys 11
 ækːɪseltæːn 11
 æijæ 11
@@ -13834,6 +13945,7 @@ ihmɪsyːtːæ 11
 ihmɪssuhteita 11
 ihmɪsoikeudet 11
 ihailla 11
+iː phonen 11
 hætæ 11
 hæmmæstynyt 11
 hæitæ 11
@@ -13993,6 +14105,7 @@ yrɪtyksen 11
 yhtyeːn 11
 yhteys 11
 yhdɪstyneiden 11
+vo kaksoisveː 11
 vækɪvalta 11
 visa 11
 virosta 11
@@ -14111,6 +14224,7 @@ monen 11
 mohamed 11
 mikːɪ 11
 mikan 11
+mi ɡejæ 11
 messɪaːn 11
 meneː 11
 marja 11
@@ -14230,6 +14344,16 @@ aikanaːn 11
 adlɪbrɪs 11
 am 11
 kahdeksaŋkymmentækolme 11
+viːsi tuhatːa kahdeksansataː 11
+kolmesataː viːsikymmentæ 11
+kaksi yksi 11
+tuhat yhdeksænsataː kuːsikymmentæluvulla 11
+tuhat yhdeksænsataː viːsikymmentæ 11
+sata seitsemæŋkymmentæviːsi 11
+sata kuːsikymmentæ 11
+sata kolmekymmentæviːsi 11
+sata kaksikymmentæviːsi 11
+kymmenen viːsitoista 11
 æːnɪstæ 10
 æːnɪn 10
 ælyæ 10
@@ -15410,6 +15534,7 @@ ylɪpæːtæːn 10
 ylɪkaŋŋas 10
 yleisradɪon 10
 yksɪn 10
+æksdeː tuhat kolmesataː viːsikymmentækahdeksan 10
 værtsɪlæn 10
 vatsonɪn 10
 vuotːa 10
@@ -15550,6 +15675,7 @@ marɪnadɪ 10
 mannerheim 10
 mankhester 10
 maːnantaina 10
+ma pan 10
 mva 10
 læhetysseuran 10
 lyːtɪnen 10
@@ -15635,6 +15761,7 @@ blue 10
 bloɡien 10
 birdy 10
 berlɪːnissæ 10
+beː viːsikymmentækaksi 10
 asɪaːn 10
 aseːn 10
 artɪkːelɪ 10
@@ -15651,6 +15778,17 @@ atm 10
 seitsemæŋkymmentækahdeksan 10
 seitsemæŋkymmentæneljæ 10
 kuːsikymmentæluvulla 10
+viːsi koːɡeː 10
+kaksisataː neljækymmentæ 10
+kaksi tuhatːa kaksikymmentæ 10
+kaksi tuhatːa viːsitoista 10
+tuhat yhdeksænsataː seitsemæŋkymmentæyhdeksæn 10
+tuhat yhdeksænsataː seitsemæŋkymmentækahdeksan 10
+tuhat yhdeksænsataː seitsemæŋkymmentæ 10
+tuhat yhdeksænsataː kuːsikymmentæviːsi 10
+tuhat yhdeksænsataː kuːsikymmentækolme 10
+tuhat viːsisataːluvulla 10
+sata viːsi 10
 æːntæːn 9
 æːnnæhtæː 9
 æːnestyksen 9
@@ -16823,6 +16961,7 @@ ihastunut 9
 ihanasta 9
 ihaileː 9
 iha 9
+iː pod 9
 hævɪæ 9
 hætæːn 9
 hætætɪlanteːssa 9
@@ -17050,6 +17189,7 @@ villanneva 9
 viːkɪn 9
 vesa 9
 verɪ 9
+velɪ syŋkːæ 9
 veikːaus 9
 vauhtɪa 9
 vasemmistoliːtːo 9
@@ -17058,6 +17198,7 @@ varɪssuon 9
 vapaːajatːelɪjoiden 9
 vapaːajatːelɪjat 9
 vapaːaika 9
+veː kahdeksan 9
 useimpien 9
 useimmissa 9
 ulkonækø 9
@@ -17138,6 +17279,7 @@ puhwɪmme 9
 puhtaːstɪ 9
 puhelɪmen 9
 profeːtːa 9
+pover point 9
 polɪːtːɪset 9
 pohjoismaihɪn 9
 pohdɪntaː 9
@@ -17353,6 +17495,16 @@ yhdeksæŋkymmentækuːsi 9
 yhdeksæŋkymmentæneljæ 9
 yhdeksænsataː 9
 yhdeksæŋkymmentæluvulla 9
+viːsi kymmenen 9
+kaksi veː 9
+tuhat yhdeksænsataː kahdeksaŋkymmentækuːsi 9
+tuhat yhdeksænsataː viːsikymmentæviːsi 9
+tuhat yhdeksænsataː viːsikymmentæneljæ 9
+tuhat yhdeksænsataː kolmekymmentæneljæ 9
+tuhat yhdeksænsataː kaksitoista 9
+tuhat kuːsisataːluvulla 9
+tuhat viːsisataː 9
+viːsitoista kaksikymmentæ 9
 øljyssæ 8
 øitæ 8
 øinen 8
@@ -19129,6 +19281,7 @@ urheilukanava 8
 unohdɪn 8
 ullan 8
 uitːamon 8
+us assa 8
 uː 8
 tørmæsɪn 8
 tæytːymys 8
@@ -19337,6 +19490,7 @@ kwiŋkas 8
 ku 8
 krusaderɪn 8
 kotɪsivu 8
+konsolɪ æfiːæn 8
 koneːt 8
 kone 8
 konalaːn 8
@@ -19386,6 +19540,7 @@ joistakɪn 8
 johon 8
 johansson 8
 jinn 8
+jesus doesnt save 8
 jeŋkeissæ 8
 jehovalla 8
 jatkossa 8
@@ -19514,11 +19669,33 @@ ajatukset 8
 aikoinaːn 8
 aiheːseːn 8
 ahtɪ 8
+after davn 8
 about 8
 abel 8
 aːro 8
 aːdamille 8
+kuːsi nolla 8
+kolmesataː kolmekymmentæ 8
+kaksisataː kolmekymmentæ 8
+kaksi kaksi 8
+kaksi nolla 8
+tuhat yhdeksænsataː seitsemæŋkymmentækuːsi 8
+tuhat yhdeksænsataː seitsemæŋkymmentæviːsi 8
+tuhat yhdeksænsataː kuːsikymmentæseitsemæn 8
+tuhat yhdeksænsataː kuːsikymmentækaksi 8
+tuhat yhdeksænsataː viːsikymmentækuːsi 8
+tuhat yhdeksænsataː yhdeksæn 8
 kahdeksantoistavuotɪas 8
+sata neljækymmentæseitsemæn 8
+sata neljækymmentækuːsi 8
+sata neljækymmentækaksi 8
+sata kolmekymmentækahdeksan 8
+sata kaksikymmentæyhdeksæn 8
+sata kaksikymmentæseitsemæn 8
+sata neljætoista 8
+sata kolmetoista 8
+sata kaksitoista 8
+sata kolme 8
 æːrɪmmæisessæ 7
 æːrɪmmilleːn 7
 æːnestæmætːæ 7
@@ -20830,6 +21007,7 @@ maːɪlmoihɪn 7
 maːɪlmaŋkuvaː 7
 maːɪlmalta 7
 maːhanmuːtosta 7
+æm kaksi 7
 løytæːkseːn 7
 løytæmistæ 7
 løytæisɪn 7
@@ -21880,6 +22058,7 @@ tosɪ 7
 teːæl 7
 syːrɪan 7
 svap 7
+suomɪ kaksikymmentæneljæ 7
 suomalaisessa 7
 sulata 7
 sue 7
@@ -22060,6 +22239,7 @@ miŋkːɪ 7
 minɪ 7
 milonoff 7
 mikːola 7
+mikːo aːpeː 7
 mikːelɪ 7
 miːsa 7
 mieto 7
@@ -22240,6 +22420,7 @@ haŋkːeːn 7
 halosen 7
 haːste 7
 he 7
+ɡeːæmbeː hoː 7
 ɡlobalɪsaːtɪo 7
 ɡlendan 7
 ɡaɡen 7
@@ -22284,6 +22465,7 @@ disney 7
 didːl 7
 denver 7
 delfoin 7
+de lillon 7
 darvɪnɪn 7
 danɪ 7
 dahl 7
@@ -22350,6 +22532,31 @@ amd 7
 aina 7
 aːstudɪo 7
 kahdeksaŋkymmentæluvulla 7
+kuːsisataː kolmekymmentækuːsi 7
+neljæsataː viːsikymmentæ 7
+kaksisataː kaksikymmentæviːsi 7
+kaksi tuhatːa neljætoista 7
+kaksi tuhatːa kolme yksitoista 7
+tuhat yhdeksænsataː kuːsikymmentæyksi 7
+tuhat yhdeksænsataː viːsikymmentæseitsemæn 7
+tuhat yhdeksænsataː viːsikymmentæluvun 7
+sata yhdeksæŋkymmentæneljæ 7
+tuhat yhdeksænsataː kolmekymmentæseitsemæn 7
+tuhat yhdeksænsataː kaksikymmentæseitsemæn 7
+tuhat yhdeksænsataː kaksikymmentæ 7
+tuhat yhdeksænsataː seitsemæn 7
+tuhat yhdeksænsataː viːsi 7
+sata yhdeksæŋkymmentæ 7
+tuhat seitsemænsataːluvulla 7
+sata seitsemæŋkymmentæ 7
+sata viːsikymmentækuːsi 7
+sata kolmekymmentæneljæ 7
+sata kaksikymmentækuːsi 7
+sata kaksikymmentæneljæ 7
+sata yhdeksæntoista 7
+sata kuːsitoista 7
+sata kaksi 7
+sata ɡeː 7
 nollakuːsɪnollanolla 7
 æːrɪmmæisɪssæ 6
 æːrɪmmæinen 6
@@ -24867,6 +25074,9 @@ ideoloɡɪaː 6
 identɪteːtːɪæːn 6
 idealismɪ 6
 ibɪd 6
+iː tunes 6
+iː phonessa 6
+iː phonella 6
 høystetːynæ 6
 høpɪnæː 6
 hæːmøtːæː 6
@@ -25329,6 +25539,7 @@ aːltojen 6
 tsenɪt 6
 youtubesta 6
 youtube 6
+you tubessa 6
 ymmærtæːksenɪ 6
 yksɪløn 6
 yhteisø 6
@@ -25465,6 +25676,7 @@ this 6
 tepːo 6
 teoksen 6
 tel 6
+tekstɪ puhe ele 6
 teknoloɡɪa 6
 tehtɪːn 6
 tavɪanɪt 6
@@ -25487,6 +25699,7 @@ taitavat 6
 taisto 6
 taidampa 6
 taːvɪ 6
+teːveː kaksi 6
 tehtævæ 6
 taːs 6
 sæhkøpostɪosoite 6
@@ -25572,6 +25785,7 @@ reseptɪ 6
 reissu 6
 reilu 6
 rasvainen 6
+raparperɪ bloɡ 6
 rakasta 6
 raimo 6
 raija 6
@@ -25683,6 +25897,7 @@ naːpurɪn 6
 ænteːæsseː 6
 no 6
 niːn 6
+æn kahdeksansataː 6
 mæː 6
 mækɪnen 6
 mæ 6
@@ -25864,6 +26079,7 @@ kaikːɪhan 6
 kaikenlaista 6
 kahdeksan 6
 kaːrɪ 6
+koːær yhdeksæŋkymmentækaksi 6
 jæːkiekːo 6
 jætæn 6
 jærvelæn 6
@@ -25893,6 +26109,7 @@ jasu 6
 jaskas 6
 janea 6
 jahven 6
+jah relainen 6
 jaːaː 6
 jumalan 6
 itævalta 6
@@ -25954,6 +26171,7 @@ helvetːɪ 6
 helmen 6
 hello 6
 heinækuːssa 6
+head poverɪn 6
 havaitsɪn 6
 hassua 6
 hassanɪn 6
@@ -25969,6 +26187,7 @@ hifk 6
 ɡabor 6
 ɡeːhoːbeː 6
 ɡsi 6
+ɡeː kuːsikymmentæ 6
 freskoja 6
 frenkh 6
 forssan 6
@@ -25983,6 +26202,7 @@ federer 6
 fantasia 6
 fall 6
 æfteː 6
+æfæsteː viːsi 6
 æfæm 6
 etsɪn 6
 etɪopɪan 6
@@ -26011,6 +26231,7 @@ ellɪlæ 6
 elɪkːæs 6
 elieser 6
 ep 6
+eb kuːsikymmentækuːsi 6
 douɡlas 6
 diaɡnoːsɪ 6
 desktop 6
@@ -26079,10 +26300,45 @@ aːmun 6
 aːltoylɪopiston 6
 avɪ 6
 at 6
+viːsikymmentækolme ær 6
 viːsikymmentæluvun 6
+neljæ æks neljæ 6
+neljæ yksi 6
+kolme koːkoː 6
+kolme tuhatːa viːsisataː 6
 kolmesataːluvulla 6
+kolme viːsi 6
+kaksisataː kaksikymmentæ 6
+kaksi tuhatːa kolmekymmentæ 6
+kaksikymmentæ kolmekymmentæ 6
+tuhat yhdeksænsataː seitsemæŋkymmentæyksi 6
+tuhat yhdeksænsataː viːsikymmentæyksi 6
+tuhat yhdeksænsataː neljækymmentæyhdeksæn 6
+tuhat yhdeksænsataː neljækymmentækuːsi 6
+tuhat yhdeksænsataː kaksikymmentækolme 6
+tuhat yhdeksænsataː seitsemæntoista 6
+tuhat yhdeksænsataː kahdeksan 6
+tuhat yhdeksænsataːluvulla 6
+tuhat kahdeksansataː kahdeksaŋkymmentæluvulla 6
+sata seitsemæŋkymmentæseitsemæn 6
+sata seitsemæŋkymmentækuːsi 6
+sata kuːsikymmentæseitsemæn 6
+sata kuːsikymmentæviːsi 6
+sata kuːsikymmentækaksi 6
+tuhat kuːsisataː 6
+sata viːsikymmentæyhdeksæn 6
+sata neljækymmentæyhdeksæn 6
+sata kolmekymmentæyksi 6
+sata kaksikymmentækolme 6
+sata kaksikymmentækaksi 6
+tuhat kaksisataː 6
 kaksitoistavuotɪas 6
+sata kahdeksantoista 6
+tuhat sata 6
+sata yhdeksæn 6
+sata neljæ 6
 kymmenenvuotɪas 6
+kymmenen kaksitoista 6
 øː 5
 øljyt 5
 øljyllæ 5
@@ -29496,6 +29752,7 @@ kaːpelɪn 5
 kaːnonɪn 5
 kaːnonɪːn 5
 kaːkaojauhetːa 5
+koː kaksoisveːhoː 5
 jæːteløn 5
 jæːræ 5
 jæːnytːæ 5
@@ -29713,6 +29970,7 @@ ideoloɡɪaːn 5
 identɪteːtːɪnsæ 5
 ideanɪ 5
 iaŋkaikːɪsen 5
+iː pad 5
 hølmøltæ 5
 hæːpæivæ 5
 hævɪtːy 5
@@ -30449,6 +30707,7 @@ aːtetːa 5
 aːmupæivæ 5
 tsaphrɪne 5
 youtubeːn 5
+you tuben 5
 ympæristøn 5
 ympærillæ 5
 ymmærræt 5
@@ -30475,6 +30734,7 @@ yhdɪstys 5
 yhdeŋkɪn 5
 yhdellæ 5
 yt 5
+æks ʃava 5
 æksdeː 5
 voːl 5
 vilson 5
@@ -30610,6 +30870,7 @@ totːahan 5
 tosielæmæn 5
 tosɪasɪat 5
 torɪ 5
+top sport 5
 toːl 5
 tolstoin 5
 tokɪosta 5
@@ -31041,6 +31302,7 @@ mikon 5
 mietɪtæːmpæ 5
 mielenosoitus 5
 mieleːnɪ 5
+mi ɡeille 5
 metsɡerei 5
 messun 5
 merkurius 5
@@ -31051,6 +31313,7 @@ menen 5
 melɪssa 5
 melankholɪa 5
 meillækɪn 5
+æmseː karthy 5
 maya 5
 may 5
 maksɪm 5
@@ -31085,6 +31348,7 @@ makːe 5
 maken 5
 mainokset 5
 masɪn 5
+mak boːk 5
 maːnantain 5
 maːlɪskuːssa 5
 maːhanmuːtːo 5
@@ -31266,6 +31530,7 @@ kwin 5
 koskaːn 5
 kiːtos 5
 katso 5
+koː kahdeksantoista 5
 jæːskelæinen 5
 jæsenen 5
 jæsen 5
@@ -31297,12 +31562,14 @@ jokohan 5
 jok 5
 joitain 5
 johnsonɪn 5
+jo æn 5
 jinnɪn 5
 jetːɪ 5
 jetɪn 5
 jessɪka 5
 jere 5
 jemenissæ 5
+java skript 5
 jatːa 5
 janssonɪn 5
 janɪlla 5
@@ -31416,7 +31683,9 @@ haːpasen 5
 haːkana 5
 hyvæː 5
 hyvæ 5
+hi vin 5
 hiv 5
+hoːaːiː rahtanut 5
 ɡunrayn 5
 ɡrimmɪn 5
 ɡraham 5
@@ -31438,6 +31707,9 @@ feːd 5
 fedjasetæ 5
 fahrenheit 5
 fin 5
+æf kaksisataː viːsikymmentæ 5
+æf kahdeksan 5
+æf sata 5
 eyes 5
 ekstra 5
 ekspress 5
@@ -31482,6 +31754,7 @@ evm 5
 ekp 5
 ek 5
 eit 5
+ek sata kaksikymmentæyksi 5
 dovn 5
 disneyn 5
 disklaimer 5
@@ -31513,6 +31786,7 @@ kharlotːe 5
 katherɪnen 5
 kasɪmɪr 5
 kaskabelɪn 5
+seːaː sata kaksikymmentæviːsi 5
 børje 5
 burɡ 5
 bukk 5
@@ -31605,10 +31879,63 @@ atn 5
 ainoa 5
 aiheːt 5
 aɡryn 5
+aː yksi 5
+yhdeksænsataː kaksikymmentæ 5
+kahdeksan koːkoː 5
 seitsemæŋkymmentæluvulta 5
 kuːsikymmentæluvun 5
+kuːsi seitsemæn 5
+viːsi veː 5
+viːsisataː kaksikymmentæ 5
+viːsi kuːsi 5
+neljæsataː kahdeksaŋkymmentækolme 5
+neljæsataː viːsikymmentæviːsi 5
+neljæ kolme 5
+kolme ɡeː 5
+kolmesataː kahdeksaŋkymmentæ 5
+kolmesataː kuːsikymmentæ 5
+kolmesataː viːsikymmentækahdeksan 5
+kolmekymmentæ koːɡeː 5
 kolmekymmentæluvun 5
+kolme kuːsi 5
+kaksi æks 5
+kaksisataː seitsemæŋkymmentækaksi 5
+kaksisataː kolmekymmentæseitsemæn 5
+kaksisataː viːsitoista 5
+kaksisataː neljætoista 5
+kaksisataː kolmetoista 5
+kaksi viːsi 5
+kaksi neljæ 5
+sata yhdeksæŋkymmentæyhdeksæn 5
+sata yhdeksæŋkymmentækuːsi 5
+tuhat yhdeksænsataː neljækymmentæluvun 5
+tuhat yhdeksænsataː kolmekymmentæviːsi 5
+tuhat yhdeksænsataː kolmekymmentækolme 5
+tuhat yhdeksænsataː kolmekymmentækaksi 5
+tuhat yhdeksænsataː kolmekymmentæluvun 5
+tuhat yhdeksænsataː kolmekymmentæluvulla 5
+tuhat yhdeksænsataː kaksikymmentækahdeksan 5
+tuhat yhdeksænsataː kaksikymmentæneljæ 5
+sata yhdeksæŋkymmentækaksi 5
+tuhat yhdeksænsataː yhdeksæntoista 5
+tuhat yhdeksænsataː viːsitoista 5
+sata kahdeksaŋkymmentækahdeksan 5
+sata kahdeksaŋkymmentæviːsi 5
+kahdeksantoista kaksikymmentæ 5
+tuhat kuːsisataː seitsemæŋkymmentækahdeksan 5
+sata kuːsikymmentækolme 5
+sata kuːsikymmentæyksi 5
 kuːsitoistavuotɪaːna 5
+sata viːsikymmentæseitsemæn 5
+sata viːsikymmentækaksi 5
+tuhat neljæsataːluvun 5
+tuhat kolmesataːluvulla 5
+kymmenen veː 5
+kymmenen min 5
+kymmenen koːɡeː 5
+sata kahdeksan 5
+kymmenen kaksikymmentæ 5
+nolla nolla 5
 øljystæ 4
 øinæ 4
 ostadkomma 4
@@ -32820,6 +33147,7 @@ tilaisuːtensa 4
 tilaisuːksɪːn 4
 tilaːt 4
 tilaːmɪnen 4
+tilaː akateːmɪsesta 4
 tikːua 4
 tikːu 4
 tikɪtːæː 4
@@ -34581,6 +34909,7 @@ paːsata 4
 paːluːn 4
 paːhtaː 4
 paːhdetːu 4
+peː hoːarvo 4
 ovɪssa 4
 ovɪːn 4
 ovela 4
@@ -37125,6 +37454,8 @@ identːisɪæ 4
 ideansa 4
 idaɡ 4
 iaŋkaikːɪseːn 4
+iː tunesissa 4
+iː padɪlla 4
 høyhenet 4
 hørhøilyæ 4
 hømpːæ 4
@@ -38200,6 +38531,8 @@ tsaran 4
 ystævien 4
 yrjænæn 4
 yrjænæ 4
+you tubeːn 4
+you tube 4
 yllætːævæ 4
 ylɪopːɪlaslehtɪ 4
 ylɪmokutːajan 4
@@ -38216,7 +38549,10 @@ yhteːnvetoa 4
 yhdysvalloista 4
 yhdeksɪ 4
 yamaha 4
+kspress musɪsɪn 4
+vord pressɪn 4
 vomen 4
+vo kaksoisveːpelɪæ 4
 vindyæ 4
 villɪn 4
 vilhelm 4
@@ -38231,6 +38567,7 @@ vashɪŋtonissa 4
 vallɪn 4
 vallase 4
 valford 4
+vap kaksi 4
 væyrynen 4
 værɪt 4
 værɪn 4
@@ -38283,6 +38620,7 @@ verkːolehtɪ 4
 venæjæːn 4
 venetsuelassa 4
 veljestæ 4
+velɪ syŋkæn 4
 velhon 4
 veikːaisɪn 4
 vehvɪlæisuːtɪsestaːn 4
@@ -38800,6 +39138,7 @@ pumpun 4
 pulkːɪnen 4
 puhutːɪːn 4
 puhutaːn 4
+puhujaiŋ kulma 4
 puheːn 4
 puhdas 4
 provɪnssɪrokk 4
@@ -39054,8 +39393,10 @@ naiselle 4
 naisella 4
 naːmɪoiden 4
 naːmakirjassa 4
+nuo kaksi 4
 ænhoːæl 4
 ne 4
+æn yhdeksæŋkymmentæviːsi 4
 mærta 4
 mækɪn 4
 mæen 4
@@ -39063,6 +39404,7 @@ myøhempien 4
 myːtːien 4
 myːntɪkeskustelwɪssa 4
 mystɪnen 4
+my spase 4
 muːtakɪn 4
 muːmɪt 4
 muːmɪpapan 4
@@ -39117,6 +39459,7 @@ mikːelɪn 4
 mietːeitæ 4
 mielɪpuolɪ 4
 mielessæ 4
+mi ɡeistæ 4
 metːe 4
 metsæstæjæt 4
 metsæstys 4
@@ -39192,10 +39535,12 @@ maːɪlmanlaːjwɪsestɪ 4
 maːɪlmaŋkɪrjat 4
 maːherra 4
 æmæsæn 4
+æmpeː kolme 4
 æmæmkisoja 4
 æmæmkisat 4
 mitæːn 4
 æmseː 4
+æm bnet 4
 løytyisikø 4
 løytyi 4
 løpɪnæː 4
@@ -39500,6 +39845,7 @@ koːdeː 4
 kainuː 4
 kaikɪlle 4
 koːbloɡɪ 4
+koː viːsitoista 4
 jætːækæː 4
 jærvempæːn 4
 jærjen 4
@@ -39544,6 +39890,7 @@ johtavat 4
 johdanto 4
 joensuːssa 4
 joensuːhun 4
+jo nin 4
 jepːe 4
 jenny 4
 jennɪn 4
@@ -39774,6 +40121,7 @@ ferrarɪ 4
 fenson 4
 felɪks 4
 faseboːkɪsta 4
+æf neljæ beː 4
 euroːpːaliːɡassa 4
 euroliːɡan 4
 euro 4
@@ -39852,6 +40200,7 @@ est 4
 enemmæn 4
 elæmæn 4
 esimerkiksifleiskhvarenfabrɪk 4
+eː neljæ 4
 eːkortːɪ 4
 dyrendal 4
 dylanɪn 4
@@ -40071,16 +40420,100 @@ aːveita 4
 aːtamɪn 4
 aːrne 4
 aːh 4
+aim yhdeksæn 4
+aim seitsemæn 4
+aid sin 4
 afp 4
 aːdeː 4
+aː neljæ 4
+kahdeksansataː seitsemæŋkymmentæ 4
+kahdeksansataː viːsikymmentæ 4
 kahdeksaŋkymmentæluvulta 4
+kahdeksan yhdeksæn 4
+seitsemæn veː 4
+seitsemænsataː kaksikymmentæ 4
 seitsemænvuotɪas 4
+kuːsi koːkoː 4
+kuːsisataː viːsikymmentæ 4
+kuːsisataː kaksikymmentækuːsi 4
+kuːsikymmentæ min 4
+kuːsisataː seitsemæn 4
+kuːsikymmentæ seitsemæŋkymmentæ 4
+viːsi min 4
+viːsi koːkoː 4
+viːsi eː 4
+viːsikymmentæ min 4
+viːsi kahdeksan 4
+neljæ veː 4
+kolme veː 4
+kolme hoː 4
+kolmesataː kuːsikymmentæviːsi 4
+kolmesataː kaksikymmentæ 4
+kolmesataː viːsitoista 4
 kolmesataːluvulta 4
+kolme kaksi 4
+kaksi koːɡeː 4
+kaksisataː yhdeksæŋkymmentæseitsemæn 4
+kaksisataː kahdeksaŋkymmentækaksi 4
+kaksisataː seitsemæŋkymmentæ 4
+kaksisataː kuːsikymmentæ 4
+kaksisataː viːsikymmentækuːsi 4
+kaksikymmentæviːsi kolmekymmentæ 4
+kaksisataː neljækymmentæseitsemæn 4
+kaksisataː neljækymmentæviːsi 4
+kaksisataː neljækymmentæneljæ 4
+kaksisataː kolmekymmentæneljæ 4
 kaksikymmentækolmevuotɪas 4
+kaksisataː kaksikymmentæyhdeksæn 4
+kaksisataː kaksikymmentæyksi 4
 kaksikymmentækaksivuotɪas 4
+kaksisataː seitsemæntoista 4
+kaksisataː kuːsitoista 4
+kaksisataː kaksitoista 4
+kaksi tuhatːa viːsikymmentæ 4
+kaksisataː viːsi 4
+kaksisataː ɡeː 4
+yksi veː 4
+yksi koːɡeː 4
+sata yhdeksæŋkymmentækahdeksan 4
+tuhat yhdeksænsataː kuːsikymmentæluvulta 4
+tuhat yhdeksænsataː viːsikymmentækolme 4
+tuhat yhdeksænsataː viːsikymmentæluvulla 4
+sata yhdeksæŋkymmentæviːsi 4
+tuhat yhdeksænsataː kolmekymmentæyksi 4
+tuhat yhdeksænsataː kolmekymmentæ 4
+tuhat yhdeksænsataː kaksikymmentæluvulla 4
+tuhat yhdeksænsataː kolmetoista 4
+tuhat kahdeksansataː yhdeksæŋkymmentæseitsemæn 4
+tuhat kahdeksansataː kahdeksaŋkymmentæyhdeksæn 4
+sata kahdeksaŋkymmentæneljæ 4
+sata kahdeksaŋkymmentækolme 4
+tuhat seitsemænsataː kahdeksaŋkymmentæviːsi 4
+sata seitsemæŋkymmentækahdeksan 4
+sata seitsemæŋkymmentæneljæ 4
+sata seitsemæŋkymmentækolme 4
+sata kuːsikymmentæneljæ 4
+tuhat kuːsisataːluvun 4
 kuːsitoistavuotɪas 4
+kuːsitoista yhdeksæntoista 4
+sata viːsikymmentækahdeksan 4
+sata viːsikymmentækolme 4
+sata neljækymmentæviːsi 4
+sata kolmekymmentæyhdeksæn 4
+sata kolmekymmentækuːsi 4
+tuhat kolmesataː 4
 kolmetoistavuotɪas 4
+tuhat kaksisataːluvulle 4
+kaksitoista kolmetoista 4
+sata viːsitoista 4
 yksitoistavuotɪas 4
+sata kuːsi 4
+sata yksi 4
+sata æm 4
+yksi kuːsi 4
+yksi kymmenen 4
+nolla neljækymmentæ 4
+nolla kymmenen 4
 øyhøtːævæ 3
 øveriksɪ 3
 øver 3
@@ -40416,6 +40849,7 @@ yh 3
 year 3
 ydɪnvoimaloiden 3
 yadːa 3
+æks kaksi 3
 vorld 3
 viŋk 3
 vikɪsanakirjoissa 3
@@ -40751,6 +41185,7 @@ viːkonlopːuːn 3
 viːkollakɪn 3
 viːkoista 3
 viːkːotolkulla 3
+viːkːoa yksi 3
 viːhtyvænsæ 3
 viːhtyvæ 3
 viːhtyi 3
@@ -40794,6 +41229,7 @@ vietːelɪ 3
 vietnamɪlaislentæjæt 3
 vietnamɪlaishævitːæjæt 3
 viet 3
+viestɪt yksi 3
 viestɪssæːn 3
 viestɪssænɪ 3
 viestɪntæːn 3
@@ -44171,6 +44607,7 @@ pærjæːn 3
 pærjæːmɪsen 3
 pærjæsɪn 3
 pærjænneːt 3
+pæivæː kaksi 3
 pæivæunille 3
 pæivæsɪ 3
 pæivæsakːoːn 3
@@ -44182,6 +44619,7 @@ pæivækodɪt 3
 pæivækodista 3
 pæivækirjanɪ 3
 pæivækausɪksɪ 3
+pæivæ seitsemæn 3
 pæivɪtyksessæ 3
 pæivɪtːæisestæ 3
 pæivɪtːyvæt 3
@@ -46050,6 +46488,7 @@ mwistaneːt 3
 mwinaisille 3
 mwillakaːn 3
 mskonfɪɡ 3
+æmpeː kolme 3
 movie 3
 moukːamaisuːtensa 3
 motːɪa 3
@@ -47575,7 +48014,10 @@ kuːleman 3
 kuːlat 3
 kuːlas 3
 kuːla 3
+kuːkautːa kuːsi 3
+kuːkautːa yksi 3
 kuːkausista 3
+kuːkausɪ kolme 3
 kuːkaudesta 3
 kuːkaudeksɪ 3
 kuːdeŋkymmenen 3
@@ -47665,6 +48107,7 @@ kunnɪansa 3
 kunnɪanhɪmon 3
 kunnɪakːaːstɪ 3
 kunnanvaltuːston 3
+kunnallisvaːlɪt kaksi tuhatːa kahdeksan 3
 kunnallɪsella 3
 kunɪŋkailla 3
 kunɪŋkaːllɪnen 3
@@ -48390,7 +48833,9 @@ kiehua 3
 kiehtovuːtːa 3
 kiehtovɪn 3
 kiehtovastɪ 3
+koːhoː kaksi 3
 kevæːnækɪn 3
+kevæt muot ikatsaus 3
 kevæisɪn 3
 kevæiset 3
 kevyemmællæ 3

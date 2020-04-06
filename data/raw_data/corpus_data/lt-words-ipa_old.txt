@@ -1117,6 +1117,7 @@ koːnkursoː 113
 kʲeɭe 113
 kʲeɭetas 113
 ɪn 113
+i bhoːnʲe 113
 el̩kael̩ 113
 darbas 113
 ʒaidʲɪmas 112
@@ -1540,6 +1541,7 @@ toːmas 88
 tʲen 88
 pʲirmaʂis 88
 paskutʲɪnʲis 88
+bl̩oː ɡas 88
 ʒoːdʑʲus 87
 ɕʲaː 87
 iːtakoːs 87
@@ -1950,6 +1952,7 @@ dauɡeuʂei 72
 autoːrʲeus 72
 atʲitʲɪnka 72
 iksɪks 72
+vʲeeeʃ iː 72
 pranʲeɕɪmas 72
 pʲɪrmas 72
 aɭɡɪrdas 72
@@ -3430,6 +3433,7 @@ atʲvʲɪras 44
 aʂmʲenʲɪnʲis 44
 abʒval̩ɡoːs 44
 anoːt 44
+voːrt prʲes 44
 vʲɪsai 44
 ukrainoːs 44
 svarbʲeuʂe 44
@@ -4797,6 +4801,7 @@ kʲeptʲi 32
 kaʃkam 32
 kambarʲui 32
 kal̩bu 32
+ka dʲvʲiɡubavee 32
 juːroːje 32
 jausmuː 32
 jaunʲɪmui 32
@@ -4962,6 +4967,7 @@ koːɭektsʲɪjaː 31
 kʲitoːkʲie 31
 kʲɪtai 31
 kʲeiʂtʲis 31
+ka bʲee 31
 jumʲɪs 31
 judʲeejɪmoː 31
 iɕrʲɪnktas 31
@@ -5137,6 +5143,7 @@ iɕtʲekɭʲuː 30
 iɕɡiːvʲenʲtʲi 30
 inʲvʲestavʲɪmoː 30
 inʲtʲernʲetʲɪnʲee 30
+i oːs 30
 heroːjus 30
 ɡrʲɪpoː 30
 ɡerʲeuʂʲus 30
@@ -5422,6 +5429,7 @@ statʲiʂtʲɪka 29
 skaitʲiːtʲi 29
 rʲenʲɡɪnʲʲuː 29
 prʲiedai 29
+poːkʲer nʲevs 29
 pʲinʲɪɡuː 29
 paʑɪnʲtʲiːs 29
 pasvaɭʲoː 29
@@ -6075,6 +6083,7 @@ kɭientoː 26
 ktu 26
 juos 26
 joːnavoːs 26
+java ʂtsrʲɪpt 26
 japoːnʲijoːje 26
 ɪtʲin 26
 ɡimʲɪmoː 26
@@ -6532,6 +6541,7 @@ iɕɪmtʲis 24
 inʲʑinʲierʲus 24
 imaɡe 24
 ɪɭe 24
+i poːt 24
 ɡiːvʲenanʲtʲis 24
 ɡiːdʲiːtoːjoː 24
 ɡiːdʲiːtoːjai 24
@@ -6633,6 +6643,7 @@ darbai 24
 tsaʂpʲeras 24
 buitʲɪnʲee 24
 bʲerɭiːnʲe 24
+baʂkʲet sl̩avʲe 24
 auʂtʲrʲɪjoːs 24
 atʲvʲirutʲees 24
 aʂmʲenʲɪnʲees 24
@@ -7232,6 +7243,7 @@ hatʲeetsʲee 22
 ɡrʲeitas 22
 foːrumoː 22
 firasai 22
+euroː baʂkʲet 22
 eʂtʲijoːje 22
 dʑeuɡemʲees 22
 druʂkʲinʲɪnkuː 22
@@ -7559,6 +7571,7 @@ naudoːjimoːʂi 21
 moːʑee 21
 mʲitskʲevʲɪtɕʲus 21
 mʲekʂɪkoːs 21
+emtsʲee l̩arʲen 21
 ɭiːras 21
 l̩anʲkʲiːtʲɪnoːs 21
 l̩aisval̩aikʲoː 21
@@ -7845,6 +7858,7 @@ inʲtʲernʲetʲɪnʲis 20
 inʲtʲerʲesus 20
 infoːrmatsʲɪnʲees 20
 jieʃkoːmʲe 20
+i pat 20
 ɡiːvavʲɪmoː 20
 ɡroːʑiː 20
 ɡɪmdoːs 20
@@ -8295,6 +8309,7 @@ esam 19
 eɭektroːnʲɪnʲis 19
 eɡzamʲɪnas 19
 efektaː 19
+ea nʲiːu 19
 dʑeuɡeeʂi 19
 dʲeekoːju 19
 duʃas 19
@@ -8346,6 +8361,7 @@ aktʲiːvʲuː 19
 aktuaɭi 19
 aiɕkʲɪnoː 19
 adrʲesus 19
+iːoːu tubʲe 19
 vʲikʲipʲedʲe 19
 vʲitaɭɪjus 19
 vʲɪɭʲus 19
@@ -8389,6 +8405,7 @@ paul̩oː 19
 paul̩ 19
 paʂkʲeɭbʲee 19
 pasauɭɪnʲee 19
+paraɕee dʑʲuɡas 19
 paraɕiːkʲɪtʲe 19
 nuol̩at 19
 noːrvʲeɡɪjoːs 19
@@ -9336,11 +9353,13 @@ anas 17
 al̩uː 17
 aɭiejumʲi 17
 aiɕkʲi 17
+air baɭtʲits 17
 aboːnʲentuː 17
 iːɡrʲekemdʲee 17
 ksvʲɪ 17
 voːrtprʲes 17
 vʲɪɭɭems 17
+vʲɪ fɪ 17
 vʲɪʂiem 17
 vʲersatsʲe 17
 vʲeikl̩a 17
@@ -9436,6 +9455,7 @@ draudʲɪmas 17
 dʲɪrboː 17
 dʲena 17
 dʲeɕimt 17
+darnʲi poːra 17
 bul̩ɡarʲɪja 17
 bl̩oːoːmbʲerk 17
 bʲɪk 17
@@ -9451,6 +9471,7 @@ anʲdrʲeas 17
 akʲɪʂmʲet 17
 ai 17
 afɡanʲistanʲe 17
+a aiddʲenʲnʲʲum 17
 ʑvʲɪl̩kʂnʲis 16
 ʑvʲejiːba 16
 ʒurnal̩us 16
@@ -10018,6 +10039,7 @@ moːdʲernus 16
 mʲɪɕʲuː 16
 mʲɪl̩da 16
 mʲiestai 16
+emtsʲee ɡee 16
 maʑeu 16
 maʒas 16
 manʲxʲeʂtʲer 16
@@ -11892,6 +11914,7 @@ pʲɪl̩ka 13
 pʲɪɡuːs 13
 pʲiɡeʂnʲi 13
 pʲieɕɪnʲʲuː 13
+pʲeehapʲee bʲeebʲee 13
 pʲerʂikʲeeɭee 13
 pʲerkʲel̩tas 13
 pʲerʲims 13
@@ -12169,6 +12192,7 @@ iɭɡeʂnʲis 13
 ikoːnoːs 13
 ikoːna 13
 idoːmus 13
+i tunʲes 13
 heroːjai 13
 hermʲetʲɪkas 13
 ɡeerʲɪmas 13
@@ -12225,6 +12249,7 @@ ekoːl̩oːɡɪʃkas 13
 ʲeil̩utɕʲuː 13
 ʲeiɭɪnʲʲoː 13
 ʲeik 13
+ea foːtoː 13
 dʲeeʂtʲiːtʲi 13
 dvʲimʲieʂtʲis 13
 dvʲikoːvaː 13
@@ -12493,6 +12518,7 @@ hoːnda 13
 ɡimtoːji 13
 ɡɪ 13
 ɡaraʒai 13
+ɡamʲe dʲev 13
 foːtoːɡrafas 13
 foːrum 13
 fil̩oːsoːfɪjoːs 13
@@ -13385,6 +13411,7 @@ staɡnʲʲuːnas 12
 spauʂdʲinʲɪmui 12
 soːtsʲeɭɪnʲee 12
 ʂnʲieɡas 12
+ʂkʲiː nʲet 12
 ʂkrʲiːdʑei 12
 ʂkʲeɭbʲemʲe 12
 ʂimoːnoː 12
@@ -13424,6 +13451,7 @@ pʲetʲrʲukas 12
 paʑʲuːrʲeekʲɪtʲe 12
 paʑɪnʲtɕʲuː 12
 paʑinʲtʲɪnʲee 12
+paiː pal̩ 12
 pavʲeiksl̩ai 12
 paskoːl̩uː 12
 parʲiːʑʲuː 12
@@ -13435,6 +13463,7 @@ paduvʲietɕʲoː 12
 pʲeeem 12
 pʲiɡei 12
 oːnʲɭɪnʲe 12
+oːnʲe noːtʲe 12
 oːfitsʲijal̩u 12
 oːfitsʲeɭei 12
 nʲiːdʲerl̩anduoʂe 12
@@ -13471,6 +13500,7 @@ makvʲeʒa 12
 emtʲeevʲee 12
 ɭiːdʲerʲei 12
 l̩ukauʂkʲis 12
+el̩tʲee dauɡeu 12
 l̩oːrʲeta 12
 l̩oːndoːnaː 12
 ɭʲuːnʲee 12
@@ -13497,6 +13527,7 @@ kl̩ubas 12
 kɭientai 12
 kɭeoːpoː 12
 kʲijevoː 12
+kʲestutʲis ka 12
 kʲeptʲi 12
 kʲembrʲɪdʒoː 12
 kʲeɭi 12
@@ -13581,6 +13612,7 @@ bʲeranʲkʲoː 12
 bʲendroːʂʲoːs 12
 bʲendradarbʲevʲɪmas 12
 bʲeɭɡijoːje 12
+baʂkʲet nʲevs 12
 bankas 12
 baɭtɕʲuːnas 12
 bl̩oːɡas 12
@@ -14166,6 +14198,7 @@ mar 11
 manoːknʲiːɡa 11
 manʲes 11
 mal̩oːnaus 11
+em a 11
 l̩uːkʲeʂtɕei 11
 ɭiːtʲiː 11
 ɭiːtʲɪnʲʲoː 11
@@ -14430,6 +14463,7 @@ daɭiːvavʲɪmaː 11
 daɭiːkuoʂe 11
 daɭe 11
 daiɭei 11
+dʲee ɡaɭʲoːja 11
 tsʲeetʲee 11
 tsoːpʲiː 11
 tsl̩oːʂet 11
@@ -14555,6 +14589,7 @@ vʲestuvʲees 11
 vʲertɕeu 11
 vʲertʲinʲɪmas 11
 vʲersus 11
+vʲersl̩oː savaɪtʲe 11
 vʲera 11
 vʲentskus 11
 vaʑʲuojant 11
@@ -14605,6 +14640,7 @@ saint 11
 sabbadh 11
 eser 11
 soːs 11
+esea oːtʲiːrʲɪmai 11
 runʲktʲiːnʲʲuː 11
 roːmanas 11
 roːkanʲtʲɪɕkʲuː 11
@@ -14772,6 +14808,7 @@ fiksuotoː 11
 faustas 11
 faks 11
 fatsʲeboːoːkʲe 11
+fatsʲe boːoːk 11
 fabʲijoːnas 11
 efentʲeetʲee 11
 eɭektʲrʲeenai 11
@@ -15995,6 +16032,7 @@ sudʲeetʲis 10
 subaru 10
 staʂee 10
 ʂpʲeeju 10
+ʂpʲɪntoːs ɡuru 10
 ʂpʲetsʲeɭei 10
 smurtas 10
 smart 10
@@ -16039,6 +16077,7 @@ raiː 10
 raudoːnoːjoː 10
 radvʲiɭɪɕkʲis 10
 radʲʲoː 10
+eres ɭietuva 10
 erɡeebʲee 10
 rʲekl̩ama 10
 proːfeʂɪnʲʲoː 10
@@ -16051,6 +16090,7 @@ pranʲeʃama 10
 praʲeitʲis 10
 poːpuɭeruːs 10
 poːpʲieʑeus 10
+poːtskʲet boːoːk 10
 pl̩unʲɡeeje 10
 pʲirktɕeu 10
 pʲiɭipavʲɪtɕʲus 10
@@ -16241,6 +16281,7 @@ branʲɡeuʂei 10
 bʲeeer 10
 bl̩ur 10
 bl̩oːɡoːs 10
+bl̩oːk oːut 10
 bʲirʃtoːnas 10
 bʲil̩oːtaɪtʲee 10
 bʲetʲiːɡal̩oːs 10
@@ -17376,6 +17417,8 @@ eɭemʲentas 9
 ekoːnoːmʲɪʃkai 9
 ekʲipoːje 9
 ʲeinam 9
+ea pasu 9
+ea pasas 9
 dʑʲoːvʲɪntuː 9
 dʑʲoːvʲintuvai 9
 dʲeeʑes 9
@@ -17742,6 +17785,7 @@ pavadʲinʲɪmaː 9
 patʲɪrtʲis 9
 pastatoː 9
 paskoːl̩a 9
+partʲiː poːkʲer 9
 pamʲɪrʃau 9
 paɭetskʲoː 9
 pabaɭtʲɪjoː 9
@@ -17785,6 +17829,7 @@ endʲeeentʲee 9
 nauja 9
 namʲeɭʲus 9
 mʲeeɭiːna 9
+mʲiː eskuːel̩ 9
 moːnsantoː 9
 moːnʲɪkoːs 9
 moːnakoː 9
@@ -17797,11 +17842,13 @@ mʲitskʲevʲitɕeus 9
 mʲixail̩as 9
 mʲixael̩as 9
 mʲekʂikoːje 9
+emtsʲee tsartʲnʲeiː 9
 maʑeʂnʲʲuːjuː 9
 maʒaʂis 9
 matoːtʲe 9
 matau 9
 martʲinsoːnas 9
+markʲet nʲevs 9
 marʲis 9
 marʲinuotʲi 9
 mairoːnʲis 9
@@ -17899,6 +17946,7 @@ inʲtʲertʲekst 9
 ɪn 9
 ɪnfoː 9
 inʲeta 9
+ɪnʲdʲiː tsar 9
 jieʃkoːkʲɪtʲe 9
 ieskau 9
 idʲeejuː 9
@@ -17936,6 +17984,7 @@ evʲernoːtʲe 9
 euroːpas 9
 eʂmʲɪnʲis 9
 epʲiɭetoːrʲei 9
+em va 9
 eɭektroːnʲinʲei 9
 eɭektʲrʲinʲei 9
 ekstraʂensuː 9
@@ -17983,6 +18032,7 @@ bradɭeiː 9
 boːkoː 9
 bl̩oːɡoːʂfera 9
 bl̩oːɡerʲuː 9
+bl̩oːk oːut 9
 bʲenʲitʲezas 9
 bʲendroːjoː 9
 bʲeɭɡɪja 9
@@ -19410,6 +19460,7 @@ foːrmoːje 8
 foːrmatʲe 8
 foːrmaɭei 8
 foːɭɪja 8
+fɭiː l̩al̩ 8
 fiʑɪnʲees 8
 firmʲɪnʲis 8
 finansus 8
@@ -19448,6 +19499,7 @@ ekʂpʲertoː 8
 eɡʑistuotʲi 8
 efektoː 8
 ex 8
+ea pasoː 8
 dʲeeɭʲoːtʲi 8
 dʲeekoːja 8
 dvʲidʲeɕɪmtʲies 8
@@ -19515,6 +19567,7 @@ daiktais 8
 dabartʲis 8
 dabartʲinʲei 8
 tsoːl̩oːr 8
+tsʲinamoːnoː krautuvʲeɭe 8
 tsʲerʲemoːnʲɪjaː 8
 tsʲerʲemoːnʲɪjoːs 8
 tsʲenʲtʲrʲɪnʲis 8
@@ -19720,6 +19773,7 @@ vʲestuvʲuː 8
 vʲestuvʲinʲei 8
 vʲenʲesuel̩oːs 8
 varʃuva 8
+varʲoː fɪbʲer 8
 vaɭerʲɪja 8
 val̩anʲtɕʲuːnui 8
 vaiɕvʲɪl̩ai 8
@@ -19853,6 +19907,7 @@ raikoːnʲenas 8
 radɭɪnskoː 8
 roːdoː 8
 pubɭitsʲiʂtʲɪka 8
+proː tsoːmfoːrt 8
 prʲimʲɪnʲtʲi 8
 prʲiekuɭees 8
 prʲenumʲeratoːs 8
@@ -19863,6 +19918,8 @@ poːtʲvʲiːnʲis 8
 poːrtuɡaɭijoːje 8
 poːrai 8
 poːɭitʲɪkoːs 8
+poːkʲer stars 8
+pl̩aiː statʲʲoːn 8
 pl̩aiː 8
 pl̩anuotoːs 8
 pl̩akatai 8
@@ -20177,6 +20234,7 @@ banɡa 8
 banʲdʑeu 8
 bal̩tai 8
 bal̩koːnuː 8
+bʲeedʲee rʲɪp 8
 baroːtsa 8
 aʑɪja 8
 avʲɪra 8
@@ -20220,6 +20278,8 @@ akroːpoːɭis 8
 aɡroː 8
 aɡnʲees 8
 aɡnʲiezska 8
+at voːrts 8
+at boːks 8
 abʲeetsʲeeɭɪnʲis 8
 abʲi 8
 aa 8
@@ -20397,6 +20457,7 @@ zoːdʑeis 7
 ʑemʲe 7
 zal̩a 7
 ʑee 7
+iks dʲeeesel̩ 7
 voːrl̩t 7
 voːrtprʲes 7
 vʲiːʂtʲiːtʲis 7
@@ -22347,6 +22408,7 @@ vaizdai 7
 vaivoːs 7
 vaivoːrʲiːkɕtʲees 7
 vairavʲɪmoː 7
+vaikoː kambarʲiːs 7
 vaikʲɪʃkas 7
 vaɡa 7
 vae 7
@@ -22390,6 +22452,7 @@ tvoːu 7
 tui 7
 tvam 7
 tʲen 7
+tʲeeea dʲeeɪks iːoːudh 7
 ʂvʲɪft 7
 svarbus 7
 suʑɪnoːk 7
@@ -22407,6 +22470,7 @@ statskas 7
 ʂrʲɪtʲis 7
 ʂpʲeeɭʲoːnʲees 7
 ʂprʲenʲdʲɪmai 7
+spoːrtoː tʲeevʲee 7
 ʂpʲetsʲeɭizuotas 7
 spauʂdʲintuvai 7
 spauda 7
@@ -22468,6 +22532,7 @@ rʲiːʃkus 7
 rʲiːtai 7
 ruʂnʲeɑ 7
 rubʲinoːvas 7
+eres vʲee 7
 roːtuɕeeje 7
 roːmnʲeiː 7
 roːmʲerʲoː 7
@@ -22530,6 +22595,11 @@ pradʲedamas 7
 prabanɡus 7
 poːvʲer 7
 poːvʲil̩aɪtɕʲoː 7
+poːst tak ɪtsoːn 7
+poːst headʲer ɪtsoːn 7
+poːst datʲe ɪtsoːn 7
+poːst tsatʲeɡoːrʲiː ɪtsoːn 7
+poːst audhoːr ɪtsoːn 7
 poːpuɭerʲi 7
 poːp 7
 poːkaɭbʲuː 7
@@ -22580,6 +22650,7 @@ paɭmʲɪroːs 7
 pal̩aimʲintoːjoː 7
 pakutuvʲeenuoʂe 7
 pakaboːs 7
+paɡe rank 7
 paɡal̩voːk 7
 pabanʲdʲiːkʲɪtʲe 7
 pur 7
@@ -22659,6 +22730,7 @@ mʲikal̩oːjus 7
 mʲetʲɪnʲee 7
 mʲetas 7
 mʲetais 7
+mʲeta tradʲer 7
 mʲenʲʲu 7
 mʲedʲitsʲinʲɪnʲee 7
 maʒoːjoː 7
@@ -22672,6 +22744,7 @@ marʲijoːnas 7
 marʲe 7
 marɡas 7
 manoːtʲe 7
+manoː knʲiːɡa 7
 manʲeu 7
 makʲɪta 7
 makaɭʲus 7
@@ -22687,6 +22760,7 @@ mama 7
 l̩oːkhit 7
 l̩oːɡinʲei 7
 l̩oːebas 7
+ɭɪvʲe joːurnal̩ 7
 ɭʲukʂemburɡoː 7
 ɭʲukʂemburɡas 7
 ɭinʲkʲeejɪmai 7
@@ -22738,6 +22812,7 @@ kl̩upʃ 7
 kɭientams 7
 kl̩avʲetuːroːs 7
 kl̩auʂiːk 7
+kʲɪtoːs knʲiːɡoːs 7
 kʲɪtoː 7
 kʲɪnk 7
 kʲeptuvʲeeje 7
@@ -22843,6 +22918,8 @@ futurama 7
 fujɪtsu 7
 frankfurtaː 7
 foːks 7
+foːtoː srautas 7
+foːtoː moːkʲiːkl̩a 7
 foːkoːɭeruː 7
 finanʲtsʲel̩ 7
 fedʲeratsʲɪjoːs 7
@@ -23009,6 +23086,7 @@ ak 7
 aiʂtʲees 7
 airbus 7
 airbaɭtʲits 7
+air baɭtʲits 7
 aidaː 7
 aida 7
 aɡnʲe 7
@@ -24084,6 +24162,7 @@ pʲiɭiːje 6
 pʲil̩oːtoː 6
 pʲɪɭkʲi 6
 pʲiɭietɕʲui 6
+pʲiɭietɕeis kʲɪɭtʲi 6
 pʲiɭietʲɪnʲeɑ 6
 pʲiɭietʲɪnʲʲoː 6
 pʲiɭevʲietʲees 6
@@ -25255,6 +25334,7 @@ eji 6
 eɡʑistavoː 6
 eɡl̩utʲees 6
 efektʲiːvʲuː 6
+ea baiː 6
 eakoːmʲertsʲɪja 6
 eaapkl̩ausa 6
 dʑʲunʲɡɭʲuː 6
@@ -25814,6 +25894,7 @@ sudʲeeɭʲoːkʲɪtʲe 6
 sudoːmʲɪnoː 6
 subatɕeus 6
 suauɡuʂʲuːjuː 6
+stumbɭe upoːn 6
 studʲɪja 6
 ʂtʲrʲiptʲɪzoː 6
 stoːɡoː 6
@@ -25840,6 +25921,7 @@ soːn 6
 soːjoːs 6
 ʂɭidʲinʲeejɪmas 6
 sl̩aptaʒoːdʑʲoː 6
+ʂkʲiː drʲɪvʲe 6
 skuodaː 6
 skuodas 6
 ʂkrʲiːdʲis 6
@@ -25896,6 +25978,7 @@ roːsaɭes 6
 roːmʲietɕems 6
 roːmanʲtʲɪka 6
 roːɭetai 6
+roːtskʲin nʲevspapʲer 6
 roːbas 6
 roːat 6
 rʲiʑɪkoːs 6
@@ -25950,10 +26033,12 @@ poːpoːvʲitɕeus 6
 poːpʲierʲus 6
 poːnoː 6
 poːɭitʲɪkuː 6
+poː poː 6
 pɭiːtʲeɭʲuː 6
 pl̩oːkɕtʲeɭes 6
 pɭedʑʲoː 6
 pɭeʃkuːnas 6
+pl̩aiː manʲɪja 6
 pl̩atʲɪnʲtʲi 6
 pl̩aʂtʲikʲɪnʲʲuː 6
 pl̩anuojama 6
@@ -26113,6 +26198,7 @@ moːzartoː 6
 moːtoː 6
 moːrkuːnoː 6
 moːoːn 6
+moːnʲeiː l̩ant 6
 moːkʲiːtoːjoː 6
 moːkʲiːtoːjas 6
 moːkʂɭʲeivʲems 6
@@ -26336,6 +26422,7 @@ hoːnduːroː 6
 hitʲɭerʲis 6
 hɪt 6
 hɪ 6
+hal̩ma star 6
 ɡiːvoːjoː 6
 ɡiːvʲenʲɪmaː 6
 ɡiːɭiːs 6
@@ -26362,6 +26449,7 @@ hɪ 6
 ɡeɭeʑinʲkʲeɭʲoː 6
 ɡeɭeʑinʲkʲeɭei 6
 ɡedʲimʲɪnasbʲerʒanʲʂkʲis 6
+ɡe foːrtsʲe 6
 ɡavʲeɑ 6
 ɡavoːmʲe 6
 ɡauʂei 6
@@ -26530,6 +26618,8 @@ bʲeepʲee 6
 boːkʃtas 6
 bl̩oːɡoː 6
 bʲiɭietai 6
+bʲeebʲee koːdoː 6
+bʲeebʲee koːdas 6
 bal̩dai 6
 aʑɪjaː 6
 avʲɪvoː 6
@@ -26591,8 +26681,10 @@ akmuo 6
 airʲɪjaː 6
 aha 6
 aɡentas 6
+aeroː ʂvʲɪt 6
 adoːl̩foː 6
 atstas 6
+atstsu vʲeatʲher 6
 abʲiem 6
 abʲiejuː 6
 apoːtʲhetsa 6
@@ -28404,6 +28496,7 @@ paaiɕkʲɪnta 5
 paaiɕkʲink 5
 paaiɕkʲinʲɪmaː 5
 paaiɕkʲinʲɪmoː 5
+pʲee ha 5
 oːut 5
 oːrtoːpʲedʲinʲei 5
 oːrnamʲentai 5
@@ -28442,6 +28535,7 @@ oːdʲɪnʲis 5
 oːbʂervatoːrʲɪjoːs 5
 oːbɭiɡatsʲɪjoːs 5
 oːbjektu 5
+oː zas 5
 nʲeeɕtɕʲoːms 5
 nʲeeʃtumas 5
 nʲeerʲɪnʲʲuː 5
@@ -29141,6 +29235,7 @@ koːmʲitʲetaː 5
 koːmʲentuojatʲe 5
 koːmʲentuojamʲi 5
 koːmʲentatoːrʲeus 5
+koːmʲentaruː katʲeɡoːrʲɪjoːs 5
 koːmbainai 5
 koːmanʲdʲiruotʲees 5
 koːmanʲdʲɪnʲees 5
@@ -29474,6 +29569,7 @@ jieʃkoːjɪmuː 5
 ieskoːtʲi 5
 idʲenʲtʲifikuotʲi 5
 idʲeal̩oː 5
+i ɭidhuanʲen 5
 hiːundai 5
 hub 5
 hoːroːskoːpuː 5
@@ -29954,6 +30050,7 @@ boːɭɪdus 5
 boːkɕtʲe 5
 bl̩oːnʲdʲɪnʲees 5
 bl̩oːɡeuʂes 5
+bl̩oːk oːutʲee 5
 bɭefas 5
 bl̩akʂtʲɪenas 5
 bl̩aivuː 5
@@ -30304,6 +30401,7 @@ iːpats 5
 iːe 5
 ikshatʲeeemel̩ 5
 voːv 5
+vʲɪzz air 5
 vʲɪnk 5
 vʲɪnt 5
 vʲɪntsas 5
@@ -30354,6 +30452,7 @@ vʲiduje 5
 vʲitstoːrʲe 5
 vʲevʲerʂkʲoː 5
 vʲertʲinʲɪmuː 5
+vʲenus oːf air 5
 vʲentoːs 5
 vʲenʲtʲiɭetoːrʲei 5
 vʲenʲeta 5
@@ -30703,6 +30802,7 @@ proːɡramavʲɪmoː 5
 proːɡa 5
 proːfeʂʲoːnaɭi 5
 proːfeʂɪnʲee 5
+proː natura 5
 prʲeemʲɪmas 5
 prʲivatus 5
 prʲival̩umai 5
@@ -30725,6 +30825,7 @@ pradʲeekʲɪtʲe 5
 poːvʲerʲet 5
 poːtroː 5
 poːʂeedʲiːje 5
+poːst tsoːmmʲents ɪtsoːn 5
 poːsakʲei 5
 poːrtʲrʲetai 5
 poːrtaɭe 5
@@ -30837,6 +30938,8 @@ oːzboːurnʲeas 5
 oːrʲɪnta 5
 oːrdʲinarʲetoː 5
 oːpʲeratoːrʲeus 5
+oːpʲen oːffɪtsʲe 5
+oːpʲen airʲe 5
 oːnutʲee 5
 oːɭʂen 5
 oːɭimpʲɪnʲees 5
@@ -30859,6 +30962,7 @@ noːvaturoː 5
 noːvakas 5
 noːrvʲiɭienʲee 5
 noːras 5
+noːjus l̩ukʂevʲɪtsʲus 5
 nʲɪsmoː 5
 nʲikoːl̩ajus 5
 nʲijoːɭees 5
@@ -30910,6 +31014,7 @@ mʲeeksta 5
 mʲiːɭeetʲi 5
 mʲiːɭimʲeuʂe 5
 mʲiːkoːl̩aɪtʲis 5
+mʲiː spatsʲe 5
 muraiːus 5
 muɭtʲimʲedʲɪja 5
 muɡee 5
@@ -30951,6 +31056,7 @@ mʲieɡanʲtɕʲuː 5
 mʲieɡamaʂis 5
 mʲixaeɭʲoː 5
 mʲe 5
+mʲɪ bʲee 5
 mʲeʃkauskas 5
 mʲetɕiːs 5
 mʲeskauskas 5
@@ -30963,6 +31069,8 @@ mʲeɡan 5
 mʲedʑʲoːkɭee 5
 mʲedʲisana 5
 mʲedʲɪjoːs 5
+emtsʲee naɭɭiː 5
+emtsʲee tsartʲiː 5
 maʒuːjuː 5
 maʑvʲiːdoː 5
 matɕernʲis 5
@@ -30998,6 +31106,7 @@ l̩oːst 5
 ɭɪtas 5
 ɭɪnksmas 5
 ɭɪnksma 5
+ɭɪnʲkʲet ɪn 5
 ɭɪnʲɡiːs 5
 ɭɪnɡus 5
 ɭɪnʲe 5
@@ -31017,6 +31126,7 @@ l̩aumʲees 5
 l̩atʲvʲɪjaː 5
 l̩anʲkʲiːtoːjui 5
 l̩aivoː 5
+l̩aiʂvʲees aɭeeja 5
 l̩aipʲoːjɪmoː 5
 l̩aimʲeek 5
 l̩aikʲinoːʂʲoːs 5
@@ -31112,6 +31222,7 @@ katʲee 5
 katʲiː 5
 katʲekʲɪzmoː 5
 kaʂʂimatʲis 5
+kasparas vʲee 5
 karʃtas 5
 karpavʲɪtɕʲus 5
 kanʲtɕʲoːs 5
@@ -31198,6 +31309,7 @@ infoːrmatsʲin 5
 inʲdʲenapoːɭis 5
 inʲdʲenapoːɭʲoː 5
 inʲtsʲidʲentas 5
+ɪn ʂpʲe 5
 imprʲeza 5
 ikʲimoːkʲiːkɭɪnʲis 5
 ɪɡnoː 5
@@ -31371,11 +31483,13 @@ doːl̩matoːvas 5
 doːkumʲenʲtʲɪnʲis 5
 doːɡanaː 5
 doːtss 5
+doː haem 5
 dmʲitʲrʲɪjus 5
 dʲʲunʲkʲerkas 5
 dʲiskoːɡrafɪja 5
 dʲɪskoː 5
 dʲirʲetstʲʲoːn 5
+dʲɪrʲetst admʲin 5
 dʲirbtʲɪnʲis 5
 dʲɪrbtʲi 5
 dʲɪnoːs 5
@@ -31519,6 +31633,7 @@ baɭtʲieji 5
 baɭtʲitss 5
 bal̩taʂis 5
 bal̩suotʲi 5
+baɭɭin euroːpʲe 5
 bal̩l̩ 5
 bal̩kus 5
 baɭestrui 5
@@ -31714,6 +31829,7 @@ atsts 5
 ʒurnaɭɪstoː 4
 ʒurnaɭɪstai 4
 ʒul̩kus 4
+ʒudʲiːk rʲekl̩amaː 4
 ʒoːɭɪnʲees 4
 ʒoːdʲiːje 4
 ʒmoːnʲes 4
@@ -32276,6 +32392,7 @@ vainʲikʲeeɭis 4
 vainʲɪkaː 4
 vaikutɕʲus 4
 vaikutɕei 4
+vaikus apranɡa 4
 vaikstoː 4
 vaikʲɪʃkai 4
 vaikʲɪnus 4
@@ -33073,6 +33190,9 @@ skl̩anʲdʑeu 4
 ʂkʲerʂmʲens 4
 ʂkʲersai 4
 ʂkʲel̩ptaː 4
+ʂkʲeɭbʲɪmai rʲiːɕʲoː 4
+ʂkʲeɭbʲɪmai nʲekʲil̩noːjamoːjoː 4
+ʂkʲeɭbʲɪmai auɡinanʲtʲiems 4
 ʂkʲeɭbʲɪma 4
 skatʲinamʲi 4
 skatʲinama 4
@@ -34385,6 +34505,7 @@ oːdʲɪnʲe 4
 oːbuoɭʲus 4
 oːbjektʲiːvʲuː 4
 oːbjektʲiːvai 4
+oː tsʲee 4
 nʲeerʲɪmoː 4
 nʲiːkstanʲtɕʲuː 4
 nuʒudʲiːtas 4
@@ -36229,6 +36350,7 @@ eɡza 4
 eɡoː 4
 eɡɭe 4
 edukatsʲɪnʲes 4
+ea tsarʲe 4
 dʑʲunʲɡɭes 4
 dʑʲoːvʲiːkl̩a 4
 dʑʲoːvʲintuvas 4
@@ -36624,6 +36746,7 @@ bʲendradarbʲevʲɪmʲe 4
 bʲendradarbʲeudama 4
 bʲenamʲoː 4
 bʲel̩ɡuː 4
+bʲeɭe nkas 4
 bʲejeeɡiʃkumoː 4
 bʲejeeɡis 4
 bʲeɡl̩oːbʲis 4
@@ -37028,6 +37151,7 @@ aktuaɭeuʂes 4
 aktuaɭeuʂi 4
 aktoːrʲumʲi 4
 aktoːrʲe 4
+akʂesuarai bal̩dai fl̩oːra 4
 akmʲenʲiː 4
 akmʲenʲɭɪɡees 4
 akʲivaizduːs 4
@@ -37146,6 +37270,7 @@ voː 4
 vɭnʲʲus 4
 vl̩aʂɪkas 4
 vl̩adaː 4
+vl̩adʲɪmʲir pʲee 4
 vʲiɕtʲɪena 4
 vʲivuɭʂkʲoː 4
 vʲivʲienʲnʲe 4
@@ -37335,6 +37460,7 @@ tʲibʲetʲe 4
 dhoːmsoːn 4
 dhoːmas 4
 tʲhief 4
+tʲhe boːdʲiː zhoːp 4
 tʲez 4
 tʲerrʲiː 4
 tʲerʲeʂeeɭees 4
@@ -37457,6 +37583,7 @@ soːɭidarumas 4
 soːkoːl̩skaja 4
 soːdʲiːboːje 4
 soːdraː 4
+soː droːs 4
 snoːv 4
 snoːras 4
 ʂnʲietʃkaus 4
@@ -37464,6 +37591,7 @@ snoːras 4
 ʂmʲetoːnoːs 4
 ʂmʲetoːna 4
 smartzhoːp 4
+smaɡʲoːs doːvanoːs 4
 smaɡeuʂe 4
 sl̩uokʂnʲʲuotoːs 4
 sl̩oːvʲenʲɪʂxʲe 4
@@ -37588,6 +37716,7 @@ sanʲtʲexnʲɪkas 4
 samaɡoːnʲe 4
 ruːmai 4
 ruːkɕtʲɪmʲi 4
+ruːda kʲeedɑinʲei kʲeɭmʲee krʲetʲɪnɡa kupʲɪɕkʲis kurɕeenai l̩aʑdʲɪjai marʲijampoːɭee maʑʲeikʲei moːɭeetai nʲerʲɪnɡa pabradʲee paɡeeɡei pakruojis pal̩anɡa pasvaɭiːs pl̩unʲɡee prʲienai radvʲiɭɪɕkʲis raʂʲeinʲei rʲietavas roːkʲɪɕkʲis ʃakʲei ʃaɭtɕinʲɪnkai ɕil̩aɭee ɕil̩utʲee ɕirvʲɪntoːs skuodas ɕvʲenʲtɕʲoːnʲiːs tauraɡee tʲeɭɕei trakai ukmʲerɡee utʲena varʲeena vʲil̩kavʲɪɕkʲis vʲisaɡɪnas zarasai kʲɪta 4
 rʲiːtʲis 4
 rʲiːtʲi 4
 rʲiːtaivakarai 4
@@ -37809,6 +37938,7 @@ pʲeɭʲuː 4
 pʲeɡasas 4
 pʲedaɡoːɡɪnʲiː 4
 pʲedaɡoːɡai 4
+pʲeax ɪs nʲɪtsʲe 4
 paʑiːmʲeekʲɪtʲe 4
 paʑɪnʲtʲis 4
 paʒaiʂɭis 4
@@ -37902,6 +38032,7 @@ pʲɪn 4
 pʲɪl̩nas 4
 pʲikanʲtʲɪʃka 4
 pʲeeef 4
+pʲee tstʲex 4
 pat 4
 pardavʲeejas 4
 panʲdʲemʲɪja 4
@@ -37936,6 +38067,7 @@ oːdʲɪnʲis 4
 oːdʲinʲei 4
 oːdʲeta 4
 oːbrastsoːvoːs 4
+oːbjetst doːtsk 4
 oːbʲerhaus 4
 oːbamai 4
 oːkʂit 4
@@ -37959,6 +38091,7 @@ nuotaːjɪkoːs 4
 nuostabu 4
 nuostabʲei 4
 nuoʂirdʑei 4
+nuoroːdu ɡɪdas 4
 nuol̩atoːs 4
 nuɡaɭeetoːjas 4
 nuɡaɭeetoːjams 4
@@ -38081,6 +38214,7 @@ moːdʲeratoːrʲei 4
 moːdʲe 4
 moːtskus 4
 moːbʲɪɭʲoːs 4
+moː joːe 4
 emel̩en 4
 mʲutstsʲe 4
 mʲiʂevʲitɕienʲee 4
@@ -38117,6 +38251,7 @@ mʲezoːtʲerapʲɪja 4
 mʲetu 4
 mʲetal̩ 4
 mʲeroː 4
+mʲenoː duobʲee 4
 mʲenʲɪnʲee 4
 mʲenʲinʲɪnkuː 4
 mʲeɭnʲɪkas 4
@@ -38129,6 +38264,7 @@ mʲedʲɪnʲʲuː 4
 mʲedʲɪenoːs 4
 mʲedaɭʲoː 4
 emtsɡrʲeɡoːroː 4
+emtsʲee kvueen 4
 maʑiːɭis 4
 maʒoːs 4
 maʑmʲenʲɪnʲee 4
@@ -38182,6 +38318,7 @@ madoːna 4
 mat 4
 matstroːnʲits 4
 matsaul̩aiː 4
+mats boːoːk 4
 muts 4
 moːdʲeɭis 4
 mʲinʲiʂtʲerʲɪja 4
@@ -38247,7 +38384,10 @@ l̩oː 4
 ɭieknʲinamʲieji 4
 ɭieɡaus 4
 ɭidʲɪja 4
+ɭɪbrʲe oːffɪtsʲe 4
 ɭibʲeratʲʲoːn 4
+ɭɪ ma 4
+ɭɪ tsʲeees 4
 ɭeɕkʲevʲɪtɕʲus 4
 ɭevʲɪtskʲis 4
 ɭevas 4
@@ -38572,6 +38712,7 @@ jieʃkant 4
 idʲeaɭei 4
 itsʲel̩ant 4
 ɪtsʲe 4
+i tʲerum 4
 istoːrʲɪjoːs 4
 istoːrʲɪja 4
 ɪkv 4
@@ -38706,6 +38847,7 @@ foːtoːtʲexnʲɪka 4
 foːtoːʂeʂɪja 4
 foːtoːɡrafoː 4
 foːtoːaparatoː 4
+foːrt vʲoː 4
 foːrʲeiɡn 4
 foːrdas 4
 foːndai 4
@@ -38723,6 +38865,7 @@ fɪbʲer 4
 ferʲetʲtʲi 4
 feɭɪksoː 4
 fʲeizbukoː 4
+feet burnʲer 4
 fasadoː 4
 farmatsʲɪja 4
 fal̩l̩as 4
@@ -38743,6 +38886,7 @@ evanʲɡeɭɪjaː 4
 eva 4
 euroːstat 4
 euroːspoːrt 4
+euroː baʂkʲet 4
 etʲnʲɪnʲees 4
 etʲikʲetʲees 4
 eʂtʲetʲɪnʲis 4
@@ -38785,10 +38929,12 @@ euroːpoːs 4
 esp 4
 eɭektronʲinʲis 4
 ekʂpʲedʲitsʲɪjoːs 4
+eaka oːbl̩oːɡas 4
 ʲeisa 4
 eɡoː 4
 eɡɭee 4
 eek 4
+eaeaɡee bʲoːfeedbatskoː 4
 epstsoː 4
 eaɪnk 4
 dʒoːrdana 4
@@ -38821,6 +38967,7 @@ drauɡɪjoːs 4
 drakoːnuː 4
 doːzatoːrʲus 4
 doːvʲɪɭe 4
+doːvʲerʲis doːvʲerʲis 4
 doːvʲerʲis 4
 doːvanoːjamʲi 4
 doːvanoːjamʲe 4
@@ -38856,6 +39003,7 @@ dʲidʑeuʂi 4
 dʲidʲɪnʲtʲi 4
 dʲidʲeɭʲuː 4
 dʲel̩oːɡai 4
+dʲɪ tsaprʲoː 4
 dʲevʲintaʂis 4
 dʲetoːksoː 4
 dʲetʲektʲiːvas 4
@@ -38903,6 +39051,7 @@ dʲeeemen 4
 dʲeeka 4
 dʲemoː 4
 dʲeɡam 4
+dʲee dl̩l̩oː 4
 davʲidoːnʲienʲe 4
 darnʲipoːra 4
 darbus 4
@@ -38947,6 +39096,7 @@ tsʲenʲtʲrʲɪnʲee 4
 tsʲenʲtʲer 4
 tsʲeɭtʲits 4
 tsʲeɭekʲɪja 4
+tsat doːk 4
 tsaʂtʲel̩l̩utstsʲi 4
 tsaʂe 4
 tsaroːɭɭis 4
@@ -39162,6 +39312,7 @@ amʲerʲɪkai 4
 ambra 4
 ambasadoːs 4
 amazoːnʲees 4
+am vaiː 4
 aɭʑhʲeimʲerʲoː 4
 aɭvtʲeɡen 4
 aɭtʲernatʲiːva 4
@@ -39197,7 +39348,9 @@ aitvaruː 4
 aistruoɭʲuː 4
 aiʂtʲe 4
 airvaiːs 4
+airʲɪja oːnʲɭɪnʲe 4
 airʲen 4
+air ɭituanʲɪtsa 4
 ainoː 4
 ahmʲedui 4
 aɡrarʲɪnʲees 4
@@ -39210,6 +39363,7 @@ adrʲijoːnas 4
 adoːmʲeenʲienʲee 4
 adnʲet 4
 adʲeɭe 4
+at ʂenʲʂe 4
 atst 4
 axmʲedas 4
 aboːrtas 4
@@ -39921,6 +40075,8 @@ iːear 3
 iːduː 3
 iːahoːoː 3
 ikspʲee 3
+iks uzb 3
+iks ea 3
 dʲvʲiɡubaveetʲeeef 3
 voːv 3
 voːrt 3
@@ -40317,6 +40473,7 @@ vadʲinamaːja 3
 vadʲinamuoʂʲus 3
 vadʲinamoːʂʲoːs 3
 vadavʲɪmoː 3
+vʲee buɭɭetʲin 3
 uʃal̩uʂʲoː 3
 uʑvʲɪrʲee 3
 uʒuomʲɪnaː 3
@@ -40522,6 +40679,7 @@ tvarkʲiːtoːja 3
 tvarkoːmas 3
 tvarkʲɪnɡus 3
 tvarkʲietɕʲoː 3
+tvarka maʑeejanʲtɕe 3
 tuɕtɕʲoːmʲis 3
 tuʃu 3
 tutʃtuojau 3
@@ -40906,6 +41064,7 @@ svoːɡunai 3
 ʂvʲeikstanʲtʲiems 3
 ʂvʲeikʲinʲɪmas 3
 ʂvʲeikʲeuʂe 3
+ʂvʲeikata paʑɪnʲtɕʲuː 3
 svarʂtʲiːs 3
 svarʂtʲiːkɭes 3
 svarmʲenʲiːs 3
@@ -41376,6 +41535,7 @@ spjaudoː 3
 ʂpʲeroːs 3
 ʂpʲektras 3
 ʂpʲektakɭʲus 3
+ʂpʲektakɭis rʲeʑiʂierʲus 3
 ʂpʲeju 3
 ʂpʲetsʲifɪnʲee 3
 ʂpʲetsʲifinʲei 3
@@ -41543,6 +41703,7 @@ skl̩anduː 3
 ʂkʲel̩ptamʲe 3
 ʂkʲeɭbʲɪmʲe 3
 ʂkʲeɭbʲɪmams 3
+ʂkʲeɭbʲɪmai autoː 3
 ʂkʲeɭbʲeʂi 3
 ʂkʲeɭbʲenʲtʲi 3
 ʂkʲeɭbʲemaː 3
@@ -42378,6 +42539,7 @@ prʲiespaudaː 3
 prʲieskoːnʲʲoː 3
 prʲiepl̩aukoːʂe 3
 prʲiepl̩auka 3
+prʲiemoːnʲees koːmpʲutʲerʲɪja pasl̩auɡoːs tʲexnʲɪka l̩aisval̩aikʲis darboː 3
 prʲiemoːnʲʲu 3
 prʲiemoːka 3
 prʲiekʲu 3
@@ -44360,6 +44522,7 @@ naɡrʲinʲeejama 3
 naɡi 3
 natsʲoːnaɭinʲeeʂe 3
 natsʲɪjai 3
+en vʲɪdʲe 3
 muːʂiɕkʲei 3
 muːs 3
 muːrʲɪnʲʲoː 3
@@ -44650,6 +44813,7 @@ marʃoː 3
 marɕkʲinʲeeɭeis 3
 marɕkʲɪnʲʲuː 3
 marɕkʲɪnʲems 3
+marʂkʲinʲeɭei kʲɪta dʲiːdʲis 3
 maroː 3
 markʲees 3
 markʲɪʑees 3
@@ -45223,6 +45387,7 @@ koːmʲertsʲɪnʲis 3
 koːmʲentuodamʲi 3
 koːmʲentavʲɪmoː 3
 koːmʲentavʲɪmas 3
+koːmʲentarai katʲeɡoːrʲɪjoːs 3
 koːmʲendantas 3
 koːmʲedʲɪjaː 3
 koːmbʲinatsʲɪja 3
@@ -46045,6 +46210,8 @@ eus 3
 es 3
 ema 3
 eiʂeis 3
+i heal̩dh 3
+i boːl̩ 3
 humoːraː 3
 humanʲitarʲɪnʲee 3
 hoːrmoːnai 3
@@ -46437,6 +46604,7 @@ firmʲɪnʲee 3
 firmʲɪnʲʲuː 3
 finʲiʃuotʲi 3
 finʲiʃaʂprʲieʃ 3
+finʲɪʃas dakaroː 3
 finansuojamʲi 3
 finanʲʂinʲeemʲis 3
 finanʲʂinʲeis 3
@@ -46468,6 +46636,7 @@ fekaɭɪjuː 3
 fedʲeraɭɪnʲʲuː 3
 favoːrʲɪtʲees 3
 favoːrʲɪtu 3
+fauna ɡroːʑis 3
 fasuotʲi 3
 fasadu 3
 farʃu 3
@@ -48018,6 +48187,7 @@ aist 3
 aiʂes 3
 airɭɪnʲe 3
 airbaɭtʲits 3
+air ɭituanʲɪtsa 3
 aikɕtʲeɭeeʂe 3
 aikɕtʲeɭʲuː 3
 aikɕtʲeɭe 3
@@ -48096,6 +48266,7 @@ iːpatʲɪnɡai 3
 ksksa 3
 iksɪksoːjoː 3
 ikses 3
+iks phoːnʲe 3
 iksemel̩ 3
 iksdʲee 3
 vroːoːm 3
@@ -48103,6 +48274,7 @@ vrʲɪtʲe 3
 voːrl̩ts 3
 voːrkzhoːp 3
 voːoːts 3
+vʲɪzz bus 3
 vʲinʲehoːuʂe 3
 vʲɪndoːv 3
 vʲiɭɭemas 3
@@ -48139,6 +48311,7 @@ vʲeel̩avʲɪtɕʲus 3
 vʲiːɕnʲʲoːs 3
 vʲiːɕnʲeusku 3
 vʲiːtɕʲoː 3
+vʲiːtas es 3
 vʲiːskupʲɪjoːs 3
 vʲiːrukai 3
 vʲiːrʲɪʃkoːs 3
@@ -48151,6 +48324,7 @@ voːrtɕeʂtʲerʲoː 3
 voːɭkʲerʲis 3
 voːl̩fas 3
 voːtsʲe 3
+voː ɪp 3
 vl̩adʲisl̩oːvoː 3
 vl̩adʲimʲɪraː 3
 vl̩ada 3
@@ -48410,6 +48584,7 @@ tʲrʲetʃdaɭis 3
 tʲrʲetʲi 3
 tʲrʲeptoːvʲer 3
 tʲrʲenʲiruokɭei 3
+traiː pan 3
 traukʲɪnʲʲu 3
 tranʲtsʲe 3
 trainʲink 3
@@ -48419,6 +48594,7 @@ tradʲitsʲɪnʲee 3
 tratsɡbatsks 3
 toːtus 3
 toːtoːrʲei 3
+toːrtoːɪʂe esvʲeeen 3
 toːrtai 3
 toːroːnʲtʲe 3
 toːpai 3
@@ -48452,6 +48628,7 @@ tʲikrʲinamʲi 3
 tʲieʂʲoːɡɪnʲees 3
 tʲies 3
 dhunʲdʲer 3
+tʲhɪnk pat 3
 tʲheroːn 3
 tʲheoː 3
 tʲeʃl̩aː 3
@@ -48467,6 +48644,7 @@ tʲemʲɪnʲʲuː 3
 tʲeɭebhoːnʲe 3
 tʲeɭeparduotuvʲee 3
 tʲeɭel̩oːtoː 3
+tʲeɭe tradʲer 3
 tʲekʂtʲe 3
 tʲʲeiʂeesauɡa 3
 tʲʲeiɡemoːs 3
@@ -48541,6 +48719,7 @@ suːduvoːs 3
 ʂeekmʲee 3
 saːskaituː 3
 saːjunɡai 3
+saː ra tʃas 3
 ʂvʲetʲee 3
 ʂvʲeikuoɭʲuː 3
 ʂvʲeikʲɪna 3
@@ -48691,6 +48870,7 @@ spal̩ 3
 soːvʲietai 3
 soːutʲhern 3
 soːroːʃoː 3
+soːnʲiː erʲɪtssoːn 3
 soːnʲet 3
 soːnar 3
 soːl̩oː 3
@@ -48789,6 +48969,7 @@ skaiʂtʲeɑ 3
 ʂitsʲiɭɪjoːs 3
 ʂeuraʂis 3
 ʂhemoː 3
+zhaiːtan tʲeam 3
 zharas 3
 zhanʲtʲi 3
 zhahit 3
@@ -49204,6 +49385,7 @@ pradʲedamʲe 3
 prabanʲɡʲoːs 3
 poːʃkoːs 3
 poːʃka 3
+poːvʲer poːint 3
 poːunt 3
 poːtʲvʲiːnʲʲoː 3
 poːtras 3
@@ -49337,6 +49519,7 @@ patʲiːrʲinʲeekʲɪtʲe 3
 patʲiːrʲeu 3
 patroːnʲeɭɭi 3
 patrankuː 3
+patoːɡu pʲɪrktʲi 3
 patʲiekal̩oː 3
 patʲektʲi 3
 patʲʲeiktas 3
@@ -49709,6 +49892,7 @@ nainʲiːs 3
 naɡai 3
 natsʲoːnaɭɪnʲʲuː 3
 natsʲoːnaɭinʲemʲe 3
+en vʲenʲtskʲienʲe 3
 nuotaːjɪka 3
 nsoː 3
 noːrvʲeɡɪjoːs 3
@@ -49785,6 +49969,7 @@ moːdʲemas 3
 moːdʲeɭei 3
 moːtskaɪtʲis 3
 moːbʲɪl̩aus 3
+emen bʲee 3
 mʲɪʃkuː 3
 mʲiɕkʲinʲɪnkai 3
 mʲɪʃkai 3

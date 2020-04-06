@@ -697,7 +697,6 @@ titulo 313
 temas 313
 pɾoduktos 313
 ʝamada 313
- 313
 estamos 313
 pasa 312
 wmanos 312
@@ -1391,7 +1390,6 @@ besinos 164
 motibo 164
 lektoɾ 164
 tɾes 164
- 164
 sikjeɾa 163
 mala 163
 iɡlesja 163

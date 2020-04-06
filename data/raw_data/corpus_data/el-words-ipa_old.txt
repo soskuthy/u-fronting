@@ -278,6 +278,7 @@ xores 623
 sçesi 623
 evropi 620
 arceta 617
+ðio çiʎaðes ðeka 617
 sçetika 614
 simio 614
 iði 613
@@ -286,6 +287,7 @@ meɣaliteri 611
 jati 609
 kati 604
 epiði 603
+ðio çiʎaðes ena 598
 ecini 597
 polis 596
 ðiastima 596
@@ -303,6 +305,7 @@ anelave 581
 elaðos 580
 trianda 580
 çiʎometra 579
+ðio çiʎaðes enea 579
 polemo 576
 musici 576
 prota 575
@@ -337,6 +340,7 @@ anaptiksi 543
 xrisimopiite 542
 ðekaetia 542
 ap 542
+ðio çiʎaðes okto 541
 katastasi 539
 apriliu 539
 ðiafores 538
@@ -369,6 +373,7 @@ onoma 513
 onomasia 513
 epitiçia 512
 jorjos 512
+mi alfa letətriaeneamiðen o ipsilon 511
 septemvriu 507
 ajia 507
 iuliu 506
@@ -405,13 +410,16 @@ malista 477
 apotelun 477
 enosi 476
 notia 475
+ðio çiʎaðes epta 475
 ðekaepta 475
 ðecemvriu 474
 ena 474
+ðio çiʎaðes tesera 474
 skopo 472
 xroɲa 471
 patera 469
 onomazete 469
+ðio çiʎaðes eksi 467
 eksis 464
 mines 463
 boruse 462
@@ -453,6 +461,7 @@ mikri 437
 katafere 436
 eksusia 436
 eθnicis 436
+ðio çiʎaðes pente 434
 paraðosi 433
 ðimiurjia 432
 proeðros 431
@@ -485,6 +494,7 @@ ikosiena 411
 imeres 410
 aɣones 408
 paŋɡosmio 407
+ðio çiʎaðes enðeka 406
 ariθmo 405
 eklisia 405
 arɣotera 402
@@ -522,6 +532,7 @@ simeni 376
 parapano 376
 aleksanðros 373
 ɣlosses 372
+çiʎa oktakoʂa ikosiena 372
 xaraktiristika 371
 perilamvani 371
 olon 370
@@ -623,6 +634,7 @@ tmimata 316
 vivlia 316
 ksana 315
 meɣala 315
+ðio çiʎaðes ðio 315
 stratu 314
 poria 314
 ðinatotita 314
@@ -641,6 +653,7 @@ enðiaferon 309
 elinicis 309
 ðimokratia 309
 americi 309
+ðio çiʎaðes tria 309
 lei 308
 ðiaðikasia 308
 tora 307
@@ -674,6 +687,7 @@ kat 297
 jenika 297
 ikojeɲas 296
 arçisan 295
+çiʎa eɲakoʂa eneninda 295
 sinolika 294
 simerini 294
 epifaɲa 294
@@ -756,6 +770,7 @@ iðika 268
 jeɣonota 268
 ðimitrios 268
 vasiʎo 268
+ðekaenea u 268
 erɣu 267
 rosia 267
 cero 266
@@ -765,6 +780,7 @@ oro 264
 sistimatos 264
 simia 264
 jermanias 264
+çiʎa eɲakoʂa enenindaokto 264
 traɣuðja 263
 spuðes 263
 ti 263
@@ -822,6 +838,7 @@ ni 250
 ekseliksi 250
 enerja 250
 jorjiu 250
+çiʎa eɲakoʂa saranda 250
 iliko 249
 texnis 248
 pos 248
@@ -848,6 +865,7 @@ cipro 243
 iðiu 242
 çitler 242
 africi 242
+çiʎa eɲakoʂa oɡdonda 242
 sinerɣasia 241
 icismos 241
 morfes 241
@@ -857,6 +875,7 @@ ipirkse 241
 eksoteriko 240
 ji 240
 meɣali 240
+çiʎa eɲakoʂa enenindaeksi 240
 siŋɡekrimena 239
 prostasia 239
 kataɣoji 239
@@ -901,12 +920,14 @@ afksisi 230
 aŋɡlias 230
 simadices 229
 iðieteri 229
+çiʎa eɲakoʂa oɡdondaenea 229
 texni 228
 stratiotes 228
 parakato 228
 katastrofi 228
 epafi 228
 ðeka 228
+alfa çi alfa letətriaeneamiðen alfa siɣma 228
 orus 227
 ciria 227
 pirea 227
@@ -917,6 +938,7 @@ panaθinaɪkos 226
 lejete 225
 aɣora 225
 ipiru 225
+çiʎa eɲakoʂa enenindaena 225
 oria 224
 paraɣojis 224
 apla 224
@@ -936,6 +958,8 @@ ipurɣos 220
 sçeðja 220
 eθnicis 220
 anθropos 220
+çiʎa eɲakoʂa ebdominda 220
+çiʎa eɲakoʂa sarandapente 220
 stoxo 219
 parusjazi 219
 kriti 219
@@ -947,16 +971,19 @@ anaferode 218
 anaŋɡi 218
 exase 218
 paŋɡosmiu 218
+çiʎa eɲakoʂa eksinda 218
 sidoma 217
 procite 217
 eðafi 217
 ðimosja 217
 turcia 217
+çiʎa eɲakoʂa enenindaðio 217
 stratiotici 216
 praɣmata 216
 pça 216
 loɣos 216
 ebdominda 216
+çiʎa eɲakoʂa peninda 216
 xari 215
 fisiko 215
 simfonia 215
@@ -965,6 +992,7 @@ katelave 215
 erɣasias 215
 arçiɣos 215
 aftos 215
+çiʎa eɲakoʂa enenindaepta 215
 xroniko 214
 telefteo 214
 iðrisi 214
@@ -991,6 +1019,7 @@ mikra 211
 elinicis 211
 oɡdonda 211
 eksinda 211
+çiʎa eɲakoʂa ikosi 211
 fisi 210
 ofilete 210
 kapa 210
@@ -998,6 +1027,7 @@ ekpeðefsi 210
 ðosi 210
 anaŋɡes 210
 ita 210
+ðio çiʎaðes ðoðeka 210
 xoros 209
 taksi 209
 cedrici 209
@@ -1035,6 +1065,8 @@ proθipurɣos 203
 ɣnosta 203
 apostoli 203
 ni 203
+çiʎa eɲakoʂa enenindatesera 203
+çiʎa eɲakoʂa ebdomindatesera 203
 spitia 202
 epiðrasi 202
 ekseretika 202
@@ -1055,8 +1087,11 @@ zoa 200
 vita 200
 turkus 200
 stus 200
+çiʎa eɲakoʂa enenindatria 200
+çiʎa eɲakoʂa ðoðeka 200
 mikres 199
 maçes 199
+çiʎa eɲakoʂa enenindapente 199
 italias 198
 θriscia 197
 efimeriða 197
@@ -1077,6 +1112,7 @@ enadi 196
 epitropi 196
 jis 195
 aera 195
+çiʎa eɲakoʂa sarandatesera 195
 proɪoda 194
 potamos 194
 pliθos 194
@@ -1131,9 +1167,11 @@ makria 188
 asxoliθice 188
 patra 188
 jorɣos 188
+çiʎa eɲakoʂa sarandaena 188
 xrçazete 187
 potamo 187
 iθopios 187
+çiʎa eɲakoʂa oɡdondaena 187
 parelθon 186
 piesi 186
 melon 186
@@ -1144,6 +1182,7 @@ kritis 186
 eno 186
 ejiptos 186
 aek 186
+çiʎa eɲakoʂa eksindaepta 186
 orɣana 185
 θeli 185
 zitima 185
@@ -1172,6 +1211,7 @@ aktes 183
 oktovrio 183
 iisu 183
 akaðimia 183
+çiʎa eɲakoʂa trianda 183
 xrimata 182
 klima 182
 θermokrasia 182
@@ -1226,6 +1266,8 @@ padreftice 176
 epekse 176
 septemvrio 176
 ðecemvrio 176
+çiʎa eɲakoʂa ebdomindaenea 176
+çiʎa eɲakoʂa ebdomindatria 176
 tropos 175
 protus 175
 ikojeɲes 175
@@ -1245,6 +1287,7 @@ epiloji 174
 ðiceomata 174
 ðja 174
 cipros 174
+çiʎa eɲakoʂa oɡdondapente 174
 tu 173
 politices 173
 epomena 173
@@ -1282,6 +1325,8 @@ epiçirisi 170
 ðietelese 170
 ðiamerisma 170
 ianuario 170
+çiʎa eɲakoʂa oɡdondatesera 170
+çiʎa eɲakoʂa sarandaeksi 170
 ipiretise 169
 perni 169
 onomastice 169
@@ -1303,6 +1348,8 @@ eteria 167
 eborio 167
 apopsis 167
 karolos 167
+çiʎa eɲakoʂa sarandaokto 167
+çiʎa eɲakoʂa ikosiðio 167
 ferete 166
 times 166
 simvolo 166
@@ -1337,6 +1384,7 @@ emfanistice 163
 enosi 163
 θeoðoros 163
 elinices 163
+çiʎa eɲakoʂa ebdomindapente 163
 fila 162
 trion 162
 tenias 162
@@ -1355,6 +1403,7 @@ apelefθerosi 162
 aneksartisia 162
 eparçia 162
 ano 162
+çiʎa eɲakoʂa triandaenea 162
 pisti 161
 θalassas 161
 epiroi 161
@@ -1400,12 +1449,14 @@ metaksi 157
 israil 157
 θeo 157
 afta 157
+çiʎa eɲakoʂa ikosiokto 157
 xronus 156
 proerxode 156
 ðieksixθi 156
 mesa 156
 cipelu 156
 ola 156
+çiʎa eɲakoʂa sarandatria 156
 çimona 155
 ipirksan 155
 matia 155
@@ -1425,6 +1476,7 @@ jorjia 154
 vravio 154
 apoklistika 154
 ejiptu 154
+çiʎa eɲakoʂa ebdomindaepta 154
 orɣano 153
 xronon 153
 xrisimopiun 153
@@ -1436,10 +1488,13 @@ ecino 153
 ðiicitika 153
 jermanici 153
 petros 153
+çiʎa eɲakoʂa sarandaenea 153
 stratevmata 152
 arniθice 152
 anaðixθice 152
 protevusa 152
+çiʎa eɲakoʂa ebdomindaeksi 152
+çiʎa eɲakoʂa eksindatria 152
 somata 151
 skor 151
 paŋɡosmia 151
@@ -1451,6 +1506,7 @@ sinθici 151
 kanaða 151
 ðitici 151
 ðia 151
+çiʎa eɲakoʂa eksindatesera 151
 topo 150
 oðo 150
 mikus 150
@@ -1464,6 +1520,7 @@ en 150
 ðimitriu 150
 apolona 150
 aris 150
+çiʎa eɲakoʂa oɡdondaðio 150
 pai 149
 onomazode 149
 liturjias 149
@@ -1506,6 +1563,8 @@ ekθesi 146
 ierusalim 146
 iðriθice 146
 ari 146
+çiʎa eɲakoʂa oɡdondaepta 146
+çiʎa eɲakoʂa eksindaena 146
 xoru 145
 sinθesi 145
 epistimi 145
@@ -1517,6 +1576,8 @@ anaŋɡastice 145
 akro 145
 polonia 145
 patron 145
+çiʎa eɲakoʂa oɡdondatria 145
+çiʎa eɲakoʂa eksindapente 145
 neas 144
 loja 144
 katascevis 144
@@ -1528,6 +1589,7 @@ aliθça 144
 anθraka 144
 pavlu 144
 akoma 144
+çiʎa eɲakoʂa ebdomindaokto 144
 protis 143
 pliros 143
 paleotera 143
@@ -1542,6 +1604,7 @@ iparçi 143
 turkon 143
 θerini 143
 θalassa 143
+çiʎa eɲakoʂa eksindaenea 143
 ipiresia 142
 siŋɡrotima 142
 staθmo 142
@@ -1556,6 +1619,7 @@ zitimata 142
 ema 142
 perses 142
 afstralia 142
+çiʎa eɲakoʂa ebdomindaena 142
 osa 141
 fimi 141
 sçetici 141
@@ -1584,6 +1648,9 @@ ekðosis 140
 ðieresi 140
 romei 140
 ðiaθici 140
+çiʎa eɲakoʂa oɡdondaokto 140
+çiʎa eɲakoʂa oɡdondaeksi 140
+çiʎa eɲakoʂa eksindaokto 140
 protu 139
 politismu 139
 parastasis 139
@@ -1596,6 +1663,7 @@ edaxθice 139
 eklisies 139
 θraci 139
 ali 139
+çiʎa eɲakoʂa sarandaepta 139
 fita 138
 poʎorcia 138
 epektasi 138
@@ -1608,6 +1676,7 @@ mi 138
 cilcis 138
 jorjo 138
 anðrea 138
+çiʎa eɲakoʂa triandapente 138
 pinaka 137
 leksis 137
 epitiçies 137
@@ -1615,6 +1684,7 @@ vri 137
 afise 137
 ksecinise 137
 irakli 137
+çiʎa eɲakoʂa ikosieksi 137
 revma 136
 prospaθi 136
 piisi 136
@@ -1652,6 +1722,7 @@ elipsi 134
 pasok 134
 kalikratis 134
 apeviose 134
+çiʎa eɲakoʂa sarandaðio 134
 siras 133
 perioðiko 133
 zoɣrafici 133
@@ -1662,6 +1733,7 @@ apotelesan 133
 aplos 133
 fevruario 133
 vieni 133
+çiʎa eɲakoʂa triandaeksi 133
 ifos 132
 siŋɡrusi 132
 planiti 132
@@ -1689,6 +1761,7 @@ anatolici 131
 xristu 131
 smirnis 131
 eleni 131
+çiʎa eɲakoʂa ebdomindaðio 131
 ilika 130
 topiko 130
 onomazotan 130
@@ -1708,6 +1781,7 @@ maza 129
 isçii 129
 ɣrafi 129
 anatoli 129
+çiʎa eɲakoʂa penindaðio 129
 ipolipa 128
 titlos 128
 praksis 128
@@ -1759,6 +1833,9 @@ pros 126
 nikolau 126
 cina 126
 ana 126
+çiʎa eɲakoʂa penindaenea 126
+çiʎa eɲakoʂa triandatria 126
+çiʎa eɲakoʂa ikosienea 126
 tomis 125
 stoxos 125
 posotita 125
@@ -1773,6 +1850,7 @@ papa 125
 vulis 125
 apolon 125
 anamesa 125
+çiʎa eɲakoʂa ðekatesera 125
 ferun 124
 siziɣo 124
 piran 124
@@ -1784,6 +1862,9 @@ ekloji 124
 adiðrasis 124
 efije 124
 aɣalma 124
+çiʎa eɲakoʂa penindaokto 124
+çiʎa eɲakoʂa ikositesera 124
+çiʎa eɲakoʂa ðekatria 124
 xtistice 123
 xrisimopiodas 123
 fon 123
@@ -1809,6 +1890,7 @@ eŋɡatelipse 122
 ðimiurɣodas 122
 orθoðoksi 122
 ðietelese 122
+çiʎa eɲakoʂa ðekaokto 122
 spaɲa 121
 praɣmatika 121
 paraɣodes 121
@@ -1825,6 +1907,8 @@ jenikotera 121
 aðça 121
 ii 121
 aθinei 121
+çiʎa eɲakoʂa eksindaeksi 121
+çiʎa eɲakoʂa penindaena 121
 xrisimopiise 120
 ktirio 120
 cinðino 120
@@ -1884,6 +1968,8 @@ ee 118
 jani 118
 verolino 118
 ejeu 118
+ikosi u 118
+çiʎa eɲakoʂa penindapente 118
 fito 117
 sineçizi 117
 siziɣu 117
@@ -1927,6 +2013,9 @@ paok 116
 cinotita 116
 ilias 116
 evropaɪcis 116
+çiʎa eɲakoʂa eksindaðio 116
+çiʎa eɲakoʂa ikositria 116
+çiʎa eɲakoʂa 116
 fili 115
 tropus 115
 periferçes 115
@@ -1955,6 +2044,7 @@ eterias 115
 epanastasis 115
 arkaðias 115
 tetrakoʂa 115
+çiʎa eɲakoʂa ðeka 115
 ipiresjon 114
 ijias 114
 timin 114
@@ -1973,6 +2063,7 @@ ekfrasi 114
 eðres 114
 istoria 114
 eksoterikon 114
+çiʎa eɲakoʂa ikosipente 114
 stolu 113
 piitis 113
 piθanotita 113
@@ -2043,6 +2134,7 @@ oɪe 111
 elinikos 111
 eθnon 111
 eðra 111
+çiʎa eɲakoʂa triandaokto 111
 xorizete 110
 xronolojite 110
 foni 110
@@ -2058,6 +2150,7 @@ mosxa 110
 cedro 110
 venizelu 110
 aleksanðru 110
+çiʎa oktakoʂa enenindaepta 110
 xrisimopiiθi 109
 simvulos 109
 stena 109
@@ -2080,6 +2173,7 @@ aŋɡlici 109
 patriarçi 109
 africis 109
 ajion 109
+çiʎa eɲakoʂa ðekaenea 109
 xrisis 108
 siŋɡrafea 108
 prosopici 108
@@ -2143,6 +2237,8 @@ sidaɣmatos 106
 petru 106
 jati 106
 sarandapente 106
+çiʎa eɲakoʂa penindatria 106
+çiʎa eɲakoʂa ikosiepta 106
 opsi 105
 ipeɣrapse 105
 stolos 105
@@ -2193,6 +2289,7 @@ cedrici 104
 vasiʎas 104
 veljo 104
 alvania 104
+çiʎa eɲakoʂa triandaðio 104
 ifistate 103
 ipesti 103
 sfera 103
@@ -2212,6 +2309,8 @@ stefanos 103
 seron 103
 mikras 103
 exun 103
+çiʎa eɲakoʂa penindaepta 103
+çiʎa eɲakoʂa ðekapente 103
 taf 102
 sinelifθi 102
 stivu 102
@@ -2236,6 +2335,7 @@ venetia 102
 aftokratora 102
 istera 102
 pendakoʂa 102
+çiʎa eɲakoʂa ðekaeksi 102
 filus 101
 sxoʎa 101
 sinicia 101
@@ -2252,6 +2352,7 @@ anakalipse 101
 parola 101
 markos 101
 aleksanðru 101
+çiʎa eɲakoʂa eksi 101
 xasi 100
 telefteu 100
 prokalesi 100
@@ -2275,6 +2376,7 @@ sinolika 100
 rumania 100
 parascevi 100
 leon 100
+çiʎa eɲakoʂa ðekaepta 100
 xronon 99
 xaraktires 99
 fiton 99
@@ -2325,6 +2427,7 @@ aŋɡlika 98
 edasi 98
 festival 98
 emanuil 98
+ðekaokto u 98
 orio 97
 çiʎometron 97
 frasi 97
@@ -2360,6 +2463,8 @@ elvetia 97
 vasilis 97
 oli 97
 iʎos 97
+çiʎa eɲakoʂa triandaepta 97
+çiʎa eɲakoʂa tesera 97
 osi 96
 xronici 96
 fotia 96
@@ -2448,6 +2553,7 @@ pasas 94
 jermanon 94
 ipiros 94
 triandaðio 94
+çiʎa eɲakoʂa triandatesera 94
 psifus 93
 fisicis 93
 teliose 93
@@ -2512,6 +2618,9 @@ prepi 92
 eθnikos 92
 ɣrafis 92
 anici 92
+çiʎa eɲakoʂa penindaeksi 92
+çiʎa eɲakoʂa pente 92
+çiʎa oktakoʂa enenindaeksi 92
 ijia 91
 sinoliko 91
 prasino 91
@@ -2542,6 +2651,7 @@ mitropolitis 91
 ɣriɣorios 91
 aleksanðro 91
 iʎo 91
+çiʎa eɲakoʂa penindatesera 91
 ðekatooɣðoo 91
 xronika 90
 fθinoporo 90
@@ -2604,6 +2714,7 @@ larisas 89
 vravio 89
 aθanasjos 89
 triandatesera 89
+çiʎa eɲakoʂa okto 89
 fitites 88
 topices 88
 taksiðepse 88
@@ -2661,6 +2772,7 @@ cedricis 87
 afroðiti 87
 aɣ 87
 oθona 87
+çiʎa eɲakoʂa triandaena 87
 ipsus 86
 ipolojizete 86
 sçetizete 86
@@ -2700,6 +2812,7 @@ jermano 86
 vretanias 86
 vasilici 86
 as 86
+ðio çiʎaðes ðekatria 86
 tritos 85
 turcici 85
 titlus 85
@@ -2729,7 +2842,9 @@ kosta 85
 volu 85
 anaferete 85
 eɣaleo 85
+alfa ðio 85
 ebdomindapente 85
+çiʎa oktakoʂa ebdomindaokto 85
 fisikon 84
 iɣro 84
 topika 84
@@ -2761,6 +2876,7 @@ aθina 84
 oros 84
 araves 84
 triandatria 84
+çiʎa eɲakoʂa epta 84
 xaraktiras 83
 fisis 83
 frurio 83
@@ -2935,6 +3051,7 @@ kaθolici 79
 erikos 79
 epistimon 79
 aŋɡlici 79
+alfa ena 79
 ðekatoevðomo 79
 opera 78
 ipsilo 78
@@ -3094,6 +3211,7 @@ naftiku 75
 kratus 75
 θessalias 75
 pempto 75
+çiʎa eɲakoʂa ikosiena 75
 xrisimopiiθikan 74
 ipolipus 74
 topicis 74
@@ -3138,6 +3256,8 @@ anajenisi 74
 omilos 74
 exodas 74
 proto 74
+ekaton peninda 74
+ekaton ikosi 74
 ori 73
 xani 73
 fisices 73
@@ -3198,6 +3318,8 @@ iði 73
 arɣus 73
 ekto 73
 triandaepta 73
+ðekaepta u 73
+miðen miðen 73
 ipostirizi 72
 iposti 72
 sistasi 72
@@ -3257,6 +3379,7 @@ oθon 72
 elave 72
 oktakoʂa 72
 penindaðio 72
+çiʎa eɲakoʂa enðeka 72
 tetarto 71
 sidomo 71
 siŋxrono 71
@@ -3303,6 +3426,7 @@ aleksanðrias 71
 aɣonas 71
 artas 71
 eksakoʂa 71
+çiʎa eɲakoʂa ðio 71
 iparksis 70
 oxθes 70
 oru 70
@@ -3366,6 +3490,9 @@ islam 70
 ðiaθicis 70
 adoɲos 70
 elina 70
+ikosi u 70
+çiʎa oktakoʂa ebdominda 70
+ðekaeksi u 70
 otu 69
 omilo 69
 xaraktiristici 69
@@ -3457,6 +3584,7 @@ korinθos 68
 ðinameon 68
 oson 68
 sarandaokto 68
+çiʎa eɲakoʂa enea 68
 xarti 67
 xalku 67
 filo 67
@@ -3570,6 +3698,7 @@ arjedinis 66
 adonis 66
 pempti 66
 penindapente 66
+çiʎa oktakoʂa oɡdonda 66
 oŋɡo 65
 çimici 65
 ipsiles 65
@@ -3636,6 +3765,8 @@ venetias 65
 arɣoliðas 65
 orus 65
 penindaeksi 65
+çiʎa oktakoʂa triandatria 65
+çiʎa oktakoʂa ikosiðio 65
 xroɲes 64
 çersoniso 64
 ifistade 64
@@ -3681,6 +3812,9 @@ arçiɣos 64
 arjedini 64
 tetarto 64
 tetarti 64
+çiʎa oktakoʂa enenindapente 64
+çiʎa oktakoʂa oɡdondapente 64
+çiʎa oktakoʂa ikositesera 64
 oplo 63
 xrisimopiuse 63
 ipostiriktes 63
@@ -3732,6 +3866,7 @@ instituto 63
 ðilaði 63
 aŋɡli 63
 oɡdondapente 63
+çiʎa oktakoʂa oɡdondaeksi 63
 ðekatotrito 63
 fevji 62
 ferni 62
@@ -3866,6 +4001,7 @@ vretanici 61
 vasiliko 61
 sarandatesera 61
 ðekatosenatos 61
+çiʎa oktakoʂa eksindaðio 61
 psila 60
 ipurjio 60
 terma 60
@@ -3926,6 +4062,7 @@ ekseleji 60
 iðikotera 60
 adioça 60
 ekaterini 60
+çiʎa oktakoʂa oɡdondaena 60
 xorion 59
 xoritikotita 59
 xrisimopiiθun 59
@@ -4006,6 +4143,10 @@ ektote 59
 evru 59
 aŋɡelos 59
 trito 59
+çiʎa oktakoʂa enenindaenea 59
+çiʎa oktakoʂa trianda 59
+çiʎa oktakoʂa ikosiokto 59
+çiʎa oktakoʂa ikosipente 59
 ori 58
 xalcino 58
 filis 58
@@ -4085,6 +4226,7 @@ vriskotan 58
 analoɣa 58
 aep 58
 isos 58
+tesera u 58
 sarandaeksi 58
 ðekatopempto 58
 xrçazode 57
@@ -4177,6 +4319,8 @@ jorɣo 57
 jerusia 57
 ɣalos 57
 adiɣonos 57
+ðʲakoʂa peninda 57
+ena mion miðen 57
 oŋɡos 56
 xoros 56
 xoro 56
@@ -4239,6 +4383,10 @@ eksindaepta 56
 eksindapente 56
 penindatria 56
 sarandatria 56
+çiʎa oktakoʂa enenindaokto 56
+çiʎa oktakoʂa ebdomindaena 56
+çiʎa oktakoʂa eksindaeksi 56
+çiʎa oktakoʂa eksindatesera 56
 xrima 55
 filo 55
 tipika 55
@@ -4318,6 +4466,7 @@ zilanðia 55
 apeçi 55
 adiθetos 55
 sarandaenea 55
+çiʎa oktakoʂa enenindatria 55
 çiroɣrafa 54
 xaraktirizi 54
 ftera 54
@@ -4399,6 +4548,7 @@ adiprosopon 54
 iðra 54
 evðomo 54
 eksindaokto 54
+ðio u 54
 xristianici 53
 xristi 53
 xrei 53
@@ -4493,6 +4643,9 @@ açileas 53
 aleksios 53
 akoluθi 53
 eksindatesera 53
+ðio mion ena 53
+çiʎa eɲakoʂa tria 53
+çiʎa oktakoʂa triandaeksi 53
 odas 52
 olis 52
 xtismeni 52
@@ -4559,6 +4712,11 @@ jenici 52
 vretaniko 52
 aminas 52
 ebdomindaðio 52
+çiʎa oktakoʂa enenindatesera 52
+çiʎa oktakoʂa enenindaðio 52
+çiʎa oktakoʂa eneninda 52
+çiʎa oktakoʂa eksindapente 52
+çiʎa oktakoʂa eksinda 52
 fenomenon 51
 taksinomisi 51
 sinada 51
@@ -4737,6 +4895,9 @@ adiŋɡua 50
 arçise 50
 ekti 50
 sarandaepta 50
+çiʎa eɲakoʂa ena 50
+çiʎa oktakoʂa enenindaena 50
+ekaton oɡdonda 50
 xoma 49
 xrisa 49
 xrisimopiisan 49
@@ -4821,6 +4982,9 @@ cesara 49
 ɣalo 49
 vasilias 49
 aθanasiu 49
+çiʎa oktakoʂa ebdomindaenea 49
+çiʎa oktakoʂa eksindatria 49
+çiʎa oktakoʂa peninda 49
 ofelos 48
 xorizode 48
 xronoloɣude 48
@@ -4937,6 +5101,7 @@ penindaepta 48
 penindaena 48
 tetartos 48
 ðefteros 48
+çiʎa oktakoʂa eksindaepta 48
 orise 47
 omorfi 47
 çirotoniθice 47
@@ -5045,7 +5210,10 @@ aɣonistice 47
 eksindatria 47
 penindatesera 47
 sarandaena 47
+çiʎa oktakoʂa sarandaokto 47
+çiʎa ðʲakoʂa tesera 47
 enðekato 47
+ena mion ena 47
 oson 46
 odos 46
 psiçis 46
@@ -5158,6 +5326,12 @@ volos 46
 apotelesma 46
 aŋɡlika 46
 ebdomindatesera 46
+tria mion ena 46
+ðio çiʎaðes ðeka mion enðeka 46
+ðio mion miðen 46
+çiʎa oktakoʂa oɡdondaenea 46
+çiʎa oktakoʂa ebdomindaeksi 46
+ekaton ðeka 46
 ospu 45
 oron 45
 xoron 45
@@ -5275,6 +5449,9 @@ anastasjos 45
 amerikanos 45
 ebdomindaeksi 45
 ebdomindaena 45
+eksi u 45
+çiʎa oktakoʂa oɡdondatesera 45
+çiʎa oktakoʂa oɡdondaðio 45
 ðekato 45
 opios 44
 psilotero 44
@@ -5387,6 +5564,7 @@ jos 44
 jermaniko 44
 vrazilias 44
 aŋɡlus 44
+çiʎa oktakoʂa penindatesera 44
 ðekatotetarto 44
 operas 43
 oŋɡu 43
@@ -5531,6 +5709,11 @@ ao 43
 iʎu 43
 amsterdam 43
 eptakoʂa 43
+çiʎa oktakoʂa eksindaena 43
+çiʎa oktakoʂa triandapente 43
+çiʎa oktakoʂa ikositria 43
+çiʎa oktakoʂa ðekatesera 43
+ðekatesera u 43
 xori 42
 xoritikotitas 42
 xristianismos 42
@@ -5654,6 +5837,13 @@ enenindapente 42
 oɣðoo 42
 oɡdondaokto 42
 eksindaeksi 42
+pente u 42
+çiʎa oktakoʂa oɡdondaepta 42
+çiʎa oktakoʂa penindaeksi 42
+çiʎa oktakoʂa sarandatria 42
+çiʎa oktakoʂa ikosiepta 42
+çiʎa oktakoʂa ikosieksi 42
+çiʎa oktakoʂa eksi 42
 xamiles 41
 xanete 41
 fruta 41
@@ -5771,6 +5961,11 @@ amerikani 41
 alvanias 41
 aji 41
 enato 41
+ðio çiʎaðes okto mion miðen enea 41
+çiʎa oktakoʂa ebdomindapente 41
+çiʎa oktakoʂa triandaðio 41
+çiʎa oktakoʂa ðekapente 41
+çiʎa oktakoʂa 41
 orama 40
 filon 40
 filacistice 40
@@ -5881,6 +6076,9 @@ adioçias 40
 emine 40
 oɡdondaena 40
 ikostos 40
+ðio çiʎaðes enea mion ðeka 40
+çiʎa oktakoʂa oɡdondatria 40
+çiʎa oktakoʂa sarandatesera 40
 oniro 39
 xrisis 39
 çimikon 39
@@ -6053,6 +6251,10 @@ ebdomindaokto 39
 pemptos 39
 tritos 39
 protos 39
+ena is 39
+çiʎa oktakoʂa saranda 39
+çiʎa pendakoʂa 39
+miðen pente 39
 iparksi 38
 oses 38
 oceano 38
@@ -6237,6 +6439,9 @@ anatolika 38
 aleksanðrças 38
 olibos 38
 eksindaenea 38
+tria u 38
+çiʎa oktakoʂa ebdomindaðio 38
+çiʎa oktakoʂa sarandaena 38
 ðoðekato 38
 orea 37
 xronolojia 37
@@ -6259,6 +6464,7 @@ spaɲo 37
 simadikus 37
 ptisis 37
 provata 37
+pi ro omeɣa taf epsilon letətriaeneamiðen ni epsilon siɣma 37
 proɪodos 37
 protaθi 37
 protaθice 37
@@ -6398,6 +6604,10 @@ apo 37
 ekθesi 37
 oɡdondaðio 37
 ebdomindatria 37
+çiʎa oktakoʂa penindaokto 37
+çiʎa oktakoʂa penindaepta 37
+ekaton trianda 37
+miðen okto 37
 ipeθro 36
 iles 36
 opote 36
@@ -6563,6 +6773,14 @@ aeroðromio 36
 aðam 36
 arθur 36
 eksindaðio 36
+ðio çiʎaðes epta mion miðen okto 36
+çiʎa oktakoʂa ebdomindaepta 36
+çiʎa oktakoʂa ebdomindatesera 36
+çiʎa oktakoʂa triandatesera 36
+çiʎa oktakoʂa triandaena 36
+çiʎa eptakoʂa 36
+ekaton eksinda 36
+ðekapente u 36
 oçima 35
 xarise 35
 ipotaji 35
@@ -6748,6 +6966,11 @@ oçi 35
 enenindaenea 35
 eksindaena 35
 ðekatosoɣðoos 35
+çiʎa oktakoʂa eksindaokto 35
+çiʎa oktakoʂa penindapente 35
+çiʎa oktakoʂa triandaepta 35
+çiʎa oktakoʂa ikosi 35
+ðekatria u 35
 iðata 34
 oskar 34
 orofo 34
@@ -6941,7 +7164,10 @@ amfissa 34
 enenindatesera 34
 evðomi 34
 ektos 34
+ena u 34
+çiʎa oktakoʂa triandaenea 34
 ðekatosektos 34
+miðen ena 34
 os 33
 psifistice 33
 psifo 33
@@ -7142,7 +7368,9 @@ adi 33
 ekaterinis 33
 arços 33
 enenindaeksi 33
+çiʎa oktakoʂa penindaenea 33
 ðekatosevðomos 33
+çiʎa eptakoʂa oɡdondaenea 33
 onira 32
 olos 32
 psiçici 32
@@ -7309,6 +7537,8 @@ kaθrin 32
 ieru 32
 iðrimatos 32
 θesprotias 32
+i siɣm alfa letətriaeneamiðen alfa siɣma 32
+zit alfa letətriaeneamiðen mi i siɣma 32
 evias 32
 esθonia 32
 ermioni 32
@@ -7334,6 +7564,10 @@ akoluθun 32
 arta 32
 alo 32
 ebdomindaepta 32
+tria is 32
+çiʎa oktakoʂa penindaðio 32
+çiʎa oktakoʂa sarandaeksi 32
+çiʎa oktakoʂa ðoðeka 32
 omorfo 31
 omilos 31
 olu 31
@@ -7577,7 +7811,13 @@ adad 31
 aθinaɪci 31
 aθanasjo 31
 eos 31
+enea u 31
 oɣðoi 31
+tria mion miðen 31
+çiʎa oktakoʂa ebdomindatria 31
+çiʎa oktakoʂa eksindaenea 31
+çiʎa oktakoʂa sarandaepta 31
+çiʎa eptakoʂa enenindaðio 31
 opsis 30
 psarion 30
 psifisma 30
@@ -7842,6 +8082,10 @@ aanɡ 30
 enenindaokto 30
 penindaenea 30
 ikosto 30
+ðio çiʎaðes eksi mion miðen epta 30
+çiʎa oktakoʂa penindaena 30
+çiʎa oktakoʂa sarandaenea 30
+çiʎa eptakoʂa ebdominda 30
 ifesi 29
 oda 29
 olon 29
@@ -8063,6 +8307,7 @@ iðieteri 29
 iaponici 29
 θiela 29
 zilanðias 29
+zit alfa letətriaeneamiðen mi i 29
 evropeus 29
 elinikon 29
 ðoðeka 29
@@ -8090,7 +8335,9 @@ aŋɡira 29
 enenindaðio 29
 oɡdondaepta 29
 ebdomindaenea 29
+çiʎa oktakoʂa ikosienea 29
 ðekati 29
+miðen epta 29
 opion 28
 opio 28
 psomi 28
@@ -8329,6 +8576,7 @@ meɣara 28
 lui 28
 laɪkos 28
 kocinos 28
+kapataf epsilon 28
 kuduriotis 28
 kudurioti 28
 kosmas 28
@@ -8369,6 +8617,11 @@ atalos 28
 aksona 28
 alfred 28
 oɡdondaenea 28
+ðio çiʎaðes enea mion ðio çiʎaðes ðeka 28
+ðio çiʎaðes tesera mion miðen pente 28
+çiʎa oktakoʂa penindatria 28
+çiʎa oktakoʂa sarandaðio 28
+miðen enea 28
 ipnu 27
 ipno 27
 omia 27
@@ -8661,6 +8914,7 @@ volf 27
 vatikanu 27
 van 27
 vaŋɡelis 27
+alfa çi alfa letətriaeneamiðen alfa 27
 arçepiskopu 27
 anelave 27
 anaptiksis 27
@@ -8670,6 +8924,8 @@ ejiptii 27
 averof 27
 ori 27
 opios 27
+ðio mion tria 27
+miðen tesera 27
 oθisi 26
 xristis 26
 çimikos 26
@@ -8968,6 +9224,10 @@ iones 26
 eduard 26
 ausvits 26
 oɡdondatesera 26
+tesera is 26
+ðio çiʎaðes ðeka mion ðio çiʎaðes enðeka 26
+çiʎa oktakoʂa tesera 26
+çiʎa eptakoʂa eneninda 26
 ipatos 25
 ofile 25
 orasi 25
@@ -9304,6 +9564,11 @@ eðessa 25
 ara 25
 anðru 25
 enenindaepta 25
+okto u 25
+tetrakoʂa peninda 25
+çiʎa eɲakoʂa sarandaeksi mion çiʎa eɲakoʂa sarandaenea 25
+çiʎa oktakoʂa ðekaokto 25
+çiʎa eksakoʂa 25
 imnos 24
 ormo 24
 oŋɡus 24
@@ -9655,7 +9920,17 @@ ejo 24
 exo 24
 artemis 24
 eɲakoʂa 24
+tetrakoʂa oɡdonda 24
+triakoʂa peninda 24
+tria mion ðio 24
+çiʎa oktakoʂa sarandapente 24
+çiʎa oktakoʂa ðekaenea 24
+çiʎa oktakoʂa ðekatria 24
+çiʎa oktakoʂa pente 24
+çiʎa oktakoʂa ena 24
+çiʎa ðʲakoʂa 24
 enðekati 24
+ðeka u 24
 oras 23
 orko 23
 psiksi 23
@@ -9964,6 +10239,7 @@ olibçacis 23
 olanðici 23
 ksenofon 23
 nomu 23
+ni iota kapa o lamð alfa letətriaeneamiðen ðelta i siɣma 23
 nepal 23
 nilos 23
 modreal 23
@@ -10039,6 +10315,10 @@ enatos 23
 enati 23
 enenindatria 23
 evðomos 23
+triakoʂa eksinda 23
+ðio çiʎaðes pente mion miðen eksi 23
+çiʎa oktakoʂa triandaokto 23
+miðen mion miðen 23
 ifus 22
 imnus 22
 orθia 22
@@ -10440,6 +10720,17 @@ erɣon 22
 anθropos 22
 albert 22
 enenindaena 22
+triakoʂa trianda 22
+ikosiena is 22
+ðio çiʎaðes enðeka mion ðoðeka 22
+çiʎa oktakoʂa ðeka 22
+çiʎa oktakoʂa okto 22
+ekaton ebdominda 22
+ekaton saranda 22
+ðoðeka u 22
+enðeka is 22
+miðen eksi 22
+miðen ðio 22
 ipsi 21
 psevðarjiros 21
 psaraðes 21
@@ -10897,8 +11188,12 @@ ael 21
 arço 21
 amfissas 21
 ajaks 21
+çiʎa oktakoʂa ðekaepta 21
+çiʎa eptakoʂa enenindapente 21
 ðekatospemptos 21
 ðekatitetarti 21
+çiʎa triakoʂa 21
+miðen tria 21
 isteri 20
 iðatos 20
 oceanos 20
@@ -10984,6 +11279,7 @@ prosθese 20
 prolipsi 20
 prototokos 20
 protokolo 20
+pi ro omeɣa taf epsilon letətriaeneamiðen ni i 20
 prosopopiisi 20
 prosfiji 20
 prosefçis 20
@@ -11042,6 +11338,7 @@ dropi 20
 neotero 20
 nevriko 20
 nekri 20
+ni alfa ipsilon siɣma iota pi lamða o letətriaeneamiðen alfa 20
 nanos 20
 bun 20
 borusame 20
@@ -11401,6 +11698,14 @@ astron 20
 anðros 20
 aleks 20
 aɪres 20
+ðio is 20
+çiʎa oktakoʂa ðekaeksi 20
+çiʎa oktakoʂa enea 20
+çiʎa eptakoʂa enenindaokto 20
+çiʎa eptakoʂa oɡdondaepta 20
+çiʎa eptakoʂa ebdomindatesera 20
+çiʎa eksakoʂa eksinda 20
+ekaton ikosipente 20
 ormu 19
 psixolojias 19
 psifoðeltio 19
@@ -11916,7 +12221,16 @@ ema 19
 aðis 19
 aju 19
 aŋɡelo 19
+epta u 19
+pente is 19
+ðio çiʎaðes epta mion ðio çiʎaðes okto 19
+ðio çiʎaðes ðio mion miðen tria 19
+çiʎa oktakoʂa enðeka 19
+çiʎa eptakoʂa enenindaenea 19
+çiʎa eptakoʂa enenindaepta 19
+çiʎa eptakoʂa enenindatria 19
 ðoðekati 19
+ekaton pente 19
 omo 18
 ipsoma 18
 psifisan 18
@@ -12504,6 +12818,9 @@ iparxos 18
 inka 18
 adams 18
 ana 18
+ikosi omikrontonos 18
+ðio mion ðio 18
+çiʎa oktakoʂa tria 18
 ifasma 17
 oria 17
 opies 17
@@ -13178,7 +13495,19 @@ anðro 17
 alan 17
 akra 17
 oɣðoos 17
+triakoʂa enenindapente 17
+ðio çiʎaðes okto mion ðio çiʎaðes enea 17
+ðio çiʎaðes tria mion miðen tesera 17
+çiʎa oktakoʂa epta 17
+çiʎa eptakoʂa enenindaena 17
+çiʎa eptakoʂa ebdomindaðio 17
+ekaton eksindaokto 17
+ekaton eksindapente 17
 ðekatitriti 17
+ekaton ðekaokto 17
+ekaton ðekapente 17
+çiʎa ekato 17
+ena mion tria 17
 orize 16
 omiros 16
 ozodos 16
@@ -13803,6 +14132,7 @@ kamerun 16
 kalivia 16
 kalikrati 16
 kaθeðriko 16
+kap alfa letətriaeneamiðen ro o ipsilon 16
 cedavros 16
 cebridz 16
 celtes 16
@@ -13882,6 +14212,7 @@ aziz 16
 aŋɡelopulos 16
 aviv 16
 apo 16
+ad ena 16
 imnos 16
 oti 16
 onoma 16
@@ -13897,6 +14228,16 @@ amina 16
 alpeon 16
 alos 16
 aŋɡlo 16
+eksi is 16
+ðio çiʎaðes ena mion miðen ðio 16
+çiʎa eɲakoʂa enenindatria mion enenindatesera 16
+çiʎa eptakoʂa oɡdondaokto 16
+çiʎa eptakoʂa oɡdondatesera 16
+çiʎa eptakoʂa ebdomindaokto 16
+çiʎa eptakoʂa ebdomindapente 16
+ekaton eksindaepta 16
+çiʎa tetrakoʂa penindatria 16
+ekaton ikosienea 16
 omus 15
 oθise 15
 ipato 15
@@ -14112,6 +14453,7 @@ niceʎo 15
 nearon 15
 neaniðon 15
 naftia 15
+ni alfa ipsilon siɣma iota pi lamða o letətriaeneamiðen alfa siɣma 15
 nafpijici 15
 bros 15
 buzuci 15
@@ -14724,7 +15066,17 @@ anðis 15
 alis 15
 aθo 15
 ajon 15
+okto is 15
+triakoʂa tria 15
+tria mion tesera 15
+ðʲakoʂa eksinda 15
+ðʲakoʂa ikosi 15
+ikosi os 15
+çiʎa eptakoʂa enenindatesera 15
+çiʎa eptakoʂa oɡdondatria 15
 ðekatipempti 15
+çiʎa tetrakoʂa 15
+miðen mion ena 15
 imnu 14
 opsin 14
 odon 14
@@ -15414,6 +15766,7 @@ sinepça 14
 sibolitias 14
 strimona 14
 stavro 14
+siɣmataf epsilon 14
 sri 14
 sofulis 14
 suliu 14
@@ -15434,6 +15787,7 @@ rok 14
 ravalomanana 14
 poso 14
 poe 14
+pi taf o lamða epsilon mi alfa letətriaeneamiðen ðelt alfa siɣma 14
 proin 14
 protaɣonistes 14
 proeðriko 14
@@ -15663,8 +16017,22 @@ anθimos 14
 amlet 14
 aŋɡiras 14
 avel 14
+tetrakoʂa eneninda 14
+tetrakoʂa ebdomindaenea 14
+tetrakoʂa enðeka 14
+tesera mion ena 14
+triakoʂa eksindapente 14
+ðio çiʎaðes enðeka mion ðio çiʎaðes ðoðeka 14
+ðio çiʎaðes pente mion ðio çiʎaðes eksi 14
+çiʎa eɲakoʂa oɡdondatesera mion oɡdondapente 14
 ðekatievðomi 14
+çiʎa eptakoʂa penindapente 14
+ekaton eksindatesera 14
 ðekatostetartos 14
+ekaton triandaeksi 14
+ekaton triandaðio 14
+ena mion ðio 14
+miðen mion ðio 14
 iðrefsis 13
 iðrefsi 13
 opsi 13
@@ -16086,6 +16454,7 @@ zitisis 13
 exθriku 13
 efarmozodas 13
 efçerça 13
+epsilon ipsilon fi ipsilon letətriaeneamiðen alfa 13
 etafi 13
 ereθismata 13
 epikus 13
@@ -16406,6 +16775,7 @@ set 13
 sirios 13
 saronikos 13
 sapfo 13
+siɣm alfa vita o letətriaeneamiðen alfa siɣma 13
 stin 13
 roulinɡ 13
 rosoturciko 13
@@ -16690,8 +17060,29 @@ alma 13
 aɣrafa 13
 aŋɡlu 13
 alfatonos 13
+epta is 13
+eptakoʂa peninda 13
+eksakoʂa peninda 13
+triakoʂa ebdominda 13
+triakoʂa ikosipente 13
+ðʲakoʂa saranda 13
+çiʎa eɲakoʂa enenindaokto mion enenindaenea 13
+çiʎa eɲakoʂa oɡdondaenea mion eneninda 13
+çiʎa eɲakoʂa oɡdondaeksi mion oɡdondaepta 13
+çiʎa eɲakoʂa oɡdondapente mion oɡdondaeksi 13
+ekaton enenindaðio 13
+çiʎa eɲakoʂa ðoðeka mion çiʎa eɲakoʂa ðekatria 13
+çiʎa oktakoʂa ðio 13
+çiʎa eptakoʂa oɡdondaeksi 13
+çiʎa eptakoʂa oɡdondapente 13
+çiʎa eptakoʂa ebdomindaeksi 13
+çiʎa eptakoʂa eksindatesera 13
+çiʎa pendakoʂa ebdomindaena 13
 ðekatostritos 13
 ðoðekatos 13
+ekaton ikosiepta 13
+ekaton ðio 13
+ekaton ena 13
 imni 12
 ofilan 12
 ostraka 12
@@ -16992,6 +17383,7 @@ pepsi 12
 pebtos 12
 pao 12
 papsi 12
+pi çi 12
 ofθalmi 12
 uraɲas 12
 oriçion 12
@@ -17885,8 +18277,39 @@ elen 12
 arsenal 12
 adolf 12
 aaçen 12
+pendakoʂa saranda 12
+pendakoʂa trianda 12
+tetrakoʂa eksinda 12
+tetrakoʂa ðeka 12
+triakoʂa ikosiðio 12
+triakoʂa ena 12
+tria mion pente 12
+ikosiokto is 12
 ikostipempti 12
+ikositria is 12
+ðʲakoʂa trianda 12
+ðʲakoʂa ðeka 12
+ðio çiʎaðes tria mion ðio çiʎaðes tesera 12
+çiʎa eɲakoʂa enenindaepta mion enenindaokto 12
+çiʎa eɲakoʂa oɡdondatria mion oɡdondatesera 12
+çiʎa eɲakoʂa oɡdondaðio mion oɡdondatria 12
+ekaton enenindaepta 12
+çiʎa eɲakoʂa eksindaena mion eksindaðio 12
+çiʎa eɲakoʂa eksinda mion eksindaena 12
 ðekatioɣðoi 12
+çiʎa eptakoʂa oɡdondaena 12
+çiʎa eptakoʂa ebdomindaenea 12
+çiʎa eptakoʂa ebdomindatria 12
+çiʎa eptakoʂa eksindaepta 12
+çiʎa eptakoʂa ikosiena 12
+çiʎa eptakoʂa ðekapente 12
+çiʎa eptakoʂa ðeka 12
+ekaton sarandatria 12
+ekaton triandapente 12
+enðeka u 12
+ekaton ðekaeksi 12
+ekaton epta 12
+ekaton tria 12
 isteris 11
 iparksis 11
 iðor 11
@@ -18381,6 +18804,7 @@ izimata 11
 ierarçika 11
 iðriode 11
 iðiotita 11
+iota ðelta iota o fi ipsilon letətriaeneamiðen alfa 11
 iðeolojias 11
 θorakas 11
 θorikta 11
@@ -18899,6 +19323,7 @@ servion 11
 seneɣali 11
 samana 11
 savatociriako 11
+siɣm alfa letətriaeneamiðen ni taf 11
 siti 11
 siɣura 11
 senberɡ 11
@@ -18984,6 +19409,7 @@ nemea 11
 nafpaktos 11
 natalia 11
 navuxoðonosor 11
+ni alfa letətriaeneamiðen taf epsilon siɣma 11
 nisu 11
 niar 11
 nerona 11
@@ -19258,7 +19684,31 @@ alsos 11
 akras 11
 aɪfel 11
 aɪlad 11
+eɲakoʂa peninda 11
+eksakoʂa trianda 11
+eksakoʂa ðeka 11
+tetrakoʂa tesera 11
+triakoʂa ikositria 11
+triakoʂa ðeka 11
+ðʲakoʂa ebdominda 11
+ikosipente is 11
+ðʲakoʂa sarandaeksi 11
 ikostoproto 11
+ðʲakoʂa mi 11
+ðio çiʎaðes eksi mion ðio çiʎaðes epta 11
+çiʎa eɲakoʂa enenindapente mion enenindaeksi 11
+çiʎa eɲakoʂa enenindaena mion enenindaðio 11
+ekaton enenindaeksi 11
+çiʎa eɲakoʂa sarandaena mion çiʎa eɲakoʂa sarandatesera 11
+çiʎa eptakoʂa eksindaenea 11
+çiʎa eptakoʂa eksindapente 11
+çiʎa eptakoʂa peninda 11
+çiʎa eptakoʂa ðio 11
+çiʎa eksakoʂa eksindaenea 11
+çiʎa eksakoʂa saranda 11
+ekaton eksindaðio 11
+ekaton sarandapente 11
+ekaton ðekatria 11
 ipnos 10
 ostrako 10
 orisan 10
@@ -20345,6 +20795,7 @@ aŋɡikse 10
 pselos 10
 xrisu 10
 xrisimopii 10
+çi o ipsilon siɣma epsilon letətriaeneamiðen ni 10
 xorn 10
 xadzis 10
 xarilau 10
@@ -20450,6 +20901,7 @@ rodzer 10
 roterdam 10
 roma 10
 rudolf 10
+ro o letətriaeneamiðen ðelta i siɣma 10
 rem 10
 ramon 10
 razoelina 10
@@ -20765,6 +21217,7 @@ vuðas 10
 vulɣaricis 10
 volteros 10
 voiθise 10
+vita o letətriaeneamiðen o ipsilon 10
 visi 10
 visaltias 10
 viktoria 10
@@ -20851,8 +21304,41 @@ anfild 10
 ada 10
 aniksis 10
 anacin 10
+pendakoʂa peninda 10
+pendakoʂa ikosiepta 10
+tetrakoʂa ikosi 10
+tetrakoʂa mi 10
+triakoʂa penindaeksi 10
+triakoʂa penindatria 10
+triakoʂa enðeka 10
+ðʲakoʂa oɡdonda 10
+ikosiepta is 10
+ikositesera oro 10
+ðʲakoʂa ðio 10
+ðio çiʎaðes tesera mion ðio çiʎaðes pente 10
+ðio çiʎaðes ðio mion ðio çiʎaðes tria 10
+ekaton enenindaenea 10
+çiʎa eɲakoʂa oɡdondaokto mion oɡdondaenea 10
+çiʎa eɲakoʂa ebdomindaðio mion ebdomindatria 10
+ðekaepta is 10
+çiʎa eptakoʂa oɡdonda 10
+çiʎa eptakoʂa penindaenea 10
+çiʎa eptakoʂa penindatria 10
+çiʎa eksakoʂa ebdomindatria 10
+çiʎa pendakoʂa oɡdondapente 10
+çiʎa pendakoʂa ebdominda 10
+çiʎa pendakoʂa peninda 10
+çiʎa pendakoʂa saranda 10
+ekaton sarandaeksi 10
+çiʎa tetrakoʂa peninda 10
+çiʎa triakoʂa sarandaena 10
+ekaton ikosieksi 10
+çiʎa ðʲakoʂa penindaenea 10
+ekaton ikosiena 10
 enðekatos 10
 ðekatos 10
+ekaton okto 10
+ekaton tesera 10
 ifesis 9
 orθio 9
 oɣðoo 9
@@ -22279,6 +22765,7 @@ piro 9
 pilo 9
 piðna 9
 poleon 9
+pi taf o lamða epsilon mi alfa letətriaeneamiðen ðelt alfa 9
 proteas 9
 prospaθodas 9
 proksenio 9
@@ -22560,6 +23047,7 @@ iðiotici 9
 θa 9
 ifestço 9
 ist 9
+i siɣm alfa letətriaeneamiðen alfa 9
 iʎo 9
 iʎaku 9
 ilektronikos 9
@@ -22687,6 +23175,7 @@ vicinɡs 9
 vermio 9
 vasko 9
 varna 9
+vita ena 9
 afrikanicis 9
 aftokratoron 9
 aftokrator 9
@@ -22781,7 +23270,58 @@ acis 9
 aθos 9
 aŋɡelu 9
 avari 9
+enea is 9
+epta mion okto 9
+eksakoʂa saranda 9
+pendakoʂa ebdominda 9
+pendakoʂa triandaokto 9
+pente mion eksi 9
+tetrakoʂa ebdomindaeksi 9
+tetrakoʂa penindaena 9
+tesera mion ðio 9
+tesera mion miðen 9
+triakoʂa eksindatesera 9
+triakoʂa eksindaðio 9
+triakoʂa penindatesera 9
+triakoʂa triandaepta 9
+triakoʂa ikosi 9
+triakoʂa ðekaepta 9
+ikosienea is 9
+ikosieksi is 9
+ðʲakoʂa eksindaena 9
+ðio çiʎaðes pendakoʂa 9
+ðʲakoʂa triandaokto 9
+ikosiðio as 9
+ðʲakoʂa ikositria 9
 ikostiproti 9
+ðʲakoʂa tesera 9
+çiʎa eɲakoʂa enenindatesera mion enenindapente 9
+çiʎa eɲakoʂa enenindaðio mion enenindatria 9
+çiʎa eɲakoʂa oɡdondaena mion oɡdondaðio 9
+ðekaokto is 9
+çiʎa eptakoʂa oɡdondaðio 9
+ekaton ebdomindaepta 9
+çiʎa eptakoʂa penindatesera 9
+ekaton ebdomindatria 9
+ekaton ebdomindaðio 9
+ekaton ebdomindaena 9
+ekaton eksindaenea 9
+çiʎa eksakoʂa ebdomindaðio 9
+çiʎa eksakoʂa triandapente 9
+çiʎa eksakoʂa triandaðio 9
+çiʎa eksakoʂa trianda 9
+çiʎa eksakoʂa enðeka 9
+ekaton penindapente 9
+ekaton sarandaenea 9
+ekaton sarandaokto 9
+ekaton sarandaðio 9
+ðekatria is 9
+çiʎa triakoʂa sarandaeksi 9
+çiʎa ðʲakoʂa trianda 9
+ekaton ðoðeka 9
+ðeka is 9
+ekaton eksi 9
+ekato mi 9
 ipsosi 8
 ifalos 8
 imnon 8
@@ -23161,6 +23701,7 @@ proves 8
 protoɣones 8
 protoemfanizete 8
 protojenus 8
+pi ro omeɣa taf epsilon letətriaeneamiðen ni i siɣma 8
 proini 8
 proines 8
 proorize 8
@@ -23449,6 +23990,7 @@ mi 8
 melissa 8
 mazema 8
 maɣon 8
+mi çi 8
 lisun 8
 lini 8
 lutro 8
@@ -23600,6 +24142,7 @@ istoseliðas 8
 istorioɣrafias 8
 istioforo 8
 istiofora 8
+iota siɣma taf iota o pi lamða o letətriaeneamiðen alfa 8
 ispanikon 8
 ispania 8
 isoðinamia 8
@@ -24750,6 +25293,7 @@ ciro 8
 cimi 8
 korðova 8
 kosti 8
+kapa omeɣa pi alfa letətriaeneamiðen ðelt alfa siɣma 8
 konstadiniði 8
 konstadaras 8
 cipriaces 8
@@ -25099,7 +25643,76 @@ anθimo 8
 alberix 8
 aɪro 8
 avðira 8
+eksakoʂa epta 8
+eksi mion ena 8
+pendakoʂa sarandaðio 8
+pendakoʂa ðeka 8
+tetrakoʂa trianda 8
+tetrakoʂa ikosipente 8
+tesera mion pente 8
+triakoʂa eneninda 8
+triakoʂa oɡdondaepta 8
+triakoʂa oɡdonda 8
+triakoʂa triandaokto 8
+triakoʂa triandaena 8
+triakoʂa ðekatesera 8
+triakoʂa eksi 8
+triakoʂa pente 8
+tria mion ðio mion ena 8
+ðʲakoʂa enenindatria 8
+ðʲakoʂa oɡdondaenea 8
 ikostievðomi 8
+ðʲakoʂa ebdomindaðio 8
+ðʲakoʂa triandaenea 8
+ikosi is 8
+ðio çiʎaðes ðekatesera 8
+ðio mion tesera 8
+çiʎa eɲakoʂa enenindapente mion çiʎa eɲakoʂa enenindaeksi 8
+çiʎa eɲakoʂa enenindatesera mion çiʎa eɲakoʂa enenindapente 8
+çiʎa eɲakoʂa ebdomindaenea mion oɡdonda 8
+çiʎa eɲakoʂa ebdomindatria mion çiʎa eɲakoʂa ebdomindatesera 8
+çiʎa eɲakoʂa eksindaepta mion eksindaokto 8
+çiʎa eɲakoʂa eksindaepta mion çiʎa eɲakoʂa ebdomindatesera 8
+çiʎa eɲakoʂa eksindaeksi mion eksindaepta 8
+çiʎa eɲakoʂa eksindapente mion eksindaeksi 8
+çiʎa eɲakoʂa penindaenea mion eksinda 8
+ekaton eneninda 8
+ekaton oɡdondaenea 8
+çiʎa oktakoʂa ebdomindaepta mion çiʎa oktakoʂa ebdomindaokto 8
+ekaton oɡdondaepta 8
+ekaton oɡdondapente 8
+ekaton oɡdondaðio 8
+çiʎa eptakoʂa enenindaeksi 8
+ekaton ebdomindaokto 8
+çiʎa eptakoʂa eksindaokto 8
+ekaton ebdomindapente 8
+çiʎa eptakoʂa ikosiepta 8
+çiʎa eptakoʂa enðeka 8
+çiʎa eksakoʂa oɡdondaenea 8
+çiʎa eksakoʂa oɡdondapente 8
+çiʎa eksakoʂa oɡdondatria 8
+ekaton eksindaeksi 8
+çiʎa eksakoʂa penindaðio 8
+çiʎa eksakoʂa ðoðeka 8
+çiʎa eksakoʂa tria 8
+ðekapente is 8
+çiʎa pendakoʂa eneninda 8
+ekaton penindaokto 8
+çiʎa pendakoʂa ebdomindaðio 8
+ekaton penindaepta 8
+çiʎa pendakoʂa eksindaokto 8
+çiʎa pendakoʂa triandatesera 8
+çiʎa pendakoʂa ikosiena 8
+çiʎa pendakoʂa ðekatria 8
+ekaton penindaena 8
+ðekatesera is 8
+çiʎa tetrakoʂa oɡdondaenea 8
+çiʎa tetrakoʂa ebdominda 8
+çiʎa tetrakoʂa eksinda 8
+çiʎa ðʲakoʂa ikosipente 8
+ekaton ikosiðio 8
+ekaton ðekaepta 8
+çiʎa penindatesera 8
 oθisan 7
 ipsose 7
 ifali 7
@@ -25857,6 +26470,7 @@ nimfevmenos 7
 nikterino 7
 dopça 7
 detektiv 7
+ni taf alfa letətriaeneamiðen mi iota o 7
 nomoθetika 7
 nomismaticis 7
 nomimotitas 7
@@ -27279,6 +27893,7 @@ pirɣus 7
 portes 7
 poleos 7
 piramiða 7
+pitaf ðelta 7
 proimis 7
 proimi 7
 prooðos 7
@@ -27430,6 +28045,7 @@ nomarçias 7
 ɲuton 7
 niks 7
 nikotsaras 7
+ni iota kapa o lamð alfa letətriaeneamiðen ðelta i 7
 nikola 7
 neoptolemos 7
 nekra 7
@@ -27564,6 +28180,7 @@ luɣ 7
 luidzi 7
 loran 7
 lomvarði 7
+lamða o letətriaeneamiðen zita o siɣma 7
 ʎosja 7
 litoxoro 7
 lineu 7
@@ -28043,6 +28660,7 @@ esopos 7
 emu 7
 aera 7
 atia 7
+alfa tria 7
 ipsi 7
 ipatos 7
 ossa 7
@@ -28079,8 +28697,90 @@ aɣras 7
 aɣnosto 7
 aɣalma 7
 aviðos 7
+eɲakoʂa eksindapente 7
+oktakoʂa sarandatria 7
+eptakoʂa saranda 7
+eptakoʂa triandaena 7
+eksakoʂa eksindaokto 7
+eksakoʂa ikosi 7
+eksi mion miðen 7
+pendakoʂa oɡdonda 7
+pendakoʂa penindatria 7
+penindateseris çiʎaðes ekaton eksinda 7
+pente mion epta 7
+triakoʂa enenindatesera 7
+triakoʂa oɡdondapente 7
+triakoʂa oɡdondaena 7
+triakoʂa penindaenea 7
+triakoʂa penindaepta 7
+triakoʂa penindaena 7
+triakoʂa sarandaeksi 7
+triakoʂa sarandapente 7
+triakoʂa saranda 7
+triakoʂa triandaenea 7
+triakoʂa triandaðio 7
+triandaena is 7
+triakoʂa ðekaeksi 7
+triakoʂa ðoðeka 7
+trianda is 7
+ðʲakoʂa enenindaeksi 7
+ðʲakoʂa penindaeksi 7
+ðʲakoʂa penindaena 7
+ðʲakoʂa sarandapente 7
 ikostitriti 7
 ikostoðeftero 7
+ikosiena u 7
+ðʲakoʂa ðekaepta 7
+ðʲakoʂa eksi 7
+ðʲakoʂa ena 7
+ðekaenea is 7
+çiʎa eɲakoʂa enenindaeksi mion enenindaepta 7
+çiʎa eɲakoʂa eneninda mion enenindaena 7
+çiʎa eɲakoʂa ebdominda mion ebdomindaena 7
+ekaton enenindapente 7
+çiʎa eɲakoʂa saranda mion çiʎa eɲakoʂa sarandaena 7
+çiʎa eɲakoʂa ðoðeka mion ðekatria 7
+ekaton oɡdondaokto 7
+ekaton oɡdondatesera 7
+ekaton oɡdondaena 7
+çiʎa eptakoʂa ebdomindaena 7
+çiʎa eptakoʂa eksindaeksi 7
+ekaton ebdomindaeksi 7
+çiʎa eptakoʂa ðekaenea 7
+çiʎa eptakoʂa ðoðeka 7
+çiʎa eptakoʂa epta 7
+çiʎa eptakoʂa tria 7
+çiʎa eksakoʂa enenindaenea 7
+çiʎa eksakoʂa oɡdondaokto 7
+çiʎa eksakoʂa eksindapente 7
+çiʎa eksakoʂa sarandaepta 7
+çiʎa eksakoʂa sarandaðio 7
+çiʎa eksakoʂa ikosiðio 7
+çiʎa eksakoʂa pente 7
+çiʎa pendakoʂa oɡdondatria 7
+çiʎa pendakoʂa oɡdonda 7
+çiʎa pendakoʂa ebdomindaepta 7
+ekaton penindaeksi 7
+çiʎa pendakoʂa penindaepta 7
+çiʎa pendakoʂa trianda 7
+çiʎa pendakoʂa ikosieksi 7
+çiʎa pendakoʂa ikosi 7
+çiʎa pendakoʂa enðeka 7
+çiʎa tetrakoʂa enenindaokto 7
+çiʎa tetrakoʂa enenindatria 7
+çiʎa tetrakoʂa eksindaena 7
+çiʎa tetrakoʂa penindaokto 7
+çiʎa tetrakoʂa penindaðio 7
+çiʎa tetrakoʂa ikositesera 7
+çiʎa tetrakoʂa ikositria 7
+çiʎa tetrakoʂa ikosi 7
+çiʎa triakoʂa oɡdonda 7
+ekaton triandaepta 7
+ekaton triandatria 7
+çiʎa ðʲakoʂa eksindaena 7
+çiʎa ðʲakoʂa peninda 7
+çiʎa ðʲakoʂa saranda 7
+ðeka mion ikosi 7
 orimi 6
 istati 6
 ivris 6
@@ -29829,6 +30529,7 @@ isoði 6
 ipa 6
 in 6
 iði 6
+epsilon pente 6
 ðosume 6
 ðorikos 6
 ðoriko 6
@@ -30065,6 +30766,7 @@ vrika 6
 vraxu 6
 vraçi 6
 vutaniko 6
+vutaðieɲo mion ena 6
 vosci 6
 vorçoteri 6
 voɪθus 6
@@ -30171,6 +30873,7 @@ arçeris 6
 arçiðukas 6
 arçijia 6
 arçeolojikus 6
+alfa ro çi alfa letətriaeneamiðen zita o ipsilon siɣm alfa 6
 arçeɣona 6
 arxas 6
 arx 6
@@ -31603,6 +32306,7 @@ ir 6
 ðekaðes 6
 ðarvino 6
 ðanici 6
+ðelt alfa ni alfa letətriaeneamiðen ðelta epsilon siɣma 6
 ðamianu 6
 ðamasku 6
 ðaktiʎos 6
@@ -31735,6 +32439,7 @@ valverðe 6
 valaoritis 6
 vaθmolojia 6
 vaθmolojiθikan 6
+vit alfa letətriaeneamiðen omeɣa ni 6
 vitsi 6
 vismark 6
 viu 6
@@ -31753,6 +32458,7 @@ varaŋɡi 6
 valvis 6
 vakxu 6
 vaɪs 6
+vita ðio 6
 aoos 6
 aɪlin 6
 axmatova 6
@@ -31882,6 +32588,7 @@ aetu 6
 aeroðromiu 6
 aðriano 6
 aðelfotis 6
+alfa ðelta epsilon lamð alfa letətriaeneamiðen ðelt alfa 6
 aɣonos 6
 aɣoniston 6
 aɣonistici 6
@@ -31938,6 +32645,114 @@ aderson 6
 ani 6
 anθraka 6
 amesi 6
+eɲakoʂa eksinda 6
+enea mion enðeka 6
+eptakoʂa trianda 6
+eksakoʂa ebdomindaokto 6
+eksakoʂa ikosiðio 6
+eksakoʂa ðekapente 6
+pendakoʂa eksinda 6
+pendakoʂa triandaeksi 6
+pente mion ðeka 6
+tetrakoʂa ebdomindaepta 6
+tetrakoʂa sarandapente 6
+tetrakoʂa ena 6
+tesera mion eksi 6
+triakoʂa oɡdondaokto 6
+triakoʂa ebdomindaokto 6
+triakoʂa eksindaena 6
+triakoʂa penindapente 6
+triakoʂa sarandaepta 6
+triakoʂa sarandatria 6
+triakoʂa triandatesera 6
+triakoʂa ikositesera 6
+triakoʂa ðekapente 6
+triakoʂa epta 6
+trianda mion saranda 6
+ðio as 6
+ðʲakoʂa oɡdondaepta 6
+ðʲakoʂa oɡdondaeksi 6
+ðʲakoʂa oɡdondaena 6
+ðʲakoʂa ebdomindaepta 6
+ðʲakoʂa ebdomindaeksi 6
+ðʲakoʂa eksindaepta 6
+ikositesera oru 6
+ðʲakoʂa sarandaenea 6
+ðʲakoʂa triandapente 6
+ðʲakoʂa triandaðio 6
+ðʲakoʂa triandaena 6
+ðʲakoʂa ikosipente 6
+ðʲakoʂa ikosiena 6
+ðʲakoʂa ðekapente 6
+ðʲakoʂa ðekatesera 6
+ðʲakoʂa enðeka 6
+ðio çiʎaðes ikosi 6
+ðio çiʎaðes ena mion ðio çiʎaðes ðio 6
+çiʎa eɲakoʂa enenindaðio mion çiʎa eɲakoʂa enenindatria 6
+çiʎa eɲakoʂa enenindaena mion çiʎa eɲakoʂa enenindaðio 6
+çiʎa eɲakoʂa eneninda mion çiʎa eɲakoʂa enenindaena 6
+çiʎa eɲakoʂa oɡdondaepta mion oɡdondaokto 6
+çiʎa eɲakoʂa oɡdonda mion oɡdondaena 6
+ekaton enenindaokto 6
+çiʎa eɲakoʂa ebdomindaokto mion ebdomindaenea 6
+çiʎa eɲakoʂa ebdomindaepta mion ebdomindaokto 6
+çiʎa eɲakoʂa ebdomindaeksi mion ebdomindaepta 6
+çiʎa eɲakoʂa ebdomindatesera mion ebdomindapente 6
+çiʎa eɲakoʂa ebdominda mion çiʎa eɲakoʂa ebdomindaena 6
+çiʎa eɲakoʂa eksindaokto mion eksindaenea 6
+çiʎa eɲakoʂa eksindatesera mion eksindapente 6
+çiʎa eɲakoʂa eksindatesera mion çiʎa eɲakoʂa eksindaepta 6
+çiʎa eɲakoʂa eksindatria mion eksindatesera 6
+çiʎa eɲakoʂa penindaenea mion çiʎa eɲakoʂa eksinda 6
+çiʎa oktakoʂa eksindaeksi mion çiʎa oktakoʂa eksindaenea 6
+ekaton oɡdondatria 6
+çiʎa eptakoʂa eksindatria 6
+çiʎa eptakoʂa eksindaena 6
+çiʎa eptakoʂa penindaokto 6
+çiʎa eptakoʂa saranda 6
+çiʎa eptakoʂa ikosiokto 6
+çiʎa eptakoʂa okto 6
+çiʎa eksakoʂa ebdominda 6
+çiʎa eksakoʂa penindaeksi 6
+çiʎa eksakoʂa sarandatesera 6
+ekaton eksindatria 6
+çiʎa eksakoʂa ikosiena 6
+çiʎa eksakoʂa ikosi 6
+çiʎa eksakoʂa ðekaeksi 6
+çiʎa eksakoʂa ðeka 6
+ekaton eksindaena 6
+çiʎa eksakoʂa ðio 6
+ekaton penindaenea 6
+çiʎa pendakoʂa oɡdondaokto 6
+çiʎa pendakoʂa oɡdondaepta 6
+çiʎa pendakoʂa oɡdondatesera 6
+çiʎa pendakoʂa ebdomindaenea 6
+çiʎa pendakoʂa eksindaeksi 6
+çiʎa pendakoʂa triandaeksi 6
+çiʎa pendakoʂa ðoðeka 6
+çiʎa pendakoʂa ðio 6
+çiʎa tetrakoʂa enenindaðio 6
+çiʎa tetrakoʂa ebdomindatesera 6
+çiʎa tetrakoʂa eksindaeksi 6
+çiʎa tetrakoʂa penindatesera 6
+çiʎa tetrakoʂa trianda 6
+ekaton sarandaena 6
+çiʎa triakoʂa enenindaðio 6
+çiʎa triakoʂa ebdomindatria 6
+çiʎa triakoʂa ebdominda 6
+çiʎa triakoʂa peninda 6
+çiʎa triakoʂa triandaepta 6
+ekaton triandaena 6
+ðoðeka is 6
+çiʎa ðʲakoʂa oɡdondatesera 6
+çiʎa ðʲakoʂa sarandaena 6
+ekaton ikositria 6
+çiʎa ðʲakoʂa ikositesera 6
+çiʎa ðʲakoʂa enea 6
+ðoðeka mion ðekatria 6
+ekaton ðekatesera 6
+ena mion tesera 6
+miðen mion tria 6
 orimo 5
 ipsisto 5
 ipsisti 5
@@ -32126,6 +32941,7 @@ faneles 5
 fanaria 5
 fakus 5
 faɣoθi 5
+fi alfa letətriaeneamiðen 5
 fetas 5
 fero 5
 faron 5
@@ -32818,6 +33634,7 @@ proelasi 5
 proeciptan 5
 proeðrus 5
 proastço 5
+pi ro o letətriaeneamiðen siɣma taf alfa taf alfa iota 5
 priŋɡipon 5
 pratirio 5
 praktoria 5
@@ -33912,6 +34729,7 @@ zesti 5
 zafiri 5
 zisume 5
 zali 5
+zita eksi 5
 eforis 5
 efora 5
 eflekto 5
@@ -34519,6 +35337,7 @@ iθiste 5
 ðenðru 5
 ðafnes 5
 ðaskalos 5
+ðelta pente 5
 jipsos 5
 jirosfonðilu 5
 jimnastes 5
@@ -35168,6 +35987,7 @@ esθanomaste 5
 esθanome 5
 eretikos 5
 emoforon 5
+alfa iota mi o ro ro o letətriaeneamiðen ðelta epsilon siɣma 5
 ematoçisia 5
 ejiptiaku 5
 aθristika 5
@@ -35640,6 +36460,7 @@ serifu 5
 sedan 5
 seliðes 5
 sira 5
+siɣma epsilon letətriaeneamiðen çi 5
 sɣuros 5
 svartsenberɡ 5
 svaɪtser 5
@@ -35708,6 +36529,7 @@ robiɲo 5
 roz 5
 rovespçeros 5
 roverto 5
+ro o letətriaeneamiðen ðelta i 5
 rixarðo 5
 rizospasti 5
 rizarços 5
@@ -35894,6 +36716,7 @@ paŋɡeo 5
 paŋɡea 5
 paɣanismos 5
 pernume 5
+pi alfa letətriaeneamiðen siɣma iota o siɣma 5
 pistevan 5
 pilsen 5
 petkof 5
@@ -36149,6 +36972,7 @@ meŋɡ 5
 meɣaliteri 5
 meɣalitero 5
 meɣalostavro 5
+mi epsilon letətriaeneamiðen taf zita iota 5
 mavru 5
 maɪami 5
 maxala 5
@@ -36181,6 +37005,7 @@ maceðni 5
 macei 5
 makari 5
 makarθi 5
+mak donald 5
 mezon 5
 mazaraci 5
 maɣnedios 5
@@ -36423,6 +37248,7 @@ karadzas 5
 karaɣats 5
 karavaŋɡelis 5
 karavadzio 5
+kap alfa ro alfa letətriaeneamiðen siɣma kap alfatonos kapa i 5
 kapote 5
 kapitoliu 5
 kapitalismos 5
@@ -36451,6 +37277,7 @@ kaθolices 5
 kaθartirio 5
 kaŋɡelarias 5
 kavur 5
+kap alfa letətriaeneamiðen ro i 5
 cirxof 5
 ciras 5
 cira 5
@@ -36508,6 +37335,7 @@ ino 5
 inðuismos 5
 inðonisjaci 5
 inana 5
+iota mi alfa lamð alfa letətriaeneamiðen omeɣa ni 5
 iloko 5
 ilirias 5
 ilinoɪ 5
@@ -37198,11 +38026,179 @@ aja 5
 aŋɡeli 5
 aviðo 5
 aaron 5
+oktakoʂa peninda 5
+oktakoʂa sarandaðio 5
+eptakoʂa oɡdondaepta 5
+eptakoʂa tesera 5
+epta mion enea 5
+eksakoʂa ebdomindaena 5
+eksakoʂa penindatesera 5
 eksikostoðeftero 5
+eksi mion epta 5
+pendakoʂa ebdomindaepta 5
+pendakoʂa penindaeksi 5
+pendakoʂa triandaepta 5
+pendakoʂa epta 5
+pendakoʂa tesera 5
+pente mion tesera 5
+pente mion ðio 5
+pente mion miðen 5
+tetrakoʂa oɡdondatesera 5
+tetrakoʂa ebdomindatesera 5
+tetrakoʂa ebdominda 5
+tetrakoʂa eksindaokto 5
+tetrakoʂa eksindaepta 5
+tetrakoʂa eksindatria 5
+tetrakoʂa sarandaenea 5
+tetrakoʂa sarandaokto 5
+tetrakoʂa sarandaepta 5
+tetrakoʂa triandatria 5
+tetrakoʂa ikosiðio 5
+tetrakoʂa enea 5
+tetrakoʂa epta 5
+tetrakoʂa pente 5
+tesera mion tria 5
+triakoʂa enenindaena 5
+triakoʂa oɡdondatesera 5
+triakoʂa ebdomindaepta 5
+triakoʂa ebdomindapente 5
+triakoʂa ebdomindaena 5
+triakoʂa eksindatria 5
+triakoʂa ikosiokto 5
+triakoʂa ðekaokto 5
+triakoʂa enea 5
+triakoʂa tesera 5
+ðʲakoʂa enenindaenea 5
+ðʲakoʂa oɡdondaokto 5
+ðʲakoʂa ebdomindaenea 5
+ðʲakoʂa ebdomindaokto 5
 ikostiekti 5
+ðʲakoʂa eksindaenea 5
+ðʲakoʂa eksindatesera 5
+ðio çiʎaðes pendakoʂa triandaenea 5
+ðʲakoʂa penindatria 5
+ikositesera ori 5
+ikositesera is 5
 ikostitetarti 5
+ðʲakoʂa sarandaepta 5
+ðʲakoʂa sarandatesera 5
+ðʲakoʂa sarandatria 5
+ðʲakoʂa sarandaðio 5
+ðʲakoʂa triandaepta 5
+ðʲakoʂa ikosiepta 5
+ðʲakoʂa ikosieksi 5
+ðʲakoʂa ðekatria 5
+ðʲakoʂa ðoðeka 5
+ðio çiʎaðes ekato 5
+ðʲakoʂa epta 5
+ðʲakoʂa pente 5
+ðio çiʎaðes tesera mion ðio çiʎaðes enea 5
+ikosi mion trianda 5
+ðio mion pente 5
 ðekatienati 5
+çiʎa eɲakoʂa oɡdondatesera mion çiʎa eɲakoʂa oɡdondapente 5
+çiʎa eɲakoʂa ebdomindapente mion ebdomindaeksi 5
+çiʎa eɲakoʂa ebdomindatria mion ebdomindatesera 5
+çiʎa eɲakoʂa ebdomindaena mion ebdomindaðio 5
+çiʎa eɲakoʂa eksindaenea mion ebdominda 5
+çiʎa eɲakoʂa eksindatria mion çiʎa eɲakoʂa eksindatesera 5
+çiʎa eɲakoʂa penindaeksi mion penindaepta 5
+çiʎa eɲakoʂa ðekatesera mion çiʎa eɲakoʂa ðekaokto 5
+ðekaokto xroni 5
+ekaton oɡdondaeksi 5
+ðekaepta ni 5
+çiʎa eptakoʂa eksindaokto mion çiʎa eptakoʂa ebdomindatesera 5
+çiʎa eptakoʂa eksindaðio 5
+çiʎa eptakoʂa penindaeksi 5
+çiʎa eptakoʂa penindaðio 5
+çiʎa eptakoʂa sarandatesera 5
+çiʎa eptakoʂa sarandatria 5
+çiʎa eptakoʂa sarandaðio 5
+çiʎa eptakoʂa triandapente 5
+çiʎa eptakoʂa triandatria 5
+çiʎa eptakoʂa trianda 5
+çiʎa eptakoʂa ikosi 5
+çiʎa eptakoʂa ðekaokto 5
+çiʎa eptakoʂa ðekaepta 5
+çiʎa eptakoʂa ðekatesera 5
+çiʎa eptakoʂa enea 5
+çiʎa eptakoʂa pente 5
+çiʎa eptakoʂa ena 5
 ðekatiekti 5
+çiʎa eksakoʂa enenindaokto 5
+çiʎa eksakoʂa enenindatria 5
+çiʎa eksakoʂa enenindaena 5
+çiʎa eksakoʂa oɡdondaepta 5
+çiʎa eksakoʂa oɡdondaeksi 5
+çiʎa eksakoʂa oɡdondaðio 5
+çiʎa eksakoʂa oɡdonda 5
+çiʎa eksakoʂa ebdomindaepta 5
+çiʎa eksakoʂa ebdomindapente 5
+çiʎa eksakoʂa eksindatesera 5
+çiʎa eksakoʂa peninda 5
+çiʎa eksakoʂa sarandaeksi 5
+çiʎa eksakoʂa triandaenea 5
+çiʎa eksakoʂa triandaokto 5
+çiʎa eksakoʂa ikosienea 5
+çiʎa eksakoʂa ikositesera 5
+çiʎa eksakoʂa ðekaenea 5
+çiʎa eksakoʂa enea 5
+çiʎa eksakoʂa tesera 5
+çiʎa pendakoʂa enenindaeksi 5
+çiʎa pendakoʂa enenindapente 5
+çiʎa pendakoʂa enenindatria 5
+çiʎa pendakoʂa enenindaena 5
+çiʎa pendakoʂa oɡdondaenea 5
+çiʎa pendakoʂa oɡdondaðio 5
+çiʎa pendakoʂa ebdomindatesera 5
+çiʎa pendakoʂa sarandaena 5
+ekaton penindatesera 5
+çiʎa pendakoʂa ikositria 5
+çiʎa pendakoʂa ikosiðio 5
+ekaton penindaðio 5
+çiʎa pendakoʂa ðekaepta 5
+çiʎa pendakoʂa pente 5
+çiʎa pendakoʂa mi 5
+çiʎa tetrakoʂa oɡdondapente 5
+çiʎa tetrakoʂa oɡdondaðio 5
+çiʎa tetrakoʂa ebdomindaenea 5
+çiʎa tetrakoʂa ebdomindapente 5
+ekaton sarandaepta 5
+çiʎa tetrakoʂa eksindatria 5
+çiʎa tetrakoʂa saranda 5
+ekaton sarandatesera 5
+çiʎa tetrakoʂa ðekapente 5
+çiʎa tetrakoʂa ðeka 5
+çiʎa tetrakoʂa ðio 5
+ðekatesera mion ðekapente 5
+çiʎa triakoʂa enenindatria 5
+çiʎa triakoʂa enenindaena 5
+çiʎa triakoʂa oɡdondaenea 5
+çiʎa triakoʂa oɡdondapente 5
+çiʎa triakoʂa oɡdondatria 5
+çiʎa triakoʂa eksindapente 5
+çiʎa triakoʂa eksindatria 5
+çiʎa triakoʂa eksindaðio 5
+çiʎa triakoʂa eksinda 5
+çiʎa triakoʂa sarandapente 5
+çiʎa ðʲakoʂa enenindaepta 5
+çiʎa ðʲakoʂa ebdomindatesera 5
+ekaton ikositesera 5
+çiʎa ðʲakoʂa ikosi 5
+çiʎa ekaton enenindaðio 5
+çiʎa ekaton enenindaena 5
+çiʎa ekaton eneninda 5
+çiʎa ekaton oɡdondaenea 5
+çiʎa ekaton ebdominda 5
+ekaton enea 5
+çiʎa oɡdondaokto 5
+çiʎa oɡdondaena 5
+çiʎa ebdomindaena 5
+çiʎa eksindaeksi 5
+çiʎa peninda 5
+ðeka mion ðoðeka 5
+ena mion pente 5
+miðen mion tesera 5
 orimi 4
 orima 4
 omi 4
@@ -39558,6 +40554,7 @@ kolossjeo 4
 koloði 4
 koleoptera 4
 kokoretsi 4
+kapa o kap alfa letətriaeneamiðen ni i 4
 citasmatos 4
 citaksi 4
 cinotarçis 4
@@ -39618,6 +40615,7 @@ cedroðeksio 4
 cedimata 4
 celifi 4
 ci 4
+kap alfa fi epsilon letətriaeneamiðen ni i siɣma 4
 kafstici 4
 katoteros 4
 katotato 4
@@ -40044,6 +41042,7 @@ zaxarokalama 4
 zarion 4
 zaria 4
 ziʎa 4
+zita pente 4
 efxristo 4
 efporus 4
 evloji 4
@@ -40608,6 +41607,7 @@ eŋɡrafos 4
 eŋɡenis 4
 eŋɡeɣramenus 4
 evraɪkos 4
+epsilon tesera 4
 ðoma 4
 ðisvata 4
 ðokses 4
@@ -42429,6 +43429,7 @@ tartaro 4
 tarados 4
 taradas 4
 tis 4
+taf ðio 4
 sostis 4
 sosti 4
 sokrates 4
@@ -42951,6 +43952,7 @@ paɣasitiku 4
 pavia 4
 pezun 4
 pezodas 4
+pi alfa letətriaeneamiðen siɣma iota o ipsilon 4
 piu 4
 pibʎa 4
 piko 4
@@ -43448,6 +44450,7 @@ lipon 4
 loθarios 4
 lojistici 4
 lojika 4
+lamða o letətriaeneamiðen zita o 4
 ʎopesi 4
 ʎoʎos 4
 lissavonas 4
@@ -43563,6 +44566,7 @@ kocines 4
 kosi 4
 kostakos 4
 kostacis 4
+kapa omeɣa pi alfa letətriaeneamiðen ðelt alfa 4
 konstadopulu 4
 konstadopulu 4
 konstadina 4
@@ -44187,6 +45191,7 @@ ixa 4
 ipan 4
 exume 4
 etos 4
+et tria 4
 esace 4
 epsk 4
 epsθ 4
@@ -44536,6 +45541,7 @@ vivʎa 4
 via 4
 vitaɣama 4
 vasileos 4
+vita ðoðeka 4
 aɪova 4
 aɪtis 4
 aɪnaro 4
@@ -44834,6 +45840,7 @@ ano 4
 an 4
 aiti 4
 aɣ 4
+alfa tesera 4
 oros 4
 ora 4
 ipatu 4
@@ -44942,9 +45949,244 @@ aɣria 4
 ajes 4
 aɣ 4
 avades 4
+enea mini 4
+eɲakoʂa enenindaeksi 4
+eɲakoʂa eneninda 4
+eɲakoʂa oɡdondatria 4
+eɲakoʂa eksindaena 4
+eɲakoʂa saranda 4
+eɲakoʂa ikosienea 4
+eɲakoʂa ikosiokto 4
+eɲakoʂa ikosiepta 4
+eɲakoʂa ikositesera 4
+eɲakoʂa ikosiena 4
+eɲakoʂa enðeka 4
+oktakoʂa enenindaenea 4
+oktakoʂa enenindaepta 4
+oktakoʂa eksindatria 4
+oktakoʂa penindaðio 4
+oktakoʂa saranda 4
+oktakoʂa enðeka 4
+eptakoʂa eneninda 4
+eptakoʂa oɡdonda 4
+eptakoʂa eksindaena 4
+eptakoʂa eksinda 4
+eptakoʂa ikosieksi 4
+eptakoʂa ðekapente 4
+epta mion ena 4
+eksakoʂa oɡdondaepta 4
+eksakoʂa oɡdondaena 4
+eksakoʂa oɡdonda 4
+eksakoʂa ebdominda 4
+eksakoʂa eksinda 4
+eksakoʂa sarandaðio 4
+eksakoʂa sarandaena 4
+eksakoʂa triandaeksi 4
+eksakoʂa triandaðio 4
+eksakoʂa ikosiokto 4
+eksakoʂa ikosieksi 4
+eksakoʂa ikosipente 4
+eksakoʂa ikosiena 4
+eksakoʂa ðekatesera 4
+eksakoʂa pente 4
+eksakoʂa tesera 4
+eksi mion enea 4
+eksi mion okto 4
+eksi mion pente 4
+eksi mion ðeka 4
+pendakoʂa enenindaepta 4
+pendakoʂa enenindaðio 4
+pendakoʂa eneninda 4
+pendakoʂa oɡdondatesera 4
+pendakoʂa penindatesera 4
+pendakoʂa penindaena 4
+pendakoʂa sarandaeksi 4
+pendakoʂa triandapente 4
+pendakoʂa triandaðio 4
+pendakoʂa ikositesera 4
+pendakoʂa ikosiena 4
+pendakoʂa ðekaenea 4
+pendakoʂa ðekaokto 4
+pendakoʂa ðoðeka 4
+pendakoʂa pente 4
+peninda mion eksinda 4
+pente mion tria 4
+tesera çi tetrakoʂa 4
+tesera çi ekato 4
+tetrakoʂa enenindatesera 4
+tetrakoʂa enenindatria 4
+tetrakoʂa oɡdondaenea 4
+tetrakoʂa ebdomindaokto 4
+tetrakoʂa eksindaenea 4
+tetrakoʂa penindatria 4
+tetrakoʂa saranda 4
+tetrakoʂa triandaokto 4
+tetrakoʂa triandatesera 4
+tetrakoʂa triandaðio 4
+tetrakoʂa triandaena 4
+tetrakoʂa ikosieksi 4
+tetrakoʂa ikositesera 4
+tetrakoʂa ikosiena 4
+tetrakoʂa ðekaepta 4
+tetrakoʂa ðekapente 4
+tetrakoʂa ðekatesera 4
+tetrakoʂa ðekatria 4
+tetrakoʂa ðoðeka 4
+tetrakoʂa tria 4
+tetrakoʂa ðio 4
+saranda mion peninda 4
+tria çikapa ena 4
+triakoʂa oɡdondaðio 4
+tris çiʎaðes pendakoʂa 4
+triakoʂa sarandaokto 4
+triakoʂa sarandatesera 4
+triakoʂa sarandaena 4
+triakoʂa triandapente 4
+triakoʂa ikosiepta 4
 triakostiproti 4
+triakoʂa ðekaenea 4
+tris çiʎaðes ekato 4
+triakoʂa okto 4
+tria mion eksi 4
+ðʲakoʂa enenindaokto 4
+ðʲakoʂa enenindapente 4
+ðʲakoʂa enenindatesera 4
 ikostioɣðoi 4
+ðʲakoʂa oɡdondatesera 4
+ðʲakoʂa oɡdondatria 4
+ðʲakoʂa oɡdondaðio 4
+ðio çiʎaðes oktakoʂa 4
+ðʲakoʂa ebdomindapente 4
+ðʲakoʂa eksindaokto 4
+ðʲakoʂa eksindapente 4
+ikosipente mion saranda 4
+ðʲakoʂa triandaeksi 4
+ðʲakoʂa triandatria 4
+ðʲakoʂa ikosiokto 4
+ðʲakoʂa ikositesera 4
+ðio çiʎaðes ðʲakoʂa 4
 ikostosprotos 4
+ðʲakoʂa ðekaenea 4
+ðʲakoʂa ðekaokto 4
+ikosi is 4
+ðʲakoʂa enea 4
+ðʲakoʂa okto 4
+ðio çiʎaðes ðekaeksi 4
+çiʎa eɲakoʂa enenindaeksi mion çiʎa eɲakoʂa enenindaepta 4
+çiʎa eɲakoʂa enenindatria mion çiʎa eɲakoʂa enenindatesera 4
+çiʎa eɲakoʂa oɡdondaenea mion çiʎa eɲakoʂa eneninda 4
+çiʎa eɲakoʂa oɡdondatria mion çiʎa eɲakoʂa oɡdondatesera 4
+çiʎa eɲakoʂa oɡdondaðio mion çiʎa eɲakoʂa oɡdondatria 4
+çiʎa eɲakoʂa eksindaðio mion eksindatria 4
+çiʎa eɲakoʂa eksindaena mion çiʎa eɲakoʂa eksindaðio 4
+çiʎa eɲakoʂa sarandaokto mion sarandaenea 4
+çiʎa eɲakoʂa sarandaepta mion sarandaokto 4
+çiʎa eɲakoʂa sarandaena mion sarandaðio 4
+çiʎa eɲakoʂa triandaokto mion çiʎa eɲakoʂa triandaenea 4
+çiʎa eɲakoʂa triandatesera mion çiʎa eɲakoʂa triandapente 4
+çiʎa eɲakoʂa triandatria mion triandatesera 4
+çiʎa eɲakoʂa triandaðio mion triandatria 4
+çiʎa eɲakoʂa ikosienea mion çiʎa eɲakoʂa trianda 4
+çiʎa eɲakoʂa ðekaenea mion çiʎa eɲakoʂa ikosiðio 4
+çiʎa oktakoʂa trianda mion çiʎa oktakoʂa oɡdonda 4
+çiʎa eptakoʂa eksinda 4
+çiʎa eptakoʂa sarandaeksi 4
+çiʎa eptakoʂa triandaeksi 4
+çiʎa eptakoʂa ikosieksi 4
+çiʎa eptakoʂa ikositesera 4
+çiʎa eptakoʂa ikositria 4
+çiʎa eptakoʂa ikosiðio 4
+çiʎa eptakoʂa ðekatria 4
+çiʎa eptakoʂa tesera 4
+ðekaeksi is 4
+çiʎa eksakoʂa enenindaepta 4
+çiʎa eksakoʂa enenindapente 4
+çiʎa eksakoʂa enenindatesera 4
+çiʎa eksakoʂa ebdomindatesera 4
+çiʎa eksakoʂa ebdomindaena 4
+çiʎa eksakoʂa eksindaokto 4
+çiʎa eksakoʂa sarandaenea 4
+çiʎa eksakoʂa sarandapente 4
+çiʎa eksakoʂa sarandatria 4
+çiʎa eksakoʂa triandaepta 4
+çiʎa eksakoʂa triandaeksi 4
+çiʎa eksakoʂa ikosiepta 4
+çiʎa eksakoʂa ikosieksi 4
+çiʎa eksakoʂa ikosipente 4
+çiʎa eksakoʂa ðekaokto 4
+çiʎa eksakoʂa ðekatria 4
+çiʎa eksakoʂa epta 4
+çiʎa pendakoʂa enenindaokto 4
+çiʎa pendakoʂa enenindaepta 4
+çiʎa pendakoʂa enenindaðio 4
+çiʎa pendakoʂa eksindatria 4
+çiʎa pendakoʂa penindaokto 4
+çiʎa pendakoʂa penindatesera 4
+çiʎa pendakoʂa penindaena 4
+çiʎa pendakoʂa sarandatesera 4
+çiʎa pendakoʂa triandaepta 4
+çiʎa pendakoʂa triandatria 4
+çiʎa pendakoʂa triandaena 4
+ekaton penindatria 4
+çiʎa pendakoʂa ikosienea 4
+çiʎa pendakoʂa ikosipente 4
+çiʎa pendakoʂa ðekaenea 4
+çiʎa pendakoʂa ðekaokto 4
+çiʎa pendakoʂa ðekaeksi 4
+çiʎa pendakoʂa enea 4
+çiʎa pendakoʂa eksi 4
+çiʎa pendakoʂa tesera 4
+ðekapente mion ikosi 4
+çiʎa tetrakoʂa enenindatesera 4
+çiʎa tetrakoʂa oɡdondaokto 4
+çiʎa tetrakoʂa oɡdondaena 4
+çiʎa tetrakoʂa oɡdonda 4
+çiʎa tetrakoʂa ebdomindaena 4
+çiʎa tetrakoʂa eksindaepta 4
+çiʎa tetrakoʂa penindaena 4
+çiʎa tetrakoʂa triandapente 4
+çiʎa tetrakoʂa ikosiðio 4
+çiʎa tetrakoʂa ðekaepta 4
+çiʎa tetrakoʂa tesera 4
+çiʎa tetrakoʂa ena 4
+çiʎa triakoʂa enenindapente 4
+çiʎa triakoʂa eneninda 4
+ekaton triandaenea 4
+çiʎa triakoʂa oɡdondatesera 4
+çiʎa triakoʂa oɡdondaðio 4
+ekaton triandaokto 4
+çiʎa triakoʂa penindapente 4
+çiʎa triakoʂa sarandaokto 4
+çiʎa triakoʂa triandaokto 4
+çiʎa triakoʂa triandaeksi 4
+çiʎa triakoʂa ikosiokto 4
+çiʎa triakoʂa ikositesera 4
+çiʎa triakoʂa ikosi 4
+ðekatria mion ðekaokto 4
+ðekatria mion ðekatesera 4
+çiʎa ðʲakoʂa enenindaenea 4
+çiʎa ðʲakoʂa enenindatesera 4
+çiʎa ðʲakoʂa eksindaenea 4
+çiʎa ðʲakoʂa penindapente 4
+çiʎa ðʲakoʂa penindatesera 4
+çiʎa ðʲakoʂa sarandaðio 4
+çiʎa ðʲakoʂa ikosiepta 4
+çiʎa ðʲakoʂa ðeka 4
+çiʎa ðʲakoʂa epta 4
+çiʎa ekaton enenindaokto 4
+ekaton ðekaenea 4
+çiʎa ekaton oɡdondapente 4
+çiʎa ekaton oɡdonda 4
+çiʎa ekaton penindaenea 4
+çiʎa ekaton triandaepta 4
+çiʎa enenindaeksi 4
+çiʎa enenindatria 4
+çiʎa enenindaena 4
+çiʎa eksinda 4
+çiʎa sarandaeksi 4
+çiʎa saranda 4
+çiʎa ikosiokto 4
+ðeka mion ðekapente 4
 ofile 3
 osmosis 3
 osmosi 3

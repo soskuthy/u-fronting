@@ -3330,6 +3330,7 @@ izmeːʀɐ 64
 ieveːleːti 64
 iesnieɡt 64
 ieɡuːstuot 64
+i phone 64
 ɡalvaspilseːtaː 64
 e 64
 duomu 64
@@ -3832,6 +3833,7 @@ attietsiːbaːs 56
 atstaːt 56
 alɡɐs 56
 administʀatiːvaː 56
+taksuo saite 56
 nikolɐjs 56
 liːvaːnu 56
 lielɐ 56
@@ -6960,6 +6962,7 @@ paʀk 31
 oʀɡanizaːtsijɐs 31
 ntsaɐ 31
 meːneʃɐ 31
+emtse laʀen 31
 maijɐ 31
 madonnnɐ 31
 luosandʒeluosaː 31
@@ -8601,6 +8604,7 @@ paːʀstaːvju 25
 paːʀdauɡavɐ 25
 pʀiekuʎu 25
 paʀtijɐs 25
+uopen ɡael 25
 ohaioː 25
 nuotikɐ 25
 nuoteikumi 25
@@ -9340,6 +9344,7 @@ salatsɡʀiːvɐs 23
 ʀajoːnɐ 23
 pʀemjeʀliːɡɐ 23
 plaʃi 23
+plaj station 23
 piʀmajɐm 23
 pienɐ 23
 peteʀs 23
@@ -9639,6 +9644,7 @@ tsietuʃais 22
 tsiematɐ 22
 tseʀiːbɐ 22
 tseʀemuoniju 22
+tsetse teːelde 22
 buːveːtɐ 22
 beːɡɐ 22
 buʀti 22
@@ -10591,6 +10597,7 @@ oʀdenis 20
 okupaːtsijɐ 20
 nekad 20
 envees 20
+mj eskuːel 20
 milɐn 20
 meʒtsiems 20
 meʀtsuʀj 20
@@ -10936,6 +10943,7 @@ klasiskajaː 19
 kaʀaʎi 19
 kaʀalisteː 19
 kaʀadaʀbiːbɐ 19
+ka dubultve 19
 jaːnuodʀuoʃinɐ 19
 juʀistɐ 19
 juomu 19
@@ -11485,6 +11493,7 @@ ieʀaudziːjɐ 18
 iekʎuːst 18
 ieɡuːs 18
 ietseʀes 18
+i puod 18
 hokeju 18
 himnɐs 18
 ɡuːtajiem 18
@@ -14547,6 +14556,7 @@ aizpildɐ 14
 aizmuɡuʀeːjuo 14
 aizjuːʀɐs 14
 aizɡaːjis 14
+aiʀ baltits 14
 ainɐ 14
 aɡʀiːnaː 14
 aɡʀaːkaː 14
@@ -14745,6 +14755,7 @@ baumanis 14
 baʀseloːnɐ 14
 baltitsɐ 14
 autoʀtiesiːbɐs 14
+autoː tsad 14
 aukstaː 14
 auɡʃzemes 14
 auɡstːskuolɐs 14
@@ -16479,6 +16490,7 @@ ietseʎuotaːji 12
 ietseʎuojɐ 12
 iebʀukumɐm 12
 iebildɐ 12
+i autoː 12
 humoːʀɐ 12
 hitu 12
 hinduismɐ 12
@@ -16706,6 +16718,7 @@ ziʀɲu 12
 ziʀɡu 12
 ziemeʎiːʀijɐ 12
 zasulauks 12
+jou tube 12
 vilhelm 12
 viːʀietis 12
 viːpes 12
@@ -16902,6 +16915,7 @@ inesis 12
 indɐs 12
 iekʃeːjaːs 12
 iedziːvuotaːji 12
+ie em 12
 im 12
 haze 12
 hokejs 12
@@ -16921,6 +16935,7 @@ haʀtmanis 12
 fiːtiŋɡhofs 12
 fʀaŋkfuʀtes 12
 fizikɐs 12
+euʀuo basket 12
 endzeliːns 12
 elsveːʀtɐ 12
 ekonoːmiskaː 12
@@ -16972,6 +16987,7 @@ baikonuʀɐs 12
 austʀumvaːtsijɐs 12
 austʀumi 12
 aʀnis 12
+aʀtʃi tseade 12
 apkaːʀt 12
 apkalpe 12
 andʀeː 12
@@ -17438,6 +17454,7 @@ paduoties 11
 paduoms 11
 paduomei 11
 patselts 11
+pe ha 11
 uovaːlɐs 11
 uostaːm 11
 oʀientaːtsijɐ 11
@@ -18149,6 +18166,7 @@ solaʀis 11
 sofijɐs 11
 sotsiaːlaː 11
 snieɡɐ 11
+skettʃ up 11
 simpsuone 11
 siɡismundɐ 11
 sietlɐs 11
@@ -19963,6 +19981,7 @@ impɐtst 10
 ievɐs 10
 iesakɐ 10
 iepʀiekʃeːjais 10
+i lɡaʒɐ 10
 itsmp 10
 ibm 10
 hiːjumaː 10
@@ -21266,6 +21285,7 @@ esuoʃajai 9
 esamiːbɐs 9
 epizoːdiski 9
 en 9
+emuaːʀu kuopiːɡuot 9
 emoːtsionaːlaː 9
 emoːtsionaːlu 9
 emoːtsionaːlɐ 9
@@ -21288,6 +21308,7 @@ eɡles 9
 efektiːvs 9
 efektivitaːte 9
 ebʀejs 9
+epastu ʀakstiːt 9
 duːɲɐs 9
 duːɲains 9
 duːɲainɐ 9
@@ -21643,6 +21664,7 @@ uldɐ 9
 tiːʀaː 9
 tiːʀs 9
 tiːnuːʒu 9
+tvitteʀ kuopiːɡuot 9
 tʀiːspadsmitɡadu 9
 tʀiːsdesmit 9
 tʀibine 9
@@ -21788,6 +21810,7 @@ uostɐ 9
 uoʀenbuʀɡɐs 9
 oʀdeni 9
 oːpeʀɐ 9
+uopen esesha 9
 uon 9
 uomaːnɐs 9
 uolavɐ 9
@@ -23450,6 +23473,7 @@ iebuːveːtuo 8
 iebʀuːkuot 8
 ideoloːɟiski 8
 ideoloːɡs 8
+i tunes 8
 hʀoːniku 8
 hʀomɐ 8
 holandieʃi 8
@@ -24027,6 +24051,7 @@ saːpju 8
 saːtsis 8
 sventes 8
 supeʀkausɐ 8
+supeʀ suonitss 8
 stʀaŋɡɐ 8
 stokholmu 8
 sʀuodɐs 8
@@ -24068,6 +24093,7 @@ satsensiːbaːs 8
 espeeses 8
 espe 8
 esɡa 8
+ʀune stsape 8
 ʀudzaːtu 8
 ʀubeɲɐ 8
 ʀubene 8
@@ -24375,6 +24401,7 @@ hape 8
 ɡuollls 8
 ɡuobɐs 8
 ɡuo 8
+ɡaembe ha 8
 ɡlobusɐ 8
 ɡiʎmɐns 8
 ɡilɡameʃu 8
@@ -24469,6 +24496,7 @@ deviɲdesmituo 8
 depoː 8
 depetʃe 8
 demokʀaːtiskajaː 8
+deksteʀs efef 8
 deɐth 8
 david 8
 daumɐnts 8
@@ -26251,6 +26279,7 @@ iebʀukuʃi 7
 iebʀutseːjiem 7
 ideaːlaː 7
 identisks 7
+i mats 7
 humaːnismɐ 7
 humanitaːʀaːs 7
 huliɡaːns 7
@@ -26796,6 +26825,7 @@ jouʀ 7
 jouŋɡ 7
 vomen 7
 villliɐm 7
+vi fi 7
 valll 7
 dubultveeʀtse 7
 veːstnesim 7
@@ -26948,6 +26978,7 @@ silvijɐ 7
 silvɐ 7
 siluovs 7
 silmalɐs 7
+sievietes pasaule 7
 siemens 7
 sidnejɐ 7
 shui 7
@@ -27096,6 +27127,7 @@ oʀɡanizaːtsijaː 7
 uoʀeɡoːnɐs 7
 oʀdenim 7
 opeʀaːtsijɐ 7
+uopen beesde 7
 uold 7
 olɐfs 7
 ofitsiaːlaːs 7
@@ -27399,6 +27431,7 @@ iɡnalinɐs 7
 iɡauɲi 7
 iemesls 7
 ieɡuːtaː 7
+ie teːka 7
 iʀ 7
 if 7
 huːns 7
@@ -27516,6 +27549,7 @@ eds 7
 edmontoːnaː 7
 edɡaʀu 7
 ebʀeji 7
+eɐsj ɡet 7
 eu 7
 etsi 7
 eʀɡuo 7
@@ -27564,6 +27598,7 @@ depe 7
 duos 7
 deemteː 7
 deem 7
+tsube sat 7
 tsuosvoʀth 7
 tsuoʀe 7
 tsoːpɐ 7
@@ -29925,6 +29960,7 @@ identiskɐ 6
 identifikatoːʀs 6
 idejiskais 6
 ibis 6
+i paduome 6
 huɲɲu 6
 hʀoːnistːs 6
 hoʀmoːni 6
@@ -30113,6 +30149,7 @@ eifoʀijɐ 6
 efektiːvaːkɐ 6
 efektiːvuo 6
 eeʀmaniitis 6
+e baj 6
 epastus 6
 diːcɐ 6
 diːzeʎviltsieni 6
@@ -30235,6 +30272,7 @@ daliːʃanu 6
 daliːjumu 6
 dabiːɡuo 6
 dabasɡaːzi 6
+de base 6
 ditaliɐ 6
 tsiːniːtaːjus 6
 tsiːniːjies 6
@@ -30673,6 +30711,7 @@ zacis 6
 zatleʀu 6
 zaʀjɐ 6
 zalktis 6
+ksa ttsuobeoː 6
 vin 6
 veʀdeʀ 6
 veb 6
@@ -30897,6 +30936,7 @@ semjatitʃes 6
 seloːnijɐ 6
 selasije 6
 seile 6
+stsale majoʀ 6
 savai 6
 saulkalnes 6
 sasleːɡʃanaːs 6
@@ -30996,6 +31036,7 @@ pʀovintse 6
 pʀotokoːls 6
 pʀometejs 6
 pʀofesionaːʎɐ 6
+pʀuo tuouʀ 6
 pʀintsis 6
 pʀiedaines 6
 pʀasiːbɐs 6
@@ -31003,6 +31044,7 @@ pʀaduo 6
 puoɲatuovskɐ 6
 poeːtiskaː 6
 puotʃepɐs 6
+poveʀ petse 6
 puoteʀɐ 6
 populaːʀaːkaːs 6
 populaːʀs 6
@@ -31012,6 +31054,8 @@ puolskɐ 6
 politikaː 6
 politehniskuo 6
 plaːteʀe 6
+pluot datɐ 6
+pluot aʀeɐ 6
 pletenbeʀɡɐ 6
 plaʃaːkai 6
 platiːnɐ 6
@@ -31140,6 +31184,7 @@ muzikaːlaː 6
 muʀmastienes 6
 munteʀɐ 6
 muiʒnietse 6
+motoː ɡape 6
 muoss 6
 muoʀuo 6
 muoʀitss 6
@@ -31174,6 +31219,7 @@ maʎeŋkovɐ 6
 maceduoniju 6
 mazaːzijaː 6
 mazaːkais 6
+masteʀ tsaʀd 6
 maʀɟeʀs 6
 maʀsɐm 6
 maʀkss 6
@@ -31202,6 +31248,7 @@ madeʀniekɐ 6
 madeleine 6
 madaʀɐ 6
 matʃine 6
+mats booːk 6
 emteːbe 6
 emteː 6
 emeska 6
@@ -31437,6 +31484,7 @@ indulis 6
 indʀiksoːns 6
 indiaːnɐs 6
 imeʀɐs 6
+imaɡe size 6
 ilɡus 6
 iɡaʀkɐs 6
 ieveːʀuojuot 6
@@ -31529,6 +31577,7 @@ fulll 6
 fu 6
 fʀaːnsiss 6
 fʀuom 6
+fʀee beesde 6
 fʀaŋklins 6
 fʀaktsiju 6
 foʀumɐ 6
@@ -34866,6 +34915,7 @@ identifitseːjamɐ 5
 idejiskuo 5
 idejiski 5
 ibn 5
+i uos 5
 heːliju 5
 humaːnisms 5
 humanitaːʀajaːm 5
@@ -35119,6 +35169,7 @@ eitanaːzijɐs 5
 eiʀoːpɐs 5
 eifoʀiju 5
 efektiːvaːkɐs 5
+e spoʀts 5
 esant 5
 epastːs 5
 dʒouls 5
@@ -35886,6 +35937,7 @@ vseslɐvs 5
 vuoteʀɡeitɐs 5
 vuoʀtaːls 5
 vuolɐs 5
+vuo ip 5
 vluodavɐs 5
 vlasovɐ 5
 viɲcelis 5
@@ -35982,6 +36034,7 @@ upmalɐs 5
 upestsiemɐ 5
 upelnieks 5
 unitsuode 5
+uni tsube satɡaɡa 5
 ulʀikɐ 5
 ulme 5
 uliss 5
@@ -35998,6 +36051,7 @@ tuʀpinaːjɐ 5
 tuʀniːʀu 5
 tuʀniːʀɐm 5
 tuʀkmenistaːnɐ 5
+tuʀismɐ bizness 5
 tuʀaidɐ 5
 tupɐks 5
 tunisijaː 5
@@ -36010,6 +36064,7 @@ tʀolllinuo 5
 tʀek 5
 tʀanspoʀt 5
 tʀaidenɐ 5
+teːeʀ em 5
 tuovn 5
 tuouʀnament 5
 tuotenhemɐs 5
@@ -36023,6 +36078,7 @@ tuomɐm 5
 titulu 5
 tiʀi 5
 tiʀɡziniːbɐ 5
+time aksis 5
 tilʒɐ 5
 tildes 5
 tilde 5
@@ -36062,6 +36118,7 @@ seːʀijaː 5
 seːʀijɐs 5
 seːnɐ 5
 saːmsalɐ 5
+esze es 5
 svjatuoslavɐ 5
 svitenes 5
 sveitsɐm 5
@@ -36322,6 +36379,7 @@ pʀetseːjusies 5
 pʀavietis 5
 pʀaktiskais 5
 poznaɲaː 5
+poveʀ booːk 5
 puotsdamaː 5
 poʀtuɡaːʎu 5
 poʀtu 5
@@ -36492,6 +36550,7 @@ nadɐls 5
 natsionaːlisms 5
 natsionaːlajai 5
 nabaɡɐ 5
+na tseel 5
 nis 5
 nap 5
 muːseːjie 5
@@ -37125,6 +37184,7 @@ ezeʀes 5
 evil 5
 evɐnss 5
 evɐns 5
+euʀuopɐʀl teːve 5
 eticetes 5
 etheʀnet 5
 estoniɐ 5
@@ -37229,6 +37289,7 @@ deklaʀaːtsiju 5
 deklaʀaːtsijɐs 5
 deivs 5
 deivisu 5
+date foʀmɐt 5
 dantsiɡaː 5
 daliːbvalstis 5
 dalailamɐs 5
@@ -37873,6 +37934,7 @@ zaudeːjuʃɐs 4
 zaʀnaːm 4
 zaldaːtu 4
 joutube 4
+iks ʀatse 4
 voʀdpʀess 4
 villl 4
 vave 4
@@ -41926,6 +41988,7 @@ identifitseːts 4
 idejaːs 4
 ibeːʀu 4
 ibeːʀi 4
+i booːk 4
 haːʀɐs 4
 humaːnaːs 4
 humaːnuo 4
@@ -43367,6 +43430,7 @@ zvaːʀtavɐs 4
 zviʀɡzdiɲʃ 4
 zvejniekɐ 4
 zvaniet 4
+zeve de 4
 zu 4
 zooːloːɟiskais 4
 zuommmeʀu 4
@@ -43412,6 +43476,7 @@ jaŋkees 4
 kspeʀiɐ 4
 ikshateːemel 4
 voʀk 4
+voʀd pʀess 4
 vithin 4
 viʀeless 4
 vindsoʀ 4
@@ -43813,6 +43878,7 @@ standɐʀts 4
 standɐʀd 4
 stadium 4
 stadioː 4
+sant be 4
 speːleːs 4
 speːkaː 4
 spuʀdziɲʃ 4
@@ -44160,6 +44226,7 @@ pʀoɡʀammmeːʃanɐs 4
 pʀofesoːʀɐ 4
 pʀodutstioːns 4
 pʀotsess 4
+pʀuo teɐm 4
 pʀinsipi 4
 pʀiekʃsatsiːkstes 4
 pʀiekɐ 4
@@ -44554,6 +44621,7 @@ mees 4
 medɲu 4
 meditsiːnɐ 4
 metʃel 4
+emtse flj 4
 embepees 4
 maʒeicu 4
 maʃiːnu 4
@@ -45864,6 +45932,7 @@ astuoɲdesmit 4
 astanɐs 4
 asotsiaːtsijɐs 4
 asins 4
+asiɐ sat 4
 asamblejaː 4
 asɐds 4
 aʀiːdzɐn 4
@@ -45998,6 +46067,7 @@ aʀhiːvs 4
 aʀ 4
 an 4
 amv 4
+almɐ sat 4
 alɐ 4
 aj 4
 afm 4

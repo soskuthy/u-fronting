@@ -2510,7 +2510,9 @@ lekaːr 61
 kaʒdaː 61
 hodnotu 61
 hot 61
+eːmailom bloɡovatʲ 61
 aɡentuːra 61
+tvittʲer zdʲieʎatʲ 61
 troxu 61
 rok 61
 mojʒiʃova 61
@@ -2761,6 +2763,7 @@ veʎa 56
 tri 56
 top 56
 spiʃskaː 56
+sa es 56
 pr̩veː 56
 medʒuɡoria 56
 hɲetʲ 56
@@ -3709,6 +3712,7 @@ jedʲinaː 43
 januaːri 43
 izbaːx 43
 iɡor 43
+iː phoɲe 43
 hraɲitsi 43
 fuŋktsiu 43
 farbu 43
@@ -4572,6 +4576,7 @@ deːrer 36
 dva 36
 dʲesiː 36
 britaːɲii 36
+bonus tsart 36
 ʒiviː 35
 ʒenoʊ 35
 ʃtiːlom 35
@@ -5287,6 +5292,7 @@ komentovatʲ 31
 kliknutʲiːm 31
 kedʑe 31
 kamioːni 31
+k dvojiteːveː 31
 jedneːmu 31
 inʃtituːtsie 31
 hodʲina 31
@@ -5473,6 +5479,7 @@ kontsertu 30
 komori 30
 koleɡovia 30
 kanaːl 30
+k beː 30
 jemɲe 30
 jazikow 30
 himnu 30
@@ -6704,6 +6711,7 @@ kubiːn 25
 joj 25
 hudba 25
 hornaː 25
+haː nonliɲe 25
 ɡreːtsku 25
 ɡeneraːlneho 25
 duovodom 25
@@ -7328,6 +7336,7 @@ aɡentuːri 23
 tʲaʃko 22
 ʃtʲastnaː 22
 ʃpetsiaːlnej 22
+eʃteː beː 22
 ʎutskaː 22
 tʃiːta 22
 tʃlaːŋkox 22
@@ -7926,6 +7935,7 @@ filmox 21
 fanuːʃikom 21
 ekstra 21
 ekonomike 21
+eː trent 21
 daːvali 21
 dvojitse 21
 dvanaːstix 21
@@ -8385,6 +8395,7 @@ upratstʲe 20
 uhorsku 20
 trubatʃ 20
 trentʃianski 20
+trash oʊt 20
 tʲixo 20
 tʲesaloɲitʃanom 20
 takaː 20
@@ -8440,6 +8451,7 @@ ibaʒe 20
 foːrum 20
 finantʃnaː 20
 fantaːzie 20
+fanatʲidʑ ɡai 20
 ekonomitskeː 20
 ekonomika 20
 drost 20
@@ -8842,6 +8854,7 @@ taliaɲi 19
 suːtʲaʒe 19
 stvoreɲie 19
 stʲeiɲer 19
+slaw tson 19
 sxvarzenberk 19
 esevzet 19
 riːxlo 19
@@ -9365,6 +9378,7 @@ horneː 18
 ɡorili 18
 fliatʃik 18
 festʲival 18
+eur atstʲiw 18
 dolnej 18
 dialoːɡi 18
 tseːzetkaː 18
@@ -9865,6 +9879,7 @@ teːenes 17
 siːtse 17
 sisteːm 17
 esveː 17
+super star 17
 staroʒitnostʲi 17
 stal 17
 spotʃiatku 17
@@ -10498,6 +10513,7 @@ musel 16
 mojʒiʃovu 16
 mobilneː 16
 mikloʃko 16
+emtseː donalt 16
 matʲ 16
 malo 16
 majtʲe 16
@@ -11917,6 +11933,7 @@ sloboda 14
 sledujtʲe 14
 skaːtsel 14
 skiliŋku 14
+share point 14
 suw 14
 smerezdeː 14
 ropko 14
@@ -12960,6 +12977,7 @@ dom 13
 tsirila 13
 tsvernowka 13
 xorvaːtsko 13
+tse bit 13
 tsarp 13
 tsarlo 13
 tseːestseː 13
@@ -13975,6 +13993,7 @@ koŋkreːtne 12
 komentaːr 12
 katoliːtska 12
 krutotuto 12
+ki tʲin 12
 jersei 12
 jatsk 12
 is 12
@@ -14866,6 +14885,7 @@ informaːtsioʊ 11
 imunitniː 11
 ikoni 11
 ikonoʊ 11
+iː pat 11
 haːdatʲ 11
 hipotʲekaːrni 11
 husiː 11
@@ -15141,8 +15161,10 @@ portuk 11
 pluska 11
 plastoveː 11
 philip 11
+peːhaː deː 11
 pekiŋk 11
 patsient 11
+pa ja 11
 peːem 11
 peːel 11
 piaf 11
@@ -15186,6 +15208,7 @@ mikulaːʃi 11
 mika 11
 mestʲe 11
 messiho 11
+emtseː tʲiernan 11
 matkin 11
 matʲeja 11
 martʲinus 11
@@ -16635,6 +16658,7 @@ ma 10
 lutʃentsi 10
 lujza 10
 liptowskom 10
+liŋked in 10
 liɡi 10
 lifestile 10
 levotʃi 10
@@ -18221,6 +18245,7 @@ rioja 9
 rimania 9
 riadʲitʲeʎka 9
 rekordniː 9
+reɡio jet 9
 redaktʃneː 9
 raʃi 9
 raŋɡe 9
@@ -22982,6 +23007,7 @@ snaha 7
 slovanom 7
 slovatsi 7
 slobodɲe 7
+slaw tsoɲe 7
 skuːs 7
 skutotʃneː 7
 skutkox 7
@@ -23035,6 +23061,7 @@ realita 7
 rastʲo 7
 raji 7
 rafal 7
+rado plast 7
 rat 7
 roka 7
 ram 7
@@ -23093,6 +23120,7 @@ piraːtʲi 7
 piesani 7
 piere 7
 piati 7
+peːhaː dr̩ 7
 petʲo 7
 petʃeneː 7
 pevɲe 7
@@ -23105,6 +23133,7 @@ ponuka 7
 plus 7
 peːhaːem 7
 peter 7
+oʎa no 7
 otʃkovaɲie 7
 ozval 7
 osut 7
@@ -23284,6 +23313,7 @@ jeʒiʃoviːmi 7
 jelena 7
 jednoduxeː 7
 jedʲiniː 7
+java stsript 7
 jasɲe 7
 jakow 7
 jakobovi 7
@@ -23368,6 +23398,7 @@ elitniː 7
 elena 7
 el 7
 ekonomitskiːx 7
+eko font 7
 efraima 7
 edʲeɲe 7
 ekskluziːvɲe 7
@@ -23396,6 +23427,7 @@ deːjeː 7
 dʲetʲi 7
 tsiɲitskaː 7
 tsoffee 7
+tso deː 7
 tslintonovaː 7
 tsiroxoʊ 7
 tsieʎ 7
@@ -25739,6 +25771,7 @@ kamaratka 6
 kalkul 6
 kaleraːp 6
 kakao 6
+k jeː 6
 jutskiːm 6
 joɡurt 6
 jestvuje 6
@@ -25790,6 +25823,7 @@ ina 6
 iduːtseho 6
 ideaːlnim 6
 ideaːlnom 6
+iː tuɲes 6
 hʎadʲiskami 6
 hʎadʲietʲ 6
 hʎadʲia 6
@@ -25919,6 +25953,7 @@ eleɡantneː 6
 ekonoːmie 6
 ej 6
 eɡiptskiːx 6
+eː profit 6
 eːshope 6
 dʒuŋɡle 6
 duːfal 6
@@ -26264,6 +26299,7 @@ zakaʒdiːm 6
 zabudnuteː 6
 zdraviː 6
 zahr̩nuteː 6
+ioʊ tube 6
 kstreme 6
 veŋke 6
 viɲe 6
@@ -26304,6 +26340,7 @@ vipl̩ɲtʲe 6
 vihlaːseɲie 6
 vihlaːseɲia 6
 viberaːme 6
+vi voleniːx 6
 ftaːtʃɲikom 6
 ftaːki 6
 vruːtok 6
@@ -26372,6 +26409,7 @@ titul 6
 tʲisovi 6
 tʲime 6
 tʲiffani 6
+thiŋk pat 6
 teoːria 6
 testovali 6
 terapia 6
@@ -26385,6 +26423,7 @@ talianske 6
 talian 6
 takiːmto 6
 tain 6
+teːoː plist 6
 tom 6
 tʲik 6
 texnik 6
@@ -26437,6 +26476,7 @@ snaʒili 6
 smidʑzek 6
 smokovets 6
 smena 6
+smart tsloʊt 6
 smart 6
 slovenskiːm 6
 slivenskeːho 6
@@ -26548,6 +26588,7 @@ potʃula 6
 potʃiatok 6
 pozvaːŋki 6
 pozitiːvɲe 6
+pover pointʲe 6
 povedatʲ 6
 povaʒujem 6
 poʊʒiːvaɲie 6
@@ -26922,6 +26963,7 @@ hall̩ 6
 habera 6
 haːdvojiteːveːef 6
 haːpeːveː 6
+haː enteːveː 6
 haːbeː 6
 ɡoːli 6
 ɡuardiolu 6
@@ -26949,6 +26991,7 @@ finantsial 6
 finalistʲi 6
 filipko 6
 fila 6
+fe iton ipsilon 6
 farebnaː 6
 vbi 6
 ekskluziːvɲe 6
@@ -27307,6 +27350,7 @@ tʃarovneː 5
 tʃakaːtʲe 5
 tʃiːtam 5
 tʃiːtal 5
+tʃiːtajme dʲetʲom 5
 tʃiːsla 5
 tʃiːnska 5
 tʃiː 5
@@ -30054,6 +30098,7 @@ ministsentsie 5
 minimaːlnim 5
 minihier 5
 minie 5
+mini slovenska 5
 miɲeraːlki 5
 mintsu 5
 mimoriadni 5
@@ -30455,6 +30500,7 @@ ideoloːɡia 5
 ideoloɡitski 5
 identifikaːtsiu 5
 identifikaːtsie 5
+iː os 5
 hʎadʲiː 5
 hʎadaɲiu 5
 hʎadaj 5
@@ -31196,8 +31242,10 @@ ia 5
 jedenaːstʲ 5
 volves 5
 vintona 5
+vi fi 5
 fʃimli 5
 fʃemohuːtsemu 5
+veːeʒ zetpeː 5
 viːrotʃnaː 5
 viːɲimkoʊ 5
 viːkas 5
@@ -31338,6 +31386,7 @@ takiːm 5
 takiːxto 5
 takuː 5
 tabuʎki 5
+teː urealiti 5
 tunisko 5
 teːpeː 5
 tʲi 5
@@ -31423,6 +31472,7 @@ slavia 5
 slawtson 5
 skuːʃam 5
 skuːʃali 5
+ski europe 5
 skvelaː 5
 skupini 5
 skladbu 5
@@ -31570,6 +31620,7 @@ pozorɲe 5
 poznaɲie 5
 poznajuː 5
 pozitiːvni 5
+pover point 5
 povinnostʲi 5
 povedʑme 5
 poʊʒiːvatʲelia 5
@@ -31675,6 +31726,7 @@ optronitss 5
 opoj 5
 operatʃniː 5
 opatowtse 5
+oɲe notʲe 5
 ondruʃ 5
 omaːtʃka 5
 olimpijskeː 5
@@ -31700,6 +31752,7 @@ obrowskiː 5
 obnovitʲ 5
 objiːmam 5
 obedoveː 5
+op evzet 5
 okamʒitiː 5
 noːrsku 5
 ɲiːskoeɲerɡetitskiː 5
@@ -31720,6 +31773,7 @@ nobelovej 5
 ɲijakeː 5
 ɲixolson 5
 ɲixolase 5
+ɲi emhaː 5
 ɲeʒnaː 5
 ɲeʃtʲastʲie 5
 ɲezamestnaɲiː 5
@@ -31747,6 +31801,7 @@ nobelovej 5
 nazuːreɲiː 5
 nazaret 5
 navr̩hovaneː 5
+navi ɡraf 5
 navaʎniː 5
 natural 5
 nastaɲe 5
@@ -31777,6 +31832,7 @@ mislia 5
 misleli 5
 mijawtʃaɲia 5
 mursiːho 5
+emez zet 5
 mrak 5
 moʒnostʲi 5
 moʊntfielt 5
@@ -32074,6 +32130,8 @@ haluzeɲie 5
 habermas 5
 hudba 5
 haːteːemel 5
+haː nrealiti 5
+haː nlekaːreɲ 5
 haːhaː 5
 hatala 5
 ɡimnaːzia 5
@@ -32230,6 +32288,7 @@ tsiprus 5
 tsiklus 5
 tsiklistʲiku 5
 tsiklistitskeː 5
+tsrozz blue 5
 tsopatsabaɲe 5
 tsontinental 5
 tsomfort 5
@@ -32287,6 +32346,7 @@ boleraːs 5
 bodvoʊ 5
 botki 5
 blues 5
+blue boart 5
 bloɡoviː 5
 bleskovaː 5
 blesk 5
@@ -32345,6 +32405,7 @@ arnolt 5
 arktʲiːdʲe 5
 araŋku 5
 april 5
+app store 5
 antoːɲia 5
 antona 5
 antarktʲiːdi 5
@@ -37062,6 +37123,7 @@ kadejakiːx 4
 kaxlitʃki 4
 kabiːni 4
 kabelke 4
+k dvojiteːveːhaː 4
 juːnoviːx 4
 juʒniːx 4
 justiːtsii 4
@@ -37205,6 +37267,10 @@ identita 4
 identifikaːtsii 4
 identitskeː 4
 idea 4
+iː phonom 4
+iː lemon 4
+iː ɡurman 4
+iː dɲes 4
 hʎadajuːtsi 4
 hl̩ːpkoʊ 4
 heːliom 4
@@ -37544,6 +37610,8 @@ eɡoizmu 4
 eɡoistitskaː 4
 efektiːvni 4
 editora 4
+eː trendʲe 4
+eː run 4
 dʒuːs 4
 dʒihaːt 4
 diːxam 4
@@ -38458,6 +38526,7 @@ up 4
 udalostʲi 4
 ut 4
 tiːʒdʲenniː 4
+tiː tiː 4
 taːbor 4
 teːzetveː 4
 tipitskiːm 4
@@ -39223,6 +39292,7 @@ museːe 4
 muraːnskej 4
 muraːnska 4
 murakami 4
+emez dl̩heːuː 4
 mr̩vetʃkovaː 4
 mrazɲitʃka 4
 moʒniː 4
@@ -39382,6 +39452,7 @@ lekaːrka 4
 lehotskiː 4
 leɡendaːrna 4
 leɡendi 4
+le bron 4
 lazi 4
 lawson 4
 lauriɲets 4
@@ -39685,6 +39756,8 @@ hu 4
 hr̩k 4
 hr̩ 4
 hotel 4
+haː nporadɲi 4
+haːen tslup 4
 hiphop 4
 haːef 4
 ɡeːn 4
@@ -39733,6 +39806,7 @@ furt 4
 fuŋktsia 4
 fuji 4
 ftaːtʃɲika 4
+free diɡital photos 4
 frantsuːsskom 4
 frantsuːsske 4
 frantsuːska 4
@@ -39926,6 +40000,7 @@ xama 4
 tseruje 4
 tsentraːlna 4
 tsentauri 4
+tse bituː 4
 tsatapult 4
 tsaparol 4
 tsalvario 4
@@ -43547,6 +43622,7 @@ ruʃeɲiː 3
 rutʃniː 3
 rutʃeɲiːm 3
 rutʲina 3
+run eksploit 3
 rumu 3
 rukopisow 3
 rukopisom 3
@@ -45341,6 +45417,7 @@ padajuːtse 3
 patsil 3
 patsientmi 3
 patsientki 3
+peː eːaːer siŋk 3
 oʒiveniː 3
 oʒiveɲiː 3
 oʒilo 3
@@ -47254,6 +47331,7 @@ matsnakova 3
 matska 3
 maxo 3
 maxinaːtsiaːx 3
+em baŋk 3
 liːru 3
 luːtʃom 3
 luːtʃime 3
@@ -47364,6 +47442,7 @@ liberalizaːtsie 3
 liaŋk 3
 liala 3
 lial 3
+li teː tklup 3
 li 3
 leʒiatsi 3
 leʃeɲia 3
@@ -47754,6 +47833,7 @@ kofeiːnu 3
 kotsku 3
 kobilki 3
 koalitʃɲiː 3
+ko ɲiets 3
 kɲiːʒe 3
 kɲiːhkupetstve 3
 kɲiːhkupetstʲiew 3
@@ -48074,6 +48154,7 @@ individuaːlna 3
 inditskoʊ 3
 intslusive 3
 inakʃie 3
+in spor tliɲe 3
 impulzu 3
 improvizaːtsie 3
 improvizovaneː 3
@@ -48098,6 +48179,9 @@ ideoloːɡie 3
 identifikuje 3
 identifikoval 3
 idealna 3
+iː padu 3
+iː lekaːreɲ 3
+iː ɡurman 3
 hʎadʲiskom 3
 hʎadeli 3
 hʎadatʃom 3
@@ -48639,6 +48723,7 @@ efektʲe 3
 edʲiːtsia 3
 ets 3
 easikit 3
+eː ɡovernmentuː 3
 eːmailovuː 3
 dʒuŋɡʎa 3
 dʒezoviː 3
@@ -49811,6 +49896,7 @@ zatsala 3
 zabudlo 3
 zabespetʃujeme 3
 zabaw 3
+za sta vo 3
 zmosu 3
 zmluva 3
 zlom 3
@@ -49844,7 +49930,9 @@ vilson 3
 villisom 3
 vikipeːdʲie 3
 vikipedʲia 3
+viki leaks 3
 viezik 3
+vi maks 3
 viskas 3
 veŋɡene 3
 vell̩s 3
@@ -49852,6 +49940,7 @@ veltsome 3
 vebitʲeam 3
 vebiportaːl 3
 vebdʲesiɡn 3
+vep hoʊse 3
 vai 3
 vatsonovaː 3
 vatʲerloo 3

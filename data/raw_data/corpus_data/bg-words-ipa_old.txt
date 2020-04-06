@@ -1872,6 +1872,7 @@ etaʃ 78
 ɡolamatɐ 78
 tə 78
 səs 78
+bukvatʃetiripetʃest bukvatʃetiripetʃest 78
 tʃitateliː 77
 tsvetʲɐ 77
 utʃɐstnitsite 77
@@ -4396,6 +4397,7 @@ vinatɐ 35
 vzeliː 35
 bolen 35
 bednite 35
+bə təvə 35
 ɐuditorijɐ 35
 ɐnaliziː 35
 ɐmerikantsite 35
@@ -7041,6 +7043,7 @@ pɐtsient 21
 pasport 21
 partijniː 21
 pɐrametriː 21
+oʃte prodəɫʒiː 21
 otretʃe 21
 otnatʃaɫo 21
 odɡovornostiː 21
@@ -10701,6 +10704,7 @@ vʲarvɐm 14
 vətre 14
 fposletstvie 14
 vodɐ 14
+viː kə 14
 vaʃe 14
 vɐlensijɐ 14
 budɐ 14
@@ -12156,6 +12160,7 @@ vetʃerinkɐ 12
 vedomstvo 12
 vɐkɐntsijatɐ 12
 bʲuletiniː 12
+bə (en)jɛɹu(bg) tə ermɐɫək 12
 bədeʃtoto 12
 braʃnoto 12
 bradɐ 12
@@ -13252,6 +13257,7 @@ xotʃsən 11
 xenriː 11
 xej 11
 xan 11
+xə bukvatʃetiripetʃest xə 11
 finansiː 11
 festivaɫ 11
 fest 11
@@ -13459,6 +13465,7 @@ borisovatɐ 11
 borbatɐ 11
 boɡovəpɫəʃtenieto 11
 boɡdanof 11
+bɫu link 11
 belite 11
 bespɫaten 11
 bɐɫabanof 11
@@ -17805,6 +17812,7 @@ protestite 8
 promotsiiː 8
 proletːɐ 8
 prodavɐ 8
+pro kredit 8
 prijɐtelite 8
 prixodite 8
 pristaniʃte 8
@@ -18381,6 +18389,7 @@ speʃnost 7
 spetsiɐlizirano 7
 spetsiɐlizatsiɐ 7
 spestʲavɐt 7
+s pə e rə mə (en)jɛɹu(bg) 7
 spasitel 7
 spaseniː 7
 spaməriː 7
@@ -19115,6 +19124,7 @@ məʃkijɐ 7
 muxɐ 7
 mutatsiɐ 7
 mutatsiiː 7
+mə u ʒə tʃə iː nə (en)jɛɹu(bg) 7
 mreʒovɐ 7
 mreʒite 7
 moʃtnost 7
@@ -19823,6 +19833,7 @@ xɐrmonijɐ 7
 xarvɐrt 7
 xɐdʒiivanof 7
 xadʒief 7
+xə xə bukvatʃetiripetʃest 7
 furijɐ 7
 fukuʃimɐ 7
 fransoɐ 7
@@ -22965,6 +22976,7 @@ obɫatʃno 6
 obɫasten 6
 obzɐveʒdane 6
 obedineniː 6
+op sə 6
 onɫɐjn 6
 okɫɐt 6
 ot 6
@@ -24564,6 +24576,7 @@ portite 5
 porotʃnijɐ 5
 porokɐ 5
 porok 5
+pə o rə o də (en)jɛɹu(bg) 5
 porodite 5
 porodeno 5
 pornoto 5
@@ -25182,6 +25195,7 @@ nableɡnɐ 5
 nabere 5
 mʲuʂuɫmanskoto 5
 mʲuʂuɫmanite 5
+mə (en)jɛɹu(bg) 5
 mətʃnotiiː 5
 mətʃiteɫno 5
 mərzeɫɐ 5
@@ -25398,6 +25412,7 @@ koʃmarite 5
 koʃmarɐ 5
 koʃerɐ 5
 kofatɐ 5
+kə o tə o rə (en)jɛɹu(bg) e 5
 kote 5
 kotvɐ 5
 kotarakɐ 5
@@ -26047,6 +26062,7 @@ davaʃtiː 5
 ɡrəmotevitsiː 5
 ɡrəmko 5
 ɡrədnatɐ 5
+k rə u pə pə (en)jɛɹu(bg) 5
 ɡrupoviː 5
 ɡroziː 5
 ɡrobət 5
@@ -26413,6 +26429,7 @@ aneksɐ 5
 ɐnɡlijskite 5
 ɐnɡɐʒiranost 5
 ɐnarçizmɐ 5
+ɐ nə ɐ lə iː zə (en)jɛɹu(bg) 5
 ɐnɐlizirate 5
 ɐnɐlizirame 5
 ɐmputiraniː 5
@@ -26999,6 +27016,7 @@ miɫkɐ 5
 mile 5
 miɫɐdinoviː 5
 mikaeɫ 5
+miː k 5
 metʃtajɐ 5
 mestɐn 5
 mestɐ 5
@@ -27438,6 +27456,7 @@ boʒijɐt 5
 boɡrof 5
 boɡo 5
 boɡɐt 5
+bo biː 5
 blasək 5
 bɫəskof 5
 bɫoɡosferɐ 5
@@ -27774,6 +27793,7 @@ fɐkuɫtetiː 4
 fakturiː 4
 fɐktoɫoɡijatɐ 4
 fakeɫno 4
+fə jamr 4
 ujazvimost 4
 utʃudenɐ 4
 utʃredʲavɐ 4
@@ -28744,6 +28764,7 @@ purɐ 4
 puɫsət 4
 pukankite 4
 ptitʃijɐt 4
+pə tə iː tsə (en)jɛɹu(bg) 4
 psuvaʃe 4
 psuvɐt 4
 psixoterapeftət 4
@@ -29757,6 +29778,7 @@ obʲasɲavɐj 4
 obʲasniɫ 4
 obʲasneno 4
 obʲaviɫ 4
+o bə (en)jɛɹu(bg) tʃə nə o 4
 obərnɐɫ 4
 obərkvɐt 4
 obərkanite 4
@@ -31698,6 +31720,7 @@ bʲaɡɐj 4
 bʲuletinatɐ 4
 bʲudʒetnatɐ 4
 bʲudʒetnɐ 4
+bə (en)jɛɹu(bg) lə o 4
 bərzɐj 4
 bəndʒiː 4
 bəɫɡartʃetɐ 4
@@ -32064,11 +32087,13 @@ xarlem 4
 xaliː 4
 xajtof 4
 xristo 4
+xə orɐ 4
 xoratɐ 4
 xobiː 4
 xep 4
 xədə 4
 xa 4
+xə bukvatʃetiripetʃest 4
 funktsijatɐ 4
 frenskijɐt 4
 fratʲu 4
@@ -32918,6 +32943,7 @@ lekarstvɐ 4
 lekarite 4
 leftʃef 4
 leɐ 4
+le bron 4
 ɫarisɐ 4
 ɫambo 4
 ɫale 4
@@ -32930,6 +32956,7 @@ kəntʃo 4
 kuxnensko 4
 kutrofskiː 4
 kurt 4
+kurs pərviː 4
 kuranɐ 4
 kupatɐ 4
 kumar 4
@@ -33189,6 +33216,7 @@ eleɡijɐ 4
 ekspert 4
 ekoɫozite 4
 ekobateriː 4
+eko opʃtnost 4
 eɡzɐrx 4
 eʒednevno 4
 eʒednevnɐ 4
@@ -33249,6 +33277,7 @@ dinamitʃen 4
 dilemɐ 4
 dikens 4
 dizajnət 4
+diː siː 4
 dʒurasik 4
 dʒuliɐn 4
 dʒuɫɐj 4
@@ -33562,6 +33591,7 @@ aleksis 4
 aksonɐ 4
 ɐkɐdemitʃniː 4
 ɐkɐdemik 4
+as bukiː 4
 atskiː 4
 admin 4
 ɐdvokatite 4
@@ -34321,6 +34351,7 @@ teoɫoɡijatɐ 3
 tenisist 3
 tendʒerɐ 3
 tempovete 3
+tematɐ prodəɫʒiː 3
 teɫtsɐ 3
 teleʃkiː 3
 telefonno 3
@@ -34734,8 +34765,10 @@ spetsifitʃnijɐ 3
 spetsifikatsiɐ 3
 spetsiaɫnoto 3
 spetsiaɫnijɐ 3
+s pə e tsə iː ɐ lə iː s tə (en)jɛɹu(bg) 3
 spets 3
 spestiɫ 3
+s pə e rə mə ɐ tə o zə o iː də (en)jɛɹu(bg) 3
 spektərɐ 3
 spɐsitelɐt 3
 spɐsiteɫno 3
@@ -34942,6 +34975,7 @@ seminarət 3
 seminarite 3
 semestərɐ 3
 sementse 3
+s e mə e nə nə (en)jɛɹu(bg) xə 3
 semantitʃniː 3
 seɫskostopanskatɐ 3
 seliʃtatɐ 3
@@ -38275,6 +38309,7 @@ koʃeriː 3
 kotseto 3
 kofitʃkɐ 3
 koutʃink 3
+kə o tə o rə (en)jɛɹu(bg) xə 3
 koto 3
 kotliː 3
 kotirɐt 3
@@ -39352,6 +39387,7 @@ zɐbavlavɐʃ 3
 zɐbɐvlavate 3
 zɐbɐvlavame 3
 zɐbɐvenite 3
+zə eɫfət 3
 ʒəɫtəkɐ 3
 ʒəɫtenikɐvɐ 3
 ʒurnalatɐ 3
@@ -39641,6 +39677,7 @@ domakinskɐ 3
 domakiniː 3
 domakinɐ 3
 doɫnoprobnɐ 3
+də o lə ʒə nə (en)jɛɹu(bg) 3
 doɫavʲɐ 3
 dokədeto 3
 dokumentət 3
@@ -39915,6 +39952,7 @@ davɐn 3
 ɡɫɐsuvaniː 3
 ɡɫɐsuvalite 3
 ɡɫɐsovite 3
+k lə ɐ s nə (en)jɛɹu(bg) i 3
 ɡɫasnite 3
 ɡɫasniː 3
 ɡɫasets 3
@@ -40302,6 +40340,7 @@ bʲaɡaliː 3
 bʲustət 3
 bʲurokratitʃen 3
 bʲudʒeten 3
+bə (en)jɛɹu(bg) f ɐ ju tə 3
 bəɫɡɐrofobijatɐ 3
 bəɫvɐt 3
 bə 3
@@ -41007,6 +41046,7 @@ fɐmilijɐ 3
 faktite 3
 fɐbrikatɐ 3
 fəsəɡə 3
+fəe nkupɐ 3
 fəbə 3
 fakp 3
 uʃef 3
@@ -41048,6 +41088,7 @@ uoɫ 3
 unikalen 3
 universitetət 3
 universitetskɐ 3
+uniː kredit 3
 umorix 3
 umoratɐ 3
 uɫrix 3
@@ -41309,6 +41350,7 @@ spazvajte 3
 sotsiaɫnijɐt 3
 sotsiɐlistitʃeskɐ 3
 softuer 3
+soft pres 3
 soft 3
 sofijanskiː 3
 sof 3
@@ -41578,6 +41620,8 @@ resursiː 3
 reʒiʂorət 3
 revolutsijɐ 3
 rədənəsəkə 3
+rə bəɫɡariɐ 3
+rə asizmɐ 3
 razlitʃno 3
 raskaziː 3
 raskazɐ 3
@@ -41656,6 +41700,7 @@ proverkatɐ 3
 provereniː 3
 provaɫət 3
 probuden 3
+pro studio 3
 pro 3
 prijatnɐ 3
 pritʃinɐ 3
@@ -41725,6 +41770,7 @@ prajt 3
 praveʃt 3
 pojavʲavɐt 3
 pojaviliː 3
+pə o (en)ɛː(bg) tə o mə u 3
 poʃtenskiː 3
 potʃnaxme 3
 potʃnɐ 3
@@ -42140,6 +42186,7 @@ neoɡranitʃen 3
 nenof 3
 nenasitnɐ 3
 nemɐ 3
+neliː pə 3
 neleɡaɫnatɐ 3
 nejno 3
 nejdər 3
@@ -42386,6 +42433,7 @@ makkejn 3
 mɐkedonoodrinskoto 3
 maɡdonɐɫts 3
 maɡɡreɡər 3
+mak kuin 3
 majorət 3
 madlen 3
 madʒo 3
@@ -42673,6 +42721,7 @@ kaidɐ 3
 kɐzinoto 3
 kazaxɐ 3
 kɐzɐlijatɐ 3
+kə ɐ ʒə də (en)jɛɹu(bg) i 3
 kadir 3
 kabuɫ 3
 kɐbleʃkovo 3
@@ -42733,6 +42782,7 @@ intsidentiː 3
 infrɐtʃerveniː 3
 infrɐstrukturɐ 3
 informɐtsionnite 3
+info dar 3
 interskiː 3
 interioren 3
 interesuvɐ 3
@@ -43773,6 +43823,7 @@ jɐkulate 2
 tu 2
 tom 2
 tix 2
+(en)ɛː(bg) kə s pə e rə tə (en)jɛɹu(bg) 2
 jiː 2
 ermɐɫək 2
 əs 2
@@ -45298,6 +45349,7 @@ taɐ 2
 ʂuitiː 2
 ʂuzeren 2
 ʂomɡatɐ 2
+s (en)jɛɹu(bg) rə o i 2
 səjuzniː 2
 səʃtinskoto 2
 səʃtinskijɐ 2
@@ -45916,6 +45968,7 @@ sotsioɫoɡijatɐ 2
 sotsioɫoɡitʃeskite 2
 sotsiɐliziraneto 2
 sotsiɐlizatsiɐtɐ 2
+sotsialis əmɐ 2
 sotsiɐɫdemokrat 2
 sotsɐ 2
 softuernijɐ 2
@@ -45945,6 +45998,8 @@ soef 2
 sodeniː 2
 sodɐbikɐrbonat 2
 sodɐ 2
+s o k lə ɐ s nə (en)jɛɹu(bg) xə 2
+s o k lə ɐ s nə (en)jɛɹu(bg) i 2
 sopstvenitʃkatɐ 2
 sopstvenitʃkɐ 2
 snoʃtnite 2
@@ -46130,6 +46185,7 @@ sɫaɡɐɫ 2
 sɫaɡajkiː 2
 sɫavʲanstvo 2
 sɫɐvʲanskoto 2
+s lə ɐ f (en)jɛɹu(bg) 2
 sɫavnoto 2
 sɫɐveevo 2
 sɫɐveevite 2
@@ -46296,6 +46352,7 @@ senkatɐ 2
 senzɐtsiite 2
 senator 2
 senaʃ 2
+s e mə ja f (en)jɛɹu(bg) nə o s ja ʃtə e k o 2
 semkarʲɐ 2
 semennoj 2
 semantikɐ 2
@@ -47430,6 +47487,7 @@ puɫ 2
 puknatiniː 2
 puknatɐ 2
 pukaneto 2
+pə u zə (en)jɛɹu(bg) rə ermɐɫək kə o f 2
 pudratɐ 2
 pudeɫ 2
 publitʃnostːɐ 2
@@ -47443,6 +47501,7 @@ puberiː 2
 puber 2
 ptitʃeto 2
 ptits 2
+pə tə e nə tsə (en)jɛɹu(bg) 2
 psuvnite 2
 psuvɐʃ 2
 psuvaneto 2
@@ -48491,6 +48550,7 @@ pojasnenie 2
 pojasiː 2
 pojavʲavɐʃt 2
 pojɐvʲavane 2
+pə o (en)ɛː(bg) tə o mə u 2
 poʃtɐlonkatɐ 2
 poʃtalonɐ 2
 poʃtadɐ 2
@@ -49695,6 +49755,7 @@ perdetɐ 2
 perde 2
 perɡɐmentoviː 2
 perɡament 2
+pə e rə f (en)jɛɹu(bg) e 2
 perverznɐ 2
 pervazite 2
 peratʃite 2

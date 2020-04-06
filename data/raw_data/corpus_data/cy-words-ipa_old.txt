@@ -2077,6 +2077,7 @@ dʌnar 73
 darɬɛnʊx 73
 kaɪf 73
 bɔrɛ 73
+ɑː əɨr 72
 ɨːnɔl 72
 tɑː 72
 hrannaɨ 72
@@ -2294,6 +2295,7 @@ raɪd 65
 ɬɨːs 65
 ɬɨːnjɔ 65
 ɬeːr 65
+jɑː əɨr 65
 hʊnʊ 65
 hɑɨðø 65
 ɡʌvøndrɛvn 65
@@ -2500,6 +2502,7 @@ hʊn 60
 ɛsɡɔb 60
 əɪθr 60
 kɛvn 60
+ɛkɛlɨ karləɪn 60
 ʌmlað 59
 tɨːd 59
 trʌdan 59
@@ -2907,6 +2910,7 @@ tɑːd 50
 rɨulɛ 50
 hruɨdwaɪθ 50
 rɛkɔrdjɔ 50
+oːa əɨr 50
 ɔnɛst 50
 nɔdjɑːdaɨ 50
 ŋɔlʊɡ 50
@@ -2951,6 +2955,7 @@ at 50
 ʊna 49
 wɛlaɪs 49
 ønd 49
+sʌa əɨr 49
 sanktaɪð 49
 ɛs 49
 rɨuvɔð 49
@@ -3194,6 +3199,7 @@ bʌðan 45
 brɔblɛmaɨ 45
 blanɛd 45
 bɛrxɛn 45
+ɑːa əɨr 45
 ɑːθrɔ 45
 anjalʊx 45
 adnɔð 45
@@ -3251,6 +3257,7 @@ apɛljɔ 44
 anwiːrɛð 44
 advɛr 44
 aðɔlɨ 44
+ʌɔɨ tɨːbɛ 44
 wəɪθjaɨ 44
 ɨuxrað 44
 ønhrɨu 44
@@ -3266,6 +3273,7 @@ dɛçrəɨɔð 44
 kʌnhɛlɨr 44
 kʌmøneːdaɨ 44
 karrɛɡ 44
+ɛk tɨhɑː ɛm 44
 bruɨdr 44
 ardal 44
 ɑːɨ 43
@@ -4053,6 +4061,7 @@ aɬɔr 34
 uɨl 34
 tɔrvɑɨn 34
 oːð 34
+mɑɨa əɨr 34
 ɬʌɡad 34
 ɬanɛlwɛð 34
 ɛlhadiː 34
@@ -5870,6 +5879,7 @@ lɔlva 21
 ɬuɨθɔ 21
 ɬəɪɛd 21
 lɛɔljɑːdaɨ 21
+ɨ fɔnɛ 21
 hʌsbʌʃɑːdaɨ 21
 hʌnna 21
 hʌfɔrðuɨr 21
@@ -6305,6 +6315,7 @@ arxwiːljɔ 20
 anvɔn 20
 amuɨθɨɡ 20
 adnɑːbɔd 20
+ɨua əɨr 19
 ʌnar 19
 ʌmuɨbɔd 19
 uɨdr 19
@@ -6475,6 +6486,7 @@ amhəɨɔn 19
 adɛnøð 19
 ʌmøsɡ 19
 ʌxwaneːɡø 19
+wɔrd prɛss 19
 wiːljas 19
 wəɪθreːdʊr 19
 tʌmɔr 19
@@ -6600,9 +6612,11 @@ mɔrɔɨð 18
 mɔnd 18
 miːluɨr 18
 mɛdr 18
+mɑɨa ɛɨbɛdɔlɛr 18
 ɬɨuɔdrɑɨθaɨ 18
 ɬiːθrɔ 18
 laɪθ 18
+ɨ tɨːnɛs 18
 huɨljaɨ 18
 hɔlɔð 18
 hɔɨljɔ 18
@@ -7713,6 +7727,7 @@ trʌdøð 15
 trɛɡanna 15
 traʊsbləɪdjɔl 15
 tiːθaɨ 15
+θɔmas ɑːðøsɡ 15
 teːd 15
 tavlɛnnɨ 15
 təɨlø 15
@@ -8158,6 +8173,7 @@ aðʌsɡjɑːdɔl 14
 akʊstɨɡ 14
 akadɛmʌðjɔn 14
 abɛrθø 14
+ʌɔɨŋ vlɨntshiːrɛ 14
 ʌmɨːnɔð 14
 ʌmɑɨloːdɨ 14
 ønɨkoːdɛ 14
@@ -8902,6 +8918,7 @@ iːr 12
 iːvɨ 12
 jəɪθʌðɔlnɪutral 12
 jar 12
+ɨ pɑːd 12
 hʌsbrʌdɔlɨ 12
 hʌmruɨmjad 12
 hʌvɨuɛð 12
@@ -9187,6 +9204,7 @@ poːwɛɬ 12
 flaɪd 12
 fiːlɨp 12
 farɔ 12
+pɨhɑː diː 12
 pɛrsɔn 12
 pɛppa 12
 pɛkʌnnaɨ 12
@@ -9377,6 +9395,7 @@ tɛrmɨnɔlɛɡ 11
 təɪpjɔ 11
 təɪmlaɪs 11
 tɛbʌɡɔlruɨð 11
+sø ɑːn 11
 sʌlwaɪ 11
 sʌvlød 11
 suɨðvar 11
@@ -9437,6 +9456,7 @@ pɛnnɨɬ 11
 partiːɔn 11
 paɡanaɪð 11
 oːð 11
+oː ɑːr 11
 ɔstʌŋeːdɨɡ 11
 ɔlʌnɔl 11
 ɔlʌɡøð 11
@@ -10204,6 +10224,7 @@ hɑːvaɨ 10
 ɡʌvalɑːvɔl 10
 ɡʌvalɑːvjɑɨθ 10
 ɡʌdwəɪθuɨr 10
+ɡʌdɑːa ɛɨbɛdɔlɛr 10
 ɡuɨθjɛnnaɨ 10
 ɡuɨɬtjɔn 10
 ɡuɨðøs 10
@@ -10675,6 +10696,8 @@ xɔlɛɡ 10
 kɛriːdwɛn 10
 kɛrdøn 10
 kakɛn 10
+kliː kdan 10
+ɛk ɛvɛv ɨ 10
 kat 10
 bɨːm 10
 bʌxan 10
@@ -10772,6 +10795,7 @@ troːð 9
 trəɪɡlɔ 9
 tɔstɨːrɨ 9
 tɔn 9
+tjɑː əɨr 9
 tɪutɔr 9
 θiːs 9
 θəɪθjɔ 9
@@ -11380,6 +11404,7 @@ hrʌmnɨ 9
 hrjanta 9
 hreːdaɪ 9
 hraɡɔrjɑɨθ 9
+ɛrhɑː ɑːɡ 9
 rɛmploːø 9
 pøm 9
 prøsɡ 9
@@ -11873,6 +11898,8 @@ iːʃɛ 8
 ɨsavsʊm 8
 jaʊndal 8
 jɑːxaɨ 8
+ɨ steːðvɔd 8
+ɨ fɔnɛ atɛb aɪldrʌdarø fɛvrøn 8
 hʌstɑːvɛɬ 8
 hʌruɨðuɨr 8
 hʌmwɛljad 8
@@ -12065,6 +12092,7 @@ drɑɨθaɨ 8
 drɑɨnɔɡ 8
 drɑɨan 8
 doːʊx 8
+dɔt køm 8
 dɔstɨːrɨ 8
 dɔɨðɛn 8
 dluːs 8
@@ -12313,6 +12341,7 @@ wɔbraɨr 8
 wɔbr 8
 ladʊrjɑɨθ 8
 wɛnnɔl 8
+weː bɨɛs 8
 waɨnarluɨð 8
 ønjɔŋrɛd 8
 øneːdɔl 8
@@ -12348,6 +12377,7 @@ sʊn 8
 struɨθør 8
 stɔndɨn 8
 stɨrlɨŋ 8
+stats kʌmrø 8
 sɔnɪuød 8
 sɔnjɔð 8
 sɔnata 8
@@ -12371,6 +12401,7 @@ hrɔsɬannɛrxrɨːɡɔɡ 8
 hreːsʊm 8
 hrɛɔlaɨ 8
 hrɑːɡaɪr 8
+ɛrhɑː ɛktiː 8
 rɑːs 8
 raŋɛrs 8
 raɪd 8
@@ -12428,6 +12459,7 @@ mɛdra 8
 maʊreːðɔɡ 8
 marθa 8
 marɛd 8
+mɑɨ ɑːr 8
 maðəɨʊx 8
 mabɨnoːɡjɔn 8
 mɑɨr 8
@@ -12887,6 +12919,7 @@ nhɑːvarn 7
 ŋhɔlɔvn 7
 ŋhɛrðɨ 7
 neʊiːdjɔl 7
+nəɨa ɛɨbɛdɔlɛr 7
 nɛrbøn 7
 ndjaɪdh 7
 ɛndiː 7
@@ -13640,6 +13673,7 @@ sweːdɛn 7
 sølɡuɨn 7
 sɨːðaɪ 7
 stʊlan 7
+stɛp xaŋɛ 7
 sprɔɨt 7
 speːç 7
 sɔnja 7
@@ -13790,6 +13824,7 @@ iːrɨs 7
 iːrak 7
 joːwa 7
 ɨnn 7
+ɨnvɔ bɑːø 7
 ɨndjaɪð 7
 iːn 7
 iːlɛ 7
@@ -13961,6 +13996,7 @@ kɑɨɔð 7
 kɑːban 7
 kʌstadləɨɑɨθ 7
 krɔɨsɔ 7
+ɛkɛlɨ kɔnliːnɛ 7
 ɛkɛkɛs 7
 kapɛl 7
 bɨːs 7
@@ -14023,6 +14059,7 @@ abɛrpɛnnar 7
 ɑːrɔn 7
 amsɛr 7
 ahrk 7
+ɑːɡ ɛkhɑː ə 7
 ɑːɡ 7
 ɑːθ 7
 ɑːθ 6
@@ -14078,6 +14115,7 @@ wɛɬjant 6
 wɛlɛs 6
 wəɪθjɔr 6
 wəɪnʌðø 6
+weː atɛb aɪldrʌdarø fɛvrøn 6
 waɨufɔn 6
 watwar 6
 watx 6
@@ -14324,6 +14362,7 @@ nɔvɛløð 6
 noː 6
 nɪuəɪdjɔr 6
 niːɡ 6
+nhwɑː ɛɨbɛdɔlɛr 6
 nhruɨn 6
 ŋʌrva 6
 ŋhʌnhadlɛð 6
@@ -15126,6 +15165,7 @@ axrɛdeːdɨɡ 6
 ʌsɡrɨvɛneːdɨɡ 6
 ʌsɡrɨv 6
 ɨːs 6
+ʌɔɨŋ neʊpɔrt 6
 ʌɔɨ 6
 ʌnʌslas 6
 ʌmwɛlɔð 6
@@ -15327,6 +15367,7 @@ meːθɔð 6
 mɛnɨu 6
 məɪstrɨ 6
 mɛksɨkɔ 6
+ɛmɛk dɔnalds 6
 maɨrɨkɛ 6
 mɑːsɔns 6
 mɑːs 6
@@ -15453,6 +15494,7 @@ fɔtɔɡrɑːfjɑɨθ 6
 fiːnjaɨ 6
 fiː 6
 fɛnɛstrɨ 6
+ɛvɛv a 6
 vɛdrʊx 6
 veːdal 6
 veːçan 6
@@ -15686,6 +15728,7 @@ alaʊɔn 6
 ɑːvjax 6
 afrɨkanaɪð 6
 adneʊʌðø 6
+ɑːðøsɡ sɨmɔn 6
 abɛrɡuɨlɨ 6
 abɛrfraʊ 6
 abɛrdarɔn 6
@@ -15707,6 +15750,7 @@ oːlraðeːdɨɡ 5
 ʌsɡrɨvɛnʌðɛs 5
 ʌsɡoːɡɔð 5
 ʌsɡar 5
+ən ɑː 5
 ønt 5
 ʌnɔɨ 5
 ʌŋanjad 5
@@ -16068,6 +16112,7 @@ palas 5
 padlɔ 5
 pɑːdɛɬ 5
 ɔɪçɛ 5
+oː ɑːx 5
 oːʊns 5
 ɔsɡɔɪr 5
 ɔrseːðvaɪnk 5
@@ -16104,6 +16149,7 @@ noːdɨn 5
 noːdar 5
 nɔbl 5
 niːm 5
+njɑː əɨr 5
 nɪuʌɬjant 5
 njoː 5
 nɨnnaɨn 5
@@ -16234,6 +16280,7 @@ lanuɨd 5
 lamɨnəɪðjɔ 5
 ladrad 5
 lɑːxar 5
+ɨ ɑːʊ 5
 ɨsrɑːðɔl 5
 ɨsɛθɔljad 5
 iːsɔlʌɡøð 5
@@ -16247,6 +16294,7 @@ jɑːθ 5
 jɑːs 5
 jaxaʊød 5
 jɑːxaɨ 5
+ɨ ɔs 5
 hʌsɡuɨð 5
 hʌsɡɔl 5
 hʌsbʌsvʊrð 5
@@ -16645,6 +16693,7 @@ eːð 5
 ɛkɔnɔmiːaɨ 5
 ɛkɔlɛɡ 5
 eːbɛr 5
+ɛ lʌvraɨ 5
 ɛɡiːv 5
 dɨux 5
 dɨuʌsoːɡɑɨθ 5
@@ -16670,6 +16719,7 @@ drʌmaɪð 5
 drʌloːɨu 5
 drʌdar 5
 drʌbəɪlɨɡ 5
+druɨa ɛɨbɛdɔlɛr 5
 drʊɡdʌbjɔ 5
 druːxøs 5
 drɔʊsøs 5
@@ -17047,6 +17097,7 @@ bʌta 5
 bʌrlʌmøs 5
 bʌdeːaŋ 5
 bʌðɔx 5
+bʌðja ɛɨbɛdɔlɛr 5
 bʌðɑːɨ 5
 bʊrjɑːdɔl 5
 bʊrɡɛr 5
@@ -17248,6 +17299,7 @@ aɨ 5
 ʌsɡɔljɔn 5
 ʌmɡørx 5
 wɨŋs 5
+wiː viː 5
 ʊhats 5
 wɛlø 5
 wɛlaɪst 5
@@ -17508,6 +17560,7 @@ mɛnnan 5
 mɛlfast 5
 məɪnɨ 5
 mɛdrʊx 5
+ɛmɛk ɡøiːrɛ 5
 matθeʊ 5
 mɑːθjas 5
 manaʊ 5
@@ -17515,6 +17568,7 @@ mɑɨnɔfɛrɛn 5
 maks 5
 mablɨ 5
 mɑːn 5
+ɛm fiːl 5
 mɔrɡannʊɡ 5
 miː 5
 lɨuɛløn 5
@@ -17569,6 +17623,7 @@ iːluɨr 5
 ɨlaʊɛr 5
 ɨðeʊɨɡ 5
 jarɬ 5
+ɨtiː walɛs 5
 ɨpk 5
 jəɨɛnktɨd 5
 jeː 5
@@ -18011,6 +18066,7 @@ amlblatfɔrm 5
 amɡɨːðvəɪð 5
 amɛlja 5
 amɑɨθ 5
+alømnɨ veːd 5
 alθøssɛr 5
 almɑɨnɨɡ 5
 aɬtwɛn 5
@@ -18447,6 +18503,7 @@ rannuɨd 4
 rannøn 4
 rannɨːɨ 4
 randaljɑːdaɨ 4
+pɑː əɨr 4
 puɨɬɔɡ 4
 puɨɬ 4
 pʊrs 4
@@ -18634,6 +18691,7 @@ nhavlø 4
 neʊʌnø 4
 neʊʌðlɛn 4
 neʊʌðjadɨːrøð 4
+nəɨ ɑːr 4
 nəɨx 4
 nəɪnjaɨ 4
 naʊn 4
@@ -18793,6 +18851,7 @@ lavɨːrøs 4
 lɑːva 4
 ladrata 4
 lakjɔ 4
+ɨ ɑːr 4
 ɨsrað 4
 ɨslaɪs 4
 ɨsɛlvrød 4
@@ -18811,6 +18870,7 @@ jɔn 4
 ɨðoːɨ 4
 jɑɨθ 4
 jɑːxəɪr 4
+ɨ plaʌɛr 4
 hɨː 4
 hʌstʌrɨr 4
 hʌstør 4
@@ -18818,6 +18878,7 @@ hʌsɡrɨvɛnnøn 4
 hʌsbʌseːbøn 4
 hʌsbaɪl 4
 hʌruɨðʊr 4
+hʌnnʌa ɛɨbɛdɔlɛr 4
 hʌnnan 4
 hʌnɨ 4
 hʌmroːðjad 4
@@ -19334,6 +19395,7 @@ eʊn 4
 ɛkɔ 4
 eːçdɔɨ 4
 ɛbɔstjɔ 4
+ɛ vʊlɛtɨn 4
 ɛɡʌlxlʌθør 4
 doːɨr 4
 deː 4
@@ -19417,6 +19479,7 @@ dɔɨθav 4
 dɔɨnt 4
 doːduɨ 4
 doːn 4
+djɑː əɨr 4
 djʌstør 4
 dɪuʌɡɪur 4
 dɪuʌɡjɑːdaɨ 4
@@ -19825,6 +19888,7 @@ xlʌmø 4
 xløstjaɨ 4
 xlɨːdɔ 4
 xleːðøv 4
+xjɑː ɛɨbɛdɔlɛr 4
 xɛrðɔr 4
 xɛluɨðaɨ 4
 xɛlvʌðʌdaɨ 4
@@ -20020,6 +20084,7 @@ atab 4
 ɑːsɨd 4
 aseːsør 4
 ɑːsɛn 4
+ar ɑː 4
 aruɨðaɪr 4
 arwahan 4
 arɔlʌɡør 4
@@ -20267,6 +20332,7 @@ taluɨd 4
 tɑːvɔd 4
 tavlɛnnø 4
 tablaɨ 4
+tiː ɛlɛl ɨ 4
 seːl 4
 sʌrθjaɪ 4
 sʌnθeːsɨs 4
@@ -20511,6 +20577,7 @@ neːsav 4
 nɑːd 4
 mʌnnʊn 4
 mʌnnø 4
+mɨː spakɛ 4
 muɨnhaɨr 4
 mʊslɛmjaɪd 4
 mɨːsøs 4
@@ -20550,6 +20617,7 @@ mɛn 4
 məɪθrɨnvəɪð 4
 mɛðʌljaɪs 4
 meːðaɪr 4
+ɛmɛk karθø 4
 mbeːrɛ 4
 mɑːs 4
 maʊðuɨ 4
@@ -20628,6 +20696,7 @@ lɔɡɡɛhreːads 4
 ɬanðarɔɡ 4
 ɬanɑɨlhɑɨarn 4
 ɬɑɨθ 4
+ɛlɛl ak 4
 ljɔn 4
 lɨmrɨɡ 4
 lɨdl 4
@@ -20866,6 +20935,7 @@ fəɪθjɔl 4
 fəɪrjaɨ 4
 fatrɨ 4
 fɑː 4
+ɛvɛv ɛɡɛk 4
 veːx 4
 vɛθɛsda 4
 vɛstrɨ 4
@@ -21166,6 +21236,7 @@ kɔvnoːdjɔn 4
 koːfɨ 4
 ɛkɛndiː 4
 ɛkɛnɛk 4
+ɛkɛlɨ ktanja 4
 kɪuʊ 4
 kɨpd 4
 kiːnjɔ 4
@@ -21173,6 +21244,7 @@ kɛrðɔrjɑɨθ 4
 kɛrð 4
 kəɪr 4
 kɛvnoːɡɑɨθ 4
+ɛk ɛkhɑː ɡɨk 4
 kartrɛv 4
 kanø 4
 kɑɨrnarvɔn 4
@@ -21518,6 +21590,7 @@ wɛvlaɨ 3
 weːdød 3
 weːdɔð 3
 wɛdiːʊ 3
+weːdja ɛɨbɛdɔlɛr 3
 weːdɛs 3
 wɛðiːɔð 3
 wɛðneʊɨd 3
@@ -21690,6 +21763,7 @@ tiːr 3
 θɛçɑːsɛr 3
 θɛbʌɡɔl 3
 θɛatraɪð 3
+θeː sprɔɨt 3
 θarvø 3
 θanʌsɡriːvjɔ 3
 θalør 3
@@ -21980,6 +22054,7 @@ rəɪsɛ 3
 rəɪds 3
 rɛfɛreːdʊm 3
 reːdjad 3
+rɛkrɪutjɔ noː 3
 rɛkɔrdɪuød 3
 reːbɛl 3
 rɛalɨtø 3
@@ -22022,6 +22097,7 @@ prʌvɔkjɔ 3
 prʌdvɛrθav 3
 prʌdɛrøs 3
 prɔtɛstjɔ 3
+prɔʃɛktaɨ ɡɔlʌɡø 3
 prɔsɛlʌtjɔ 3
 prɔmɛnɑːdɛ 3
 prɔveːdɨɡ 3
@@ -22163,6 +22239,7 @@ pamflɛd 3
 paɪɬ 3
 pak 3
 pɑːb 3
+piː hɑː 3
 oːʊn 3
 oːʊt 3
 oːwaɪn 3
@@ -22419,6 +22496,7 @@ mal 3
 maɪn 3
 maɡl 3
 mɑːɡ 3
+mɑɨ ɑːr 3
 mɑɨstrɛv 3
 mɑɨnt 3
 maðəɨʊx 3
@@ -22857,6 +22935,7 @@ haðʌsɡuɨd 3
 ɡwɑːɡɛð 3
 ɡwɑɨr 3
 ɡwɑɨθɑːɨ 3
+ɡwɑɨθɑːa ɛɨbɛdɔlɛr 3
 ɡwɑɨloːdɔl 3
 ɡwɑɨðaɪɨ 3
 ɡwadn 3
@@ -23041,6 +23120,7 @@ haðʌsɡuɨd 3
 ɡɑːfɨ 3
 ɡɑɨθɔm 3
 ɡɑɨɑːvø 3
+ɡɑːdwa ɛɨbɛdɔlɛr 3
 ɡɑːduɨd 3
 ɡɑːdʊx 3
 ɡadeʊɨr 3
@@ -23562,6 +23642,7 @@ dəɪljɔɡ 3
 dəɪlbrɨð 3
 dəɪvjɔ 3
 dɛhɔŋlɨr 3
+dɛvnʌðjoːa ɛɨbɛdɔlɛr 3
 dɛvnʌðjɔð 3
 dɛvnʌðjɔn 3
 dɛdvrʌdaɨ 3
@@ -23572,6 +23653,7 @@ dɛçrəɨɑːsant 3
 dɛçneːɡaɨ 3
 dɛbʌɡruɨð 3
 deːbød 3
+deː ɡambɔ 3
 dɨdiːweːd 3
 ðoːθ 3
 ðoːɨr 3
@@ -24231,6 +24313,7 @@ bʌdeʊ 3
 bʌðɨd 3
 bʌðɨn 3
 bʌðɛr 3
+bʌðaɪa ɛɨbɛdɔlɛr 3
 bʌðaɨ 3
 bʌxɔd 3
 bʌxanø 3
@@ -24827,6 +24910,7 @@ tiːbɛt 3
 θɨːbal 3
 θɔɨɡhts 3
 θɛɔrɨ 3
+θeː sprɔɨt 3
 θalʌbɔnt 3
 θaɪd 3
 tɛst 3
@@ -24883,6 +24967,7 @@ sʌxdɛr 3
 sø 3
 suɨðɔɡɑɨθaɨ 3
 suɨðoːɡɑɨθ 3
+swoːsh meː 3
 sʊnamɨ 3
 swɨstɨr 3
 swɨss 3
@@ -24890,10 +24975,12 @@ sʊkɨ 3
 swanseːa 3
 suː 3
 søpriːsɛ 3
+sɨːl ʌsɡɔl 3
 sɨːɛ 3
 sɨːð 3
 sɨːd 3
 sɨːbɛdɨtɔr 3
+stɨː toːwɨp 3
 struɨθɨːrɔ 3
 struɨθɨːraɨ 3
 strɑɨn 3
@@ -25097,6 +25184,7 @@ prɔm 3
 proːfuɨd 3
 prɔfiːljaɨ 3
 prɔblɛm 3
+proː moːkʌmrø 3
 prɨvliːvɔ 3
 priːvfrʌdjɔr 3
 prɛsɛlɨ 3
@@ -25164,6 +25252,7 @@ pɛlɨkan 3
 pɛatɛ 3
 paʌpal 3
 paskal 3
+partnɛr jaɪθ 3
 partɨkɨpatjɔn 3
 parrøθɔmas 3
 parramatta 3
@@ -25240,6 +25329,7 @@ nhaɪd 3
 ŋhɑɨr 3
 ɛnɛɡ 3
 neʊʌðlɛn 3
+neʊʌðjɔn ə 3
 neʊʌðjadɨːrʊr 3
 neʊtɔn 3
 neʊman 3
@@ -25290,6 +25380,7 @@ moːd 3
 mɔk 3
 mɔbiːlɛ 3
 miːɨ 3
+miː ɑː 3
 mɪunɨ 3
 mɨstar 3
 mɨnɨstɛr 3
@@ -25324,6 +25415,7 @@ mɛlɨndʊr 3
 mɛlɛrɨ 3
 məɪnɛ 3
 meːduɨn 3
+meːdja manjak 3
 mɛðʌlja 3
 mɛðʌɡɔn 3
 mɛðʌɡɔl 3
@@ -26142,6 +26234,7 @@ kɔnradh 3
 kɔnveːʃʊn 3
 kɔmpɛndɪum 3
 kɔmmɛrsɔn 3
+kɔmmɛnts suɨðɨ 3
 kɔmmand 3
 kɔmɪunʌðjɑɨθ 3
 kɔlømbja 3
@@ -26284,6 +26377,7 @@ kʊmnɨ 3
 kwɛstjʌnaɨ 3
 kɨː 3
 ɛkpɨɛk 3
+ɛk ɛlɛl ɛlɛk 3
 xwiːljad 3
 xwiː 3
 xwarɑɨɔn 3
@@ -26422,6 +26516,7 @@ atɡɔv 3
 ateːɡɔl 3
 atɛbɔlruɨð 3
 atalnɔd 3
+astɨːdjɑɨθ kʌvarvɔd 3
 astra 3
 ɑːʃaɪð 3
 ashdalɛ 3
@@ -26522,6 +26617,7 @@ abɛrarad 3
 ɑːbɛrpɔrθ 3
 abɑːdas 3
 ɑːb 3
+a saɨ 3
 asdan 3
 askɨ 3
 apɨ 3
@@ -26545,16 +26641,20 @@ oːdɛ 2
 oːltrɔɨd 2
 oːldrɛvɛdɨɡɑɨθɔl 2
 oːd 2
+oː ɨ 2
 iːr 2
 iːa 2
 eːs 2
 ɑːk 2
+ɑː ɛɨbɛdɔl rɔɨvɛl 2
+ɑː ɛɨbɛdɔl rɔɨ ɛkɛlɨ karləɪn 2
 oːlraðɛdiːɡjɔn 2
 oːlvɔdɛrnjɑɨθ 2
 oːl 2
 (en)əʊɐkjuːt(cy) 2
 ɑːɨr 2
 ɑːɨ 2
+ɨu ɑːn 2
 ʌswaɪn 2
 ʌstʌrjɛnt 2
 ʌstʌrja 2
@@ -26707,6 +26807,7 @@ oːl 2
 ʌmbarɛl 2
 ʌmbaratɔɪ 2
 ʌmar 2
+ʌmɑːa ɛɨbɛdɔlɛr 2
 ʌmarweːðjad 2
 ʌmarvɛrʊx 2
 ʌmaɡweːðø 2
@@ -27192,6 +27293,7 @@ tɨk 2
 θəɪdjaɨ 2
 θɛçnɔleːɡɔl 2
 θɛatraɨr 2
+θeː sɨtɛ 2
 θasɡ 2
 θarmak 2
 θarjan 2
@@ -27276,6 +27378,7 @@ tankɛr 2
 tanbəɪdruɨð 2
 taməɪtjax 2
 taløn 2
+talɨːa ɛɨbɛdɔlɛr 2
 talp 2
 talɔð 2
 talm 2
@@ -27758,6 +27861,7 @@ hranna 2
 hranjɑːdaɨ 2
 hranvuɨa 2
 hranaɨ 2
+hran kanɔlvan 2
 hramantø 2
 hramantjɑɨθ 2
 hraɪr 2
@@ -28170,6 +28274,8 @@ pakjɔx 2
 pakjɔð 2
 pakɛd 2
 pɑːbɨ 2
+oː ɑːn 2
+oː ɑː 2
 oːsɔn 2
 ɔstʌŋɔl 2
 ɔstʌŋjɑːdaɨ 2
@@ -28221,6 +28327,7 @@ oːsɔn 2
 ɔləɨnɨr 2
 ɔləɨa 2
 ɔlxɨr 2
+ɔlɑːa ɛɨbɛdɔlɛr 2
 ɔlaɨr 2
 ɔlðɪuʌdjannɔl 2
 ɔhɔnɔttiː 2
@@ -28278,6 +28385,7 @@ oːxraɨr 2
 ɔbsɛʃʌnaɨ 2
 ɔbseːsɨv 2
 ɔbsɛsd 2
+oː ɛk 2
 nʌθva 2
 nørd 2
 nʌvɔd 2
@@ -28314,6 +28422,7 @@ niːløn 2
 nɨvlastɔd 2
 nɨðanʊx 2
 niːçɛ 2
+niː map 2
 nhʌnnøn 2
 nhuɨθaɨn 2
 nhuɨɬɔn 2
@@ -28536,6 +28645,7 @@ mluɨðøn 2
 mluːx 2
 mlɑɨnɔrjɑɨθaɨ 2
 mlɑɨnav 2
+mlɑɨn danvɔna 2
 mɪusɨk 2
 mɨsɔljɔn 2
 mɨsɛrɨkɔrdjaɨ 2
@@ -28689,6 +28799,7 @@ maɡlø 2
 mɑːɡɛd 2
 maɡɑːxɨ 2
 mɑɨna 2
+mɑɨ ɑːn 2
 mɑɨθlɔn 2
 mɑɨnɔr 2
 madvaɬɔd 2
@@ -28934,7 +29045,9 @@ lɑːðav 2
 labʌrɨnθaɨ 2
 labʌðjɔ 2
 labɔrdø 2
+ɨ ɛr 2
 jɑːrvɑːxərhɑːv 2
+ɨ ɑːx 2
 ɪutɨlɨtɨ 2
 ɨtɨn 2
 iːθ 2
@@ -28990,9 +29103,14 @@ iːðønnhuː 2
 iːðɨr 2
 iːd 2
 jaʊs 2
+jaʊna ɛɨbɛdɔlɛr 2
 jaɪθsɛnsɨtɨv 2
 jaxɨːsɔl 2
 jɑːjɑː 2
+ɨ rɛlatɛ 2
+ɨ poːd 2
+ɨ pɑːd atɛb aɪldrʌdarø fɛvrøn 2
+ɨ ɔɛs atɛb aɪldrʌdarø fɛvrøn 2
 iːø 2
 hʌsø 2
 hʌstɛrɨɡ 2
@@ -29110,6 +29228,7 @@ hɔɨdvɑːɔn 2
 hɔɨd 2
 hɔbseːʃʊn 2
 hoːb 2
+hoː biː 2
 hoː 2
 hiːm 2
 hɨtjɔ 2
@@ -30105,6 +30224,7 @@ vʌdʌsaʊd 2
 vʌðɔn 2
 vʌðarɔl 2
 vʌðaɪø 2
+vʌðaɪa ɛɨbɛdɔlɛr 2
 vʌðaɨ 2
 vʌðan 2
 vɨːdɛnwɔɡ 2
@@ -30257,6 +30377,7 @@ froːθ 2
 frɨtøn 2
 frɨt 2
 frjoːr 2
+frɨndjaɨ tavlɛnnø 2
 friːljaɨ 2
 friː 2
 frɛsnɨ 2
@@ -30493,6 +30614,7 @@ eʊɨɡ 2
 ɛrðɔ 2
 ɛrxʌɬtɛraɨr 2
 ɛrxʌɬtɛr 2
+ɛraɪɬ ɑː 2
 ɛpiːlɔɡ 2
 ɛpɨfanɨ 2
 ɛpɨk 2
@@ -30513,6 +30635,7 @@ eːɔs 2
 ɛntrɛ 2
 ɛnsɛmblɛ 2
 ɛnhriːvɔ 2
+ɛnnɨɬ ɡaɬav 2
 ɛnɨɬaɪs 2
 ɛnɨɬaɪ 2
 ɛnhaŋø 2
@@ -30607,6 +30730,8 @@ eːbøst 2
 eːbaɪ 2
 ɛaŋdɛr 2
 ɛalaɪnɛ 2
+ɛ lɨuɔdrɑɨθ 2
+ɛ bɑːø 2
 ɛpɨstɔl 2
 ɛneʊʌðjɔn 2
 ɛðʌsɡør 2
@@ -31347,6 +31472,7 @@ deːðuɨraɪn 2
 ðəɪɛt 2
 ðɛɡpønt 2
 ðɛvnʌðuɨd 2
+ðɛvnʌðjoːa ɛɨbɛdɔlɛr 2
 ðɛvnʌðjɔð 2
 ðɛvnʌðjɔn 2
 ðɛvnʌðɨd 2
@@ -32143,6 +32269,7 @@ xlɛðʌvaɨ 2
 xleːð 2
 xlɛbran 2
 xiːɨ 2
+xiː ɑːn 2
 xiːθan 2
 xɨnjaʊaɨ 2
 xiːɡøð 2
@@ -32317,6 +32444,7 @@ kafɑɨljɔ 2
 kafɑɨljad 2
 kɑɨθwɑːʃɑɨθ 2
 kɑɨm 2
+kɑːdwa ɛɨbɛdɔlɛr 2
 kɑːdwɔnt 2
 kadweːdɨɡ 2
 kɑːdwa 2
@@ -32686,6 +32814,8 @@ baxɡɛnnøn 2
 bakbiːbaɨ 2
 biːsiːdɛ 2
 aɪ 2
+a ɑːɨ 2
+a ɑː 2
 aʊʌrlɨːnjaɨ 2
 aʊtɔmataɪð 2
 aʊra 2
@@ -32957,6 +33087,8 @@ aɬsaɪ 2
 aɬɡaɨ 2
 aɬva 2
 aɬdɨrjɔɡɑɨθɔl 2
+aɬɑːa ɛɨbɛdɔlɛr 2
+aɬa ɑː 2
 aɬasaɪɨ 2
 aɬanʊr 2
 aɬaɪx 2
@@ -33181,6 +33313,7 @@ abɛrθaɪ 2
 øvk 2
 ʌdør 2
 ɨːð 2
+ʌɑː kʌmrø 2
 uɨn 2
 uɨnt 2
 uɨnnstɑːø 2
@@ -33259,6 +33392,7 @@ wattstoːʊn 2
 watɛrstɔnɛs 2
 watɛrlɔ 2
 watɛrɨŋ 2
+watɛr sɑːvɛ 2
 wat 2
 wasanɑɨθ 2
 warrɨŋtɔn 2
@@ -33280,6 +33414,7 @@ wɑɨlɔd 2
 wɑɨd 2
 uɨθnɔs 2
 uɨboːdɑɨθ 2
+uː ʊrθ 2
 ʊrø 2
 ʊras 2
 ʊrandɔ 2
@@ -33323,6 +33458,7 @@ wɑːɡ 2
 økø 2
 økak 2
 ɨbɛdɔlbahn 2
+tiːm kanvɔd 2
 teː 2
 tɨuʌsʌðjɔn 2
 tɨuʌðjɑːdør 2
@@ -33404,6 +33540,7 @@ travoːdɔð 2
 travɔdɑɨθaɨ 2
 trafɛrθjɔn 2
 traðoːdɔð 2
+trɑː ɛkɛk 2
 toːuɨn 2
 toːwɨp 2
 toːwards 2
@@ -33725,12 +33862,14 @@ sapøtɔ 2
 sapɔnarja 2
 santɔrøm 2
 sanhɛdrɨn 2
+san steːfan 2
 samsøŋ 2
 samstaɡ 2
 salmɔnd 2
 salvɔrd 2
 salɛs 2
 saɪnsbɨːrø 2
+saɪla ɛɨbɛdɔlɛr 2
 saɪ 2
 sahbɔθ 2
 savɔnuɨr 2
@@ -33844,6 +33983,7 @@ hrɔst 2
 hrɔsɬanɛrxrɨːɡɔɡ 2
 hrɔnɑːbuɨ 2
 hrɔljaɪ 2
+hrɔdrɨ heːð 2
 hrɔdva 2
 hroːðʊn 2
 hroːðʊx 2
@@ -33953,6 +34093,7 @@ prʌdɛrav 2
 prʌdaɨ 2
 prɨːbɔp 2
 prɔtɛstjɔ 2
+proːʃɛkt ər 2
 proːvɨŋ 2
 prɔms 2
 proːvʊx 2
@@ -34014,6 +34155,7 @@ plasmaʊr 2
 plɑːsəkɔɨd 2
 plɑːskrɨːɡ 2
 plannuɨd 2
+planɛt sɔlar 2
 plɑː 2
 pɨtɨ 2
 piːrɨ 2
@@ -34106,6 +34248,7 @@ pɛçɑːdør 2
 pɛbr 2
 pɛblɨɡ 2
 peːbɨn 2
+pɑːø pal 2
 pɑːø 2
 patrɔl 2
 patjɔs 2
@@ -34145,6 +34288,7 @@ puɨ 2
 pʊnʊ 2
 pʊk 2
 pɨːr 2
+piː tɨː biː 2
 prʌsɛ 2
 prʌdlɔn 2
 prɨːd 2
@@ -34180,6 +34324,7 @@ piːuː 2
 oːð 2
 ɔmarah 2
 ɔɪçɛ 2
+oːa əɨr 2
 oːʊn 2
 ɔɨtɛr 2
 ɔɨtdɔr 2
@@ -34268,6 +34413,7 @@ nɨkɔlas 2
 nɨkɔla 2
 nɨkɨ 2
 nɨçɔlas 2
+nɨk dɑːvɨs 2
 niːn 2
 nhʌstjɔlɑɨθ 2
 nhømbl 2
@@ -34344,6 +34490,7 @@ nɑːda 2
 nɑːxt 2
 nɑːbɔd 2
 nɑːsɔn 2
+na ptan 2
 nʌrsøs 2
 nuː 2
 noːdɛr 2
@@ -34426,6 +34573,7 @@ moːð 2
 ɛmɛmɛm 2
 mlʌnɛð 2
 mlɑɨn 2
+mjɑː əɨr 2
 mɨshɔ 2
 mɨnfɔrð 2
 miːnɛs 2
@@ -34476,9 +34624,12 @@ mɛdraɪ 2
 meːdɨr 2
 mɛdəɪna 2
 mɛðʌɡɑɨθ 2
+meːd rɨːs 2
 meːd 2
 mɛksɨkanaɪð 2
 mɛkanʌðɔl 2
+ɛmɛk dɔnalds 2
+ɛmɛk baɪn 2
 mɑːθ 2
 mɑːn 2
 maʊrʌɡwən 2
@@ -34736,6 +34887,7 @@ luː 2
 lɔt 2
 lɔl 2
 ɬeːn 2
+ɛl løvr 2
 ɬʌɡad 2
 ɬʌvrɡɛɬ 2
 ɬuɨvan 2
@@ -34782,6 +34934,7 @@ iːslɨuøð 2
 iːsɡadəɪrøð 2
 iːrɨsh 2
 ɨpsɔs 2
+jɔlɔ ɡwaɪθ 2
 jɔlɔn 2
 ɨnvɔrmatjɔn 2
 ɨndɔneːʃa 2
@@ -34844,6 +34997,7 @@ hɨːnɔ 2
 hønanduɨɬɔ 2
 hɨːnanðarpar 2
 hømbɛr 2
+hɨːf poːaɪð 2
 hɨːbɛrt 2
 hoːward 2
 hɔɨstɔn 2
@@ -34928,6 +35082,7 @@ halv 2
 haɪrsprɑːø 2
 haɪd 2
 hahaha 2
+hɑːvan ə 2
 hakleːduɨr 2
 hʌsbʌseːbʊx 2
 hɨːn 2
@@ -34947,6 +35102,7 @@ haɬɔ 2
 ɡɑːrpɛnvrɔ 2
 ɡʌsɛɡreːdɨɡ 2
 ɡʌruɨr 2
+ɡʌrvɑːɔl kʌsʌɬtʊx 2
 ɡʌnøɬəɪdva 2
 ɡʌnnar 2
 ɡʌnharax 2
@@ -35006,6 +35162,7 @@ haɬɔ 2
 ɡwrandaʊɛnt 2
 ɡwrandaʊaɪ 2
 ɡwrɑːɡɛð 2
+ɡwɔbraɨ klɨk 2
 ɡwənɑːɨ 2
 ɡwənəɨθøm 2
 ɡwənaʊn 2
@@ -35047,6 +35204,7 @@ haɬɔ 2
 ɡwɛɬjant 2
 ɡwɛɬar 2
 ɡwɛleːdøð 2
+ɡwɛlɛdiːɡɑɨθ droːs 2
 ɡwɛlav 2
 ɡwəɪθreːdɨr 2
 ɡwəɪθreːdaɪ 2
@@ -35130,6 +35288,7 @@ haɬɔ 2
 ɡɔrxøð 2
 ɡɔraɨr 2
 ɡɔsbɛrrø 2
+ɡoːɡlɛ dɔks 2
 ɡɔnɛst 2
 ɡɔmɪunøð 2
 ɡɔmɨʃʌnuɨr 2
@@ -35166,6 +35325,7 @@ haɬɔ 2
 ɡlɔk 2
 ɡlɨniːɡɔl 2
 ɡlɛnwɛn 2
+ɡlaʊ liːv 2
 ɡlastɔnbɨːrø 2
 ɡlasdɨr 2
 ɡlarax 2
@@ -35373,6 +35533,7 @@ farmʊr 2
 fansɨ 2
 favrjɔr 2
 faktɔr 2
+ɛvɛv ɛrhɑː ə 2
 veːm 2
 veʊnvɨːduɨr 2
 vɛθɔdɨstaɪð 2
@@ -35384,6 +35545,7 @@ vɛløs 2
 vɛløn 2
 vɛlɨnhɛlɨ 2
 vɛlɨŋanɔl 2
+vɛlhʌnʌdɨueːdør arɡluɨð ðɨu 2
 vɛlɛn 2
 vəɪstr 2
 vəɪnøl 2
@@ -35429,6 +35591,7 @@ vlɔɨð 2
 vɨt 2
 viːva 2
 vɨdeːɔ 2
+ɛv vɨːɡ 2
 førvlɛn 2
 fɨːɡ 2
 fɔn 2
@@ -35491,6 +35654,7 @@ eːθnɨɡ 2
 ɛna 2
 ɛmøn 2
 ɛmmɛt 2
+ɛmløn ɨux kɨːx 2
 ɛlaɪ 2
 ɛlʊn 2
 ɛløsɛnnaɨn 2
@@ -35565,6 +35729,7 @@ eːsa 2
 ɛɡluɨs 2
 ɛɡkɬ 2
 eːɡ 2
+ɛ vʊlɛtɨn 2
 eːvɔ 2
 ɛvaɬaɪ 2
 ɛdrʌxʊn 2
@@ -35691,6 +35856,7 @@ dɔks 2
 dɪuʌɡjɔr 2
 dɪuʌɡjɑːdaɨ 2
 dɪueːðɨ 2
+dɪuɛðarav neʊʌðjɔn 2
 dɪualɨ 2
 dɨstraktɔr 2
 dɨsnəɪland 2
@@ -35960,6 +36126,7 @@ kønviːlʊr 2
 kʌmʌlɔɡ 2
 kʌmʌlaɨ 2
 kʌmøn 2
+kʌmrɨːa ɛɨbɛdɔlɛr 2
 kʌmrøhrøn 2
 kʌmrøɬʌdaʊ 2
 kʌmrøkɨːba 2
@@ -36040,6 +36207,7 @@ kɨːdlʌnøð 2
 kʌxuɨnɔð 2
 kʌxuɨnnaɪs 2
 kʌbɛrmɛn 2
+kɨː iːɡ 2
 kuɨna 2
 kʊtsh 2
 kʊplɛd 2
@@ -36382,6 +36550,7 @@ kadəɪrlan 2
 kadəɪrjɔ 2
 kadbɛn 2
 kadarnhaʊød 2
+kadarnhaɔla ɛɨbɛdɔlɛr 2
 kadarnhɑːɔð 2
 kadarnha 2
 kakʊn 2
@@ -36413,6 +36582,7 @@ kʌvʌŋø 2
 kʌvrʌŋaɨ 2
 kʌvrʊŋ 2
 ɛktɨɛrɛl 2
+ɛk ɛrhɑː a 2
 krɔnva 2
 krɔɨs 2
 kreːftaɨ 2
@@ -36428,6 +36598,8 @@ koːvɪux 2
 klɨux 2
 klʌstʌraɨ 2
 klʌbjaɨ 2
+kliː kuɨr 2
+ɛkɛlɨ kɪux 2
 klɨkɪux 2
 klaʌtɔn 2
 kɪudɔd 2
@@ -36447,6 +36619,7 @@ kɛrðɔrɔl 2
 kɛmɛtɛrø 2
 kɛvnoːɡɨ 2
 ɛkdiːzz 2
+ɛk daɨ 2
 ɛkɛkhɑː 2
 kastɛɬ 2
 kast 2
@@ -36582,6 +36755,7 @@ bɔstɛr 2
 boːsɨb 2
 bɔrɨs 2
 bɔreːaɨ 2
+bɔrɛ ɡwasanɑɨθ 2
 bɔpjar 2
 boːtkamp 2
 bɔnʊs 2
@@ -36795,6 +36969,7 @@ arwəɪnløv 2
 arwəɪnja 2
 arøndhatɨ 2
 artɨstɨɡ 2
+artanɨs saralɔndɛ 2
 arɔn 2
 arɔlʌɡøð 2
 arɔlʌɡø 2
@@ -36822,6 +36997,7 @@ arɛstjɔ 2
 ardʌstjeːdɨɡ 2
 arðaŋɔsvan 2
 arxiːvɔ 2
+arxɨv bɨuød 2
 arxɛɔleːɡɔl 2
 arxɛɔlɛɡ 2
 arbɛnɨɡwr 2
@@ -36900,6 +37076,7 @@ aɬwɛð 2
 aɬɔraɨ 2
 aɬvɨːdɔ 2
 aɬdaɪθ 2
+aɬa ɑː 2
 aɬɑːɨ 2
 aɬɛ 2
 alɪumiːnɪum 2
@@ -36928,6 +37105,7 @@ avalaɨ 2
 ɑɨθaɪn 2
 ɑɨθaɪɨ 2
 ɑɨluɨn 2
+ɑɨloːdaɨ datblʌɡjad 2
 ɑːdwaɪθ 2
 adroːðʊx 2
 adra 2
@@ -36971,6 +37149,7 @@ abɛrpɔrθ 2
 abɛrpɛrɡʊm 2
 abɛrdeːsax 2
 abɛrdarɛ 2
+ɑːbɛr ɨnsiːdɛrs 2
 ɑːbɛnd 2
 abəɪa 2
 aʊr 2
@@ -37010,6 +37189,7 @@ adrɛv 2
 adnoːðaɨ 2
 adəɪlad 2
 ɑːðas 2
+a kaɨ 2
 aksɨ 2
 akkɛpt 2
 abɛrʌstuɨθ 2
@@ -37074,6 +37254,10 @@ iːs 1
 ɑːɨn 1
 aiːɨ 1
 ɑːɨr 1
+ɑː ɛɨbɛdɔl rɔɨ mɨː 1
+ɑː ɛɨbɛdɔl rɔɨ ɡwənəɨd 1
+ɑː ɛɨbɛdɔl rɔɨ anvɔnʊx 1
+ɑː ɛɨbɛdɔl rɔɨ amdanɔx 1
 ɑːam 1
 ar 1
 alaɪnn 1
@@ -37090,12 +37274,15 @@ iːs 1
 ɑːr 1
 ər 1
 ən 1
+ə ɑː 1
 ʌø 1
+ɨu ɛr 1
 ɨuø 1
 ɨuθ 1
 ɨum 1
 ɨuɨ 1
 ɨua 1
+ɨu ɑːr 1
 ɨux 1
 ɨum 1
 ʌø 1
@@ -37137,6 +37324,8 @@ iːs 1
 ʌstɑːvɛɬwɛlø 1
 ʌstɑːvɛɬvɨu 1
 ʌstɑːvɛl 1
+ʌstɑːvɛ ɨbɛdɔl 1
+ʌstɑːvɛ hɔɨð 1
 ʌstɑɨɡaɨ 1
 ʌstadeːɡuɨr 1
 ʌstadeːɡaɨr 1
@@ -37177,6 +37366,7 @@ iːs 1
 ʌsɡuɨðɔɡ 1
 ʌsɡuɨðɔr 1
 ʌsɡøm 1
+ʌsɡøbɔla ɛɨbɛdɔlɛr 1
 ʌsɡɨːbɔð 1
 ʌsɡɨːbaɨ 1
 ʌsɡrʌθɨːraɨr 1
@@ -37709,6 +37899,7 @@ iːs 1
 ʌmadaʊɔx 1
 ʌmadaʊjɑːdaɨ 1
 ʌmɑːɨ 1
+ə mhrɔfuɨdɔljɑɨθaɨr 1
 ʌlʊx 1
 ʌɬtø 1
 ʌjɛld 1
@@ -37764,6 +37955,8 @@ iːs 1
 ʌaɪ 1
 ʌaɡrɨvɛnnø 1
 ʌabrød 1
+ə tiːr 1
+ə ɡuɨl 1
 əɬan 1
 ədɨːð 1
 uːtɨ 1
@@ -37772,6 +37965,7 @@ woːl 1
 wɨarrɛɡ 1
 wɛn 1
 wɑːɡ 1
+uɨa əɨr 1
 uɨwɔr 1
 uɨwɔð 1
 uɨwa 1
@@ -37820,6 +38014,7 @@ uɨnɛpsøθ 1
 uɨnɛprød 1
 uɨneːbuɨd 1
 uɨneːbʊn 1
+uɨnɛbɨːa ɛɨbɛdɔlɛr 1
 uɨneːbør 1
 uɨnɛbprød 1
 uɨneːbant 1
@@ -37875,6 +38070,7 @@ uɨbøm 1
 uɨbrɛnnɔɡ 1
 uɨbrɛnnaɨ 1
 uɨbrɛnaɨ 1
+uɨbɔ kɛlvʌðʌdaɨ 1
 uɨbeːdɔɡ 1
 uɨbɛd 1
 wøndɛrsxɔn 1
@@ -38119,6 +38315,7 @@ wɛstør 1
 wɛstɛrn 1
 wɛrʌrø 1
 wɛrøð 1
+wɛrθ ɑː 1
 wɛrθuɨr 1
 wɛrθʊr 1
 wɛrθøn 1
@@ -38168,12 +38365,17 @@ wɛlshmɨːsɨkkɛrðɔrjɑɨθkʌmrɑɨɡ 1
 wɛlshdrɛamɛr 1
 wɛlsaɪr 1
 wɛlɔnt 1
+wɛɬ ɑː 1
 wɛɬtøn 1
 wɛɬs 1
 wɛɬjanaɨ 1
 wɛɬax 1
 wɛɬan 1
 wɛɬɑːɨ 1
+wɛɬ ɡwɨrvɔðɔlɨ 1
+wɛɬ ɡwɨrvɔðɔlɨ hɛlpa 1
+wɛɬ ɡwɨrvɔðɔlɨ ɡwɨrvɔðɔlɨ plaɪd bɨu dɨː 1
+wɛɬ bloːɡ 1
 wɛlɨŋtɔns 1
 wɛlɛdɨɡɑɨθøs 1
 wɛlɛdɨɡɑɨθaɨ 1
@@ -38181,6 +38383,7 @@ wɛlɛdjɑːd 1
 wɛlɛr 1
 wɛldɛ 1
 wɛlbrø 1
+wɛlaɪ siː 1
 wɛlaɡʌdjɔlxʌnvaʊr 1
 wəɪɨ 1
 wəɪθrɛdɨːɨ 1
@@ -38240,6 +38443,7 @@ weːðjɛç 1
 wɛðəɪðluɨs 1
 weːðaɪ 1
 weːdaɪs 1
+wɛɑːθɛr labs 1
 wɛadeːðɔl 1
 weːɡɑːfɨ 1
 weːr 1
@@ -38386,6 +38590,7 @@ uːbɔd 1
 ɨuxdiːrɔɨð 1
 ɨuxdavløn 1
 ɨuxarbɛniːɡuɨr 1
+ɨux vaksiːnaɪð 1
 ɨuxɡʌŋraɪr 1
 ɨuxdɛçnɔlɛɡ 1
 ɨuxðəɨnʌðjaɨ 1
@@ -38400,11 +38605,13 @@ uːbɔd 1
 ørðeːdɨɡ 1
 ørðaɨ 1
 ørðweːðɨ 1
+øpa əɨr 1
 øpriːsɨŋ 1
 øpdɔ 1
 øɔmɔ 1
 ɨːɔ 1
 ɨːnr 1
+ɨːn ɑː 1
 ɨːnøð 1
 ɨːnʊn 1
 ønwaɪθakambɨːθ 1
@@ -38426,6 +38633,7 @@ uːbɔd 1
 ønɬɪu 1
 ønɬɛn 1
 ønjɔnɨr 1
+ønjɔŋʌrxɔla ɛɨbɛdɔlɛr 1
 ønjɔŋʌrxɔ 1
 ønjɔŋʌrxɛð 1
 ønjɔŋreːdɛð 1
@@ -38479,6 +38687,7 @@ uːbɔd 1
 ødvar 1
 ødva 1
 ɨːda 1
+ɨːçɔd ɑː 1
 øçluɨθɔr 1
 ɨːçlan 1
 øçɛlsəɪnʌðjɔn 1
@@ -38652,6 +38861,7 @@ tʊlø 1
 tʊɬdanstɑːr 1
 tʊlɨd 1
 twɨtør 1
+twɨttɛr kʌnɨːɬjad 1
 twɨst 1
 twɨns 1
 twɛnɑːɡɛrs 1
@@ -38672,6 +38882,7 @@ tɨːðɛn 1
 tødalɛnnø 1
 tødalɛnnaɨn 1
 tødalɛnnaɨɨ 1
+tødalɛnnaɨ ɡɔlʌɡø 1
 tødalɛnnaɨr 1
 tødalɛnaɨ 1
 tødalɛnlaʊn 1
@@ -38679,9 +38890,11 @@ tɨːçjan 1
 tɨːçaɪ 1
 tøkɛvn 1
 tøɑːø 1
+tøɑːa ɛɨbɛdɔlɛr 1
 tøɑːɡat 1
 tɨːaɡənoːl 1
 ttuɨ 1
+tstɛt hsheːf 1
 tsɨmpansɨ 1
 tsiːlɨs 1
 tʃəɪna 1
@@ -38719,6 +38932,7 @@ trøk 1
 trʌbiːnɨ 1
 truːr 1
 truɨø 1
+truɨr ɑː 1
 truɨx 1
 truɨθ 1
 truɨnɔl 1
@@ -39015,6 +39229,7 @@ tɔrɨm 1
 tɔrɨs 1
 tɔrjaɪð 1
 tɔrjaɪd 1
+tɔrjadaɨa ɛɨbɛdɔlɛr 1
 tɔrjɑːdaɨr 1
 tɔrva 1
 tɔrkʌvraɪθ 1
@@ -39109,6 +39324,7 @@ tɨrjɔɡɑɨθɔl 1
 tiːrɨŋ 1
 tɨrvɛðjanuɨr 1
 tɨrðrɑɨnjɔ 1
+tɨpøn veːɨ 1
 tɨpɨ 1
 tjɔnɔntaɪ 1
 tɨnsɛl 1
@@ -39209,6 +39425,7 @@ tiːhtrɑɨn 1
 θroːɨ 1
 θrjɨː 1
 θrɑːxtas 1
+tɨhaɛr (en)iːʊmlaʊt(cy) 1
 θrɨusøs 1
 θrʌstɔr 1
 θrʌsɔrøð 1
@@ -39563,6 +39780,7 @@ tɛlɛɡraf 1
 tɛlɛdʌðjɔn 1
 tɛleːdør 1
 tɛleːdøn 1
+tɛlɛdɨːa ɛɨbɛdɔlɛr 1
 tɛlaθreːbø 1
 təɪtlaɨr 1
 təɪθʊraɪɡ 1
@@ -39585,6 +39803,7 @@ təɪpɪux 1
 təɪpjaɨ 1
 təɪmlʌðjɔn 1
 təɪmluɨd 1
+təɪmlɔ ɑːn 1
 təɪmlɨr 1
 təɪmlɨd 1
 təɪmlɑːsɨd 1
@@ -39641,6 +39860,7 @@ tkʊvrɨɡ 1
 tɨɛkɛs 1
 tɨbɨɛk 1
 taɪr 1
+taʊa ɛɨbɛdɔlɛr 1
 taʊɛnt 1
 taʊɛlʌðjɔn 1
 taʊɛlɨ 1
@@ -39784,6 +40004,8 @@ tablɔɪd 1
 tɑːbjaɨn 1
 tabhariːnɛ 1
 tabɛrnad 1
+tiː ɛsɛn 1
+tiː xwiːljɔ 1
 tiːam 1
 ɛsøɛn 1
 sʊpɛrkʌvløm 1
@@ -39791,6 +40013,7 @@ suːp 1
 suː 1
 siː 1
 sɨn 1
+søn ɑː 1
 sʌa 1
 sɨuleːðɔl 1
 sɨuɛðɔlaɪs 1
@@ -39922,6 +40145,8 @@ suɨnhuɨrɔl 1
 suɨnaɪ 1
 suɨðʊr 1
 suɨðɔl 1
+suɨðoːɡɔl plaɪd 1
+suɨðja ɛɨbɛdɔlɛr 1
 suɨðvan 1
 suɨðar 1
 suɨððɨsɡriːvjad 1
@@ -40546,6 +40771,7 @@ sɡɔʊtjaɪd 1
 sɡoːʊt 1
 sɡɔta 1
 sɡɔrɪur 1
+sɡɔrjoːa ɛɨbɛdɔlɛr 1
 sɡɔrjɔð 1
 sɡɔr 1
 sɡɔp 1
@@ -40623,6 +40849,7 @@ sɛrɛnhrɔsɬannɛrxrɨːɡɔɡ 1
 sɛrɛnɔɡ 1
 sɛrɛnnɔɡ 1
 sɛrɛnnɨ 1
+sɛrɛn klɨk 1
 sɛrɛmɔniːa 1
 sɛrɛmɔniːaɨ 1
 sɛrɛmɔnɨn 1
@@ -40866,6 +41093,7 @@ saɪθmlʌnɛðadəɨɡaɪn 1
 saɪθdeːɡ 1
 saɪsr 1
 saɪmfɛst 1
+saɪd beːθ 1
 saɡravɛnnaɨ 1
 saɡrɑːvɛn 1
 savɔnuɨr 1
@@ -40995,6 +41223,7 @@ rʌbɨːðjaɪst 1
 rʌbøðnarʌbøð 1
 rɨːm 1
 rwɑːn 1
+ruɨ ɑːn 1
 ruɨθtraɨ 1
 ruɨstrɔr 1
 ruɨstreːdɨɡ 1
@@ -41104,6 +41333,7 @@ rɔɪø 1
 rɔɪθ 1
 rɔɪn 1
 rɔɪx 1
+rɔɪa ɛɨbɛdɔlɛr 1
 rɔɪnnt 1
 rɔɪnnaɨ 1
 roːɡ 1
@@ -41248,6 +41478,7 @@ hrʌxjɔɡ 1
 hrʌbøð 1
 hrʌbɨːðjɔr 1
 hrʌbøðjoːɨ 1
+hrʌbøðjoːa ɛɨbɛdɔlɛr 1
 hrʌbɨːðjɔð 1
 hrʌbɨːðjɔr 1
 hrʌbɨːðjɔn 1
@@ -41363,6 +41594,7 @@ hriːvɨd 1
 hriːvaɨn 1
 hriːvaɨr 1
 hrjəɨɨ 1
+hrjɛnɨ θeː 1
 hrjɛnɨəŋhʌvraɪθ 1
 hrjəɪnɨ 1
 hriːdøɬ 1
@@ -41714,7 +41946,9 @@ puː 1
 peːldrɔɨdɪur 1
 paraɡraf 1
 pʌθɔns 1
+pʌθɛvnɔs ɑː 1
 pʌstjaɨ 1
+pʌsɡʌsɔl dɨɔɛk 1
 pʌrʃaɨ 1
 pʌrsaɨ 1
 pʌŋəɪaɨ 1
@@ -41776,6 +42010,7 @@ pørɡatɔrjal 1
 pørɛdiːɡɑɨθ 1
 pørɑːɨ 1
 pøpørvɨntøs 1
+pønt ɛkatiː 1
 pønnaɨ 1
 pɨːnaɪ 1
 pɨːn 1
@@ -41812,11 +42047,13 @@ prʌnnʊx 1
 prʌnnaɪs 1
 prʌnjanaɨ 1
 prʌnjad 1
+prʌnhaʊn ɑː 1
 prʌnhaʊnjaɨ 1
 prʌnɑːsant 1
 prʌnaɨr 1
 prʌvɛrθ 1
 prʌdnø 1
+prʌda ɛɨbɛdɔlɛr 1
 prʌdøð 1
 prʌdø 1
 prʌdvɛrθjɔn 1
@@ -41839,6 +42076,7 @@ prɔtɛstjaɪn 1
 prɔtɛstjaɪ 1
 prɔtəɪn 1
 prɔtɛktjɔn 1
+prɔspɛr ɨɛs 1
 proːʃɛktd 1
 prɔʃɛktaɨr 1
 prɔʃɛktaɨn 1
@@ -42041,6 +42279,7 @@ pɔdjatrøð 1
 poːd 1
 pɔkθoːfrʊm 1
 pɔkɔ 1
+pɔkeːda ɛɨbɛdɔlɛr 1
 pɔbloːɡjað 1
 pɔblɔɡəɪðjeːdɨɡ 1
 pɔbloːɡɑɨð 1
@@ -42088,10 +42327,12 @@ plɛsɛraɨ 1
 pləɪduɨr 1
 pləɪdləɪʃʊx 1
 pləɪdləɪʃɔr 1
+pləɪdləɪʃoːa ɛɨbɛdɔlɛr 1
 pləɪdləɪʃɔl 1
 pləɪdləɪʃa 1
 pleːdø 1
 plɛdləɪsuɨr 1
+plɛdjoːa ɛɨbɛdɔlɛr 1
 pleːdjɔð 1
 pleːdjɔ 1
 plɛɑːsɛ 1
@@ -42147,6 +42388,7 @@ pɨŋpɔŋ 1
 piːnɛ 1
 pɨnkɔd 1
 pɨnkl 1
+pɨnk tɛstøn 1
 pɨnavalaɪð 1
 piːnakl 1
 piːlɨpalɔd 1
@@ -42399,6 +42641,7 @@ fɛrxɛn 1
 fɛraɪð 1
 fɛnɔl 1
 fɛntʌrø 1
+fɛntreːvɨ ɡɔlʌɡø 1
 fɛntiːrɔɨð 1
 fɛntan 1
 fɛnsʌnnɨd 1
@@ -42500,6 +42743,7 @@ pɛtjɔlata 1
 pɛθʌɡɔraɨ 1
 pɛθɔlruɨð 1
 pɛθeːø 1
+pɛθaɨa ɛɨbɛdɔlɛr 1
 pɛtalɔɡ 1
 pɛtalaɨr 1
 pɛtalaɡnəɨd 1
@@ -42564,6 +42808,7 @@ pɛrarɔɡlɨ 1
 pɛɔplɛs 1
 pɛɔplɛ 1
 pɛnuɨθnoːsøn 1
+pɛnuɨθnɔs klɨk 1
 pɛnʊsɔs 1
 pɛntʌrrɨd 1
 pɛntreːvøð 1
@@ -42846,6 +43091,7 @@ paxʌhrʌnxa 1
 pɑːbɛl 1
 pnaʊn 1
 oːʊ 1
+oːr ɑː 1
 oːnɔ 1
 oːnan 1
 oːma 1
@@ -43043,6 +43289,7 @@ oːps 1
 ɔnɔmastɨɡ 1
 ɔnnɛn 1
 ɔnliːnɛ 1
+ɔnɨ ɑː 1
 ɔnɨs 1
 ɔnjɔns 1
 ɔnɨn 1
@@ -43060,6 +43307,7 @@ oːps 1
 ɔmlɛt 1
 ɔmɛð 1
 ɔma 1
+ɔl ɑː 1
 ɔlʌnnɔl 1
 ɔlʌɡʌðɛs 1
 ɔlʌɡuɨr 1
@@ -43150,6 +43398,7 @@ oːɡ 1
 ɔvʌnnaɪ 1
 ɔvʌnɨd 1
 ɔvʌnɨ 1
+ɔvna ɛɨbɛdɔlɛr 1
 ɔvnøs 1
 ɔvnʊn 1
 ɔvnɨr 1
@@ -43285,6 +43534,7 @@ oːxrənoːxr 1
 ɔbəɪθjɔr 1
 ɔaxoːʃɔn 1
 oːak 1
+oː hɑː 1
 oːɡløstɨɡløst 1
 oːtn 1
 oːt 1
@@ -43327,6 +43577,7 @@ nʌðant 1
 nʌxøn 1
 nʌxøm 1
 nɨːx 1
+nuɨloːa ɛɨbɛdɔlɛr 1
 nuɨlɔr 1
 nuɨlɔn 1
 nuɨɬɔ 1
@@ -43392,6 +43643,7 @@ nɔdløvr 1
 nɔdiːrkøddɛstøn 1
 nɔdiːɨ 1
 noːdɨx 1
+noːdja ɛɨbɛdɔlɛr 1
 noːdjɔð 1
 noːdjɔ 1
 nɔdɨdɑːdaɨ 1
@@ -43406,6 +43658,7 @@ noːðɛnt 1
 noːðɛd 1
 noːdaɨr 1
 noːda 1
+noːd ɡɔlʌɡø 1
 noːx 1
 noːb 1
 nnɨː 1
@@ -43460,6 +43713,7 @@ niːdamɛlʊ 1
 nɨkɔla 1
 nɨkɛrs 1
 njɑɨloːdaɨr 1
+niː strɑɨɔn 1
 niːm 1
 nhoːn 1
 nhɑːn 1
@@ -43887,6 +44141,7 @@ nɛseːaɪst 1
 nɛsdɨ 1
 nɛsd 1
 neːsan 1
+nɛsɑːa ɛɨbɛdɔlɛr 1
 neːsaɪs 1
 neːsar 1
 neːsan 1
@@ -43963,6 +44218,7 @@ ndɡɔrn 1
 ɛnɛkɛs 1
 nɑːvøð 1
 naiːvdɛr 1
+nɑːa əɨr 1
 naʊdeːɡa 1
 naʊdɛɡ 1
 naʊðɔɡɔlruɨð 1
@@ -43987,6 +44243,7 @@ namaɨ 1
 naɬ 1
 naljɑːdaɨ 1
 naɪɬaɪ 1
+naɪ ɨbɛdɔl 1
 nɑːɡdøn 1
 nɑːvarn 1
 navadɛnnaɨ 1
@@ -44099,6 +44356,8 @@ møvl 1
 mʌdʌsaʊd 1
 mʌdrʌðɔl 1
 mɨːdɔlʊɡ 1
+mɨː sɔkjɛtø 1
+muɨa ɛɨbɛdɔlɛr 1
 muɨuɨd 1
 muɨtør 1
 muɨtø 1
@@ -44128,6 +44387,7 @@ muɨv 1
 muɨd 1
 muɨɑːø 1
 muɨan 1
+muɨɑːa ɛɨbɛdɔlɛr 1
 muɨar 1
 muːsɔɡ 1
 mʊslɨn 1
@@ -44252,8 +44512,10 @@ mɔnɔx 1
 mɔnɨn 1
 mɔnɨtrɔr 1
 mɔnɨtrɔn 1
+mɔnɨtroːa ɛɨbɛdɔlɛr 1
 mɔnɨtrɔr 1
 mɔnɨtɔr 1
+mɔnɛkɔnɔmɨ park 1
 mɔn 1
 mɔltɔ 1
 mɔljanø 1
@@ -44322,6 +44584,8 @@ mɨslɨv 1
 miːʃɔ 1
 mɨsɡluɨv 1
 mɨsdɛmɛanɔr 1
+miːs kʌvrannø kʌvranna 1
+miːs kʌvrannø 1
 miːrɔ 1
 mɨrəɪnɪuød 1
 mɨrəɪnjɔ 1
@@ -44454,6 +44718,7 @@ mhalaθ 1
 mhaɪnt 1
 mhɑɨntjɑːdaɨ 1
 meʊɔl 1
+meʊn ɑː 1
 meʊnwɛleːdɨɡ 1
 meʊnprjoːdas 1
 meʊnoːsɔd 1
@@ -44491,6 +44756,7 @@ meːθant 1
 meːθan 1
 meːθaɪr 1
 mɛtɛr 1
+mɛtɛɔrɔleːɡɔl nant 1
 mɛtɛɔrɔlɛɡ 1
 mɛtɛɔrɨd 1
 mɛtɛlaɨ 1
@@ -44554,6 +44820,7 @@ mɛlʌsax 1
 mɛløsxwɛrʊ 1
 mɛlʌnø 1
 mɛlʌŋɔx 1
+mɛløn tɛstøn 1
 mɛltdoːʊn 1
 mɛloːdɨɡ 1
 mɛloːdɨ 1
@@ -44642,6 +44909,7 @@ mɛðalaɪ 1
 mɛðalax 1
 meːðaɪt 1
 mɛðaɪɨ 1
+mɛðaɪa ɛɨbɛdɔlɛr 1
 mɛkɔnɪum 1
 mɛçanɛɡ 1
 meːçan 1
@@ -44738,6 +45006,7 @@ marxnadʌðjɔn 1
 markpɔst 1
 mapjɔr 1
 mapjeːdɨɡ 1
+mana ɛɨbɛdɔlɛr 1
 manʌlør 1
 manʌleːbaɨr 1
 manʌlav 1
@@ -44803,6 +45072,7 @@ mɑɨθ 1
 mɑɨnt 1
 mɑɨnhraɪd 1
 mɑɨm 1
+mɑɨ ɑː 1
 mɑɨθøn 1
 mɑɨθø 1
 mɑɨθɔð 1
@@ -44814,6 +45084,7 @@ mɑɨnɔrdø 1
 mɑɨɨr 1
 mɑɨhiː 1
 mɑɨø 1
+mɑɨn ɑː 1
 mɑɨɨ 1
 mɑɨx 1
 mɑːdɔɡ 1
@@ -44843,7 +45114,11 @@ mabɔlɡampaɪð 1
 mablɨ 1
 mabɨnoːɡaɪð 1
 mɑːm 1
+mɑː ʊr 1
 mɑːs 1
+ɛm brɨɡhtɔn 1
+ɛm baŋɡɔr 1
+ɛm bljanta 1
 ɛməuː 1
 løɔmɔ 1
 laŋst 1
@@ -44857,6 +45132,7 @@ lɨuɔdrɑɨθuɨr 1
 lɨuɔdrɑɨθʊr 1
 lɨuɔdrɑɨθɨr 1
 lɨuɔdrɑɨθaɨr 1
+lɨujɔ manʌljɔn 1
 lɨujaʊduɨr 1
 lɨu 1
 lʌθʌruɨr 1
@@ -45277,6 +45553,7 @@ loːads 1
 ɬeʊʌɡøs 1
 ɬeʊøɡ 1
 ɬeʊpart 1
+ɬeʊɛ ɛs 1
 ɬeʊaɪð 1
 ɬəɨɑːdaɪð 1
 ɬɛtør 1
@@ -45297,6 +45574,7 @@ loːads 1
 ɬeːsaɨ 1
 ɬɛɔlɨn 1
 ɬɛɔliːɨ 1
+ɬɛɔlja ɛɨbɛdɔlɛr 1
 ɬɛɔlɪuød 1
 ɬɛɔljɑːdaɨr 1
 ɬɛɔləɪðuɨr 1
@@ -45306,6 +45584,7 @@ loːads 1
 ɬɛnʌðjɑɨθiːdɔls 1
 ɬɛnwɔð 1
 ɬɛnwɨθ 1
+ɬɛnwja ɛɨbɛdɔlɛr 1
 ɬɛnwɨr 1
 ɬɛnwɨx 1
 ɬɛnwaɪs 1
@@ -45337,6 +45616,7 @@ loːads 1
 ɬeːvar 1
 ɬɛvaruɨr 1
 ɬɛvarʊr 1
+ɬɛvarø maɪr 1
 ɬɛvarar 1
 ɬɛvaraɪr 1
 ɬɛvarav 1
@@ -45388,6 +45668,7 @@ loːads 1
 ɬaʊfɔn 1
 ɬaʊvɛðʌɡɑɨθ 1
 ɬaʊɛs 1
+ɬaʊɛr ɑː 1
 ɬaʊɛrɔɨð 1
 ɬaʊɛnʌxɑːsant 1
 ɬaʊɛ 1
@@ -45424,6 +45705,7 @@ loːads 1
 ɬɑːɡaɪd 1
 ɬavɨːrjɔn 1
 ɬavɨːrjɛnt 1
+ɬavarɡanɨːa ɛɨbɛdɔlɛr 1
 ɬavarɡanø 1
 ɬɑɨθʌðjɑɨθ 1
 ɬɑɨθdø 1
@@ -45551,6 +45833,7 @@ lɛna 1
 lɛmmɨŋs 1
 ləɪθdɛr 1
 ləɪθ 1
+ləɪʃɔ ɑːr 1
 ləɪʃaɨr 1
 ləɪʃaɨn 1
 ləɪʃaɪ 1
@@ -45683,6 +45966,7 @@ laŋɨːɛs 1
 laŋøɑːɡɛs 1
 laŋɛ 1
 lanɛs 1
+landa ɛɨbɛdɔlɛr 1
 landskapɛ 1
 landmɨːsɛ 1
 landlɔrdjad 1
@@ -45744,11 +46028,14 @@ labɛlør 1
 labɛlɨr 1
 labarønθ 1
 lɑːb 1
+lɑː bɛɬa bɛl 1
 ɛldrɔɨd 1
 iːɬ 1
 ɨr 1
 jɑːr 1
 jɑːn 1
+ɨ ɑːn 1
+ɨ ɑː 1
 jʌrxɔd 1
 jʌpjaɪð 1
 jʌmɨ 1
@@ -45930,6 +46217,7 @@ jeːn 1
 ɨdjɔmaɨn 1
 ɨdɛntɨtø 1
 ɨðʌnʊ 1
+iːðønt ɑː 1
 ɨðoːø 1
 iːðɔn 1
 iːðɔm 1
@@ -45977,13 +46265,20 @@ jaxaʊdʊr 1
 jɑːxaɨr 1
 jaxataɨ 1
 jɑːxav 1
+ɨ tɨːnɛs ɨbɛdɔl 1
+ɨ tiː 1
+ɨ smoːθ 1
+ɨ ɛr 1
+ɨ ɡʊsmɛrjaɪd 1
 ɨdɔt 1
 ɨrvɛntɛr 1
+ɨr təɨlø 1
 høn 1
 hoː 1
 heːn 1
 heːl 1
 hɑːd 1
+hɑː əɪreːann 1
 hɨuɛrθ 1
 hʌtsadeːɡaɨ 1
 hʌtax 1
@@ -46059,8 +46354,10 @@ hʌnøn 1
 hʌnttø 1
 hʌnɔdruɨð 1
 hʌnoːdɨ 1
+hʌnnø ɑːn 1
 hʌnnɨu 1
 hønŋ 1
+hʌnnɑːa ɛɨbɛdɔlɛr 1
 hʌnnaɡ 1
 hʌnnan 1
 hønn 1
@@ -46128,6 +46425,7 @@ hʌvrødlɑːn 1
 hʌvɔrðjant 1
 hʌfɔrðuɨd 1
 hʌfɔrðɨn 1
+hʌfɔrðja ɛɨbɛdɔlɛr 1
 hʌfɔrðɪuød 1
 hʌfɔrðɨr 1
 hʌvɛdrɛð 1
@@ -46187,6 +46485,7 @@ hʊrs 1
 hʊpoːɨ 1
 hʊpɔð 1
 hʊpɔ 1
+hʊn ɑː 1
 hʊntʊ 1
 hʊnnø 1
 hʊnnʊr 1
@@ -46208,6 +46507,7 @@ hørdlɛ 1
 hørðaθ 1
 hørð 1
 hørbʊrkas 1
+hɨːna ɛɨbɛdɔlɛr 1
 hønsaɪn 1
 hønruɨð 1
 hɨːnɔn 1
@@ -46374,6 +46674,7 @@ hɔɡɛnɔd 1
 hɔvrɛnʌðjɔn 1
 hɔvrannɔɡ 1
 hɔvranaɪr 1
+hɔvl tiː 1
 hɔfrʌmant 1
 hoːfɔð 1
 hɔfiːø 1
@@ -46399,7 +46700,9 @@ hɔk 1
 hɔbsɛʃʌnaɨ 1
 hɔbsɛ 1
 hoːbjaɨ 1
+hoː hɑː 1
 hliːθ 1
+hjɑː əɨr 1
 hɨts 1
 hɨtman 1
 hɨtjɔr 1
@@ -46456,6 +46759,7 @@ hjɑːxav 1
 hjɑːxaɨ 1
 hiːteːç 1
 hiːtɛk 1
+hiːɡɔtɨuɛh ɑːɔɬ 1
 hɨrɛlɨ 1
 hiːr 1
 hvɨːd 1
@@ -46500,6 +46804,7 @@ hɛrɔdrɑɨθ 1
 hɛrɪuød 1
 hɛrɨtɑːɡɛ 1
 hɛrjɔn 1
+hɛrjoːa ɛɨbɛdɔlɛr 1
 hɛrjaɨr 1
 hɛrja 1
 hɛrɡar 1
@@ -46583,6 +46888,7 @@ heːɡɛr 1
 hɛɡɛmɔnɨ 1
 hɛɡɛmɔn 1
 heːɡar 1
+heːvød ɑː 1
 hɛvʌdweːdɨ 1
 hɛvraɨ 1
 hɛvoːɨ 1
@@ -46657,6 +46963,7 @@ haʊvraɪnt 1
 haʊɛn 1
 haʊdørdɔd 1
 haʊdl 1
+haʊð ɑː 1
 haʊðvød 1
 haʊðvrød 1
 haʊðamɔr 1
@@ -46769,6 +47076,7 @@ hanhrʌdɛð 1
 hanoːɡɨr 1
 hannɨɡɔnɔlruɨð 1
 hannɨvʌrrø 1
+hannɛr ɑː 1
 hannɛrl 1
 hannɛrɨr 1
 hannɛrstoːn 1
@@ -46929,6 +47237,7 @@ hakɛn 1
 habɛrθaɨ 1
 hɑːbɛrθ 1
 hɑːɨ 1
+hɑː aɔɪnɛ 1
 ɡʊn 1
 ɡɨːn 1
 ɡuːrnauːr 1
@@ -46980,6 +47289,7 @@ hɑːɨ 1
 ɡʌsʌɬtuɨd 1
 ɡʌsʌɬtør 1
 ɡʌsʌɬtɔð 1
+ɡʌsʌɬtjeːdɨɡ ɑː 1
 ɡʌsʌɬtjadaɨɨ 1
 ɡʌsʌɬtaɨ 1
 ɡʌsʌɬtaɪs 1
@@ -47046,6 +47356,7 @@ hɑːɨ 1
 ɡʌrɡljan 1
 ɡʌrvɔd 1
 ɡʌrvəɪð 1
+ɡʌrva ɑː 1
 ɡʌrðaɨ 1
 ɡʌrkʌdø 1
 ɡʌrxʊn 1
@@ -47068,6 +47379,7 @@ hɑːɨ 1
 ɡʌnɨːɬant 1
 ɡʌntøn 1
 ɡʌnteːðaɨ 1
+ɡʌntav wɛlsh 1
 ɡʌntavaneːdɨɡ 1
 ɡʌnsaɪl 1
 ɡʌnrʌxjɔlʊn 1
@@ -47096,6 +47408,7 @@ hɑːɨ 1
 ɡʌnnɨɡwən 1
 ɡʌnnəɨ 1
 ɡʌnnar 1
+ɡʌnnara ɛɨbɛdɔlɛr 1
 ɡʌnløn 1
 ɡʌnɬøn 1
 ɡʌnɬuɨnjɔ 1
@@ -47396,6 +47709,7 @@ hɑːɨ 1
 ɡʌfroːant 1
 ɡʌfroːad 1
 ɡʌfrɛdɨnɔlɨ 1
+ɡʌfrɛdiːnɔl ɡɔlʌɡø 1
 ɡʌfɔrðøsruɨð 1
 ɡʌfnjaɨr 1
 ɡʌfɛsɨːɨ 1
@@ -47408,6 +47722,7 @@ hɑːɨ 1
 ɡʌvɛrjɑːdaɨ 1
 ɡʌvɛrbʌnnø 1
 ɡʌvɛrbʌnjɔl 1
+ɡʌvɛr dɨɔɛk 1
 ɡʌvɛnʊ 1
 ɡʌvɛlʌbjɑɨθaɨ 1
 ɡʌvəɪrɨv 1
@@ -47498,6 +47813,9 @@ hɑːɨ 1
 ɡʌdbɛrθʌnas 1
 ɡʌdbɛrθnɑːsaɨ 1
 ɡʌdbɛntreːvuɨr 1
+ɡʌda ɑːr 1
+ɡʌda ɑːx 1
+ɡʌda ɑː 1
 ɡʌdaɨ 1
 ɡʌdar 1
 ɡʌdamsɛrø 1
@@ -47585,6 +47903,7 @@ hɑːɨ 1
 ɡuɨneːɡɔn 1
 ɡuɨneːbɔð 1
 ɡuɨneːbaɨ 1
+ɡuɨn tɛstøn 1
 ɡuɨmpuɨd 1
 ɡuɨmpɨθ 1
 ɡuɨmpɨ 1
@@ -47595,6 +47914,7 @@ hɑːɨ 1
 ɡuɨɬtjaɪs 1
 ɡuɨɬtjaɪ 1
 ɡuɨɬtɛð 1
+ɡuɨɬt dɨɔɛk 1
 ɡuɨɬjad 1
 ɡuɨlɨr 1
 ɡuɨljɔθ 1
@@ -47798,6 +48118,7 @@ hɑːɨ 1
 ɡwənjɑːdør 1
 ɡwənəɨθørjɑːdaɨ 1
 ɡwənəɨθɨːrjad 1
+ɡwənəɨθø biː 1
 ɡwənəɨθmn 1
 ɡwənəɨθ 1
 ɡwənəɨdiːsɛl 1
@@ -48018,6 +48339,7 @@ hɑːɨ 1
 ɡweːdaɪs 1
 ɡwɛɑːðɔð 1
 ɡweːad 1
+ɡweː hɛndrɛ 1
 ɡweːlɨujɔ 1
 ɡweːɡlɨk 1
 ɡweːɡamɛra 1
@@ -48103,6 +48425,7 @@ hɑːɨ 1
 ɡwaɪθɔr 1
 ɡwaɪθɡar 1
 ɡwaɪθaɪs 1
+ɡwaɪθ bʊlɛtɨn 1
 ɡwahoːðʊn 1
 ɡwahoːðɨr 1
 ɡwahoːðaɪd 1
@@ -48183,6 +48506,7 @@ hɑːɨ 1
 ɡøɛrrɨɬa 1
 ɡøɛrriːla 1
 ɡøɛrɨɬa 1
+ɡɨːða ɛɨbɛdɔlɛr 1
 ɡɨːðuɨr 1
 ɡɨːðlɪu 1
 ɡøðɪuød 1
@@ -48313,6 +48637,7 @@ hɑːɨ 1
 ɡrjan 1
 ɡrjɑːvɔl 1
 ɡreʊr 1
+ɡrəɨa ɛɨbɛdɔlɛr 1
 ɡrəɨlɔndɛb 1
 ɡrəɨr 1
 ɡrɛsʌnaɪ 1
@@ -48396,6 +48721,7 @@ hɑːɨ 1
 ɡrɑːx 1
 ɡrakɛr 1
 ɡrɑːbɪux 1
+ɛɡɛr hapiː 1
 ɡplɑːd 1
 ɡpval 1
 ɡoːn 1
@@ -48521,6 +48847,7 @@ hɑːɨ 1
 ɡɔrvɔleːðɔð 1
 ɡɔrvɔleːðav 1
 ɡɔrvoːdɔð 1
+ɡɔrvoːdja ɛɨbɛdɔlɛr 1
 ɡɔrvliːnɔ 1
 ɡɔrføn 1
 ɡɔrfuɨsʊx 1
@@ -48565,6 +48892,7 @@ hɑːɨ 1
 ɡɔrxmʌnnaɪst 1
 ɡɔrxmʌnɑːsaɪ 1
 ɡɔrxmʌnaɪ 1
+ɡɔrxvʌɡɨːa ɛɨbɛdɔlɛr 1
 ɡɔrxvʌɡjad 1
 ɡɔrxvʌɡant 1
 ɡɔrxvʌɡɑɨθ 1
@@ -48578,6 +48906,7 @@ hɑːɨ 1
 ɡɔrbɛrfaɪθ 1
 ɡɔraʊl 1
 ɡɔraʊɛn 1
+ɡɔraɨa ɛɨbɛdɔlɛr 1
 ɡɔraɨɨ 1
 ɡɔramlʊɡ 1
 ɡɔrad 1
@@ -48664,6 +48993,7 @@ hɑːɨ 1
 ɡɔɬnoːdaɨ 1
 ɡɔɬɨn 1
 ɡɔɬɨx 1
+ɡɔɬja ɛɨbɛdɔlɛr 1
 ɡɔɬɪuød 1
 ɡɔɬɨr 1
 ɡɔɬeʊiːnɔl 1
@@ -48687,6 +49017,7 @@ hɑːɨ 1
 ɡɔlxʊraɪɡ 1
 ɡɔlxʊx 1
 ɡɔlxɨn 1
+ɡɔlxja ɛɨbɛdɔlɛr 1
 ɡɔlxɨr 1
 ɡɔlxiːɨ 1
 ɡɔlxɛnt 1
@@ -49190,6 +49521,7 @@ hɑːɨ 1
 ɡɛmʌðɔl 1
 ɡɛms 1
 ɡɛmɛɡ 1
+ɡɛmaɨa ɛɨbɛdɔlɛr 1
 ɡɛlʌnjɑɨθø 1
 ɡɛlød 1
 ɡɛlwɨ 1
@@ -49249,6 +49581,7 @@ hɑːɨ 1
 ɡɛvnoːɡɔð 1
 ɡɛvnɔɡiːɨ 1
 ɡɛvnoːɡɨx 1
+ɡɛvnoːɡɑɨθ pɑːʃa 1
 ɡɛvŋrʊm 1
 ɡɛvnvɔrɔl 1
 ɡɛvnvɔr 1
@@ -49259,6 +49592,7 @@ hɑːɨ 1
 ɡeːfør 1
 ɡeːføx 1
 ɡeːvah 1
+ɡeːdwɨr ɡɔlʌɡø 1
 ɡeːdwɨd 1
 ɡeːdʊx 1
 ɡeːdwaɪs 1

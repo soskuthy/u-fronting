@@ -1143,6 +1143,7 @@ fɛ 138
 kɔ̃tʁɛʁ 138
 sɑ̃ 138
 pyi 138
+la- pʁɛs 138
 lɔp 138
 tə- 137
 puʁtɑ̃ 137
@@ -1736,6 +1737,7 @@ kuʁɑ̃ 92
 kɔ̃petɑ̃s 92
 kɔ̃petɑ̃s 92
 kɔmɑ̃se 92
+sɛl si 92
 apʁɔʃ 92
 mɛʁsi 92
 kɔsta 92
@@ -2477,6 +2479,7 @@ diploːm 65
 difikylte 65
 kut 65
 kuʁs 65
+sø si 65
 bjɛʁ 65
 bote 65
 avu 65
@@ -2644,6 +2647,7 @@ paʁɑ̃ 60
 neɡosjasjɔ̃ 60
 mɔ̃tʁe 60
 ɛlɛs 60
+i (en)pad(fr) 60
 fɔ̃ksjɔnɛʁ 60
 dəɔʁ 60
 kɔnɛs 60
@@ -2837,6 +2841,7 @@ mas 55
 maløʁøzmɑ̃ 55
 lɔ̃ɡ 55
 ɛ̃skʁipsjɔ̃ 55
+i fɔn 55
 ɡaʁɑ̃ti 55
 ɛkspozisjɔ̃ 55
 ɛspɛs 55
@@ -3820,6 +3825,7 @@ pʁəmjɛʁ 40
 paʁfwa 40
 maʁʃjɔn 40
 lotys 40
+lə- dʁwa 40
 ʒɛm 40
 ɡo 40
 ɡʁɑ̃d 40
@@ -3927,6 +3933,7 @@ neɑ̃mwɛ̃ 39
 dizɔ̃ 39
 diʁɛksjɔ̃ 39
 deʒe 39
+sɛl si 39
 kan 39
 kanadjɛn 39
 sevete 39
@@ -4217,6 +4224,7 @@ mɛzɔ̃blɑ̃ʃ 36
 levi 36
 ʒuʁ 36
 isi 36
+dø ʁomɛ̃ 36
 yme 36
 djɔ̃ 36
 bʁitanik 36
@@ -4752,6 +4760,7 @@ kʁwa 31
 koʁɛspɔ̃dɑ̃ 31
 kɔ̃tʁibye 31
 kɔny 31
+sɛl si 31
 kɑ̃didatyʁ 31
 baty 31
 bɛse 31
@@ -4919,6 +4928,7 @@ apʁovizjɔnmɑ̃ 30
 afiʃe 30
 advɛʁsɛʁ 30
 zon 30
+ju tyb 30
 vezina 30
 tʁɑ̃blɑ̃ 30
 tuʁism 30
@@ -4935,6 +4945,7 @@ paʁljam 30
 palɛ 30
 nuvɛlekɔs 30
 manja 30
+ləʒislativ symaʁi 30
 ləblɑ̃ 30
 lɑ̃dʁi 30
 lɑ̃sjɛ̃ 30
@@ -5625,6 +5636,7 @@ kilo 25
 ɛ̃tɛliʒɑ̃t 25
 ɛ̃stale 25
 ɛ̃dystʁi 25
+i pɔd 25
 onoʁabl 25
 ɑ̃ʃ 25
 ɡazɔ̃ 25
@@ -5727,6 +5739,7 @@ likɔʁn 25
 lazaʁidi 25
 lapwɛ̃t 25
 laɡase 25
+la- kʁɔs 25
 lœ̃ 25
 kɔstitsɛ̃ 25
 ʒuʁnalist 25
@@ -5876,6 +5889,7 @@ kɔ̃ʒedimɑ̃ 24
 kɔ̃kyʁɑ̃ 24
 klotyʁ 24
 ʃɑ̃tje 24
+sɛl la 24
 kaʁaktɛʁ 24
 kabin 24
 sɛtadiʁ 24
@@ -6183,6 +6197,7 @@ toksik 22
 totalite 22
 toleʁɑ̃s 22
 tɛʁitoʁjal 22
+te se 22
 selɛksjɔne 22
 sedyiʁ 22
 stʁyktyʁ 22
@@ -6253,6 +6268,7 @@ lɑ̃fiteaːtʁ 22
 ɛ̃dividyɛl 22
 ɛ̃dɛmnite 22
 imobilje 22
+i (en)tjuːnz(fr) 22
 abitye 22
 ʒeneʁozite 22
 ɡlis 22
@@ -6327,8 +6343,10 @@ pɛlətje 22
 pib 22
 nymeʁo 22
 mɔ̃ 22
+miste be 22
 manɔ̃ 22
 lak 22
+la- pʁɛs afɛʁ 22
 listwaʁ 22
 ɛ̃pakt 22
 ibid 22
@@ -6350,6 +6368,7 @@ buʁk 22
 budʁo 22
 bɔ̃ʒuʁ 22
 bly 22
+blak (en)bɛɹi(fr) 22
 bənwa 22
 akino 22
 alɛʁ 22
@@ -6601,6 +6620,7 @@ ibeɛm 21
 felisitasjɔ̃ 21
 fʁɛ 21
 fɛstival 21
+eko (en)buːst(fr) 21
 detʁwa 21
 depaʁtəmɑ̃ 21
 dœ̃kɑ̃ 21
@@ -6850,6 +6870,7 @@ mɑ̃ʃɛt 20
 malkɛ̃ 20
 lysi 20
 ləpaʒ 20
+lə- blɑ̃ 20
 lekip 20
 lɔm 20
 kɛnɛ 20
@@ -6893,6 +6914,7 @@ ekʁi 19
 eʃeɑ̃ 19
 ɛtvu 19
 etyd 19
+iks be 19
 televizœʁ 19
 tyʁbokɔ̃pʁɛse 19
 tʁuve 19
@@ -7153,6 +7175,7 @@ maʒɔʁ 19
 maɡɔɡ 19
 loʒisjɛl 19
 list 19
+lə- fʁɑ̃swa 19
 lɑ̃ 19
 isi 19
 ety 19
@@ -7182,6 +7205,7 @@ kɔ̃feʁɑ̃s 19
 klasmɑ̃ 19
 ʃaʁʒe 19
 ʃɑ̃ʒe 19
+sø si 19
 kaʁtɛʁ 19
 kaʁfuʁ 19
 kapital 19
@@ -7404,6 +7428,7 @@ afiʁmɑ̃ 18
 aʃalɑ̃daʒ 18
 akɔ̃pliʁ 18
 akɔ̃paɲ 18
+kaʁɑ̃t ʁomɛ̃ 18
 vilaʒ 18
 vik 18
 televizjɔ̃ 18
@@ -8072,6 +8097,7 @@ sjapʁɛ 16
 ʃwazise 16
 ʃɛʁʃe 16
 ʃɑ̃ʒʁa 16
+sø la 16
 sɑ̃tnɛʁ 16
 sɑ̃syʁ 16
 sede 16
@@ -8821,6 +8847,7 @@ lano 14
 lalyminjɔm 14
 lafiʃ 14
 ladministʁasjɔ̃ 14
+ka dubləveaʃ 14
 ʒyskisi 14
 ʒwi 14
 iʁepʁoʃabl 14
@@ -8841,6 +8868,8 @@ iʁlɑ̃dɛ 14
 idɑ̃tifje 14
 idɑ̃tifje 14
 ikɔ̃n 14
+i ky 14
+imi ɛv 14
 idʁɔelɛktʁik 14
 ɔnɛt 14
 œʁte 14
@@ -9349,6 +9378,7 @@ loɡmɑ̃tasjɔ̃ 13
 lob 13
 lɑ̃basad 13
 laksjɔ̃ 13
+lyd ɛs 13
 ʒyst 13
 ʒyil 13
 ʒwiʁ 13
@@ -10233,6 +10263,7 @@ pʁəmjɔm 12
 potɑ̃za 12
 pwatʁa 12
 plaza 12
+plɛ stasjɔ̃ 12
 plɑ̃t 12
 plɑ̃tfʁeʃɛt 12
 pɑ̃tastaʁ 12
@@ -10341,6 +10372,7 @@ klaʁifikasjɔ̃ 12
 ʃəvalje 12
 ʃaʁləbwa 12
 ʃɑ̃pjɔna 12
+sɛl si 12
 sɛl 12
 katanja 12
 kazɛ 12
@@ -10922,6 +10954,7 @@ pɔst 11
 pɔʁtlɑ̃ 11
 pɔ̃ 11
 pletɔʁ 11
+plɛ (en)bʊk(fr) 11
 pətitvale 11
 pɑ̃se 11
 paspɔʁ 11
@@ -10942,6 +10975,8 @@ nis 11
 meditɛʁane 11
 mɔ̃tbɛlo 11
 miʁabɛl 11
+mini disk 11
+meɡa (en)ʌpləʊd(fr) 11
 mazɔ̃ 11
 maʁs 11
 maʁki 11
@@ -11752,6 +11787,7 @@ lɔ̃dɔ̃ 10
 ljɔ̃ 10
 ljø 10
 libeʁo 10
+li fə- po 10
 ləklɛʁ 10
 loʁɑ̃s 10
 lɑ̃ɡlwa 10
@@ -11772,6 +11808,7 @@ kenoɡami 10
 ʒwajø 10
 ʒoze 10
 ʒɑ̃vje 10
+ʒipe mɔʁɡɑ̃ 10
 ʒetɛ 10
 ivwaʁ 10
 inytil 10
@@ -12208,6 +12245,8 @@ inapɛʁsy 9
 ɛ̃pʁɛsjɔnɑ̃t 9
 ɛ̃pɑ̃sabl 9
 ileɡalmɑ̃ 9
+i savɛsse 9
+i ɔs 9
 ipotekɛʁ 9
 idʁokaʁbyʁ 9
 onoʁe 9
@@ -12374,6 +12413,7 @@ daktivite 9
 dakɔʁde 9
 dɑ̃dʁe 9
 dafʁik 9
+dabitibi bowate 9
 selebʁite 9
 selebʁasjɔ̃ 9
 selɛbʁ 9
@@ -12544,6 +12584,7 @@ jyli 9
 jaja 9
 ɡzavje 9
 iksɡzi 9
+wi fi 9
 vaɡnɛʁ 9
 vɔivɔd 9
 vwajɔ̃ 9
@@ -12622,6 +12663,7 @@ up 9
 ɔpsjɔ̃ 9
 ɔ̃bydsman 9
 ɔ̃ 9
+nɛ̃ʒa vidəo 9
 nik 9
 nadja 9
 na 9
@@ -12635,6 +12677,8 @@ monako 9
 mobilite 9
 milɛt 9
 milɑ̃ 9
+ɛmse ʒil 9
+ɛmse kalɔm 9
 maksima 9
 mateʁjo 9
 maʁkɔv 9
@@ -12642,6 +12686,7 @@ man 9
 malwin 9
 maɡ 9
 madɔna 9
+mak olɛ 9
 ɛmpete 9
 ɛmʒe 9
 ɛmdeiks 9
@@ -12656,6 +12701,7 @@ lapɛʁjɛʁ 9
 lafɔ̃ 9
 ladusœʁ 9
 lab 9
+la- (en)hʊd(fr) 9
 leʒipt 9
 lavi 9
 løʁɔp 9
@@ -12812,6 +12858,7 @@ ekɔp 8
 ekoloʒist 8
 ekoloʒist 8
 ekoloʒi 8
+eko oto 8
 ekla 8
 eʃɑ̃tijɔ̃ 8
 ekaʁte 8
@@ -13194,6 +13241,7 @@ lɔsm 8
 lostʁali 8
 laɡʁikyltyʁ 8
 kilomɛtʁ 8
+ka dubləve 8
 ʒymle 8
 ʒw 8
 dʒɔb 8
@@ -13727,6 +13775,7 @@ syv 8
 ʁapɔʁ 8
 ʁafaɛl 8
 kaʁtje 8
+ky tvɑ̃ 8
 petʁolja 8
 pesjɔ̃vil 8
 pate 8
@@ -13777,6 +13826,8 @@ metal 8
 menaʁ 8
 medja 8
 milɛn 8
+mi spas 8
+mi (en)lɪŋk(fr) 8
 myʁ 8
 myle 8
 motœʁ 8
@@ -14511,6 +14562,8 @@ lɛ̃tɛʁmedjɛʁ 7
 lɛ̃staʁ 7
 lɛ̃fɔʁmatik 7
 lɛ̃pas 7
+li fɔn 7
+li (en)pad(fr) 7
 libʁid 7
 lymanite 7
 lymɛ̃ 7
@@ -14596,6 +14649,7 @@ ilystʁe 7
 ideoloʒik 7
 ideo 7
 idɑ̃tifjɑ̃ 7
+i (en)wɜːk(fr) 7
 ezite 7
 ebɛʁʒœʁ 7
 ipɔkʁit 7
@@ -15094,6 +15148,7 @@ tʁafik 7
 tʁadyksjɔ̃ 7
 tʁad 7
 tuʃ 7
+tuʃ (en)pad(fr) 7
 twa 7
 tɛkst 7
 tɛʁ 7
@@ -15103,6 +15158,7 @@ ta- 7
 seism 7
 sypɛʁb 7
 stɑ̃nuz 7
+staʁ ɔfis 7
 sɛ̃dona 7
 sʁi 7
 spjɛlbɛʁɡ 7
@@ -15214,6 +15270,8 @@ mɛksiko 7
 mɛte 7
 mɑ̃bʁ 7
 meɡɑ̃ 7
+ɛmse laʁɛn 7
+ɛmse kɛ 7
 movɛz 7
 matjø 7
 mase 7
@@ -15295,6 +15353,7 @@ isim 7
 idɛm 7
 id 7
 ik 7
+idʁo kebɛk 7
 ype 7
 ɔm 7
 yɡ 7
@@ -16018,6 +16077,7 @@ mat 6
 maskylɛ̃ 6
 maskaʁad 6
 maʁto 6
+maʁs eʁik 6
 maʁmit 6
 maʁʒ 6
 maʁasm 6
@@ -16487,6 +16547,7 @@ daksɛswaʁ 6
 daksɛsjɔ̃ 6
 divwaʁ 6
 dɛ̃d 6
+didʁo kebɛk 6
 dodi 6
 dalmaɲ 6
 sɛdʁ 6
@@ -16817,6 +16878,7 @@ tabu 6
 tablo 6
 ty 6
 tsa 6
+te ʁa ɛsaʃ 6
 teɛmiks 6
 teɛl 6
 tə- 6
@@ -16844,6 +16906,7 @@ subʁie 6
 sɔʁti 6
 solɑ̃ʒ 6
 sosjete 6
+snœɡ ʁid 6
 skine 6
 siʁoka 6
 sɛ̃klɛʁ 6
@@ -16990,6 +17053,7 @@ motivo 6
 motœʁ 6
 mɔ̃tana 6
 mɔ̃ɡʁɛ̃ 6
+mɔ̃ volɑ̃ 6
 moɑ̃ 6
 modifje 6
 modalite 6
@@ -17002,6 +17066,9 @@ mɛtɔ̃ 6
 mɛn 6
 mɑ̃bʁ 6
 mɛlbuʁn 6
+ɛmse kɛ̃sɛ 6
+ɛmse (en)ɡɪnti(fr) 6
+ɛmse (en)kɹɛdi(fr) 6
 matjɛʁ 6
 maskinɔ̃ʒe 6
 maʁso 6
@@ -17013,6 +17080,7 @@ maladi 6
 mamu 6
 maɡazine 6
 makʁoekonomi 6
+mak ɔsks 6
 ɛmɛʁɛnɛf 6
 mɔ̃ 6
 ɛmɛl 6
@@ -17033,6 +17101,7 @@ lɛ̃da 6
 limoʒ 6
 laza 6
 ləʃasœʁ 6
+lə- bɛl 6
 lazaʁ 6
 loʁɑ̃tid 6
 latɑ̃dʁɛs 6
@@ -17226,6 +17295,7 @@ kɔmisaʁja 6
 kɔlin 6
 kɔlaʁ 6
 kobo 6
+kle ʒese 6
 sitadɛl 6
 sisko 6
 siʁkylasjɔ̃ 6
@@ -17331,6 +17401,7 @@ akʁobat 6
 aʃte 6
 akyze 6
 abyʒa 6
+abitibi bowate 6
 otʁ 6
 atʁ 6
 aʁʒɑ̃ 6
@@ -18000,6 +18071,7 @@ nytʁitiv 5
 nytʁitif 5
 nyl 5
 ny 5
+novɑ̃bʁ (en)nɛlsən(fr) 5
 novatœʁ 5
 nuʁis 5
 notwaʁ 5
@@ -18194,6 +18266,7 @@ latp 5
 klaksɔn 5
 ʒystifje 5
 ʒymlaʒ 5
+ʒyijɛ (en)nɛlsən(fr) 5
 ʒyʒɑ̃ 5
 ʒwajøz 5
 ʒut 5
@@ -18542,6 +18615,7 @@ deʃaʁʒe 5
 desəvɑ̃t 5
 desɛʁne 5
 desɛpsjɔ̃ 5
+desɑ̃bʁ eʁik 5
 debuʁse 5
 debuʃe 5
 deblɛ 5
@@ -18934,6 +19008,7 @@ aeʁonotik 5
 azɔt 5
 ɛjɑ̃ 5
 avɛnmɑ̃ 5
+avʁil eʁik 5
 avɛʁtismɑ̃ 5
 oksiljɛʁ 5
 oʁa 5
@@ -19080,6 +19155,7 @@ vitaʁa 5
 viʁaʒ 5
 vjøkebɛk 5
 vjɛjismɑ̃ 5
+vi yʁbɛn 5
 videotʁɔ̃ 5
 vidəo 5
 vɑ̃t 5
@@ -19112,6 +19188,7 @@ tʁistɛs 5
 tʁist 5
 tʁibka 5
 tʁavi 5
+tʁɑ̃ kanada 5
 tʁɑ̃zepok 5
 tuʃ 5
 toʃiba 5
@@ -19150,6 +19227,7 @@ somali 5
 solid 5
 swaʁe 5
 sno 5
+smo kə 5
 sjɛʒ 5
 sitɔ̃ 5
 sitye 5
@@ -19196,6 +19274,7 @@ saɡneɛ̃ 5
 ʁekypeʁe 5
 ʁɛɡləmɑ̃ 5
 ʁide 5
+ʁy fʁɔ̃tnak 5
 ʁoksi 5
 ʁusijɔ̃ 5
 ʁɔ̃d 5
@@ -19224,6 +19303,7 @@ saɡneɛ̃ 5
 ʁam 5
 ʁiɛ̃ 5
 ʁɑ̃sɛɲə-mɑ̃ 5
+kebe kɔm 5
 kebɛk(en)wɪndsə(fr) 5
 kebɛkɔ̃taʁjo 5
 kikɔ̃k 5
@@ -19346,9 +19426,12 @@ mɑ̃doza 5
 məm 5
 məlɑ̃ktɔ̃ 5
 mədisin 5
+ɛmse ilʁwa 5
+ɛmse ʒini 5
 mɛʁ 5
 maks 5
 modɛme 5
+mastœʁ kaʁ 5
 maʁsɛj 5
 maʁʃ 5
 maʁɔk 5
@@ -19363,6 +19446,7 @@ malɛzi 5
 manjɔta 5
 mad 5
 maʃin 5
+mak (en)bʊk(fr) 5
 ɛmiks 5
 ɛmdubləve 5
 ɛmteɛl 5
@@ -19407,6 +19491,7 @@ lafɔ̃tɛn 5
 lakbopɔʁ 5
 laboʁatwaʁ 5
 lpɡa 5
+li fə- po 5
 ɛlʒe 5
 lazaʁ 5
 lapi 5
@@ -19628,6 +19713,7 @@ kɔmynike 5
 kɔmfɔʁ 5
 komaʁtɛ̃ 5
 kolœ̃bja 5
+kolɔ̃bi bʁitanik 5
 kolɔɲ 5
 kobalt 5
 klik 5
@@ -19645,6 +19731,7 @@ kʁom 5
 ʃof 5
 ʃas 5
 ʃɑ̃tje 5
+sɛʁvaʁiks ɛmse 5
 sɑ̃tʁ 5
 sɛl 5
 katɛʁam 5
@@ -19669,6 +19756,7 @@ kɑ̃panɔzzi 5
 kamij 5
 kaktys 5
 seteɛs 5
+se səʁi 5
 seɛsɛste 5
 kpa 5
 kɔ̃petɑ̃s 5
@@ -19841,6 +19929,7 @@ ebʁiete 4
 əaksɑ̃tɛɡy 4
 aːn 4
 aːm 4
+etaz yni 4
 eʁozjɔ̃ 4
 epu 4
 epifani 4
@@ -20704,12 +20793,14 @@ opys 4
 ɔpsjɔnɛl 4
 ɔpt 4
 opɔsɔm 4
+ɔpkʁonikœʁ sɛksjɔ̃ 4
 oneʁø 4
 ɔmnipʁezɑ̃ 4
 wazlɛ 4
 onjɔ̃ 4
 ɔfis 4
 okylofaʁɛ̃ʒe 4
+ɔktɔbʁ eʁik 4
 ɔkypɛ 4
 ɔksidɑ̃to 4
 ɔbtjɛn 4
@@ -20728,10 +20819,17 @@ nytʁisjɔ̃ 4
 nymeʁizasjɔ̃ 4
 nyiz 4
 nwaje 4
+novɑ̃bʁ eʁik 4
+nu kɔ̃takte 4
 nuʁisɑ̃ 4
 nuʁi 4
+notʁ vizjɔ̃ 4
 notifje 4
 nɔstalʒik 4
+no ʁəsuʁs 4
+no ministɛʁ 4
+no kylt 4
+no kʁwajɑ̃s 4
 nɔʁdik 4
 nɔ̃sɑ̃s 4
 nɔmɛ 4
@@ -21013,6 +21111,7 @@ laktʁis 4
 laksjɔnɛʁ 4
 lasjeʁi 4
 labɛsmɑ̃ 4
+lyd ɛm 4
 lypak 4
 lopɛp 4
 liʁlɑ̃d 4
@@ -21039,6 +21138,7 @@ kamikaz 4
 ʒyʁist 4
 ʒyʁ 4
 ʒymle 4
+ʒyɛ̃ eʁik 4
 ʒyʒɛ 4
 ʒwajo 4
 ʒoʒo 4
@@ -21179,6 +21279,10 @@ idealmɑ̃ 4
 idjo 4
 idjɔt 4
 isimɛm 4
+i fon 4
+i (en)padz(fr) 4
+i mak 4
+i (en)bʊks(fr) 4
 eʁitje 4
 ipotekɛʁ 4
 ipotɛk 4
@@ -21462,6 +21566,7 @@ ekip 4
 efɔ̃dʁəmɑ̃ 4
 efisjɑ̃s 4
 efase 4
+ə asist 4
 ətʁɔ̃ 4
 devwal 4
 devje 4
@@ -21639,6 +21744,7 @@ dɑ̃se 4
 danwaz 4
 dame 4
 da 4
+de be 4
 dekipmɑ̃ 4
 dekilibʁ 4
 delit 4
@@ -21662,6 +21768,7 @@ dɛ̃site 4
 dɛ̃pʁime 4
 dɛ̃pɔʁtɑ̃ 4
 dimaʒine 4
+di fɔn 4
 dopital 4
 dabitɑ̃ 4
 dɛkspozisjɔ̃ 4
@@ -21933,6 +22040,7 @@ səʁiz 4
 sɑ̃tʁɡoʃ 4
 sɑ̃tʁalize 4
 sɛn 4
+sɛl la 4
 kosjɔ̃ 4
 kozɑ̃ 4
 kateɡoʁikmɑ̃ 4
@@ -21975,6 +22083,7 @@ kalkyle 4
 kafein 4
 kafujaʒ 4
 kabanɔ̃ 4
+se vɑ̃dy 4
 bɛtiz 4
 bekij 4
 benefisiʁɛ 4
@@ -22354,6 +22463,7 @@ vepe 4
 vɔl 4
 veɛlbe 4
 viʁys 4
+vi aj pi 4
 ytilize 4
 yʁyɡuɛ 4
 yniks 4
@@ -22380,6 +22490,7 @@ tʁyk 4
 tʁu 4
 tʁwa 4
 tʁ 4
+tʁɑ̃z enɛʁʒi 4
 tʁɑ̃sfɔʁme 4
 tʁɑ̃skɔ̃tinɑ̃tal 4
 tʁaj 4
@@ -22479,6 +22590,7 @@ səʁɛtil 4
 səkwaa 4
 sɑ̃bltil 4
 sɛfne 4
+səkyʁ kɛ 4
 səkʁetɛʁ 4
 skleʁɔz 4
 ʃmits 4
@@ -22548,6 +22660,7 @@ sata 4
 ʁodʁiɡ 4
 ʁosina 4
 ʁoʃɛste 4
+ʁobɛʁ akim 4
 ʁiviʁa 4
 ʁimak 4
 ʁifl 4
@@ -22693,6 +22806,7 @@ pɑ̃tɔn 4
 panamʁikana 4
 paʒ 4
 pakœʁ 4
+pak alaʁm 4
 pak 4
 pasmɑ̃ 4
 pepese 4
@@ -22739,6 +22853,7 @@ ne 4
 nɛkst 4
 nɛstle 4
 nɛʒ 4
+nə- ikste 4
 naviʁ 4
 notily 4
 napl 4
@@ -22753,6 +22868,7 @@ metʁopolitɛn 4
 meɡɑ̃tik 4
 mefjevu 4
 medəsin 4
+my mat 4
 myskoka 4
 myskl 4
 mylʁonɛ 4
@@ -22820,6 +22936,9 @@ maɡazinaʒ 4
 mafja 4
 madlɛn 4
 masʁola 4
+mak ɔs 4
+mak kinɔ̃ 4
+mak kɛ 4
 maaks 4
 ɛmdubləveaʃ 4
 ɛmɛʁɛn 4
@@ -22880,6 +22999,7 @@ lafʁɑ̃s 4
 laʃapɛl 4
 labɛʁnwa 4
 lab 4
+la- foʁɛst 4
 ɛliks 4
 ɛlte 4
 lo 4
@@ -22982,6 +23102,7 @@ imɛʁsjɔ̃ 4
 imaʒin 4
 imaʒ 4
 ideal 4
+katʁ ʁomɛ̃ 4
 izo 4
 ji 4
 opital 4
@@ -23036,6 +23157,7 @@ ymɛ̃ 4
 ɡɔʁmlɛ 4
 ɡɔʁ 4
 ɡɔʁdɔ̃ 4
+ɡo ɔm 4
 ɡlob 4
 ʒiʁaʁdvil 4
 ʒjɑ̃ 4
@@ -23077,6 +23199,7 @@ fʁədəʁik 4
 fʁɛjœʁ 4
 fʁɑ̃klɛ̃ 4
 fʁɑ̃kwa 4
+fʁɑ̃ko foli 4
 fʁɑ̃kɛ 4
 fɔkskɔn 4
 fuʁnisœʁ 4
@@ -23104,7 +23227,9 @@ fabyløz 4
 fɔʁ 4
 fɛstidʁaɡ 4
 fabyløz 4
+ɛkstʁəm kɔ̃takt 4
 ɛkspdisjɔ̃ 4
+ɛɡzo pese 4
 ɛksɛ 4
 ɛkskyz 4
 ɛksɛlɑ̃s 4
@@ -23168,12 +23293,14 @@ diploːm 4
 djødɔne 4
 djəɡo 4
 dik 4
+di fʁɑ̃ko 4
 dəvʁɛʒ 4
 dəvo 4
 dəvɛ̃ko 4
 dəvlɔpm 4
 døʁiv 4
 dəsʁozje 4
+de- ʁoʃe 4
 dɛʁnjɛʁ 4
 dɛʁmapyʁ 4
 dɛʁ 4
@@ -23182,6 +23309,7 @@ dənizpɛlətje 4
 dəɔʁ 4
 datsjyk 4
 dal 4
+dɛ̃le kʁisle 4
 dɛɡl 4
 dedubləve 4
 dʁwa 4
@@ -23332,6 +23460,7 @@ bɔno 4
 bɔ̃be 4
 bɔloʁe 4
 bœŋ 4
+bo kɔ̃sɛpt 4
 bløɛ 4
 biʁminɡam 4
 biʁmani 4
@@ -23572,6 +23701,7 @@ zodjak 3
 zizani 3
 zɛk 3
 ja 3
+iks dʁajv 3
 wat 3
 voːtʁ 3
 vɛty 3
@@ -23982,6 +24112,7 @@ sɛʁmɑ̃ 3
 səʁevu 3
 səʁɛ̃ 3
 səʁatɛl 3
+sɛptɑ̃bʁ eʁik 3
 sɑ̃ti 3
 sɑ̃tiʁɛ 3
 sɑ̃timɑ̃tal 3
@@ -24365,6 +24496,7 @@ saba 3
 ʁakuʁsi 3
 ʁabɛse 3
 ʁabɛsmɑ̃ 3
+ɛʁ mosjɔ̃ 3
 kota 3
 kite 3
 kitʁɔ̃ 3
@@ -24799,6 +24931,7 @@ odise 3
 odjø 3
 ɔd 3
 ɔktʁwaje 3
+ɔktɔbʁ loto 3
 ɔktɛ 3
 ɔksidɑ̃tal 3
 ɔkazjɔne 3
@@ -25299,6 +25432,8 @@ kalɑ̃ʃɔe 3
 ʒyʁe 3
 ʒyʁidiksjɔ̃ 3
 ʒymle 3
+ʒyɛ̃ (en)nɛlsən(fr) 3
+ʒyijɛ eʁik 3
 ʒydisjøz 3
 ʒybile 3
 ʒipe 3
@@ -25494,6 +25629,8 @@ idɑ̃tifjɛ 3
 ikonik 3
 ajsbɛʁɡ 3
 ajsbɛʁɡ 3
+i pɔd 3
+i (en)miːv(fr) 3
 otɛs 3
 ezite 3
 ezitasjɔ̃ 3
@@ -25639,6 +25776,8 @@ a 3
 ɡaʒe 3
 ɡafe 3
 feeʁik 3
+fevʁie eʁik 3
+fevʁie (en)nɛlsən(fr) 3
 femoʁal 3
 feminist 3
 feminist 3
@@ -26027,6 +26166,7 @@ deʃiʁe 3
 deʃɛn 3
 desəvɑ̃ 3
 desɛʁne 3
+desɑ̃bʁ (en)nɛlsən(fr) 3
 desəle 3
 debute 3
 debuʁ 3
@@ -26807,6 +26947,7 @@ aeʁodinamism 3
 aeʁasjɔ̃ 3
 akse 3
 akse 3
+avʁil (en)nɛlsən(fr) 3
 avwɑ̃ 3
 avɔʁte 3
 avizɑ̃ 3
@@ -26928,6 +27069,8 @@ apaʁtəniʁ 3
 apaʁ 3
 apɛze 3
 apɛzɑ̃t 3
+ut eʁik 3
+ut (en)nɛlsən(fr) 3
 ɑ̃tisemit 3
 ɑ̃tiʒɛl 3
 ɑ̃tidepʁɛsœʁ 3
@@ -27155,12 +27298,14 @@ vʁɛmɑ̃ 3
 veɛʁ 3
 veky 3
 vwaʁ 3
+ve (en)ɛmweə(fr) 3
 veɛm 3
 veaʃɛs 3
 ytilitɛʁ 3
 ytilizatœʁ 3
 ytilizatœʁ 3
 yʁbɛ̃ 3
+yni vi 3
 ymi 3
 ylme 3
 ykʁɛn 3
@@ -27251,6 +27396,7 @@ syʁply 3
 sypeʁjœʁ 3
 sypʁime 3
 sypozɔ̃ 3
+sypɛʁ (en)bəʊl(fr) 3
 synoko 3
 sylivɑ̃ 3
 syʒɛ 3
@@ -27271,6 +27417,7 @@ spesjalist 3
 spyʁ 3
 splɑ̃dœʁ 3
 spjəʒɛl 3
+spide tɛk 3
 spide 3
 suvnɔ̃nu 3
 suministʁ 3
@@ -27349,6 +27496,7 @@ sɛ̃daviddə-falaʁdo 3
 sɛ̃bonifas 3
 sɛ̃oɡystɛ̃ 3
 saɡneɛn 3
+saɡnɛ laksɛ̃ʒɑ̃ 3
 saɡnɛlaksɛ̃ʒɑ̃ 3
 saɡɔlʒ 3
 sadam 3
@@ -27381,6 +27529,7 @@ samyze 3
 ʁezidɑ̃s 3
 ʁezɛʁvwaʁ 3
 ʁezɛʁvasjɔ̃ 3
+ʁezo iky 3
 ʁepʁɛsjɔ̃ 3
 ʁeplik 3
 ʁeɡle 3
@@ -27510,6 +27659,7 @@ pʁɔɡʁamasjɔ̃ 3
 pʁofilaʒ 3
 pʁodykt 3
 pʁoʃɛn 3
+pʁo kozɔm 3
 pʁoɛʁɛmka 3
 pʁɛ̃sipalmɑ̃ 3
 pʁɛ̃sipal 3
@@ -27616,6 +27766,7 @@ oze 3
 opeʁasjɔ̃ 3
 opɑ̃stɛp 3
 ɔ̃z 3
+ɔ̃ staʁ 3
 ɔmni 3
 oɛjɔ̃ 3
 oɡœ̃ki 3
@@ -27690,6 +27841,7 @@ meʃɑ̃t 3
 mɛm 3
 milɛn 3
 mjɑ̃maʁ 3
+mi fɔʁ tuʃ 3
 mwajɛ̃ 3
 mulɛ̃ 3
 motɔʁspɔʁ 3
@@ -27708,6 +27860,7 @@ mɔ̃də-la- 3
 mɔ̃loʁje 3
 mɔ̃du 3
 mɔ̃du 3
+mɔ̃ sik 3
 momo 3
 momɑ̃ 3
 mɔm 3
@@ -27751,6 +27904,16 @@ mɑ̃fʁemaɡɔɡ 3
 mɛjœʁ 3
 meɡa 3
 məbaʁak 3
+ɛmse (en)swiːn(fr) 3
+ɛmse (en)kwiːn(fr) 3
+ɛmse (en)kwiəɹi(fr) 3
+ɛmse moʁi 3
+ɛmse laklɛ̃ 3
+ɛmse ʒɛ̃lɛ 3
+ɛmse kytʃəɔ̃ 3
+ɛmse kylɔʃ 3
+ɛmse (en)kɔɪ(fr) 3
+ɛmse (en)kɔːti(fr) 3
 mɛje 3
 maksim 3
 mos 3
@@ -27788,6 +27951,9 @@ majɔʃ 3
 maɡazɛ̃ 3
 masjosja 3
 maʃa 3
+mak milɑ̃ 3
+mak (en)liːn(fr) 3
+mak kɑ̃zi 3
 myzo 3
 ɛmɛsɛn 3
 ɛmɛsɛf 3
@@ -27855,6 +28021,7 @@ laksɛ̃ʃaʁl 3
 labʁ 3
 labʁadɔʁ 3
 labo 3
+la- fɛʁjɛʁ 3
 lt 3
 ɛlpebeɛn 3
 lwɛ̃ 3
@@ -27937,6 +28104,7 @@ kisfalvi 3
 kiʁɛ̃ 3
 kjɔsk 3
 kilam 3
+ki ka 3
 kadiʁa 3
 kɛnɔt 3
 kɛʁ 3
@@ -28222,6 +28390,7 @@ eky 3
 ɑ̃tʁəlaɡo 3
 ɑ̃tʁɛnmɑ̃ 3
 ɑ̃tɑ̃dʁ 3
+ɑ̃ ɡlɔb 3
 ɑ̃plwajœʁ 3
 ɑ̃plwakebɛk 3
 emɛlɛ̃ 3
@@ -28313,6 +28482,7 @@ dəlɔ̃ 3
 davo 3
 davinjɔ̃ 3
 dat 3
+data (en)ɹeɪkə(fr) 3
 daʁwinism 3
 daʁwɛ̃ 3
 daʁɛn 3
@@ -28357,6 +28527,7 @@ kʁɛm 3
 kʁizi 3
 kʁyiz 3
 kʁwajemwa 3
+kʁɔs bly 3
 kʁonɑ̃bɛʁɡ 3
 kʁoasi 3
 kʁistjano 3
@@ -28406,8 +28577,10 @@ kɔ̃tabilite 3
 kɔ̃paʁe 3
 kɔ̃paʁativmɑ̃ 3
 kɔ̃paʁɛzɔ̃ 3
+kɔ̃pakt (en)flaʃ(fr) 3
 kɔmynike 3
 kɔmɑ̃se 3
+kɔmfɔʁ (en)tɹɛd(fr) 3
 kɔ̃batɑ̃ 3
 koma 3
 kolœ̃bys 3
@@ -28459,6 +28632,7 @@ kʁistsovœʁ 3
 ʃɛʁ 3
 ʃadid 3
 ʃakyn 3
+sø la 3
 sɛʁtɛ̃ 3
 sɑ̃tʁal 3
 kɛdɛn 3
@@ -28624,6 +28798,7 @@ beɛlɛf 3
 biksi 3
 biz 3
 bjɛ̃ 3
+beɛf ɡɔodʁiʃ 3
 boku 3
 bededubləve 3
 bap 3
@@ -28635,6 +28810,7 @@ aziz 3
 avwɔ̃ 3
 avjasjɔ̃ 3
 avɑ̃ti 3
+oto ɛkspo 3
 otospɔʁ 3
 ostʁaljɛ̃ 3
 ostʁaljɑ̃ 3
@@ -28671,6 +28847,7 @@ aʁaɡɔ̃ 3
 apʁ 3
 apʁənezɑ̃ 3
 apɛlasjɔ̃ 3
+ap stɔʁ 3
 apokalips 3
 apɛlasjɔ̃ 3
 ɑ̃ 3
@@ -29735,6 +29912,8 @@ sɛʁpɑ̃ 2
 səʁɔ̃til 2
 sɛʁmɔ̃ 2
 sɛptyaʒenɛʁ 2
+sɛptɑ̃bʁ (en)nɛlsən(fr) 2
+sɛptɑ̃bʁ loto 2
 sɑ̃tɔ̃ 2
 sɑ̃tiʁɛ 2
 sɑ̃tiʁa 2
@@ -30757,6 +30936,7 @@ plat 2
 platbɑ̃d 2
 plasma 2
 plakɛt 2
+planɛt ɛ̃stabilite 2
 plɑ̃tʁe 2
 plɑ̃taʒ 2
 planifikatœʁ 2
@@ -30925,6 +31105,7 @@ paʁʒyʁ 2
 paʁite 2
 paʁfø 2
 paʁdɔne 2
+paʁk aaksɑ̃siʁkɔ̃flɛks 2
 paʁkuʁy 2
 paʁkuʁy 2
 paʁsimoni 2
@@ -31055,6 +31236,7 @@ wazlɛ 2
 ɔktʁwaje 2
 ɔktʁwaje 2
 ɔktʁwa 2
+ɔktɔbʁ (en)nɛlsən(fr) 2
 ɔktan 2
 ɔkyʁɑ̃s 2
 ɔkypʁɛ 2
@@ -31109,6 +31291,7 @@ nyiʁɛ 2
 nydite 2
 nwaje 2
 nwaje 2
+novɑ̃bʁ loto 2
 nuvone 2
 nuvone 2
 nuʁityʁ 2
@@ -31156,6 +31339,7 @@ nɛk 2
 naviʁamiʁal 2
 navɛtœʁ 2
 naval 2
+natyʁɛl pʁɛstasjɔ̃ 2
 nasjonalizasjɔ̃ 2
 nasti 2
 naʁasjɔ̃ 2
@@ -31415,6 +31599,8 @@ maskylin 2
 maʁtɛ̃ 2
 maʁsjo 2
 maʁtəlɑ̃ 2
+maʁs (en)nɛlsən(fr) 2
+maʁs lə- 2
 maʁke 2
 maʁkpaʒ 2
 maʁmɔt 2
@@ -31473,6 +31659,7 @@ mɛ̃təny 2
 mɛ̃miz 2
 majo 2
 majɔ̃ 2
+mɛ (en)nɛlsən(fr) 2
 manjezjɔm 2
 manjolja 2
 maɲifikmɑ̃ 2
@@ -31507,6 +31694,7 @@ lɛvʁa 2
 laʃepʁiz 2
 laːʃ 2
 laʃmɑ̃ 2
+laː œʁ 2
 lao 2
 lɛ̃ks 2
 lyte 2
@@ -31537,6 +31725,7 @@ lɔ̃ʒɑ̃ 2
 lwɛ̃ 2
 loʒe 2
 loʒe 2
+loʒmɑ̃ pʁɔɡʁam 2
 loʒɑ̃ 2
 lokomosjɔ̃ 2
 lɔku 2
@@ -31891,6 +32080,7 @@ kafkajɛn 2
 ʒyʁɛ 2
 ʒypɔ̃ 2
 ʒymo 2
+ʒyijɛ loto 2
 ʒyɡylɛʁ 2
 ʒyʒʁe 2
 ʒydisjøzmɑ̃ 2
@@ -32257,6 +32447,10 @@ idol 2
 idɑ̃tifikatœʁkliɑ̃ 2
 idɑ̃tifjabl 2
 ikonɔklast 2
+i (en)tjuːn(fr) 2
+i sypli 2
+i stɔʁ 2
+i mi ɛv 2
 otliɛʁ 2
 otəlje 2
 ezitʁɛ 2
@@ -32537,6 +32731,7 @@ dʒin 2
 ɡanjɛ 2
 ɡaʒʁɛ 2
 ɡadu 2
+ʒe ɔfis 2
 fyːt 2
 fɛsjɔ̃ 2
 fɛt 2
@@ -33047,6 +33242,8 @@ ekʁi 2
 ekute 2
 eko(en)buːst(fr) 2
 odə-vi 2
+ə iksʃɑ̃ʒ 2
+ə (en)wɒn(fr) 2
 əkɔmɛʁs 2
 dyː 2
 dyː 2
@@ -33268,6 +33465,7 @@ deʃiktaʒ 2
 deʃɛ 2
 deʃɛne 2
 deʃaʁʒe 2
+desɑ̃bʁ loto 2
 dekale 2
 debaːkl 2
 debʁuje 2
@@ -33299,6 +33497,7 @@ debaʁase 2
 debɑ̃dad 2
 debale 2
 de 2
+daː œʁ 2
 devede 2
 dyʁʁɔ̃ 2
 dyʁʁɛ 2
@@ -33486,6 +33685,7 @@ dəfɛt 2
 dəsɛ 2
 dɛk 2
 dəbyte 2
+də- maʁʒəʁi 2
 debe 2
 dofɛ̃ 2
 datɛ 2
@@ -33744,6 +33944,7 @@ dalibaba 2
 dalʒeʁi 2
 dalɛks 2
 dɛme 2
+dafʁik kanada 2
 daʃij 2
 daaʁɔ̃ 2
 kotesi 2
@@ -34084,8 +34285,10 @@ kɔmfɔʁ 2
 kɔ̃bləʁa 2
 kɔ̃bl 2
 kɔ̃batɔ̃ 2
+kɔ̃batɑ̃ fyneʁaj 2
 kɔ̃batɑ̃ 2
 kɔ̃batʁ 2
+kɔm skɔʁ 2
 kɔlt 2
 kolɔs 2
 kolɔs 2
@@ -34128,6 +34331,7 @@ klotyʁ 2
 klotyʁʁa 2
 klɔ̃n 2
 klemɑ̃ 2
+kle ʒese 2
 klytʃ 2
 klu 2
 klɔʁ 2
@@ -34794,6 +34998,7 @@ apati 2
 apanaʒ 2
 apɛsmɑ̃ 2
 apɛzɑ̃ 2
+ut loto 2
 aneɑ̃ti 2
 ɑ̃ksjø 2
 ɑ̃tiviʁys 2
@@ -35100,6 +35305,7 @@ zaɡʁɛb 2
 zabjɛlo 2
 zɛdɛf 2
 zə- 2
+zɛdde nɛt 2
 jylja 2
 juʁi 2
 juʁ 2
@@ -35122,6 +35328,7 @@ iksiksɛl 2
 iksdubləveɛf 2
 iksvə- 2
 ikste 2
+iks (en)pɹɛs(fr) 2
 iksɛmɛl 2
 ikslə- 2
 iksʒjɛʁɛs 2
@@ -35212,6 +35419,7 @@ vʁɛ 2
 vʁɛ 2
 vo 2
 vwa 2
+ve ilemaʁ 2
 vivɑ̃ 2
 video 2
 viktoʁjavil 2
@@ -35239,6 +35447,7 @@ yma 2
 ylis 2
 yltimat 2
 yltima 2
+yd ɛm 2
 ybœ̃dy 2
 ytilizasjɔ̃ 2
 ysk 2
@@ -35324,6 +35533,8 @@ titlɛst 2
 tiʁe 2
 tiʁɑ̃ 2
 tɛ̃bʁpɔst 2
+tɛ̃be (en)wɛst(fr) 2
+tilt ʃift 2
 tiɡʁ 2
 tid 2
 tik 2
@@ -35379,6 +35590,7 @@ tʁio 2
 tʁɑ̃blɛ 2
 tʁɛz 2
 tuʒuʁ 2
+te jim 2
 tik 2
 təsla 2
 tɑ̃ 2
@@ -35395,6 +35607,7 @@ selɛksjɔne 2
 seɑ̃s 2
 sɛʁʒjo 2
 selɛktiv 2
+sistɛm ɛmse 2
 sɛ̃kʁonɔs 2
 sɛ̃bjɔz 2
 silvjo 2
@@ -35654,6 +35867,7 @@ sim 2
 sølmɑ̃ 2
 səmɛn 2
 səkɔʁ 2
+ɛs si be 2
 ɛsseɛspe 2
 ɛssepe 2
 ska 2
@@ -35740,6 +35954,7 @@ saʒut 2
 ʁəvnɔ̃zɑ̃ 2
 ʁəvne 2
 ʁəvɑ̃dikasjɔ̃ 2
+ʁɛv staʁ 2
 ʁɛt 2
 ʁətuʁne 2
 ʁətina 2
@@ -35790,6 +36005,7 @@ saʒut 2
 ʁɛʃ 2
 ʁaf 2
 ʁadisɔ̃ 2
+ʁadjokanada mɑ̃zbʁidʒ 2
 ʁadviʃ 2
 ʁakɔ̃te 2
 ʁase 2
@@ -35801,6 +36017,7 @@ saʒut 2
 ɛʁpeɛm 2
 ʁwal 2
 ʁomanjaneʁo 2
+ɛʁʒjɛʁmak donald 2
 ɛʁʒi 2
 ʁio 2
 ʁɛ̃ 2
@@ -35830,6 +36047,7 @@ kɛ̃pɔʁt 2
 koʁjevu 2
 katɑ̃ 2
 kybe 2
+ky yebɛk 2
 kebekwaz 2
 kɛstjɔ̃ 2
 kɛstjɔnɛʁ 2
@@ -35888,10 +36106,14 @@ pʁofil 2
 pʁofɛsjɔnɛl 2
 pʁodyktif 2
 pʁosede 2
+pʁosɛ sɛ̃plifikasjɔ̃ 2
 pʁɔkʁeasjɔ̃ 2
 pʁɔʃoʁjɑ̃ 2
 pʁoʃɛn 2
 pʁoʃɛ̃ 2
+pʁo (en)dɒs(fr) 2
+pʁo kʁɔs 2
+pʁo klɛ̃b 2
 pʁivileʒje 2
 pʁivat 2
 pʁizɔ̃ 2
@@ -35914,6 +36136,7 @@ pʁ 2
 pʁatik 2
 pʁada 2
 pʁaktis 2
+pʁofɛsœʁ dɔlaʁtɛkst 2
 puvwaʁ 2
 pusjɛʁ 2
 puʁsyivʁ 2
@@ -35973,15 +36196,18 @@ pilot 2
 pjətʁovito 2
 pjətʁo 2
 pjɛʁmaksim 2
+pjɛʁlə- ɡaʁdœʁ 2
 pjɛʁfʁɑ̃swa 2
 pjɛʁs(en)aɹəʊ(fr) 2
 pjɛ̃ 2
+pinœf ʁomɛ̃ 2
 pi 2
 pikypeɛs 2
 pi 2
 fizikmɑ̃ 2
 fizjoteʁapi 2
 fotomɔ̃taʒ 2
+foto (en)ʃɒp(fr) 2
 filipin 2
 filip 2
 filjɔ̃ 2
@@ -36011,10 +36237,12 @@ pɛdnodʒobɛ̃ 2
 pedeɛf 2
 pese 2
 pɛz 2
+pɛ pal 2
 povʁ 2
 polɛt 2
 pola 2
 pɔlɑ̃dʁe 2
+po ɛlɑ̃dʁe 2
 paʁavɛn 2
 patʁisɡi 2
 patinwaʁ 2
@@ -36142,6 +36370,7 @@ neɡosjasjɔ̃ 2
 neɛʁlɑ̃dɛ 2
 nytɛla 2
 nyl 2
+nuvɛl ekɔs 2
 nwəpɛjjoː 2
 nɔʁwitʃ 2
 nɔʁmal 2
@@ -36170,6 +36399,7 @@ niku 2
 niko 2
 nikɛlfɛʁ 2
 nikɛl 2
+ni ɛmaʃ 2
 na 2
 nɡata 2
 nɛtwajaʒ 2
@@ -36228,10 +36458,13 @@ mistɛʁ 2
 myzima 2
 mystɑ̃ɡ 2
 myzisi 2
+myzik nɛt 2
 myz 2
 myzadɛk 2
 mypɛ 2
 myniʃwa 2
+mylti medja kaʁ 2
+mylti ɛʁ 2
 myɛzɛn 2
 ɛmteʁwajal 2
 ɛmɛs(en)wɜːd(fr) 2
@@ -36248,6 +36481,7 @@ motys 2
 mɔt 2
 motonɛʒ 2
 motɔkʁɔs 2
+moto ʒepe 2
 mɔʁtalite 2
 mɔʁsyʁ 2
 moʁi 2
@@ -36288,6 +36522,7 @@ modifje 2
 mobaʃe 2
 mɔb 2
 mjjaʒi 2
+miks manja 2
 mivil 2
 mitɛʁɑ̃ 2
 mitɑ̃ 2
@@ -36315,6 +36550,7 @@ mikʁo 2
 miʃɛlɑ̃ʒ 2
 miʃal 2
 mjata 2
+mi ɛv 2
 mɛje 2
 mətʁiks 2
 mətʁik 2
@@ -36335,6 +36571,13 @@ mɛlvil 2
 məlɔt 2
 məlɑ̃sɔ̃ 2
 mədisi 2
+ɛmse (en)neɪm(fr) 2
+ɛmse namaʁa 2
+ɛmse kɛna 2
+ɛmse donald 2
+ɛmse (en)dəʊnɑːɡ(fr) 2
+ɛmse kɔʁ 2
+ɛmse kaʁtnɛ 2
 ɛmse 2
 mɛtʁiz 2
 mɛtʁ 2
@@ -36410,6 +36653,7 @@ maœst 2
 maɲifik 2
 maɲə-tik 2
 maʒi 2
+maʒik ɡat 2
 maʒi 2
 maɡ 2
 maɡdlɛn 2
@@ -36418,6 +36662,11 @@ madɔʁ 2
 madaɡaskaʁ 2
 mak 2
 maʃɛ̃ 2
+mak (en)ɹaɪt(fr) 2
+mak (en)fɜːsən(fr) 2
+mak (en)kiːpə(fr) 2
+mak (en)duːɡəl(fr) 2
+mak donald 2
 mabaza 2
 ɛmvepe 2
 ɛmteve 2
@@ -36504,6 +36753,7 @@ liljana 2
 lil 2
 liɡa 2
 libjɑ̃ 2
+libʁ ɔfis 2
 ləvɛ̃sɔ̃ 2
 ləvzɔ̃ 2
 ləvɛʁ 2
@@ -36574,6 +36824,9 @@ lakmeɡɑ̃tik 2
 labɛl 2
 labat 2
 labadi 2
+la- sal 2
+la- pjɛʁ 2
+la- ɛj 2
 lyi 2
 ɛltezɛd 2
 ɛlɛnbe 2
@@ -36582,6 +36835,7 @@ lna 2
 list 2
 lipʁ 2
 liɲ 2
+li fə- po 2
 li 2
 lymk 2
 lə-zz 2
@@ -36634,6 +36888,7 @@ lɛ̃sɛst 2
 lɛ̃pʁɛsjɔ̃ 2
 lɛ̃pɔʁtɑ̃s 2
 limobilje 2
+li fɔn 2
 lotɛl 2
 lopital 2
 lidʁɔelɛktʁisite 2
@@ -36691,6 +36946,7 @@ lakseleʁatœʁ 2
 lakɔʁ 2
 laksidɑ̃ 2
 labatwaʁ 2
+lyd ɛs 2
 lɔʁdʁ 2
 lislokudʁ 2
 liʁlɑ̃dɛ 2
@@ -36753,6 +37009,7 @@ kaʁɛl 2
 kaʁaali 2
 kapy 2
 kɑ̃sas 2
+kɑ̃ be 2
 kamuʁaska 2
 ke 2
 kaiks 2
@@ -36903,6 +37160,7 @@ iɡɔʁ 2
 injoʁɑ̃ 2
 injoʁɑ̃s 2
 ikonɔɡʁafi 2
+ikɔ̃ (en)kuːl(fr) 2
 iʃji 2
 janik 2
 jakɔka 2
@@ -36911,6 +37169,7 @@ itfa 2
 isk 2
 izbn 2
 iʁɛp 2
+i fɔn 2
 ɛ̃tɛlɛktyɛl 2
 ɛ̃seʁe 2
 inokyite 2
@@ -37071,9 +37330,11 @@ azaʁ 2
 ɡɔ̃ʃaʁ 2
 ɡolybɛv 2
 ɡɔlɔɡli 2
+ɡo bak 2
 ʒeɛm 2
 ɡlɔsɛʁ 2
 ɡlime 2
+ɡlakso (en)smɪθ(fr) klin 2
 ɡlamuʁ 2
 ɡlady 2
 ɡladjys 2
@@ -37106,6 +37367,7 @@ azaʁ 2
 ɡaɛl 2
 ɡaetan 2
 ɡazɛt 2
+ɡɛ siti 2
 ɡɛ 2
 ɡatinwaz 2
 ɡatinoɔtawa 2
@@ -37128,6 +37390,7 @@ azaʁ 2
 ʒeɛsɛʁ 2
 ʒeɛspe 2
 ɡu 2
+ʒe (en)meɪl(fr) 2
 ʒif 2
 ʒeʒe 2
 ɡat 2
@@ -37165,6 +37428,7 @@ fʁadɛt 2
 fʁaksjɔnmɑ̃ 2
 fɔksboʁo 2
 fuʁyʁ 2
+fuʁnje lotœʁ 2
 fuʁkad 2
 fu 2
 fɔtoʁino 2
@@ -37178,6 +37442,7 @@ fɔʁɡ 2
 fɔʁʒɛ 2
 foʁɛɲ 2
 fɔʁsijo 2
+fɔʁ two 2
 fɔʁ 2
 fwa 2
 foko 2
@@ -37192,6 +37457,7 @@ fikse 2
 fiv 2
 fistɔ̃ 2
 fiʃe 2
+fiʁ (en)waɪə(fr) 2
 fɛ̃zi 2
 fɛ̃ 2
 fin 2
@@ -37350,6 +37616,7 @@ efʁɛ̃ 2
 ɛdwɛ̃ 2
 editɔʁ 2
 ekonomik 2
+eko tʁɛ̃ 2
 eklips 2
 ebɛ 2
 ɛksfo 2
@@ -37418,6 +37685,7 @@ dyfʁɛ̃ 2
 dyk 2
 dyka 2
 dykalm 2
+dy- pʁɔpʁio 2
 dʁœɡ 2
 dʁwataksɛ 2
 dʁaman 2
@@ -37454,6 +37722,7 @@ divɔʁs 2
 disimylasjɔ̃ 2
 dispyt 2
 dispozitif 2
+displɛ pɔʁ 2
 dispɑ̃se 2
 djɔnfɔste 2
 dɛ̃d 2
@@ -37466,6 +37735,8 @@ difeʁɑ̃ 2
 difyzjɔ̃ 2
 didimo 2
 djaɡnɔstike 2
+djaɡno kyʁ 2
+di pjətʁo 2
 dabi 2
 dɛkste 2
 dəvʁɛtɔ̃ 2
@@ -37491,6 +37762,8 @@ dəlomɛl 2
 dəʒɑ̃ 2
 dəfɔ 2
 dɛbi 2
+də- konɛ̃k 2
+də- ʒənʁ 2
 davodo 2
 davodo 2
 davɑ̃taʒ 2
@@ -37505,6 +37778,7 @@ dam 2
 dalaʁa 2
 daluzi 2
 daldʁi 2
+da kɔsta 2
 deiks 2
 dedubləveɛs 2
 dysɛp 2
@@ -37638,6 +37912,7 @@ kɔmɛʁsjal 2
 kɔmɛʁsjal 2
 kɔm 2
 kɔ̃bin 2
+kɔ̃bi spɔʁ 2
 kɔlʒ 2
 kɔlɛkt 2
 koli 2
@@ -37722,6 +37997,7 @@ səzaʁ 2
 sɑ̃tʁɛd 2
 sɛltik 2
 sɛlsizy 2
+sɛl la 2
 səlin 2
 kavalje 2
 kavalja 2
@@ -37750,6 +38026,7 @@ kanoʁa 2
 kano 2
 kantaj 2
 kanadjɛ̃mapl 2
+kanada etazyni 2
 kanadapanama 2
 kanadaʒɔʁdani 2
 kɑ̃pobɛlo 2
@@ -37908,6 +38185,10 @@ bwafʁɑ̃ 2
 bodo 2
 bobino 2
 blyɛsfɛst 2
+bly tɛk 2
+bly spɔʁ 2
+bly ʁɛ 2
+bly pʁint 2
 bloɡœʁ 2
 blokys 2
 blɛse 2
@@ -38020,6 +38301,7 @@ bɑ̃k 2
 balsak 2
 ajø 2
 aeʁopɔʁ 2
+aeʁo mɔ̃ʁeal 2
 azzi 2
 azysna 2
 azaʁ 2
@@ -38093,6 +38375,7 @@ aʁʃe 2
 aʁʃinyi 2
 aʁboʁɑ̃ 2
 aʁɑ̃da 2
+aʁ o ma- 2
 akwakyltyʁ 2
 akwaseʁɔm 2
 apyije 2
@@ -38299,6 +38582,7 @@ evaʃe 1
 etaː 1
 etydiʁɔ̃ 1
 etydjɑ̃zatlɛt 1
+etydjɑ̃ medəsɛ̃ 1
 etydjɛ 1
 etʁwatɛs 1
 etʁijɑ̃ 1
@@ -38312,6 +38596,7 @@ etuʁdisɑ̃t 1
 etufe 1
 etufɑ̃t 1
 etɔnɑ̃ 1
+etɔnɑ̃t la- 1
 etwale 1
 etwale 1
 etɔfe 1
@@ -38381,6 +38666,7 @@ ekivodʁa 1
 ekivalɑ̃s 1
 ekivalɑ̃ 1
 ekivalɛ 1
+ekitabl aʁboʁɑ̃ 1
 ekipe 1
 ekipmɑ̃ 1
 ekipje 1
@@ -38639,6 +38925,8 @@ ekonomizʁɛ 1
 ekonomiz 1
 ekonomizatœʁ 1
 ekonomizɛ 1
+ekonomik də- 1
+ekonomi finɑ̃smɑ̃ 1
 ekolovəɡɑ̃adɛptdə-joɡa 1
 ekoloʒizasjɔ̃ 1
 ekolosedyksjɔ̃ 1
@@ -38727,6 +39015,7 @@ aaksɑ̃siʁkɔ̃flɛks 1
 at 1
 aki 1
 apʁevwaʁ 1
+a la- 1
 adiʁ 1
 akote 1
 aku 1
@@ -38735,6 +39024,7 @@ ildy-pʁɛ̃sedwaʁ 1
 ildypʁɛ̃sedwaʁ 1
 iaksɑ̃siʁkɔ̃flɛks 1
 ɛtʁ 1
+evenmɑ̃ (en)nɛlsən(fr) 1
 evolysjɔnism 1
 evolyɔ̃ 1
 evit 1
@@ -38745,6 +39035,7 @@ evadevu 1
 evakyasjɔ̃ 1
 evasənekal 1
 ete 1
+etydjɑ̃ ɛd 1
 etufe 1
 etɔne 1
 etɔnmɑ̃ 1
@@ -38756,6 +39047,7 @@ etikɛt 1
 etɛ̃dʁ 1
 etazyni 1
 etatyni 1
+eta aɡʁikyltyʁ 1
 etɑ̃ʃeite 1
 etɛtɛl 1
 etɛ 1
@@ -38908,6 +39200,7 @@ itɛʁbjɔm 1
 juʁ 1
 juno 1
 jumɑ̃ 1
+ju tyb 1
 joɡuʁt 1
 ɛ̃pik 1
 jauʁtjɛʁ 1
@@ -38921,6 +39214,7 @@ ikste 1
 iksspɛktakl 1
 ikskyz 1
 ikssɛsiv 1
+iks de 1
 wuf 1
 wiː 1
 wbo 1
@@ -38955,6 +39249,7 @@ vʁumvʁum 1
 vʁɛsɑ̃blabl 1
 vʁɛmɛ 1
 vʁak 1
+vʁak (en)nɛlsən(fr) 1
 vpwajevu 1
 vute 1
 vwajœʁ 1
@@ -39241,6 +39536,7 @@ valoʁiz 1
 valoʁizɑ̃ 1
 vale 1
 valɔne 1
+validasjɔ̃ se 1
 valøʁø 1
 valøʁøz 1
 valɑ̃tɛ̃ 1
@@ -39309,6 +39605,7 @@ ynivɛʁsal 1
 ynitɛʁ 1
 yni 1
 ynisɑ̃ 1
+ynik se 1
 ynilɛ̃ɡ 1
 ynilateʁalmɑ̃ 1
 ynilateʁal 1
@@ -39631,6 +39928,8 @@ tʁɑ̃zisjɔ̃ 1
 tʁɑ̃zite 1
 tʁɑ̃ziʒe 1
 tʁɑ̃ziʒe 1
+tʁɑ̃zʒenik ʁeɡləmɑ̃tasjɔ̃ 1
+tʁɑ̃zʒenik kɔ̃sekɑ̃s 1
 tʁɑ̃zɡʁɛsif 1
 tʁɑ̃zɡʁɛs 1
 tʁɑ̃sfeʁjɔ̃ 1
@@ -39652,6 +39951,7 @@ tʁɑ̃sɑ̃dɑ̃ 1
 tʁɑ̃sɑ̃dɑ̃t 1
 tʁɑ̃zaksjɔnɛl 1
 tʁɑ̃kilize 1
+tʁɑ̃kil ʒə- 1
 tʁɑ̃fyʒ 1
 tʁɑ̃ʃœʁ 1
 tʁɑ̃ʃ 1
@@ -39921,6 +40221,7 @@ tɑ̃dɔ̃ 1
 tɑ̃dɑ̃sjø 1
 tɑ̃dɑ̃sjøz 1
 tənɛ 1
+tɑ̃pɛtz oʒuʁ 1
 tɑ̃peʁe 1
 tɑ̃peʁamɑ̃ 1
 tɑ̃zɑ̃tɑ̃ 1
@@ -39945,6 +40246,7 @@ telekbɛk 1
 telefon 1
 telemɑ̃ 1
 teleʃaʁʒ 1
+tele vɔks 1
 tele 1
 tɛlkɛl 1
 tɛʃonoloʒi 1
@@ -39957,6 +40259,7 @@ tɛknɔbsede 1
 tɛknoliteʁɛʁ 1
 tɛknofan 1
 tɛknobole 1
+tɛknikz otʁ vœje 1
 tɛknikosjɑ̃tifik 1
 tɛknisjɛn 1
 tɛknisjɛn 1
@@ -40195,6 +40498,8 @@ syʁʁpʁezɑ̃te 1
 syʁkalifikasjɔ̃ 1
 syʁpyisɑ̃s 1
 syʁpʁodyit 1
+syʁpʁiz vu 1
+syʁpʁiz mitsybiʃi 1
 syʁpʁɛn 1
 syʁpʁɛnɑ̃t 1
 syʁpʁɑ̃ 1
@@ -40275,6 +40580,7 @@ sypʁime 1
 sypʁɛsjɔ̃ 1
 sypoze 1
 sypoze 1
+sypoze ə 1
 sypozʁa 1
 sypozɛ 1
 sypɔʁte 1
@@ -40807,7 +41113,10 @@ sosjaldemɔkʁat 1
 sosjalɛkstʁemist 1
 sosjaldemɔkʁasi 1
 sosjaldemɔkʁat 1
+sosjal admisibilite 1
 sosjaldemɔkʁasi 1
+sosjal pʁofi 1
+sosjal dʁwa 1
 so 1
 snɔkʁɔs 1
 snɔb 1
@@ -41227,6 +41536,8 @@ sabote 1
 sabote 1
 sabotɑ̃ 1
 sabɔʁde 1
+ɛs nine 1
+ɛs ɛb 1
 sevɑ̃te 1
 sevapɔʁ 1
 sevaly 1
@@ -41377,6 +41688,7 @@ sɑ̃baʁase 1
 sɑ̃baʁk 1
 sefʁitɛ 1
 sefɔ̃dʁe 1
+sə ikspɔz 1
 savu 1
 savɑ̃tyʁ 1
 savɑ̃tyʁɛ 1
@@ -42968,6 +43280,8 @@ kaaʁɔ̃ 1
 kpø 1
 kmi 1
 kɛlk 1
+ky (en)sɜːtʃ(fr) 1
+ky bitoʁɑ̃ 1
 poːvʁ 1
 poː 1
 pɛʁsɔnɛl 1
@@ -43165,6 +43479,7 @@ pʁezɔ̃ptyø 1
 pʁezɔ̃psjɔ̃ 1
 pʁezide 1
 pʁezide 1
+pʁezidɑ̃ nominasjɔ̃ 1
 pʁezidɑ̃il 1
 pʁezɛsjɔnɛl 1
 pʁezɛʁve 1
@@ -43582,6 +43897,7 @@ puʁʃase 1
 puʁʃase 1
 puʁbwaʁ 1
 puʁaɛ 1
+puʁ kɛʁbe 1
 pupebebe 1
 pupun 1
 pupɔ̃ 1
@@ -43843,6 +44159,8 @@ plastifje 1
 plastisjɛ̃ 1
 plake 1
 plakɛt 1
+plak tʁɛtmɑ̃ 1
+plak ɛ̃stity 1
 plake 1
 planetɛʁ 1
 plɑ̃te 1
@@ -44108,6 +44426,7 @@ pɛʁmɛtʁɔ̃ 1
 pɛʁmɛtʁatɛl 1
 pɛʁmətʁ 1
 pɛʁmət 1
+pɛʁmanɑ̃ ʁapɔʁ 1
 pɛʁmɛ 1
 pɛʁle 1
 pɛʁʒelisɔl 1
@@ -44445,6 +44764,7 @@ paktize 1
 paktun 1
 pakmwa 1
 pakan 1
+pe aʃ 1
 peetʁ 1
 ozon 1
 oksiʒenɔ̃ 1
@@ -44657,6 +44977,7 @@ oseanik 1
 okylɛʁ 1
 ɔktɔʁ 1
 ɔktoʒenɛʁ 1
+ɔktɔbʁ ʁiʃaʁ 1
 ɔktɛ 1
 ɔktan 1
 ɔktal 1
@@ -44709,6 +45030,7 @@ obɛz 1
 ɔbʒɛkt 1
 obamɛsk 1
 oazis 1
+o ɛn 1
 noː 1
 nevʁoze 1
 nevʁalʒik 1
@@ -44780,6 +45102,7 @@ nwajad 1
 nɔvʁalʒik 1
 nɔvlɑ̃ɡ 1
 novis 1
+novɑ̃bʁ lə- 1
 novatʁis 1
 nova 1
 nuvɛlaːʒ 1
@@ -45011,6 +45334,9 @@ naʒwaʁ 1
 nadinɛ 1
 nakʁe 1
 nasɛl 1
+ɛn vidja 1
+ɛn nɛst 1
+ɛn ɛm 1
 nevakyʁɔ̃ 1
 netɔn 1
 netɛtil 1
@@ -45506,6 +45832,7 @@ mitø 1
 mit 1
 mitɛn 1
 mizeʁikɔʁd 1
+miste be 1
 misiv 1
 misjɔnɛʁ 1
 mizoʒini 1
@@ -45539,6 +45866,7 @@ minwa 1
 minitʁiptik 1
 minituʃ 1
 ministeʁabl 1
+ministɛʁ dotasjɔ̃ 1
 ministe 1
 minimotœʁ 1
 minimalism 1
@@ -45775,6 +46103,7 @@ maʁsjɛ̃ 1
 maʁsjal 1
 maʁtəle 1
 maʁtɛl 1
+maʁs loto 1
 maʁɔ̃ 1
 maʁɔnje 1
 maʁjaʒ 1
@@ -45926,6 +46255,7 @@ maʒoʁasjɔ̃ 1
 maʒɛstyøz 1
 maʒɛstyøzmɑ̃ 1
 maʒɛstyøz 1
+mɛ eʁik 1
 mɛtʁize 1
 mɛtʁize 1
 mɛtʁɛs 1
@@ -45943,6 +46273,8 @@ majɔ̃ 1
 majɔʃ 1
 maj 1
 majaʒ 1
+mɛ lə- 1
+mɛ loto 1
 mɛʒyɛ̃ 1
 maøʁøzmɑ̃ 1
 maʒɔ̃ɡ 1
@@ -45993,6 +46325,9 @@ makadɛpt 1
 makmizɛʁ 1
 makɛkspɛʁ 1
 ma-ɲifikə 1
+ɛm waaaaaaaaaaa 1
+ɛm (en)mɛɡəɹʌpləʊd(fr) 1
+ɛm i 1
 mɛtʁ 1
 mevanwiʁ 1
 metʁɛnjɛ 1
@@ -46326,6 +46661,7 @@ lɛktœʁkasɛt 1
 ləkɔ̃ 1
 ləsɛlje 1
 ləbloɡdyvwazɛ̃ 1
+lə- mɔ̃d 1
 lə-pətipaʁfɛdezɛ̃fɔʁmatœʁ 1
 lə-pətibɔblə-dezɛ̃fɔʁmatœʁɔb 1
 lə-pətibɔbdezɛ̃fɔʁmatœʁpʁofɛsjɔnɛlomyltiplpsødo 1
@@ -46644,6 +46980,8 @@ lidealism 1
 lidil 1
 lidɑ̃tifikasjɔ̃ 1
 lajsbɛʁɡ 1
+li ky 1
+limi ɛv 1
 lotɛs 1
 leʁitjɛʁ 1
 lemoʁaʒi 1
@@ -46994,6 +47332,7 @@ lolɛ̃pja 1
 lolɛ̃p 1
 lolivje 1
 lɔfʁ 1
+lɔd ɛm 1
 lɔktavjɑ̃ 1
 lɔkypasjɔ̃ 1
 lɔksidɑ̃tal 1
@@ -47028,6 +47367,7 @@ ladopi 1
 levok 1
 levɑ̃flo 1
 løʁɔɡʁup 1
+lɛt ɛkstʁɛmoʁjɑ̃ fʁɑ̃s ɡʁɛs ɛ̃d itali ʒapɔ̃ mwajɛ̃oʁjɑ̃ oseani tajlɑ̃d vjɛtnam 1
 lɛdy- 1
 lɛspas 1
 lɑ̃tʁəpɔ̃ 1
@@ -47051,6 +47391,7 @@ laʁʒɑ̃tin 1
 laʁʒɑ̃tɛ̃ 1
 lakwamaʁin 1
 lakwa 1
+lap stɔʁ 1
 lapokalips 1
 lɑ̃tikite 1
 lɑ̃tikaʁjys 1
@@ -47120,6 +47461,7 @@ kike 1
 kaaʃaʃ 1
 kaima 1
 kadiʁ 1
+kilɔɡʁam ko 1
 kəvlaʁ 1
 kabeɛs 1
 kajak 1
@@ -47151,6 +47493,10 @@ kamaʁad 1
 ʒymlɛ 1
 ʒylim 1
 ʒyiv 1
+ʒyɛ̃ vɛ̃sɑ̃ 1
+ʒyɛ̃ loto 1
+ʒyijɛ sofi 1
+ʒyijɛ lə- 1
 ʒyif 1
 ʒyɡyle 1
 ʒyʒevu 1
@@ -47258,6 +47604,10 @@ dʒazifje 1
 ʒaʁdine 1
 ʒape 1
 ʒapɔnɛ 1
+ʒɑ̃vje eʁik 1
+ʒɑ̃vje (en)nɛlsən(fr) 1
+ʒɑ̃vje miɡɛl 1
+ʒɑ̃vje loto 1
 ʒɑ̃vi 1
 ʒɑ̃v 1
 ʒɑ̃t 1

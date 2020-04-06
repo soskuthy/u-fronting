@@ -2999,6 +2999,7 @@ prokuɾʊ 10
 pelʊ 10
 pelæ 10
 nɔɾətʃy 10
+nʊ minimʊ 10
 nasõjs 10
 natuɾaʊ 10
 ene 10
@@ -4875,6 +4876,7 @@ sabiæ 6
 ɛsyteɛfy 6
 xozy 6
 xodriɡʊ 6
+xo ʃor 6
 xeʊteɾəs 6
 xeɪŋdæ 6
 xesebi 6
@@ -5026,6 +5028,7 @@ batmɐ̃ŋ 6
 bastaɾədʊs 6
 baɾəselonæ 6
 baɪʃʊ 6
+be neɡɐ̃ʊ̃ 6
 bloʒer 6
 aʊɡustʊ 6
 aɾətur 6
@@ -5059,6 +5062,8 @@ ezodʊ 5
 akilæ 5
 zaɡeɪɾʊ 5
 jow 5
+dablju kwaɾətæfeɪɾæ 5
+dablju domiŋɡʊ 5
 veeɪŋ 5
 volumy 5
 vowteɪ 5
@@ -5705,6 +5710,7 @@ afaɡʊ 5
 admiɾaveʊ 5
 adʒiɐ̃ŋtʃy 5
 adeʊs 5
+adaʊ be er teɔ 5
 akredʒitavæ 5
 akompɐ̃ɲow 5
 akompɐ̃ɲadʊ 5
@@ -5716,6 +5722,7 @@ absuɾədæ 5
 abɐ̃ŋdonadʊ 5
 zɛkæ 5
 juʃʃiŋski 5
+jow tuby 5
 woodi 5
 wiliɐ̃ŋs 5
 wiʊder 5
@@ -6021,6 +6028,7 @@ brilɐ̃ŋtʃy 5
 braɪner 5
 brɐ̃ŋdɐ̃ʊ̃ 5
 bonitæs 5
+blɔɡ blɔɡs 5
 belo 5
 bebe 5
 bateɾiæ 5
@@ -6070,6 +6078,7 @@ aʊvæɾʊ 4
 zoxʊ 4
 zɛɾʊ 4
 wit 4
+dablju seɡũŋdæfeɪɾæ 4
 voʊs 4
 vuwtʊs 4
 voŋtadʒys 4
@@ -7031,6 +7040,7 @@ abri 4
 abɐ̃ŋdonʊ 4
 zukeɾəbeɾəɡ 4
 zizi 4
+zeɪŋ pretʊ 4
 zelaɪæ 4
 zoxʊ 4
 jow 4
@@ -7094,6 +7104,7 @@ supremʊ 4
 susɛsʊ 4
 stoɾi 4
 ɛsyɛxe 4
+spor teve 4
 spiɾæ 4
 sofiæ 4
 soni 4
@@ -7394,6 +7405,7 @@ eneɾəʒiæ 4
 eɪŋkoŋtreɪ 4
 eɪŋkaɾənisadʊ 4
 eɪs 4
+e e e 4
 eziʒʊ 4
 etsɛteɾæ 4
 esta 4
@@ -7555,6 +7567,7 @@ akɛlæ 3
 aɡwæ 3
 zelɐ̃ŋdʊ 3
 ʃiʃi 3
+dablju sestæfeɪɾæ 3
 visjʊs 3
 veɛsy 3
 voʊ 3
@@ -9826,6 +9839,7 @@ estavæmʊs 3
 estokɔwmʊ 3
 estʃivy 3
 estasɐ̃ʊ̃ 3
+estad atʃiʊ 3
 espeɾɐ̃ŋsæ 3
 espesialistæs 3
 espesialistæ 3
@@ -10163,6 +10177,8 @@ jeʃiva 2
 woɾəld 2
 wiɛs 2
 westeɾən 2
+dablju teɾəsæfeɪɾæ 2
+dablju sabædʊ 2
 voomiɾaʒeɪŋ 2
 viŋkulʊ 2
 visjʊ 2
@@ -11921,6 +11937,7 @@ ideɪŋtʃifikæ 2
 idealizasɐ̃ʊ̃ 2
 idadʒys 2
 isy 2
+i pod 2
 imũŋdʊ 2
 ɛteɾʊ 2
 ɐ̃ʊ̃ 2
@@ -12476,6 +12493,7 @@ edʒitadʊ 2
 edʒifisjʊ 2
 ekonomikʊs 2
 ekonomikʊ 2
+i stʃiŋtʊ 2
 imuly 2
 duzjæ 2
 dɔ 2
@@ -13669,6 +13687,7 @@ zonæs 2
 zonæ 2
 zɐ̃ŋɡ 2
 zezɛ 2
+zeɾomi ʃis 2
 zɛɾʊ 2
 zeɪŋdæ 2
 zy 2
@@ -14176,6 +14195,7 @@ paʒinæs 2
 paɪθɐ̃ŋ 2
 puts 2
 pupʊ 2
+pũmp eɹ ɛsy 2
 puwp 2
 publikʊ 2
 publikasɐ̃ʊ̃ 2
@@ -14266,6 +14286,7 @@ pɛɡæ 2
 pedʒir 2
 pedʒimʊs 2
 pekadʊ 2
+py traljizmʊ 2
 paʊziɲʊ 2
 paʊlinjæ 2
 paʊlistɐ̃nʊ 2
@@ -14387,6 +14408,7 @@ nominimʊ 2
 nominimʊ 2
 noɪvæ 2
 nɔbry 2
+nʊ minimʊ 2
 nisʊ 2
 naɪt 2
 nikɔlæs 2
@@ -14658,6 +14680,7 @@ lelowʃ 2
 leipziʒer 2
 leʒiɐ̃ʊ̃ 2
 leɡaʊ 2
+ly xɔɪ 2
 lasʊs 2
 law 2
 lavæ 2
@@ -14740,6 +14763,7 @@ kiduʃ 2
 ʒader 2
 ʒakob 2
 ʒabutʃi 2
+ʒa na in a 2
 ʒa 2
 ʒustʃ 2
 ʒuliæ 2
@@ -15089,6 +15113,7 @@ efisjeɪŋsjæ 2
 efeɪtʊ 2
 edʒisõjs 2
 edʒitoɾiaɪs 2
+edʒitʃ plus 2
 edʒimiʊsoŋ 2
 edi 2
 ekonomikæ 2
@@ -15161,6 +15186,7 @@ dʒiɡæmy 2
 dʒiɡæ 2
 dʒieɡʊ 2
 dʒidæ 2
+dʒi kapriʊ 2
 deveɾeɪ 2
 devæneɪʊs 2
 destaky 2
@@ -15185,6 +15211,7 @@ definisɐ̃ʊ̃ 2
 definitʃivæmeɪŋtʃy 2
 debatʃys 2
 deɐ̃ŋ 2
+dʒy britos 2
 davʊs 2
 davis 2
 davi 2
@@ -15473,6 +15500,7 @@ boŋd 2
 bɔlæ 2
 boɪadeɪɾʊ 2
 boæs 2
+bo ene 2
 blus 2
 bluxaɪ 2
 bloɡaɪ 2
@@ -15543,6 +15571,7 @@ beɾətʃini 2
 beɪʒʊ 2
 bebe 2
 bese 2
+bebe edʒitʃ 2
 baxetʊ 2
 baɾatʊ 2
 bɐ̃ni 2
@@ -15862,6 +15891,8 @@ waɾəd 1
 waʊter 1
 walpaper 1
 waʊdʒik 1
+dablju kiŋtæfeɪɾæ 1
+dablju kɐ̃ŋtʃiɲʊ 1
 dablju 1
 vosys 1
 voleɪ 1
@@ -15918,6 +15949,7 @@ voaɪt 1
 voɡaʊ 1
 vodkæ 1
 vosedeʊ 1
+vose ɛsy 1
 vokabulaɾjʊ 1
 voavɐ̃ʊ̃ 1
 voavæ 1
@@ -16055,6 +16087,7 @@ viaʒɐ̃ŋdʊ 1
 viaʒadʊ 1
 viaɡræ 1
 viadutʊs 1
+viadw ɛsy 1
 viabilizar 1
 vimy 1
 visy 1
@@ -16229,6 +16262,7 @@ vaɡar 1
 vaɡabũŋdʊs 1
 vasilar 1
 vasilɐ̃ŋtʃys 1
+va li u 1
 ve 1
 uisky 1
 uvæ 1
@@ -17326,6 +17360,7 @@ seɾəmʊs 1
 seɾiŋɡæs 1
 seɾidʊ 1
 seɾiadoŋ 1
+seɾiadw a 1
 seɾemʊs 1
 seɾəkrɛtæs 1
 seɾatoninæ 1
@@ -17445,6 +17480,7 @@ sebozʊ 1
 sebʊ 1
 sebastʃiɐ̃ʊ̃ 1
 seæ 1
+sy bũŋdæfeɪɾæ 1
 zdʒy 1
 zdaby 1
 skripts 1
@@ -18039,6 +18075,7 @@ xelikiæs 1
 xeliɡar 1
 xelidʊ 1
 xelikaɾjʊ 1
+xelevɐ̃ŋsjæ webiŋsider 1
 xelevaɾiæ 1
 xelesys 1
 xɛlys 1
@@ -19553,6 +19590,7 @@ pasifiky 1
 pasieɪŋsiɔzæ 1
 pakaɾaɪ 1
 paazɐ̃ŋdʊ 1
+pe or 1
 oksiʒenjʊ 1
 own 1
 ɔvʊs 1
@@ -19852,6 +19890,7 @@ nomeasõjs 1
 nomeasɐ̃ʊ̃ 1
 nomeadæs 1
 nomeadæmeɪŋtʃy 1
+nomj eɪŋ 1
 noŋ 1
 nolɛtʊ 1
 noɪvʊs 1
@@ -19972,6 +20011,7 @@ nakæmuɾæ 1
 nadʒikæ 1
 nadavæ 1
 nadæs 1
+ene ely 1
 naɡwæ 1
 nɾol 1
 naʊ 1
@@ -21810,6 +21850,11 @@ ibæ 1
 iatʃizmʊ 1
 iaɪa 1
 iabas 1
+i fony 1
+i pad 1
+i lokaʊ 1
+i bɔstæ 1
+i bestʃ 1
 ii 1
 im 1
 i 1
@@ -22304,6 +22349,8 @@ akadoʃ 1
 ɡaɡʊ 1
 ɡafys 1
 ɡafɐ̃ɲotʊ 1
+ʒe xatʊ 1
+ʒe ostaɾiæ 1
 ʒe 1
 futeɪs 1
 fosemʊs 1
@@ -22602,6 +22649,7 @@ fiʊmow 1
 fiʊmezʒæ 1
 fiʊmyskoɪzæ 1
 fiʊmyzbriŋkedʊs 1
+fiʊmy koŋ 1
 fiʊmysuɾəprezæ 1
 fiʊmyfiksɐ̃ʊ̃ 1
 fiʊmydeliɾjʊ 1
@@ -22756,6 +22804,7 @@ fɐ̃ŋtaziɔzʊs 1
 fɐ̃ŋtaziar 1
 fɐ̃ŋtaziɐ̃ŋdʊ 1
 fɐ̃ŋfaxæ 1
+fɐ̃ŋ ɛsy 1
 fæmiliaɾizadʊ 1
 fæmiliaetk 1
 fæmiʒeɾadʊs 1
@@ -23917,6 +23966,7 @@ edʒitar 1
 edʒitɐ̃ŋdʊ 1
 edʒitadæs 1
 edʒitæ 1
+edʒitʃ aɾeæ 1
 edʒinaʊvæ 1
 edʒiʊsoŋ 1
 edʒifisjʊs 1
@@ -23932,6 +23982,7 @@ ekonomiæs 1
 ekoloʒistæ 1
 eklɔdʒy 1
 eæ 1
+i baɪ 1
 inormy 1
 imaɪ 1
 ikoletʃivʊ 1
@@ -24056,6 +24107,7 @@ dɔbræ 1
 doasɐ̃ʊ̃ 1
 doɐ̃ŋdʊɔ 1
 doadʊ 1
+dʊ eɾoys 1
 dly 1
 dʒaʊmæ 1
 deʒɔtæs 1
@@ -24922,6 +24974,7 @@ debater 1
 debateɪŋdʊ 1
 debaʒʊ 1
 deæ 1
+dʒi jownɡ 1
 dawnload 1
 davis 1
 david 1
@@ -24952,6 +25005,8 @@ dɐ̃ŋseɪ 1
 dalæs 1
 daɡmar 1
 dasy 1
+de ɔ 1
+de ely 1
 daʊvæ 1
 daɡwæ 1
 komodʊs 1
@@ -25437,6 +25492,7 @@ koɲesiveʊ 1
 koɲeselʊs 1
 koɲeselʊ 1
 koɲeselæ 1
+koɲek ɛsirkũŋflɛksʊlʊ 1
 koɲesesy 1
 koɲeseɾiæmʊs 1
 koɲeseɾa 1
@@ -25931,6 +25987,7 @@ kristofer 1
 ʃoɾæmiŋɡɐ̃ʊ̃ 1
 ʃɔɾɐ̃ʊ̃ 1
 ʃopiɲʊ 1
+ʃop iɲʊz 1
 ʃɔpys 1
 ʃɔpy 1
 ʃokow 1
@@ -26014,6 +26071,7 @@ kristofer 1
 ʃæmaɾɐ̃ʊ̃ 1
 ʃæmarsy 1
 ʃæmarmy 1
+ʃæmadw ɛxeiɔ 1
 ʃæmadʒiɲæs 1
 ʃakoljɐ̃ŋdʊ 1
 ʃasinæ 1
@@ -26624,6 +26682,7 @@ bibliotɛkæs 1
 bibliæ 1
 biblɛtʃy 1
 biæ 1
+bi ʃvatʃ 1
 beaɡa 1
 bezexæ 1
 bestʃiaʊ 1
@@ -28024,6 +28083,7 @@ adeɪŋsæ 1
 adɔsʊ 1
 adaptarsy 1
 adaptæ 1
+adaʊ be er to 1
 adaiʊtoŋ 1
 ad 1
 akuzaɾɐ̃ʊ̃ 1
@@ -28275,6 +28335,7 @@ abafadʊs 1
 abafadʊ 1
 abakaʃi 1
 aaf 1
+a ek 1
 aɔbræ 1
 akabow 1
 ze 1
@@ -28371,6 +28432,7 @@ wiʊd 1
 wiʒiŋs 1
 wiezeɪŋtaʊ 1
 widʒy 1
+wi zar de 1
 wi 1
 witeɾəspʊn 1
 wip 1
@@ -28428,6 +28490,7 @@ vowtow 1
 vowtaɾemʊs 1
 vowtaɾɐ̃ʊ̃ 1
 vowtɐ̃ŋdʊ 1
+vɔltæ meɡ 1
 voɡliæ 1
 vokasɐ̃ʊ̃ 1
 vokaʊ 1
@@ -28629,6 +28692,7 @@ uɾəsʊ 1
 uɾi 1
 uɾəbɐ̃ŋ 1
 ur 1
+æploud steɪʃɐ̃ŋ 1
 updʒiky 1
 æpdeɪt 1
 ũŋmistakeɪŋ 1
@@ -28646,9 +28710,11 @@ ũɲæs 1
 ũŋʒer 1
 ũŋder 1
 unæ 1
+ũŋ be 1
 ulisys 1
 uwtʃimʊ 1
 uwtrapaseɪ 1
+uwtræ edʒitʃ 1
 uwtʃimʊ 1
 uwtʃimæ 1
 uɪvɐ̃ŋtʃys 1
@@ -28799,6 +28865,7 @@ toɾinʊ 1
 toɾeɾʊ 1
 tokiɲʊ 1
 tɔky 1
+tɔp stily 1
 tʊl 1
 tookiy 1
 toʊ 1
@@ -28858,6 +28925,7 @@ taɪzæ 1
 teaɡa 1
 tezæ 1
 testʃiɲʊ 1
+testʃ matʃy 1
 testʃ 1
 tɛtʊ 1
 tɛtʃy 1
@@ -29114,6 +29182,7 @@ suplisjʊ 1
 suplisi 1
 supeɾəvidʒjʊ 1
 supeɾəmɐ̃ŋɔ 1
+sʊper nɔvæ 1
 sũŋxizy 1
 sũŋdɐ̃ŋsy 1
 sũŋʃiny 1
@@ -29122,6 +29191,8 @@ sũmmer 1
 sumiɾɐ̃ʊ̃ 1
 sumatræ 1
 sulivɐ̃ŋ 1
+suw xoŋdonjæ xoɾaɪmæ sɐ̃ŋtæ 1
+suw minæs 1
 suʒʊ 1
 suʒiɾʊ 1
 suʒeɾi 1
@@ -29141,6 +29212,7 @@ subaɛ 1
 suavy 1
 stɛfæny 1
 stɛdʒily 1
+stũmbli upoŋ 1
 stũmbly 1
 studʒiʊ 1
 strozzek 1
@@ -29184,6 +29256,7 @@ speedʊ 1
 spid 1
 spesiaʊ 1
 speaɾəs 1
+spaɾək up 1
 spaɾək 1
 spaɡetʃi 1
 soziɲʊs 1
@@ -29231,6 +29304,7 @@ sokador 1
 sobriɲʊ 1
 sobɾetudʊ 1
 sobɾemezæ 1
+sobry saɪtʃys 1
 sɔbrɐ̃ʊ̃ 1
 sobibor 1
 sobeɾəbʊ 1
@@ -29321,6 +29395,7 @@ sideneɪ 1
 ʃalize 1
 ʃakmɐ̃ŋ 1
 ʃaɪnæ 1
+ɛsyaɡa uæ ɛsyaɡa uæ ɛsyaɡa uæ ɛsyaɡa uæ 1
 sesõjs 1
 seksiʒenaɾjæ 1
 sestæ 1
@@ -29432,6 +29507,7 @@ sapatæs 1
 sɐ̃ŋtwaɾjʊ 1
 sɐ̃ŋtuaɾiʊ 1
 sɐ̃ŋtɔɾʊ 1
+sɐ̃ŋtʊ ɡoɪaz maɾɐ̃ɲɐ̃ʊ̃ matʊ 1
 sɐ̃ŋtiaɡʊ 1
 sɐ̃ŋtʃ 1
 sɐ̃ŋsɐ̃ʊ̃ 1
@@ -29684,6 +29760,7 @@ xubinaʊdʊ 1
 xuæs 1
 ɛxeɛsyɛsy 1
 ɛxeɛsyɛxeɛsyɛxeɛsyɛxeɛsyɛxeɛsyɛxeɛsyɛxeɛsyɛxeɛsy 1
+ɛxeɛsy ɛxeɛsy ɛxeɛsy ɛxeɛsy 1
 ɛxeɛsy 1
 xɔɪaʊ 1
 xoʃor 1
@@ -29825,6 +29902,8 @@ xeedʒisɐ̃ʊ̃ 1
 xeduzir 1
 xedoŋdæ 1
 xedʒivivʊ 1
+xedʒy teve news 1
+xedʒy teve 1
 xedatoɾæ 1
 xed 1
 xeseɪŋsaidʊ 1
@@ -29851,6 +29930,7 @@ xeasæ 1
 xealizeɪ 1
 xealizy 1
 xealizæ 1
+xeaʊ violeɪŋsjæ 1
 xeadi 1
 xeadʒiŋɡ 1
 xeader 1
@@ -29864,6 +29944,7 @@ xaʃi 1
 xaɾʊs 1
 xapozʊ 1
 xapidʒiɲʊ 1
+xapid ʃaɾy 1
 xafsɔdʒjæ 1
 xapnɾol 1
 xænieɾi 1
@@ -29903,6 +29984,7 @@ xusiæ 1
 xubeɪŋ 1
 xuæs 1
 ɛxeɛsyɛxeɛsyɛxeɛsyɛxe 1
+ɛxeɛxe sowzæ 1
 ɛxeɛxeɛsy 1
 ɛxepeʒez 1
 xɔɪaʊ 1
@@ -29932,6 +30014,7 @@ xin 1
 xidʒikulæs 1
 xibeɪɾʊ 1
 ɛxeʒeɛsy 1
+ɾ eaʊ 1
 xɛzy 1
 xeɪɛks 1
 xɛks 1
@@ -30085,6 +30168,8 @@ pueɪŋzʊ 1
 pudoɾys 1
 publikar 1
 publikadæ 1
+publi foljæ 1
+pteɾʊ maɾəkʊ 1
 psiɔɪʊs 1
 psikɔloɡʊ 1
 psikoɡrafiæ 1
@@ -30209,6 +30294,7 @@ poŋtæ 1
 poɲʊmy 1
 pompozʊ 1
 pombæs 1
+politʃikæ saudʒy seɾəvisʊs teknoloʒiæ traʒɛdʒjæ viaʒeɪŋ vidæ 1
 politeʃniky 1
 poluɪsɐ̃ʊ̃ 1
 polonys 1
@@ -30240,6 +30326,7 @@ plaʒjʊ 1
 pleazy 1
 pleɪseɪŋter 1
 pleɪbɔɪ 1
+pleɪ steɪʃɐ̃ŋ 1
 plastʃik 1
 plɐ̃ŋtæs 1
 plɐ̃nʊ 1
@@ -30300,6 +30387,7 @@ petri 1
 petr 1
 peteɾəzbuɾəɡʊ 1
 petaʃ 1
+pesoaɪs komɛɾəsjʊ kɔpæ 1
 peskizʊ 1
 pezoaʊ 1
 pezʊ 1
@@ -30372,6 +30460,8 @@ pek 1
 pekadoɾæ 1
 peaɾəsoŋ 1
 peaʃys 1
+py trobras 1
+py traljaɪzmʊ 1
 py 1
 pawɛʊ 1
 pavor 1
@@ -30380,6 +30470,7 @@ paʊtʃy 1
 paʊzæ 1
 paʊʊ 1
 paʊlopitekus 1
+paʊlʊ seɾəʒipy tokɐ̃ŋtʃiŋs 1
 paʊ 1
 patrus 1
 patriʊ 1
@@ -30446,6 +30537,7 @@ pænɐ̃ma 1
 pænæmeɾikɐ̃nʊs 1
 pænæmeɾikɐ̃næ 1
 pænai 1
+pɐ̃ŋ æmɛɾikæ 1
 pɐ̃mpæ 1
 paʊtrow 1
 paʊmiljʊ 1
@@ -30570,6 +30662,7 @@ plɐ̃nʊs 1
 plɐ̃nʊ 1
 plænetæ 1
 plakar 1
+pe iɲaɪs 1
 piʃɔtʃy 1
 pitʃ 1
 piɾataɾiæ 1
@@ -30806,6 +30899,7 @@ ofeɪŋdʒy 1
 ose 1
 okoxeʊ 1
 oseɐ̃nʊ 1
+ʊ brieɪŋ 1
 ɔbræ 1
 obɡ 1
 ʊeme 1
@@ -30834,12 +30928,14 @@ novaxʊ 1
 novaɪs 1
 notuɾənʊs 1
 notepad 1
+nɔtʃy pad 1
 nɔtæs 1
 nɔtæsy 1
 notʃ 1
 nostradɐ̃mus 1
 nosfeɾatu 1
 noɾuɛɡæ 1
+nɔɾətʃy xiʊ 1
 noxis 1
 noɾəmɐ̃ŋ 1
 nɔɾəmæ 1
@@ -30852,12 +30948,14 @@ nolɐ̃ŋ 1
 noɪvæs 1
 noɐ̃ʊ̃ 1
 noa 1
+nʊ blɔɡ 1
 nivaʊdʊ 1
 nitrʊbɛtæ 1
 niɾɐ̃ 1
 niɾʊ 1
 nipys 1
 niŋɡeɪŋ 1
+ninæ xɔzæ 1
 nimriʃter 1
 nimitʃis 1
 nilɔpolis 1
@@ -30871,6 +30969,7 @@ niemeɪer 1
 nidreɪ 1
 nikoletʃi 1
 niʃɔlæs 1
+ni ky 1
 neɪdʒy 1
 newspaʒy 1
 newmɐ̃ŋ 1
@@ -30987,6 +31086,7 @@ nasionaʊ 1
 nasionaɪs 1
 naʊ 1
 muzikʊs 1
+mõnikæ ve 1
 mɔviʊ 1
 mistʃikʊs 1
 minimʊ 1
@@ -31011,6 +31111,7 @@ maɾəvjʊ 1
 maɾəsjæ 1
 miksomatozis 1
 miblɔɡ 1
+mi speɪs 1
 mutʃizmʊs 1
 mutɐ̃ŋtʃys 1
 mutɐ̃ŋtʃy 1
@@ -31359,6 +31460,7 @@ makaɾeɪŋ 1
 maɪte 1
 maitdoɪs 1
 maiti 1
+maɪz enæ 1
 maɪler 1
 maiɡrɛtʃ 1
 maɪdeɪŋ 1
@@ -31383,6 +31485,7 @@ madʒy 1
 madʒjʊ 1
 madeɪɾeɪɾʊs 1
 madæ 1
+mad meɪŋ 1
 masiɛʊ 1
 maʃukæ 1
 maʃadʒiɐ̃næs 1
@@ -31392,12 +31495,14 @@ makkaɾi 1
 makalɐ̃ʊ̃ 1
 makakʊs 1
 makabiædæ 1
+mɛk muxaɪ 1
 maazɛʃæ 1
 ma 1
 mutakaʊ 1
 muzikæ 1
 muɾəfi 1
 muɾi 1
+mũŋd ozeɡũŋdæ 1
 muwtʃimidʒjæ 1
 muljɛɾy 1
 mulatæ 1
@@ -31434,6 +31539,7 @@ modɛɾənʊ 1
 mɔdæ 1
 mokɐ̃mbiky 1
 emeeme 1
+miʊ i nɔvy 1
 misteɾiɔzæ 1
 misɐ̃ʊ̃ 1
 misæʊ 1
@@ -31485,6 +31591,7 @@ meɪʊ 1
 meɡafony 1
 medʊ 1
 meaʒudʒy 1
+miʊ seɪŋ 1
 maks 1
 maʊs 1
 maʊ 1
@@ -31747,6 +31854,8 @@ leɐ̃ŋdeɾəsoŋ 1
 leaʊ 1
 leai 1
 leæ 1
+li joŋ 1
+lj izxaɛʊ 1
 lais 1
 laɛɾəsjʊ 1
 laɛsjʊ 1
@@ -31796,6 +31905,7 @@ lakɐ̃ŋ 1
 labiɾiŋtʊ 1
 labɐ̃mbæ 1
 laɐ̃mpiɐ̃ʊ̃ 1
+la butʃy 1
 luʃeɪmbuɾəɡʊ 1
 lutfi 1
 luli 1
@@ -31972,6 +32082,7 @@ kalɛʊdʊ 1
 kaka 1
 kaaʊ 1
 kadʒiʃæ 1
+ka di 1
 kun 1
 kra 1
 koŋɡ 1
@@ -32096,6 +32207,7 @@ dʒɪɛs 1
 ʒænwaɾjʊ 1
 ʒɐ̃ŋtavæmʊs 1
 ʒæniny 1
+ʒæneɪɾʊ xiʊ 1
 ʒɐ̃nes 1
 ʒɐ̃ŋdʒiaɾæ 1
 ʒænainæ 1
@@ -32167,6 +32279,7 @@ isadæs 1
 izaʊɾiɲæ 1
 iksy 1
 iwʊ 1
+ivɔks ɡɛxæ iŋfoɾəmatʃikæ lazer midʒjæ muljɛr nataʊ notʃisjæs pɐ̃ŋ 1
 iveɾəli 1
 ivæniʊtoŋ 1
 ivæniʊdæ 1
@@ -32261,6 +32374,7 @@ iŋɡratæ 1
 iŋɡlezæs 1
 iŋfoɾəmatʃivʊs 1
 iŋflwiʊ 1
+iŋflueɪŋzæ miɡratoɾiæ 1
 iŋfinitæ 1
 iŋfimidadʒy 1
 iŋfɛɾənʊ 1
@@ -32371,6 +32485,7 @@ imovɛʊ 1
 imoɾətaʊ 1
 imitɐ̃ŋdʊ 1
 imedʒiatʊs 1
+i lokaʊ 1
 iljæ 1
 iʊ 1
 iɡwaʊ 1
@@ -32409,11 +32524,13 @@ ow 1
 owaɪs 1
 otzmɐ̃ŋ 1
 oteleɪɾæ 1
+ostʃ laɪer 1
 ospedeɪɾʊ 1
 oɾaɾjʊ 1
 ɔɾəsy 1
 oxor 1
 ɔɾədæs 1
+ɔɾæ aɡa 1
 opeɾəs 1
 ɔpy 1
 oods 1
@@ -32502,6 +32619,7 @@ hardweə 1
 aɾədkɔɾy 1
 aɾəd 1
 xɛpy 1
+aɔlɐ̃ʊ̃ aʃer 1
 ɐ̃ŋs 1
 ɐ̃ŋnibaʊ 1
 æniziŋ 1
@@ -32523,12 +32641,14 @@ aʒi 1
 aɡadotʃ 1
 abilitasɐ̃ʊ̃ 1
 abaa 1
+a joŋ 1
 amaaɾavi 1
 umor 1
 udsoŋ 1
 uk 1
 aɡaɛsy 1
 aɡakez 1
+aɡa klik 1
 owaɾəd 1
 owvɛr 1
 osein 1
@@ -32597,6 +32717,7 @@ aaaæ 1
 ɡrafikʊ 1
 ɡrudʒy 1
 ɡrudadʊ 1
+ɡrosʊ matʊ 1
 ɡroseɪɾɐ̃ʊ̃ 1
 ɡrooveɾider 1
 ɡroʊs 1
@@ -32683,6 +32804,7 @@ aaaæ 1
 ʒivy 1
 ʒivatʃ 1
 ʒjuliɐ̃nʊ 1
+ʒitʃ uɡ 1
 ʒizɛly 1
 ʒizɛly 1
 ʒiɾəls 1
@@ -32716,6 +32838,7 @@ aaaæ 1
 ʒeɾəmɐ̃nʊ 1
 ʒeɾiatræ 1
 ʒeɾaʊdʒinʊ 1
+ʒeɾaɪs paɾa paɾaibæ paɾɐ̃na peɾənɐ̃mbukʊ piaʊi xiʊ 1
 ʒepɛtʊ 1
 ʒeovɐ̃næ 1
 ʒeoɾəʒɛtʃy 1
@@ -32731,6 +32854,7 @@ aaaæ 1
 ʒemy 1
 ʒɛʊsoŋ 1
 ʒɛlar 1
+ʒik dad nat 1
 ʒedɛʊ 1
 ɡauʃæ 1
 ɡazetæ 1
@@ -32829,6 +32953,7 @@ aaaæ 1
 ʒiʊvɐ̃ŋdrʊ 1
 ʒiʒs 1
 ʒifs 1
+ʒe edʒitʃ 1
 ʒɛxæ 1
 ʒeɾəmɐ̃næ 1
 ʒeɾiʃʊ 1
@@ -32940,6 +33065,8 @@ fomy 1
 folowil 1
 foliys 1
 foljaleaks 1
+foljæ ɛsy pdadʊs 1
+foljæ prɛs 1
 foleɪ 1
 foker 1
 foɪɛɡræs 1
@@ -33028,6 +33155,7 @@ feɪtʃiʊ 1
 feɪobeɾəɡ 1
 feeliŋɡ 1
 fedeɾikʊ 1
+fedeɾaʊ espiɾitʊ 1
 fedaɾaʊ 1
 feʃow 1
 fɛʃʊ 1
@@ -33427,6 +33555,7 @@ eliɐ̃næ 1
 eliæmar 1
 elevasɐ̃ʊ̃ 1
 eletropaʊlʊ 1
+eletroeletronikʊz espesiaʊ 1
 elenæ 1
 elektronikæadrezaɾʊ 1
 eleɪtʊs 1
@@ -33777,6 +33906,7 @@ dʒiabiɲæ 1
 dezesɛtʃy 1
 dezenæs 1
 dezeɪmbrɐ̃ʊ̃ 1
+dɛs koŋvɛɾəsæs 1
 devɔltæ 1
 deviæ 1
 dever 1
@@ -33941,7 +34071,10 @@ daly 1
 daimmy 1
 daer 1
 dakar 1
+da ɛxeka 1
+da koŋdʒy 1
 devedes 1
+deve kɐ̃ʊ̃ 1
 duti 1
 duɾʊ 1
 duɾəmæ 1
@@ -34063,6 +34196,7 @@ defoɾəmadʊs 1
 dekrɛtʊ 1
 debater 1
 dedeɛxeze 1
+dedeɛxe oŋlaɪŋ 1
 dede 1
 seɪseɪŋtʊz 1
 daɪy 1
@@ -34106,6 +34240,7 @@ kuɾətæs 1
 kuɾətɐ̃ʊ̃ 1
 kuɾəsʊs 1
 kuɾiɔzʊs 1
+kuɾiozidadʒyz eleɪsõjs 1
 kuɾiozidadʒys 1
 kuɾiozæmeɪŋtʃy 1
 kuɾy 1
@@ -34237,6 +34372,7 @@ koŋteɪŋdʊ 1
 koŋteɪŋ 1
 koŋtʃy 1
 koŋtaɾeɪ 1
+koŋtæ premiũŋ beɛxe 1
 koŋsumimʊs 1
 koŋsumadʊ 1
 koŋsumæ 1
@@ -34350,6 +34486,7 @@ koiŋsideɪŋsjæ 1
 koiŋsideɪŋtemeɪŋtʃy 1
 koimbræ 1
 koɐ̃niŋ 1
+kofi kup 1
 koeljæ 1
 kokteaʊ 1
 koker 1
@@ -34365,6 +34502,7 @@ klɐ̃ 1
 klaʊzulæ 1
 klif 1
 klubys 1
+kluby foljæ 1
 kloveɾəfiɛʊd 1
 klowzotʃ 1
 klɔzy 1
@@ -34410,6 +34548,7 @@ sinesɛɾjys 1
 sinekwɐ̃noŋ 1
 sinekluby 1
 sinesita 1
+siny dʒikæ 1
 siɡaxʊ 1
 siɡɐ̃næ 1
 sieʃænover 1
@@ -34510,6 +34649,7 @@ kavaʊkɐ̃ŋtʃy 1
 katoŋ 1
 kati 1
 kataɾineɪŋsy 1
+kataɾinæ sɐ̃ʊ̃ 1
 katalɔɡy 1
 katalizador 1
 kazuaʊ 1
@@ -34567,6 +34707,7 @@ kaptuɾɐ̃ŋdʊ 1
 kapriʃʊ 1
 kapitu 1
 kapitaiŋs 1
+kapæ xepoɾətaʒeɪŋs kolunæs fotoɡrafiæ blɔɡz muwtʃimidʒjæ aʒeɪŋdæ keɪŋ 1
 kap 1
 kaʊs 1
 kɐ̃ŋsonetæ 1
@@ -34616,6 +34757,7 @@ kaʊmæ 1
 kaʊm 1
 kaljɐ̃mbɛky 1
 kaleɪŋdaɾjʊs 1
+kaledæ blɔɡ 1
 kaʊdɛɪæ 1
 kaʊkuly 1
 kaʊsiɲæs 1
@@ -34626,6 +34768,7 @@ kaiʊ 1
 kain 1
 kaɡɛtʊ 1
 kaɡetar 1
+kafofʊ psikowoŋdeɾəful 1
 kafofʊ 1
 kafaɾənaʊm 1
 kadʒilak 1
@@ -34803,6 +34946,7 @@ seɡoɲæ 1
 sɛɡʊ 1
 sɛkæ 1
 sebolæ 1
+sede ʒapɐ̃ŋ 1
 sedeve 1
 sede 1
 kiɲeɪŋtʊz 1
@@ -34883,6 +35027,7 @@ bjy 1
 bi 1
 buɪ 1
 buʃiʃʊ 1
+butɐ̃ŋtɐ̃ŋ paʊlʊ 1
 buskʊ 1
 buskar 1
 buskɐ̃ŋdʊ 1
@@ -34904,6 +35049,7 @@ brutaʊ 1
 brunetʃi 1
 brumæs 1
 brũŋ 1
+bru ʃa 1
 broteɾəs 1
 broteɾs 1
 brʊk 1
@@ -35006,12 +35152,15 @@ bobroŋ 1
 bobaʒeɪŋtʊ 1
 boaveɪŋtuɾæ 1
 blustʃin 1
+blu fiʃ 1
 blokeɪʊ 1
 bloɡi 1
 bloɡeɪɾʊ 1
 bloɡeador 1
 bloɡotʃiɲæ 1
 bloɡaʒeɪŋ 1
+blɔɡ lɔɪdʒys 1
+blɔɡ draɪv 1
 blɔɡsy 1
 blɔɡblɔɡ 1
 blok 1
@@ -35097,6 +35246,7 @@ beɪʒokeɪɾʊ 1
 beɪʒy 1
 beʒiŋs 1
 beds 1
+bebidæz aɾətʃiɡʊs 1
 beber 1
 bebɛʊ 1
 beaʊtʃifuw 1
@@ -35106,6 +35256,7 @@ beastʃiy 1
 bear 1
 beɐ̃ŋ 1
 beaɡa 1
+by foɾ u 1
 bau 1
 baɪbaɪ 1
 baɪati 1
@@ -35232,6 +35383,7 @@ bɔtæ 1
 bɔsæ 1
 boɾowsik 1
 boɾis 1
+boɾəb olɛtræs 1
 boɔɾy 1
 boony 1
 bonutʃi 1
@@ -35643,6 +35795,7 @@ aɪmeɛ 1
 amad 1
 a 1
 aead 1
+a a a 1
 aɡustoni 1
 aɡixy 1
 aɡwaɾədeɪŋtʃy 1
@@ -35668,6 +35821,7 @@ afroproɡresividadʒy 1
 afrʊdeseɪŋdeɪŋtʃy 1
 afrikɐ̃nʊ 1
 afp 1
+afiŋz ateɪŋtadʊz aʊtomɔveɪz belezæ 1
 afiliadʊ 1
 afoŋsʊ 1
 afair 1
@@ -35709,6 +35863,7 @@ adɐ̃ŋ 1
 adɐ̃ʊ̃ 1
 akrilikʊ 1
 akrus 1
+akri alaɡoæz æmapa æmazonæz baiæ seaɾa dʒistritʊ 1
 akosadʊ 1
 akoɾədeoŋ 1
 akoɾədar 1

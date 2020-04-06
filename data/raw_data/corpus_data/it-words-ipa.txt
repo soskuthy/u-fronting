@@ -2939,7 +2939,6 @@ radio 85
 kual 85
 politika 85
 libro 85
- 85
 suanːefrantsiʃu 84
 vite 84
 timore 84
@@ -3523,7 +3522,6 @@ mad͡ʒːormente 70
 letːerario 70
 je 70
 industriali 70
- 70
 forum 70
 ferma 70
 esperto 70

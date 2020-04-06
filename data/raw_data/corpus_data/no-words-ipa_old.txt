@@ -111,6 +111,7 @@ noː 1488
 vɪktɪ 1467
 vart 1437
 fram 1434
+peː ɑːtɪlda 1426
 sɪsta 1394
 fleːra 1320
 nuːk 1319
@@ -306,6 +307,7 @@ brɑ 571
 œkt 569
 haɪlt 565
 kruːnər 561
+ɛf ɑːtɪlda 561
 fɪnna 561
 saɪər 558
 lɛŋa 555
@@ -361,6 +363,7 @@ sɑ 478
 nɛstən 478
 liːtən 476
 vɛkt 469
+ɛs ɑːtɪlda 469
 leːsa 468
 skriːva 466
 jeːra 466
@@ -491,6 +494,7 @@ eːʉː 344
 tiːdən 342
 stadɪ 341
 poː 341
+ɛm ɑːtɪlda 341
 eːɡɛntlɪ 341
 bɪdrɑ 341
 luːkala 340
@@ -601,6 +605,7 @@ føːrər 282
 darməd 282
 øːkuːnuːmɪska 281
 vʉrdeːra 281
+ɛn ɑːtɪlda 281
 starkt 280
 suː 280
 peːriːuːdən 280
@@ -647,6 +652,7 @@ eːnɛsta 264
 statən 263
 nuːvɛmbər 263
 nuː 263
+veː ɑːtɪlda 261
 jɑ 261
 bəfɔlknɪŋən 261
 ɪnnɛnfuːr 260
@@ -809,6 +815,8 @@ vɪlka 214
 fiːn 214
 tyːpa 213
 sɑmfʉn 213
+ɛl ɑːtɪlda 213
+hoː ɑːtɪlda 213
 fɔrʃknɪŋ 213
 driːva 213
 vara 212
@@ -1141,9 +1149,11 @@ lɪtːeːratʉːr 153
 vaɪən 152
 trʉː 152
 ʃloːr 152
+ɔɡs ɑːtɪlda 152
 mɑʃ 152
 hɑnnlər 152
 ɡɑŋən 152
+fr ɑːtɪlda 152
 ɛnnrɪŋar 152
 dɪkt 152
 deːriːmuːt 152
@@ -1183,9 +1193,11 @@ fɔrmər 148
 vɔrfuːr 148
 stɪllɪŋ 147
 raɪsər 147
+ɡeː ɑːtɪlda 147
 kvɪnnər 147
 bjœrn 147
 vɛn 146
+st ɑːtɪlda 146
 sɛnna 146
 vɪlkən 146
 fʊrtsɛtːər 146
@@ -1257,6 +1269,7 @@ snɑkːər 139
 skraɪv 139
 lʉːrər 139
 luːvər 139
+beː ɑːtɪlda 139
 bʉstadər 139
 ɑnnəlsaɪɡarar 139
 ɑnneːlar 139
@@ -1492,6 +1505,7 @@ bɪllɛna 120
 sɑ 120
 juːn 120
 ɡlɔpːən 120
+fr peː 120
 ʉːɑvhɛŋɪ 119
 tɛkstən 119
 mɪdlər 119
@@ -1504,9 +1518,12 @@ jøːrəs 119
 ɡeːneːrɛlla 119
 fuːreːkɔmstən 119
 eːtɑbleːra 119
+eːpʊst blɔɡː 119
 beːr 119
+tvɪtːər deːl 119
 tarja 119
 baːrʉːm 119
+ɑːsɪrkʉmflɛks eːʉːr 118
 siːt 118
 seːt 118
 pʉbliːsart 118
@@ -1906,6 +1923,7 @@ nart 91
 lœsnɪŋər 91
 kʉnst 91
 ɛksamən 91
+deː ɑːtɪlda 91
 dɪskʉːteːra 91
 bəstəmmɛlsər 91
 ɡʉnnar 91
@@ -2087,6 +2105,7 @@ peːdaɡuːjɪsk 83
 mɑrkeːda 83
 mɑŋlɛnna 83
 leːɡən 83
+x ɑːtɪlda 83
 ɪntrykː 83
 hœɡt 83
 hɛnnər 83
@@ -2197,6 +2216,7 @@ trykː 78
 svɛnsk 78
 samɑnhɛŋən 78
 sal 78
+ɛːr ɑːtɪlda 78
 ɔmsɔrɡ 78
 nɛmləɡ 78
 mɪnnər 78
@@ -2222,6 +2242,7 @@ variːeːrər 77
 tɪdspʉŋkt 77
 spɪl 77
 skuː 77
+ʃ ɑːtɪlda 77
 sɪkt 77
 sɑnsynlɪɡviːs 77
 rɑsk 77
@@ -2308,6 +2329,7 @@ dɛltakɛlsa 75
 bəhɑnnlət 75
 ɑntas 75
 ɑdmiːnɪstratiːva 75
+kr ɛf 75
 iːn 75
 veːr 75
 frɛdriːk 75
@@ -2716,6 +2738,7 @@ iːdəntiːtət 64
 hypːiːɡeːra 64
 hɪstuːrɪsk 64
 hɛllɪɡviːs 64
+j ɑːtɪlda 64
 fɛmta 64
 daɪlɪ 64
 bʉstɑdbyɡːjeːlaɡɑ 64
@@ -2809,6 +2832,7 @@ dɔbːɛlveː 62
 stuːra 62
 stɔkkhɔlm 62
 rs 62
+parmɑ lɪŋk 62
 ɛŋkɛlta 62
 deːsɛmbər 62
 daɡən 62
@@ -2935,6 +2959,7 @@ leːvɛnna 59
 kɔnfeːrɑnsa 59
 klɔkːən 59
 kɑllt 59
+iː pad 59
 hyɡːeːlɪ 59
 hɛlseːveːseːnət 59
 jyllɪ 59
@@ -3381,6 +3406,7 @@ kʊrt 51
 diːn 51
 kanadɑ 51
 breːmɑŋər 51
+bliːks bluːɡ 51
 øːl 50
 vɪja 50
 veːɡar 50
@@ -3594,6 +3620,7 @@ spɪsta 47
 sɛnt 47
 sɑnsynlɪ 47
 sɑmlɪŋ 47
+rʃm ɑːtɪlda 47
 prp 47
 uːvartɑ 47
 ɔrɡaniːsɑʃuːnən 47
@@ -3880,6 +3907,7 @@ trɛŋta 43
 tiːoːr 43
 tɪlstɑnn 43
 syŋ 43
+str ɑːtɪlda 43
 strateːjiːən 43
 stɑkː 43
 spiːseːfɔrʃtyrrɛlsər 43
@@ -4076,6 +4104,7 @@ sɔrɡ 41
 suːnər 41
 ʃøːl 41
 ʃɛllan 41
+siːdəm ɑːtɪlda 41
 sɛlskapər 41
 sɛja 41
 samɑrbaɪdər 41
@@ -4362,6 +4391,7 @@ styrkəs 38
 stʉːdəntana 38
 strɑnnsuːnɑ 38
 stɛŋt 38
+spr ɑːtɪlda 38
 speːla 38
 skrɪtː 38
 ʃɪlt 38
@@ -4381,6 +4411,7 @@ uːvarrɑskɛnna 38
 ɔpːʃlʉtnɪŋ 38
 ɔpːrɛtːa 38
 ɔpːhav 38
+ɔmr ɑːtɪlda 38
 nøyɑktɪ 38
 nyːeːra 38
 neː 38
@@ -4488,6 +4519,7 @@ stoːanna 37
 styːrəsmɑktər 37
 stɪftɑ 37
 stɑtsroːd 37
+sp ɑːtɪlda 37
 skuːlana 37
 ʃœn 37
 skɛptɪsk 37
@@ -4574,6 +4606,7 @@ vɑnskeːliːɡeːra 36
 ʉnnarʃøːkɛlsən 36
 ʉxɛnta 36
 ʉːbəstɛmta 36
+teː ɑːtɪlda 36
 trʉssəl 36
 trɛtːiː 36
 tɔmt 36
@@ -4976,6 +5009,7 @@ nɛtːsiːdər 33
 mœrka 33
 moːla 33
 mɔtːar 33
+mɪj ɑːtɪlda 33
 løːpa 33
 lɛvd 33
 laɪɪŋ 33
@@ -5072,6 +5106,7 @@ stɪkːa 32
 spɪst 32
 suːveːruːm 32
 sɔllatər 32
+sn ɑːtɪlda 32
 skʉːəspɪllər 32
 ʃ 32
 ʃɪlnadər 32
@@ -5391,6 +5426,7 @@ reːliːjiːøːs 30
 reːaliːseːra 30
 poːlɑɡt 30
 pɔɡreːpət 30
+pr ɑːtɪlda 30
 pruːdʉːseːrər 30
 prɛstən 30
 puːliːtiːdɪstrɪkt 30
@@ -5533,6 +5569,7 @@ strateːjiːar 29
 stɛmmən 29
 stabiːliːtət 29
 speːsiːfɪkːa 29
+sm ɑːtɪlda 29
 smɪŋka 29
 ʃøːnar 29
 sɪktət 29
@@ -5973,6 +6010,7 @@ iːvareːtas 27
 ɪnniːmɛlluːm 27
 iːmɛlluːm 27
 iːɡɑŋsɑtː 27
+iː phuːna 27
 høyrɪŋsɪnstɑnsar 27
 hytːa 27
 hɪlsən 27
@@ -6537,6 +6575,7 @@ varnɑ 24
 vardɪ 24
 vɑnlɛɡviːs 24
 ʉtːrykːa 24
+ʉtf ɑːtɪlda 24
 ʉːtafuːr 24
 ʉːɔpːsaɪeːləɡ 24
 ʉŋɛna 24
@@ -6553,6 +6592,7 @@ tɛtːeːra 24
 tɛstʊsteːruːn 24
 tɛmmeːlɪ 24
 tɑkːər 24
+sv ɑːtɪlda 24
 sʉːr 24
 stʉːɑ 24
 sʂarna 24
@@ -6641,6 +6681,7 @@ fuːtɔɡraf 24
 fuːrɔrʃakər 24
 fɔrʃtuːd 24
 fɔrʃtarka 24
+fɔrn ɑːtɪlda 24
 fɔrbɑnnɑ 24
 fɔlkɛʃɪkː 24
 flyːtɛnna 24
@@ -6653,6 +6694,7 @@ fakeːbuːuːk 24
 ɛlleːva 24
 ɛksəmpɛlviːs 24
 dʉŋnad 24
+dr ɑːtɪlda 24
 dɔtːər 24
 diːvarra 24
 diːɑŋnʊstiːsart 24
@@ -7085,6 +7127,7 @@ parɑɡrafən 22
 uːvarkɑnt 22
 uːriːɛntart 22
 ɔrdɑ 22
+ɔpːl ɑːtɪlda 22
 ɔpːleːvɪŋar 22
 ɔpːlɑɡt 22
 ɔpːheːvɑ 22
@@ -7517,6 +7560,7 @@ vʉrdeːrɪŋar 21
 vɑllrəs 21
 ʉnniː 21
 ʉlleːvoːl 21
+ʉɪ uː 21
 tɔrjaɪr 21
 tiː 21
 tɑŋkən 21
@@ -7842,6 +7886,7 @@ bɑrnnuːm 20
 ɑnnɔnsər 20
 ɑnməllɛlsər 20
 aniːmɑʃɔnsseːriːa 20
+ɑlts ɑːtɪlda 20
 ɑktiːviːtətsniːvoː 20
 ɑksɛptart 20
 vɪnnɔvs 20
@@ -7855,6 +7900,7 @@ veːr 20
 vɛkstən 20
 vaɪt 20
 vɑn 20
+ʉɪ beː 20
 trʉːda 20
 tɑtː 20
 søːɡɔr 20
@@ -8136,6 +8182,7 @@ fɑktuːrar 19
 eːtɪsk 19
 ɛkspliːsɪtː 19
 ɛɡːstɔkːkrɛft 19
+eː aviːs 19
 døyr 19
 døːrər 19
 dɔrleːɡa 19
@@ -8465,6 +8512,7 @@ hɛl 18
 hɑnnlɪŋɑ 18
 ɡoːanna 18
 ɡʉːtar 18
+ɡr ɑːtɪlda 18
 ɡrʉnnaɪɡar 18
 ɡreːpət 18
 ɡrɛnseːuːvarʃkriːdɛnna 18
@@ -8721,12 +8769,14 @@ sprɔklɪ 17
 sprɔkləɡ 17
 spaɪlət 17
 smala 17
+ʃl ɑːtɪlda 17
 ʃliːtɑʃa 17
 ʃliːt 17
 ʃlɛpːər 17
 ʃlɛktɑ 17
 skrɪftkʉltʉːr 17
 ʃaːra 17
+ʃ ɑːtɪlda 17
 ʃarm 17
 ʃiːpɪŋɑ 17
 skɛptɪska 17
@@ -8884,6 +8934,7 @@ hɑnnlɪŋsplanər 17
 hɑmnɑ 17
 ɡʉːt 17
 ɡrʉnnɑ 17
+jɛnnɔmf ɑːtɪlda 17
 ɡeːneːrɑlsəkreːtaːr 17
 ɡɑrdana 17
 ɡɑŋɑ 17
@@ -9031,6 +9082,7 @@ møːta 17
 muːrən 17
 muːniːkɑ 17
 mɪnnra 17
+mɪj ɑːtɪlda 17
 meːɡadɛth 17
 mak 17
 maɪr 17
@@ -9134,6 +9186,7 @@ tvarrʃəktuːriːɛlt 16
 tvarrʃəktuːriːɛl 16
 trœst 16
 trøː 16
+tr ɑːtɪlda 16
 trykːət 16
 trɛnt 16
 tɪlstɑnnɛna 16
@@ -9369,6 +9422,7 @@ fuːrʉːmət 16
 fʊrtəllɪŋən 16
 fʊrtəjɪŋɑ 16
 fɔrʃvarər 16
+fɔrʃt ɑːtɪlda 16
 fɔrʃəllana 16
 fɔrplɪktət 16
 fɔrmɔlstɛnləɡ 16
@@ -9455,6 +9509,7 @@ anuːrɛksiː 16
 analyːseːra 16
 ɑmbɪʃuːnər 16
 ɑktiːviːteːtɛna 16
+yːuːʉː tʉːba 16
 vɪktɪ 16
 vɡ 16
 varksɛmdɑ 16
@@ -9502,6 +9557,7 @@ uːbamas 16
 nɔrrbɑkkrɑpːʊrtən 16
 nuːrɑrt 16
 nɑtː 16
+ɛnɛːr kbeːtɑ 16
 nb 16
 moː 16
 myrvɑŋ 16
@@ -9573,6 +9629,7 @@ brɪtː 16
 brɛnnər 16
 buːlɪɡbyɡːeːlɑɡviːsər 16
 buːlɪɡbyɡːeːlɑɡmaɪnər 16
+bj ɑːtɪlda 16
 bəstɪl 16
 bɛst 16
 basart 16
@@ -9972,6 +10029,7 @@ tɑllɛna 15
 tɑl 15
 søːn 15
 stoːr 15
+st ɑːtɪlda 15
 stɔrm 15
 spʊrtən 15
 snɔrra 15
@@ -10397,6 +10455,7 @@ jfr 14
 ɪnvənnɪŋər 14
 ɪnkɑllɪŋ 14
 ɪnføːrɪŋɑ 14
+ɪnf ɑːtɪlda 14
 ɪŋeːniːøːrər 14
 ɪnfɑrkt 14
 ɪnnʉstriːɛlla 14
@@ -10656,6 +10715,7 @@ lɛɡːər 14
 lɑnnstɑds 14
 lɑnnmɑrk 14
 lɑnnbrʉːkət 14
+lab uːrɑ 14
 kvɪnneːliːɡa 14
 kvɑrt 14
 kruːkən 14
@@ -11456,6 +11516,7 @@ vɑska 12
 vɑrmeːpʉmpa 12
 variːɑntər 12
 vɑnskeːlɪɡheːtər 12
+vɑnf ɑːtɪlda 12
 ʉtviːdɪŋ 12
 ʉtspɪl 12
 ʉtrydːa 12
@@ -11478,6 +11539,7 @@ vɑnskeːlɪɡheːtər 12
 ʉːsɪkːarheːtən 12
 ʉrbana 12
 ʉnɡɔtː 12
+ʉnnaʃ ɑːtɪlda 12
 ʉnnarliːɡa 12
 ʉːmɔɡləɡ 12
 ʉːlɔvliːɡa 12
@@ -11786,6 +11848,7 @@ kɔmbiːnarta 12
 knytːɑ 12
 kneː 12
 kløːr 12
+kl ɑːtɪlda 12
 klʊstər 12
 klɑssiːkeːra 12
 klɑsseːdeːlɪŋstalɑ 12
@@ -11881,6 +11944,7 @@ friːlʉftʃlɪvspuːliːtɪkːən 12
 friːlʉftʃlɪvsɔrɡaniːsɑʃuːnana 12
 friːeːra 12
 frɛmɡɑŋ 12
+frɛmf ɑːtɪlda 12
 frɛlst 12
 frɑmstoː 12
 framɪfroː 12
@@ -12065,6 +12129,7 @@ suːsiːala 12
 sɔmmarən 12
 suːmɑ 12
 suːsiːeːdad 12
+sn ɑːtɪlda 12
 skuːleːkɑmmeːrət 12
 ʃɪfteːrɛtːən 12
 shuːv 12
@@ -12145,6 +12210,7 @@ kɔmmɪʃuːnən 12
 knʉːd 12
 klaːr 12
 klaɡa 12
+x ɑːtɪlda 12
 xɛmpa 12
 xiːnuː 12
 xiːəl 12
@@ -12197,6 +12263,7 @@ eːʉːkɔntrɔl 12
 dɔrlɪ 12
 dɔrləɡ 12
 duːrɑ 12
+diːn siːda 12
 dɛls 12
 daviːk 12
 daɡa 12
@@ -12305,6 +12372,7 @@ vɔrt 11
 ʉtdɑnnɪŋsɪnstiːtʉʃuːnər 11
 ʉtbyɡːjar 11
 ʉːtɑrbaɪdɛlsən 11
+ʉnɡ ɑːtɪlda 11
 ʉŋdɔmsbøːkər 11
 ʉŋdɔmmar 11
 ʉklara 11
@@ -12755,6 +12823,7 @@ framuːm 11
 frɑmɡɑŋ 11
 fuːtɔɡrafən 11
 fɔrʃœplɪŋ 11
+fɔʃ ɑːtɪlda 11
 fɔrʃvʉnnət 11
 fɔrʃkuːt 11
 fɔrʃknɪŋs 11
@@ -12878,6 +12947,7 @@ biːər 11
 bəvɑrt 11
 bətrɑktət 11
 bətrɑkteːlɪ 11
+beːs ɑːtɪlda 11
 bəstɪllər 11
 bəʃytːɛnna 11
 bərɑ 11
@@ -12924,6 +12994,7 @@ ad 11
 ɑkʃuːn 11
 ɑbsuːlʉtːa 11
 abɔnnɛnt 11
+vɔr prɛs 11
 var 11
 voːɡa 11
 vuːn 11
@@ -12977,6 +13048,7 @@ snøː 11
 skʉll 11
 ʃɔllən 11
 ʃɛllɛstad 11
+ʃ ɑːtɪlda 11
 ʃeːfən 11
 sɛntrɑlbyːroː 11
 sɛŋkvɛll 11
@@ -13030,6 +13102,7 @@ mʉːhɑmməd 11
 mʉːhɑmmad 11
 muːta 11
 muːdarna 11
+mɪtː ɔpːdraɡ 11
 miːmiː 11
 mɪdtœstən 11
 mark 11
@@ -14062,6 +14135,7 @@ treːnər 10
 travəl 10
 trɑnstrøːmər 10
 trafɪkː 10
+tɔrʃtaɪn tiːl tɪŋət 10
 tɔrmuːd 10
 tɔrfɪn 10
 ʂeːnɛstən 10
@@ -14083,6 +14157,7 @@ svɛnskɛna 10
 svɛlɡən 10
 svaɪnʉŋ 10
 sʉrnadal 10
+stʉːdɛntm ɑːtɪlda 10
 stʉːdəntana 10
 strœmsɡɔdsət 10
 striːd 10
@@ -14142,6 +14217,7 @@ pdeː 10
 ʊsteːuːpuːruːsa 10
 ɔsluːbyː 10
 ɔslɑnn 10
+ɔrɡəl safariː sɔŋn 10
 ɔpːlysnɪŋ 10
 ɔpːeːdal 10
 ɔpnɪŋ 10
@@ -14153,6 +14229,7 @@ nɔrdɑhl 10
 nɪstad 10
 niː 10
 nɛs 10
+neːsɔdː hʉːsət 10
 nɑʃuːnɑlbʉdʃɛtːət 10
 nyːheːtər 10
 møːtər 10
@@ -14246,6 +14323,7 @@ hoːɡɛnsən 10
 ɡʉnhɪll 10
 ɡʉdbrɑnnsdalən 10
 ɡrasviːk 10
+ɡr ɑːtɪlda 10
 ɡrʉn 10
 ɡruːʉːpɔnpriːs 10
 ɡrɛnnalaɡət 10
@@ -14258,6 +14336,7 @@ j 10
 ɡʉlt 10
 ɡluːbalɪsmən 10
 jɪssəllramaːt 10
+fr ɑːtɪlda 10
 frɪtː 10
 frɪsk 10
 friːlʉftsroːd 10
@@ -14393,6 +14472,7 @@ vɪŋɛna 9
 vɪnnʉːɛna 9
 vɪnnkrɑft 9
 vɪllət 9
+vɪlk ɑːtɪlda 9
 viːdeːreːʉtdɑnnɪŋ 9
 vɡ 9
 vɛstlɑnnət 9
@@ -14897,6 +14977,7 @@ kriːseːhɔnnteːrɪŋ 9
 krɪns 9
 krɪŋuːm 9
 krɛŋkət 9
+krɑftleːveːrɑnn ɑːtɪlda 9
 krɑftiːɡeːra 9
 kʊstnɑdsəffɛktɪvt 9
 kɔrriːɡart 9
@@ -15223,6 +15304,7 @@ bʉːsətːɪŋsmœnsteːrət 9
 bʉksɛna 9
 brœdra 9
 broː 9
+br ɑːtɪlda 9
 brʉːn 9
 brʉːkaraɪɡəprɪnsɪpːət 9
 brɔan 9
@@ -15240,6 +15322,7 @@ buːlɪɡbrɑn 9
 bɔkhɑnneːlən 9
 bɔɪkɔtːa 9
 blœdnɪŋ 9
+bl ɑːtɪlda 9
 bjœrɡ 9
 bɪllətːsɑlɡət 9
 biːlɪstər 9
@@ -15409,6 +15492,7 @@ suːliːdariːtət 9
 sɔlfriːd 9
 sɔŋns 9
 sɔŋnəfjəlsveːɡən 9
+smiː uː 9
 skoːr 9
 skriːvɑ 9
 skuːɡa 9
@@ -15431,6 +15515,7 @@ sɛksʉːɛlla 9
 saɪər 9
 seːbɑstiːan 9
 ʃuːʉː 9
+skan vafər 9
 skan 9
 sɑnnviːkən 9
 samɔrdnɑ 9
@@ -15540,6 +15625,7 @@ lɑnnhɑnnlar 9
 lɑnnbrʉːk 9
 lɑnsiːɑ 9
 loːka 9
+kvɑmma ʃɛlseːɑɑrʃeːnal 9
 krɔɡsveːən 9
 kriːmiːnɑlsuːɡər 9
 kriːɡ 9
@@ -15629,6 +15715,7 @@ fylkəsləksiːkuːn 9
 fylkəskɔmmʉːna 9
 frɪdʂɔfs 9
 frɛlseːsɑrmeːən 9
+fr ps 9
 fɔssən 9
 fɔrʃkrɪftən 9
 fɔrʃɪŋ 9
@@ -16256,6 +16343,7 @@ nɔrdɪskbɑltɪska 8
 nɔrdɪskbɑltɪsk 8
 nɔɡla 8
 nuːbɛlpriːs 8
+niːv ɑːtɪlda 8
 niːɛnna 8
 nɛtːɛna 8
 nɛtːaviːsɛna 8
@@ -16964,6 +17052,7 @@ tybrɪŋjɛdːa 8
 tʉːsɛnviːs 8
 tʉːrən 8
 tʉrbuːneːɡər 8
+tr ɑːtɪlda 8
 trɔnviːk 8
 trɛŋʃlɑ 8
 treːkɑnt 8
@@ -17002,7 +17091,9 @@ sʉːn 8
 sʉːmar 8
 stʉnnər 8
 stʉːdɛntər 8
+str ɑːtɪlda 8
 streːət 8
+strɑnn tɔtːɛnhammɑnʃɛstər 8
 stɔklɑnn 8
 steːfan 8
 steːda 8
@@ -17019,6 +17110,7 @@ suːʉth 8
 sʊnnra 8
 sɔlʃyɡːa 8
 sɔŋnɪŋən 8
+suːdɑ streːam 8
 snøːən 8
 snɛkːər 8
 snɑkːər 8
@@ -17347,6 +17439,7 @@ eːpiːdeːmiːuːl 8
 ɛnnuː 8
 ɛŋkəl 8
 ɛmneːɔr 8
+eːmeːdiːata ad 8
 ɛllɛvsət 8
 eːləktruːnɪsk 8
 aɪthʉːn 8
@@ -17395,6 +17488,7 @@ brʉːʉːn 8
 brɪksdɑlsbreːən 8
 brɛnnɪŋ 8
 buːr 8
+buːlɪ hɑnnəl 8
 bɔkfəstiːval 8
 buːkən 8
 blɔɡːɪŋ 8
@@ -18118,6 +18212,7 @@ mɔrɡənnaɡəns 7
 muːdʉːlər 7
 muːdiːɡa 7
 muːbiːliːtɛts 7
+m hɡ 7
 mjʉːk 7
 mɪʃlykːɑ 7
 mɪsfɔrʃtɔtː 7
@@ -18164,6 +18259,7 @@ manaɡər 7
 malɪŋnt 7
 mɑksbʉːd 7
 makən 7
+ɛm peː 7
 løypa 7
 lœrdaɡən 7
 lœnsvɛkst 7
@@ -18243,6 +18339,7 @@ lɑprəs 7
 xøyreːtøy 7
 koːrəs 7
 koːrɑ 7
+koː ɑːtɪlda 7
 xyssa 7
 xyrxɛna 7
 xyːnɪsk 7
@@ -18365,6 +18462,7 @@ kɑmpar 7
 kameːraːna 7
 kɑllɛst 7
 kakɛna 7
+koː vh 7
 jøːdana 7
 jʉsteːra 7
 jʉːleːbuːrda 7
@@ -18516,6 +18614,7 @@ hɑnnvark 7
 ɡuː 7
 ŋnɪstən 7
 ɡlœtː 7
+ɡl ɑːtɪlda 7
 ɡliːdɛnna 7
 ɡlɑ 7
 jœdsəl 7
@@ -18603,6 +18702,7 @@ fɔrmʉːəskɑtːən 7
 fɔrmlər 7
 fɔrmɑst 7
 fɔrkʉnskapər 7
+fɔrh ɑːtɪlda 7
 fɔrfɛdra 7
 fuːrəstɪllɪŋɑ 7
 fuːrəspœrʃlər 7
@@ -18675,6 +18775,7 @@ eːpiːdeːmiːər 7
 ɛnsɑrtət 7
 ɛŋkəltɪnniːviːdər 7
 eːnarjiːmiːnɪstər 7
+ɛnn ɑːtɪlda 7
 ɛnnnʉː 7
 ɛmnɑ 7
 ɛlsən 7
@@ -18697,6 +18798,7 @@ eːɡɔɪstɪsk 7
 ɛŋnɑ 7
 eːɡənskapɛna 7
 eːɡəŋkɔntrɔl 7
+eː sɛt 7
 eːpʊstən 7
 dœmmər 7
 dœmma 7
@@ -18807,6 +18909,7 @@ bəʉnnrər 7
 bətɛŋnər 7
 bəsləkteːda 7
 bəʃytːəlsɛsreːjiːmət 7
+beːr ɑːtɪlda 7
 bənɑ 7
 bəlyst 7
 bəlɑstnɪŋʃliːdɛlsər 7
@@ -19023,6 +19126,7 @@ stɑnn 7
 stabɛːk 7
 spœrrəʃeːmɑ 7
 sps 7
+spr ɑːtɪlda 7
 spuːtiːfyː 7
 spʊrtsreːdɑktøːr 7
 spʊrtsbɪlleːɡɛnnən 7
@@ -19102,6 +19206,7 @@ rɪɡhts 7
 rɛtːfardɪɡhət 7
 rɛstyːlana 7
 reːk 7
+rɛnnəs ɑːtɪlda 7
 reːmɑ 7
 raɪs 7
 raɪdʉːn 7
@@ -19161,13 +19266,16 @@ uːʉslɑnn 7
 uːpəl 7
 ɔmtalana 7
 uːjalɑ 7
+ɔɡs ɑːtɪlda 7
 uːdɑ 7
 ɔkt 7
 uːdiːn 7
+uːbeːuː sviːsər 7
 nøyɑktɪ 7
 naːrɪŋsʉtvɪklɪŋ 7
 nyːnɔrʃkeːleːvar 7
 nyːhətskanalən 7
+nr koː 7
 nuːv 7
 nɔrvɪʃ 7
 nɔrdplʉːs 7
@@ -19217,6 +19325,7 @@ meːkanɪsk 7
 mɛɡlɪŋ 7
 meːdiːkamɛntɛl 7
 meːkuːm 7
+mk kɑrtneːyː 7
 mɑsdɑ 7
 mɑːyːeːrʉːs 7
 mɑːyːən 7
@@ -19376,6 +19485,7 @@ hiːv 7
 hbuːz 7
 ɡɔrʃdaɡəns 7
 jymnas 7
+jyllɛnl ɑːtɪlda 7
 ɡʉdmʉnn 7
 ɡrœnt 7
 ɡrʉpːəns 7
@@ -19528,10 +19638,12 @@ biːn 7
 bɪlfɔrʃɪkrɪŋ 7
 biːlər 7
 bɪlløːən 7
+biːl aɪər 7
 bɪdraɡ 7
 bənnɪksbyː 7
 bəllɑ 7
 batɑllən 7
+basa kɑmp 7
 bɑrneːɔmbʉːda 7
 biːl 7
 bfd 7
@@ -19943,6 +20055,7 @@ stʉːdiːeːrətnɪŋana 6
 stʉːdiːəplɑssar 6
 stʉːdiːeːloːn 6
 stʉːdiːeːaɪnɪŋar 6
+stʉːdɛntm ɑːtɪlda 6
 striːr 6
 strɪpːəklʉbːən 6
 striːpa 6
@@ -20094,6 +20207,7 @@ sɛlvpoːfœrta 6
 sɛlvmɔrdstɑŋkər 6
 sɛlvmɔrdsratən 6
 sɛlvɪnsɪkt 6
+sɛlvf ɑːtɪlda 6
 sɛlvfɔrʃvar 6
 seːkʉnnaːra 6
 sɛktɔrmynnɪɡheːtɛna 6
@@ -20205,6 +20319,7 @@ rɛfləkʃuːnar 6
 reːfeːratət 6
 reːdəjøːrəs 6
 reːdəjɔrda 6
+reːdɑkt ɑːtɪlda 6
 reːdɑkʃuːn 6
 reːalɪsmən 6
 rb 6
@@ -20271,6 +20386,7 @@ pʊrtrɛtː 6
 pʊrtən 6
 pʊrtal 6
 pɔrnʊsʂarnər 6
+puːpʉːl ɑːtɪlda 6
 pɔlkamasʉrkɑstəɡ 6
 puːliːtɪstɑʃuːnən 6
 puːliːtiːmɛstər 6
@@ -20326,18 +20442,21 @@ uːvarrɛpreːsɛntart 6
 uːvarnɑtːət 6
 uːvarlatən 6
 uːvarføːrɪŋar 6
+uːvarf ɑːtɪlda 6
 uːvardreːvən 6
 uːvardrajɪŋ 6
 ɔrkəsteːrət 6
 ɔrkɛstər 6
 uːriːjiːnalən 6
 ɔrɡanɛna 6
+ɔrdf ɑːtɪlda 6
 ɔrdəns 6
 ɔrdbrʉːkən 6
 ɔpːtɑkt 6
 ɔpːstuːda 6
 ɔpːrɪktɪ 6
 ɔpːuːsɪʃuːnɛlla 6
+ɔpːn ɑːtɪlda 6
 ɔpːnɛmnna 6
 ɔpːmarxɪŋ 6
 ɔpːlœst 6
@@ -20434,6 +20553,7 @@ nɛlyː 6
 nɛdsɛtː 6
 nɛdfɛlləs 6
 neːdarlaɡət 6
+nɛdb ɑːtɪlda 6
 nɛdbeːtɑlt 6
 nneːr 6
 nasɪsmən 6
@@ -20618,6 +20738,7 @@ lɪvsɡrʉnlaɡət 6
 lɪvrɛdːa 6
 lɪvmɔrkrɛft 6
 liːvər 6
+lɪtːər ɑːtɪlda 6
 lɪtːeːratʉrviːtɛnskap 6
 liːnər 6
 lɪnnra 6
@@ -21100,6 +21221,7 @@ fuːrɔrdnɪŋər 6
 fuːrɔrdnɪŋ 6
 fɔrnʉftiːɡa 6
 fɔrmɔlsparɑɡrafana 6
+fɔrm ɑːtɪlda 6
 fɔrmʉːleːrər 6
 fɔrmʉːɛskɑtː 6
 fɔrmʉːən 6
@@ -21289,6 +21411,7 @@ dɔmmeːra 6
 duːkʉːməntarɪsk 6
 dɔɡmatɪska 6
 dɔbːəltɑrbaɪd 6
+dl ɑːtɪlda 6
 djʉːp 6
 djeːveːləns 6
 dɪstrɪktər 6
@@ -21483,6 +21606,7 @@ babyːən 6
 ɑvkɑl 6
 ɑvhɔllər 6
 ɑvhɑnnlɪŋɑ 6
+ɑvj ɑːtɪlda 6
 ɑvjɪftssysteːmət 6
 ɑvfɑlsreːdʉkʃuːn 6
 aʊtuːnuːmiː 6
@@ -21586,6 +21710,7 @@ ymsa 6
 yːɑŋkeːa 6
 vɪnsɛnts 6
 vɪlsnɑkk 6
+viːxiː leːɑks 6
 vɛstiːn 6
 varnər 6
 vɛdviːk 6
@@ -21610,6 +21735,7 @@ vaɪlədnɪŋər 6
 vaɪlɛdnɪŋ 6
 vɛɡveːseːnət 6
 vaʊlən 6
+vɑssdrɑɡsmɪj ɑːtɪlda 6
 vɑrʃəl 6
 variːart 6
 vɑnlɪɡviːs 6
@@ -21648,6 +21774,7 @@ vaɪt 6
 tʉsviːk 6
 tʉːrɪststɑʃuːn 6
 trɛːdal 6
+trɔms ɑːtɪlda 6
 trɛŋ 6
 trɛnnər 6
 trɛdja 6
@@ -21738,6 +21865,7 @@ stɑkːɑʃ 6
 stadən 6
 stɔlnɑkka 6
 stoːl 6
+sp ɑːtɪlda 6
 spʉrv 6
 spɪllər 6
 spɪlleːlɪstər 6
@@ -21750,6 +21878,7 @@ suːlən 6
 sɔŋnɛfjɔr 6
 snɑkːət 6
 snɑkː 6
+smiː beː 6
 smartɛna 6
 smartən 6
 smoːleːnɛna 6
@@ -21778,6 +21907,7 @@ sɪmpsɔns 6
 sɪkːart 6
 sɪɡrʉːn 6
 sɪɡmʉnn 6
+siːdəm ɑːtɪlda 6
 seːt 6
 seːriːər 6
 sɛntrɑlstyːrɛts 6
@@ -21911,6 +22041,7 @@ nyːdyrxɪŋ 6
 nɔrman 6
 nɔrhaɪm 6
 nɔrdstuːɡɑ 6
+nɔrtr ɑːtɪlda 6
 nuːrɑlv 6
 nuːuːmiː 6
 nuːmiːnart 6
@@ -21969,6 +22100,7 @@ miːriːam 6
 miːnɪstrɛna 6
 miːnɪstarrɔdsmøːtət 6
 miːnɪstarhuːtɛllət 6
+mɪdt ɑːtɪlda 6
 mɪdtbøː 6
 mɪdlartiːdɪ 6
 mɪʃəl 6
@@ -22116,6 +22248,7 @@ jarnbaneːvarkət 6
 jeːreːmiːɑssən 6
 jɛnta 6
 jɑz 6
+javɑ skrɪpt 6
 jɑnsuːn 6
 jadɑ 6
 joːbɛːk 6
@@ -22275,6 +22408,7 @@ fɔrbuːd 6
 fɔrbeːreːdər 6
 fuːrɑnnrɪŋər 6
 fɔlluːpʉls 6
+fuː ʉːɑrbaɪd 6
 fløyən 6
 flɔmsbanɑ 6
 fluːliːd 6
@@ -22349,6 +22483,7 @@ duːnɑll 6
 dɔmxɪrkən 6
 dɔɡː 6
 dɔbːɛlt 6
+dn ɛf 6
 dɪktɛna 6
 diːa 6
 dɪdriːk 6
@@ -22382,6 +22517,7 @@ kɑrriːa 6
 kanal 6
 kɑmpbɛl 6
 kvd 6
+kt deːn 6
 kr 6
 kdruːm 6
 kɑff 6
@@ -22658,6 +22794,7 @@ vajiːnuːsa 5
 ʉtnɛmnt 5
 ʉtnɛmnn 5
 ʉtmarkɑ 5
+ʉtl ɑːtɪlda 5
 ʉtlaɪa 5
 ʉtxɪkː 5
 ʉtkɑntkɔmmʉːnar 5
@@ -22825,6 +22962,7 @@ tuːbɑkːsskadeːroːd 5
 ʂʉːveːriː 5
 ʂeːnəsteːyːtɛnna 5
 ʂeːneːra 5
+tiː ɑːtɪlda 5
 tiːtʉːseːnər 5
 tɪtːər 5
 tɪtːa 5
@@ -23639,6 +23777,7 @@ uːʉːt 5
 ɔpːjeːvən 5
 ɔpːjɪtːa 5
 ɔpːfœlŋnɪŋ 5
+ɔpːf ɑːtɪlda 5
 ɔpːfyllɑst 5
 ɔpːfɔrdrar 5
 ɔpːdrətːarana 5
@@ -23936,6 +24075,7 @@ luːkalaviːsər 5
 luːkalaviːsən 5
 luːjal 5
 luːjɪska 5
+luː rdks 5
 lɪvstɪdsriːsiːkɔan 5
 lɪvssynsʉnnarvɪsnɪŋ 5
 lɪvsstɪlstɪltak 5
@@ -24091,6 +24231,7 @@ kɔmpiːsər 5
 kɔmpeːtɑnseːsɛntrɑ 5
 kɔmpeːtɑnseːɔpːbyɡːɪŋ 5
 kɔmpeːtɑnseːɔmroːda 5
+kɔmpeːtɑnsəm ɑːtɪlda 5
 kɔmpeːtɑnseːbeːviːs 5
 kɔmpɛnsart 5
 kɔmmʉːnɪstɪsk 5
@@ -24233,6 +24374,7 @@ iːpad 5
 ɪntarvənʃuːnər 5
 ɪntarnɑʃuːnaliːseːrɪŋ 5
 ɪnteːriːøːrət 5
+ɪnteːriː ɑːtɪlda 5
 ɪnteːrɛsseːɔrɡaniːsɑʃuːnər 5
 ɪntər 5
 ɪntənsiːvart 5
@@ -24300,6 +24442,10 @@ iːɡɑŋsɛtːa 5
 iːdeːɛl 5
 iːdeːal 5
 iːbiːsɑ 5
+iː trɔmsøː 5
+iː puːd 5
+iː ɔsluː 5
+iː mak 5
 høyskuːlər 5
 høyrɪŋɑ 5
 høydeːpʉŋktɛna 5
@@ -24337,6 +24483,7 @@ huːvʉdːeːlən 5
 huːveːdɔrʃakən 5
 huːvədparʃuːnən 5
 huːveːdɔrɡaniːsɑʃuːnəns 5
+huːvɛdm ɑːtɪlda 5
 huːvədfɔrmoːl 5
 huːvədbʉdskap 5
 hɔtːɛsta 5
@@ -24640,6 +24787,7 @@ fuːrɛllrəs 5
 fuːrɛllər 5
 fuːrəksɛmpəl 5
 fuːreːkuːm 5
+fuːrəɡ ɑːtɪlda 5
 fɔrdɛlta 5
 fɔrdeːlɪŋsnœkːeːlən 5
 fɔrbrʉːkeːrɪnflyːtɛlsa 5
@@ -24649,6 +24797,7 @@ fɔrbɑnnɛlsa 5
 fɔlkətrɔan 5
 fɔlkeːsətnadən 5
 fɔlkeːsɛtnad 5
+fɔlkər ɑːtɪlda 5
 fɔlkeːriːka 5
 fɔlkeːhœɡskuːla 5
 fɔlkeːhɛlsɑ 5
@@ -24898,6 +25047,7 @@ dataruːm 5
 dɑnsknɔrʃk 5
 dɑnsɪŋ 5
 dɑɡlɪɡdɑɡsa 5
+deː bɑ 5
 kʉpkakəs 5
 kʉːp 5
 krasyː 5
@@ -25386,6 +25536,8 @@ taliːban 5
 talən 5
 tal 5
 tabɛllər 5
+teː veːn 5
+teːveː nɔrɡa 5
 teːveːsɛnnɪŋar 5
 teːveːprɔɡram 5
 teː 5
@@ -25452,6 +25604,7 @@ stɑtliːɡa 5
 statɪstɪkːsɛntər 5
 stat 5
 stɑʃuːn 5
+stab ɑːtɪlda 5
 spoːr 5
 sprɔknytː 5
 sprɑŋ 5
@@ -25613,6 +25766,7 @@ rɑffiːnart 5
 ɛːrɛsɛsfeːəd 5
 rr 5
 reːʉːtaʃ 5
+kwiːs dan 5
 kwɪslɪŋ 5
 kwaliːtyː 5
 poːmɛllɪŋ 5
@@ -25632,6 +25786,7 @@ prɛsseːsɛntər 5
 prɑksiːs 5
 pʊnnʉːs 5
 plɑːystaʃuːn 5
+plɑːyː staʃuːn 5
 plɑnlɛɡːər 5
 planət 5
 planana 5
@@ -25707,6 +25862,7 @@ uːlɑsprɪntən 5
 uːkeːaniːs 5
 uːmuːd 5
 ɔakdlɑnn 5
+uːbeːuː smaɪnər 5
 naːrøyfjɔrdən 5
 narmər 5
 naːrɪŋsʉtvɑlɡət 5
@@ -25714,6 +25870,7 @@ naːrɪŋspɑrk 5
 naːrɪŋən 5
 nɛːr 5
 nyːlɑnn 5
+nyːɡ ɑːtɪlda 5
 nyːɡɔr 5
 nyːdalən 5
 nyːoːleːsʉnn 5
@@ -25919,6 +26076,7 @@ lɪtː 5
 liːmeːrɪkk 5
 lh 5
 kɔfjɔr 5
+kviːtɛbj ɑːtɪlda 5
 kvɛllɛstad 5
 kvɑmsøy 5
 kʉrvən 5
@@ -25943,6 +26101,7 @@ krɪŋlɑ 5
 krɑftʉtbyɡːɪŋɑ 5
 krɑftlaɡ 5
 krɑftɪ 5
+kr fs 5
 kɔrxa 5
 kuːrɪnt 5
 kɔntɔrrɛkviːsiːtɑ 5
@@ -26095,6 +26254,7 @@ hɪmməl 5
 hɪlmar 5
 hɪl 5
 heːva 5
+hɛːr ɑːtɪlda 5
 harnəs 5
 harfrɑ 5
 hɛnrɪkssuːn 5
@@ -26155,6 +26315,7 @@ jymsalən 5
 ɡɔllən 5
 ɡɔdviːk 5
 ɡluːvfeːbər 5
+ɡluː miːneːrɑls 5
 ɡluː 5
 ɡlɛn 5
 ɡlɛm 5
@@ -26325,6 +26486,7 @@ dyːreːbɛʃytːɛlsən 5
 dvarɡsdɑlsdalən 5
 drœftɪŋ 5
 drɛːɡeːliːd 5
+dr ɑːtɪlda 5
 drʉːvɑ 5
 dreːam 5
 drap 5
@@ -26393,6 +26555,7 @@ bʉːyː 5
 bʉːtɪkːana 5
 bʉstœtːɑ 5
 bʉːrətːʃluːvʉtvalət 5
+br ɑːtɪlda 5
 bryːtər 5
 bryːn 5
 bryɡːa 5
@@ -26701,6 +26864,7 @@ varnɛplɪkt 4
 varneːɔmroːdɑ 4
 varneːɔmbʉːd 4
 varktøylɪnjɛna 4
+varkt ɑːtɪlda 4
 varktyː 4
 varkər 4
 varkeːmɪdːəlbrʉːkən 4
@@ -26749,6 +26913,7 @@ vɛdliːkeːhɔlləs 4
 vɛdliːkeːhɑllsplɪkt 4
 vd 4
 vɑtnɑ 4
+vɑssdrɑɡsɔmr ɑːtɪlda 4
 vɑssdrɑɡsɪnɡrəp 4
 vɑskeːruːm 4
 vɑskar 4
@@ -26866,6 +27031,7 @@ vaɡa 4
 ʉtbɛtrɑ 4
 ʉtbɛdrɪŋ 4
 ʉːtɑrbaɪdɑst 4
+ʉːtɑnfr ɑːtɪlda 4
 ʉːsʉnt 4
 ʉːsʉn 4
 ʉstabiːla 4
@@ -26986,6 +27152,7 @@ tryɡdeːsysteːmət 4
 tryɡdɑ 4
 trʉɡsmoːl 4
 trʉːfɑst 4
+truːsɔpːl ɑːtɪlda 4
 trɔŋara 4
 truːnər 4
 trɔlxarrɪŋ 4
@@ -27062,6 +27229,7 @@ tɪlløːp 4
 tɪllət 4
 tɪllatɑst 4
 tɪlhøyrɑnna 4
+tɪlh ɑːtɪlda 4
 tɪlhəŋarna 4
 tɪljiːr 4
 tɪlfœrta 4
@@ -27092,6 +27260,7 @@ tiːɑnna 4
 tiːɑ 4
 tiːa 4
 thiːs 4
+th uːf jʉːlyː 4
 tɛvlɪŋ 4
 tɛstɪklər 4
 tarrʊrtala 4
@@ -27430,6 +27599,7 @@ sɔllatən 4
 sɔlbrɪllɛna 4
 suːlariːʉːm 4
 sɔkneːsɛlskap 4
+sɔknər ɑːtɪlda 4
 sɔknɑ 4
 sɔkːər 4
 snøːvaːrət 4
@@ -27498,6 +27668,7 @@ skʉːleːbɔrnɑ 4
 skʉllɪ 4
 skʉllar 4
 skʉːər 4
+skr ɑːtɪlda 4
 skriːveːfardɪɡheːtər 4
 skriːveːbuːr 4
 skrɪtːət 4
@@ -27730,6 +27901,7 @@ saɡ 4
 soːɡuː 4
 røykfriː 4
 røykɛstɑrt 4
+røyk ɛfɛːriː 4
 rœst 4
 rœdløːk 4
 roːk 4
@@ -28140,6 +28312,7 @@ uːriːəntɑlska 4
 ɔrdtakət 4
 ɔrdrətːɪŋsprɔɡram 4
 ɔrdnar 4
+ɔrdiːn ɑːtɪlda 4
 ɔrdføːrarana 4
 ɔrdfɔrroːd 4
 ɔrdənsrɛɡlar 4
@@ -28153,6 +28326,7 @@ uːriːəntɑlska 4
 ɔpːtɑksmuːdɛl 4
 ɔpːtɑksfɔrʃkrɪftən 4
 ɔpːsœxər 4
+ɔpːst ɑːtɪlda 4
 ɔpːstɑrtsoːr 4
 ɔpːstɑrtsmøːta 4
 ɔpːʃlaɡət 4
@@ -28237,6 +28411,7 @@ uːliːvən 4
 ɔffiːseːrar 4
 ɔffiːsər 4
 ɔffeːrɛts 4
+ɔbsarvat ɑːtɪlda 4
 ɔbsarvɑʃuːn 4
 nœkːəl 4
 nœdvɛnnɪŋ 4
@@ -28258,6 +28433,7 @@ noːɡən 4
 noːdɪ 4
 noːdən 4
 nytːɔrʃɑftən 4
+nytː ɑːtɪlda 4
 nyːtəs 4
 nyskɑpnɪŋ 4
 nyskapɛnna 4
@@ -29011,6 +29187,7 @@ kɑlkʉːlart 4
 kalənneːroːr 4
 koːstyːra 4
 jɛːvəl 4
+jeː ɑːtɪlda 4
 jʉstɪsmiːnɪsteːrən 4
 jʉsteːrəs 4
 jʉssən 4
@@ -29092,10 +29269,12 @@ iːpuːdən 4
 ɪnlɛmmət 4
 ɪnleːda 4
 ɪnxœpta 4
+ɪnh ɑːtɪlda 4
 ɪnhɔllsriːk 4
 ɪnhɔllsməssiːɡa 4
 ɪnhɛntəs 4
 ɪnhɛntər 4
+ɪnɡ ɑːtɪlda 4
 ɪnfœdːa 4
 ɪnflytnɪŋən 4
 ɪnnarʃta 4
@@ -29150,6 +29329,7 @@ iːdeːalət 4
 iːdeːalɑ 4
 iːbɔanna 4
 ɪblɑnnt 4
+iː kɑrlyː 4
 høyrəs 4
 høyraɪsta 4
 høyreːɛkstrəm 4
@@ -29186,6 +29366,7 @@ hʉrtiːɡeːra 4
 hʉrtɪɡboːtən 4
 hʉnnreːtʉːseːnər 4
 hʉnnar 4
+hʉːm ɑːtɪlda 4
 hʉmrər 4
 hʉmmər 4
 hʉmlɑ 4
@@ -29202,6 +29383,7 @@ huːvʉdvɛkt 4
 huːvʉdprɪnsɪpː 4
 huːvʉːdɔpːɡoːvɑ 4
 huːvʉdmoːlət 4
+huːvʉdm ɑːtɪlda 4
 huːvʉdhʉːsət 4
 huːvʉdføːreːmoːl 4
 huːvʉdfɔrmər 4
@@ -29233,6 +29415,7 @@ hɔlləplɑssən 4
 huːdeːpiːnən 4
 hm 4
 hk 4
+j ɑːtɪlda 4
 jʉllaɡər 4
 jartɛts 4
 jarteːbɑŋk 4
@@ -29367,6 +29550,7 @@ jyllən 4
 ɡrʉː 4
 ɡruːtɛska 4
 ɡruːbʉn 4
+ɡriːsər viːdeːɔar 4
 ɡreːv 4
 ɡreːsiːdɑ 4
 ɡrɛnsəsnɪtːət 4
@@ -29712,6 +29896,7 @@ flyːraɪsər 4
 flyːkɑptaɪn 4
 flɔtːɑsta 4
 flɑɡːər 4
+fj ɑːtɪlda 4
 fjɔrdɪŋar 4
 fjarnstyrta 4
 fjɛltʉːrər 4
@@ -29853,6 +30038,7 @@ eːmɔʃuːnɛlla 4
 ɛmbeːta 4
 ɛmbɑllɑʃeːɑvfɑl 4
 ɛlvar 4
+ɛlspuːtɔmr ɑːtɪlda 4
 ɛlskeːda 4
 ɛlleːvɪlla 4
 eːləvɡrʉpːər 4
@@ -30184,6 +30370,7 @@ blɑŋkɛtːər 4
 blɑnneːda 4
 blɑkːa 4
 biːtɪŋ 4
+bɪspəd ɑːtɪlda 4
 bɪskuːpər 4
 bɪpruːdʉktər 4
 biːuːtɛknuːluːjiː 4
@@ -30229,6 +30416,7 @@ bətalɪŋskrav 4
 bəsynnarlɪ 4
 bəsvɑrta 4
 bəsvɑrt 4
+bɛst ɑːtɪlda 4
 bəstɪllɪŋər 4
 bəsteːmœdra 4
 bəsteːfuːrɛllrɑ 4
@@ -30319,6 +30507,7 @@ boːtɛna 4
 ɑvtalɛbruːt 4
 ɑvstɛŋt 4
 ɑvʃlɔtː 4
+ɑvʃl ɑːtɪlda 4
 ɑvsɛtːəs 4
 ɑvsətnɪŋər 4
 ɑvsɛtnɪŋ 4
@@ -30446,6 +30635,7 @@ analyːsar 4
 analyːsana 4
 ɑmbɪʃɔnsniːvoː 4
 amatøːrər 4
+amat ɑːtɪlda 4
 ɑltsuː 4
 ɑlmɪnneːləɡ 4
 ɑlmɪnneːlɪ 4
@@ -30462,6 +30652,7 @@ amatøːrər 4
 ɑkvariːət 4
 akʉtːbeːrɛdskap 4
 akʉstɪsk 4
+ɑkt ɑːtɪlda 4
 ɑktʉːaliːtət 4
 ɑkʃuːnaːrar 4
 ɑkʃeːsəlskapər 4
@@ -30620,6 +30811,8 @@ veːkɑ 4
 ʉlstaɪnviːk 4
 ʉːkɔmpliːsart 4
 ʉːka 4
+ʉɪ teː 4
+ʉːb ɑːtɪlda 4
 ʉːbʉntʉː 4
 ʉːbah 4
 ʉːp 4
@@ -30710,6 +30903,7 @@ tɛnnər 4
 tɛŋxər 4
 tɛŋka 4
 tɛmpeːratʉːrən 4
+teːmɑ nɔr 4
 tɛknɪska 4
 tɛŋneːʃ 4
 tanʉːm 4
@@ -30872,6 +31066,7 @@ skɔdja 4
 ʃøːt 4
 ʃœnt 4
 ʃœn 4
+ʃ ɑːtɪlda 4
 ʃarvʉːm 4
 ʃardal 4
 ʃɛllal 4
@@ -30913,6 +31108,7 @@ siːdɛna 4
 sɪdːiːkwa 4
 siːbiːr 4
 sharuːn 4
+shara pɔɪnt 4
 shɑŋkar 4
 shɑɪ 4
 seːveːriːn 4
@@ -31049,6 +31245,7 @@ reːd 4
 reːsaɪveːrən 4
 reːbɛkːɑ 4
 reːɑkʃuːnɛna 4
+reːad speːakər 4
 rɑvnøy 4
 rɑska 4
 rɑnnən 4
@@ -31073,6 +31270,7 @@ psyːkuːluːjiː 4
 psyːxiːɑtrɪska 4
 psyːxiːɑtrɪsk 4
 ps 4
+pr ɑːtɪlda 4
 prɔʃəktɛna 4
 pruːsəntdeːlən 4
 pruːpuːsɪʃuːnəns 4
@@ -31160,6 +31358,7 @@ uːvarleːvɛlsa 4
 ɔrkər 4
 ɔrɡeːlət 4
 ɔrɡaniːsɑʃuːnər 4
+ɔrdiːn ɑːtɪlda 4
 ɔrdføːreːra 4
 ɔrdən 4
 ɔrdbuːk 4
@@ -31304,6 +31503,7 @@ moːɡa 4
 mysteːriːət 4
 mysteːriːeːmɑnnən 4
 mynnɪɡhaɪtɛna 4
+myː spaka 4
 mvh 4
 mʉːsɪkːpriːs 4
 mʉːsɪkːɪnfɔrmɑʃuːn 4
@@ -31334,6 +31534,7 @@ mɔas 4
 muːdər 4
 muːan 4
 mjøːmən 4
+mj ɑːtɪlda 4
 mɪtʃɛl 4
 mɪstət 4
 miːrɑ 4
@@ -31404,6 +31605,7 @@ mrks 4
 muːt 4
 muːdaɡ 4
 miːn 4
+mɡ pjr 4
 ɛmɡeːpeːdɛlfiːnalən 4
 mariːuː 4
 maɡasiːnət 4
@@ -31448,6 +31650,7 @@ lɔdːɛfjɔr 4
 lɔkkartsən 4
 liːsɑ 4
 liːvɛts 4
+lɪtːər ɑːtɪlda 4
 lɪtːeːratʉrklʉbːən 4
 lɪstər 4
 lɪsleːruː 4
@@ -31513,6 +31716,7 @@ lɡ 4
 laɪ 4
 koːsiːn 4
 koːseːriː 4
+xystn ɑːtɪlda 4
 xyrxɛna 4
 kvɪnneːmeːdiːsiːn 4
 kviːən 4
@@ -31538,6 +31742,7 @@ krɔsstaɪɡən 4
 krɔpːəns 4
 krɔɡsɛːtər 4
 kriːs 4
+krɪŋʃ ɑːtɪlda 4
 krɪŋkɑstɪŋspriːsən 4
 kriːmiːnal 4
 krɛmtɔpːən 4
@@ -31691,6 +31896,7 @@ iːsɑksən 4
 ɪnvɛst 4
 ɪntarnɛtːət 4
 ɪntarkɔmmʉːnɑlt 4
+ɪnteːriː ɑːtɪlda 4
 ɪnvɑnnreːra 4
 ɪnvɑnnrarbeːfɔlknɪŋən 4
 ɪntrykːət 4
@@ -32041,6 +32247,7 @@ faɪɛnna 4
 fɛhn 4
 feːdarna 4
 feːdeːrər 4
+feː fuː 4
 fɑtːɪɡdɔmmən 4
 fɑsta 4
 fɑrvəl 4
@@ -32303,6 +32510,7 @@ br 4
 buːtɔlv 4
 bɔʃ 4
 bʊrt 4
+bɔrn uːn theː 4
 bʊnneːvɪks 4
 bʊnneːʉŋdɔmʃlaɡət 4
 bɔlstad 4
@@ -32347,6 +32555,7 @@ bəvapnət 4
 bətyːdeːliːɡa 4
 bətalɪŋ 4
 bətalər 4
+beːs ɑːtɪlda 4
 bəstɛmta 4
 bəstɛmməlsɛna 4
 bəsteːfar 4
@@ -32379,6 +32588,7 @@ bɑrnɛblad 4
 bɑrbiːa 4
 bɑŋkəns 4
 bɑŋkar 4
+bɑŋk iːd 4
 bɑls 4
 bɑlleːriːnaːn 4
 bɑkr 4
@@ -32387,6 +32597,7 @@ bakeːriː 4
 bɑɡdad 4
 babykleːda 4
 bʉːl 4
+beː tbɑtː 4
 brʉːk 4
 bliːr 4
 bɪlla 4
@@ -32509,6 +32720,7 @@ adəl 4
 oːruːn 4
 oːmuːtstatʉːɛtːən 4
 oːkər 4
+ɑːʉː farna 4
 ɑnsʉːuːniː 4
 ɑnbntb 4
 anɑ 4
@@ -32886,6 +33098,7 @@ valʉːtaːr 3
 valʉːtaːn 3
 vɑlsən 3
 vɑlsa 3
+valɔbsarvat ɑːtɪlda 3
 vɑlluːkala 3
 vɑlkɑmpɔpnɪŋɑ 3
 vɑlɡoːr 3
@@ -32988,6 +33201,7 @@ voːpən 3
 ʉtɡoːvɛna 3
 ʉtɡoːr 3
 ʉtɡoːanna 3
+ʉtɡ ɑːtɪlda 3
 ʉtɡraɪa 3
 ʉtɡraɪdːa 3
 ʉtjeːva 3
@@ -33851,6 +34065,7 @@ statiːv 3
 statɪstɪkːɡrʉnlaɡət 3
 statɪstɪkːɛna 3
 stɑʃuːnaːr 3
+stɑʃuːn ɑːtɪlda 3
 stɑrtlɪnjən 3
 stɑpːfʉl 3
 stɑŋər 3
@@ -33934,10 +34149,12 @@ speːsiːɑlrɔmsfløyən 3
 speːsiːalɔmroːda 3
 speːsiːɑllaɡət 3
 speːsiːaliːtɛtsprɪnsɪpːət 3
+spɛnnɪŋsniːv ɑːtɪlda 3
 spɛnnɪŋər 3
 speːkʉːleːrəs 3
 spɛkteːrət 3
 spɛktakʉːlart 3
+spɛktakʉːl ɑːtɪlda 3
 spaɪlrəflɛkskameːrɑ 3
 spaɪlbɪlla 3
 spaɪdar 3
@@ -34083,6 +34300,7 @@ smakeːbiːtar 3
 skoːrət 3
 skoːrɑ 3
 skɛːl 3
+sk ɑːtɪlda 3
 ʃyːveːdøːrən 3
 ʃyːveːdøːr 3
 ʃyːva 3
@@ -34569,6 +34787,7 @@ rɪɡːa 3
 riːɡa 3
 rɪdː 3
 riːdɑnna 3
+rf ɑːtɪlda 3
 rfɛlt 3
 reːvuːlʉʃuːneːrɛnna 3
 reːvuːlʉʃuːnər 3
@@ -34578,6 +34797,7 @@ reːviːtaliːseːra 3
 reːviːdeːrəs 3
 reːviːdeːrɑst 3
 reːva 3
+reːt ɑːtɪlda 3
 reːtʉrʃystəm 3
 reːtʉrpapiːr 3
 rɛtːsvɪrknɪŋ 3
@@ -34631,6 +34851,7 @@ reːnuːmiːnart 3
 rɛŋjøːrɪŋsmɪdlər 3
 rɛŋjøːrɪŋ 3
 reːnɛsta 3
+rɛm ɑːtɪlda 3
 rɛlsən 3
 reːliːjiːɔnskriːtɪkː 3
 reːliːjiːɔnsɡrənsɛna 3
@@ -35104,6 +35325,7 @@ pɑ 3
 uːsɔnlaɡət 3
 uːvarvaːra 3
 uːvarvoːxɪŋssystəm 3
+uːvarv ɑːtɪlda 3
 uːvarvɛllət 3
 uːvarvəllɑnna 3
 uːvarvaɪəs 3
@@ -35233,6 +35455,7 @@ uːpʉːs 3
 ɔpːheːtət 3
 ɔpːhaveːləɡ 3
 ɔpːhɑllsstad 3
+ɔpːɡ ɑːtɪlda 3
 ɔpːɡoːvɑ 3
 ɔpːføːrəs 3
 ɔpːfœljɪŋsʂeːnɛstən 3
@@ -35555,6 +35778,7 @@ mʉrʃtaɪn 3
 mʉntləɡ 3
 mʉmsa 3
 mʉːlɪɡːjøːra 3
+mʉːlɪɡːj ɑːtɪlda 3
 mʉffɪnsfɔrm 3
 mʉffɪns 3
 mr 3
@@ -35598,6 +35822,8 @@ muːbɪllɛknɪŋ 3
 mɔbːɪŋən 3
 ms 3
 mjœlkɑ 3
+mj ɑːtɪlda 3
+mɪtː ɑrbaɪdarpɑrtiː 3
 mɪsviːsɛnna 3
 miːsʉnneːləɡ 3
 mɪstɛŋkəs 3
@@ -35608,6 +35834,7 @@ mɪslʉkːɑ 3
 mɪshɑnnlɪŋssakər 3
 mɪshɑnnlɪŋən 3
 mɪsfɔrʃtoːalsa 3
+mɪsfɔrn ɑːtɪlda 3
 mɪsbrʉːka 3
 miːrakəl 3
 miːnʉtːs 3
@@ -35697,6 +35924,7 @@ mɛstarʃtykːa 3
 mɛstarliːɡaːn 3
 mɛstər 3
 mɛssɑ 3
+meːr ɑːtɪlda 3
 marxa 3
 markeːvareːkɑmp 3
 markeːɔrdnɪŋ 3
@@ -35789,6 +36017,7 @@ mɑrkən 3
 mɑrkədsøːkuːnuːmiː 3
 mɑrkɛdspriːs 3
 mɑrkədsføːrɪŋʃluːvən 3
+mɑrkɛdsf ɑːtɪlda 3
 mɑrkədsɑnnəl 3
 mɑrkədsɑktøːrɛna 3
 mɑrkɑɡrɛnsa 3
@@ -35916,6 +36145,8 @@ lʉftkvaliːteːtən 3
 lʉftɪ 3
 lʉːər 3
 lsrʉnna 3
+lsɔpːl ɑːtɪlda 3
+lr ɑːtɪlda 3
 lɔvvɛdtak 3
 lɔvval 3
 luːvʉtvɑlɡ 3
@@ -36105,6 +36336,7 @@ lɑŋsta 3
 lɑŋflata 3
 lɑŋər 3
 lɑŋdryːɡ 3
+lɑnnsm ɑːtɪlda 3
 lɑnnsmɛn 3
 lɑnnsmoːl 3
 lɑnnskɑmp 3
@@ -36362,6 +36594,7 @@ kɔnjʉŋktʉːrər 3
 kɔŋhɑlvuːr 3
 kɔŋeːhʉːs 3
 kɔŋeːfyljət 3
+kɔŋəd ɑːtɪlda 3
 kɔŋeːbeːsøːkət 3
 kɔnfrɔntɑʃuːn 3
 kɔnflɪktniːvoːat 3
@@ -36391,6 +36624,7 @@ kɔmmʉːneːøːkuːnuːmiː 3
 kɔmmʉːneːvalət 3
 kɔmmʉːneːval 3
 kɔmmʉːnəstyːrɛts 3
+kɔmmʉːnəstyːrəm ɑːtɪlda 3
 kɔmmʉːneːsamɑnʃloːɪŋ 3
 kɔmmʉːnəplanər 3
 kɔmmʉːnəplanəns 3
@@ -36556,6 +36790,7 @@ xɪdnɑpːɑ 3
 khʉːs 3
 keːyːɛna 3
 keːyː 3
+keːr reːjɪsteːrət 3
 xaɪsama 3
 keːbab 3
 kɑtːɛna 3
@@ -36604,6 +36839,7 @@ kafeːən 3
 kɑffeːkɔpː 3
 kɑffeːkɑnna 3
 kabal 3
+koː veː 3
 jøːdeːhat 3
 jøːdeːdɔmmən 3
 jøːda 3
@@ -36766,12 +37002,14 @@ iːpadən 3
 ɪnsɑtːa 3
 ɪnsɑmlɪŋən 3
 ɪns 3
+ɪnr ɑːtɪlda 3
 ɪnrətnɪŋər 3
 ɪnrɑpːʊrteːrɪŋən 3
 ɪnpɑssa 3
 ɪnpɑssɑst 3
 ɪnløysɪŋ 3
 ɪnlart 3
+ɪnl ɑːtɪlda 3
 ɪnlɔɡːɪŋsnɑvn 3
 ɪnlɛmma 3
 ɪnlɛmmɑ 3
@@ -36881,6 +37119,8 @@ iːdəntɪska 3
 iːdəntiːfiːsarta 3
 iːdeːalɪst 3
 iːɑlfɑll 3
+iː padən 3
+iː nɔrdən 3
 høytːaleːra 3
 høytːalər 3
 høytiːdɛna 3
@@ -37190,6 +37430,7 @@ jylna 3
 jyllən 3
 ɡʉːyː 3
 ɡʉlrøːtɛna 3
+ɡʉlr ɑːtɪlda 3
 ɡʉlrɛkːɑ 3
 ɡʉlkɔrn 3
 ɡʉlkɑntɑ 3
@@ -37637,6 +37878,7 @@ fɔrʃɑmlɪŋər 3
 fɔrʃɑmlɪŋɑ 3
 fɔrʃoːvɪdt 3
 fɔrrətnɪŋsstadən 3
+fɔrrətnɪŋsɔmr ɑːtɪlda 3
 fɔrrətnɪŋsføːrɑrkɔntrɑktar 3
 fɔrrətnɪŋsføːrarɑvtalar 3
 fɔrprɔʃɛktət 3
@@ -37690,6 +37932,7 @@ fuːrəstɪllɪŋɛna 3
 fuːrəstoːɛnna 3
 fuːrəskrɪvnɪŋ 3
 fuːreːløːbɪ 3
+fuːrəl ɑːtɪlda 3
 fuːrɛlʃɪŋ 3
 fuːrəllreːrɛtːən 3
 fuːrəllɪŋʃluːvɑ 3
@@ -37751,6 +37994,7 @@ fuːkʉːsɔmroːdər 3
 fuːkʉːseːrɪŋən 3
 fløytər 3
 fløytɑ 3
+fl ɑːtɪlda 3
 flyːtʉːrən 3
 flyːtʉːr 3
 flytrafɪkː 3
@@ -37978,6 +38222,7 @@ eːʉːruːpeːeːra 3
 ɛtːarʃpʉrnadən 3
 ɛtːarʃmak 3
 ɛtːarʃləp 3
+ɛtːarp ɑːtɪlda 3
 ɛtːarprøːvɛnna 3
 ɛtːeːrɔr 3
 ɛtːarlysta 3
@@ -38016,6 +38261,7 @@ eːpɪsk 3
 ɛntʉːsiːɑstɪska 3
 ɛntʉːsiːɑsmən 3
 ɛnsɑrteːda 3
+ɛn ɑːtɪlda 3
 ɛŋxa 3
 ɛŋxɑ 3
 ɛŋkəltːɪlfɛlla 3
@@ -38131,6 +38377,7 @@ eːɡɛt 3
 eːfeːsuːs 3
 eːa 3
 eːdɔbːər 3
+eː ɑdrɛssɑ 3
 eːpʊstər 3
 eːpʊstar 3
 eːpʊstɑdrɛssɑ 3
@@ -38245,6 +38492,7 @@ dɪskuː 3
 dɪrrər 3
 diːriːɡeːrər 3
 diːriːɡɛntən 3
+diːrɛkt ɑːtɪlda 3
 diːrəktuːrat 3
 diːrɛktən 3
 diːrɛktaiːkuːn 3
@@ -38392,6 +38640,7 @@ byːrɔkratɪska 3
 byːrɔkratar 3
 byːrɔkrat 3
 byːrɔdʃleːdər 3
+byːr ɑːtɪlda 3
 byrda 3
 byːpuːliːtɪkː 3
 byːɔmroːdər 3
@@ -38429,6 +38678,7 @@ byːdeːlar 3
 byːdeːlana 3
 byːbɪllət 3
 byːɑrxiːv 3
+bʉst ɑːtɪlda 3
 bʉstɑdsuːsiːala 3
 bʉstɑdsiːtʉːɑʃuːnən 3
 bʉstɑdsamɑnʃlʉtnɪŋar 3
@@ -38504,6 +38754,7 @@ brɛnnɑst 3
 brɛnnɑnna 3
 brɛn 3
 brɛmsət 3
+brɛmsər ɑːtɪlda 3
 braɪbɔnn 3
 breːføːrɪŋ 3
 breːføːrɑrlaɡ 3
@@ -38553,6 +38804,7 @@ bɔkmɔlsvarʃuːnən 3
 bɔkmɔlsvarʃuːn 3
 bɔkmɔlsfɔlk 3
 bɔkmɔls 3
+bɔkm ɑːtɪlda 3
 bɔkhɑnnlarana 3
 bɔkfœrt 3
 bɔkfəstiːval 3
@@ -39030,6 +39282,7 @@ anɑlɡeːtiːkɑ 3
 ɑmmɪŋən 3
 ɑmbʉːlɑnsən 3
 ɑmbiːvalɛnta 3
+ɑmbiːsiː ɑːtɪlda 3
 ɑlvɔrlɪɡhət 3
 alʉːmiːniːʉmsvarkət 3
 ɑltartɑvla 3
@@ -39225,6 +39478,7 @@ vɪlhɛlm 3
 vɪlla 3
 vɪktɪɡheːtən 3
 vɪksdɑlsvɑtnət 3
+viːxɪŋ veːb 3
 viːxɪŋspɪlleːrən 3
 vɪdnɛsbyr 3
 vɪdnəs 3
@@ -39376,6 +39630,7 @@ vɑnt 3
 ʉːleːfɔs 3
 ʉklɑrt 3
 ʉxɛnt 3
+ʉɪ bs 3
 ʉːhɛllɪ 3
 ʉːføːreːpənʃuːneːrɪŋ 3
 ʉːføːreːfɔrʃɪkrɪŋ 3
@@ -39383,6 +39638,7 @@ vɑnt 3
 ʉdbytːa 3
 ʉːv 3
 ʉtvɛkʃlɪŋ 3
+ʉːɛsbeː lmaɪnər 3
 ʉnnp 3
 ʉnnarhɔllnɪŋ 3
 ʉːl 3
@@ -39462,6 +39718,7 @@ tuːrɪll 3
 tɔrŋnyː 3
 tɔrɡər 3
 tɔrdiːs 3
+tɔrbj ɑːtɪlda 3
 tuːrɑlv 3
 tɔpːlɪstən 3
 tɔpːknɑpː 3
@@ -39620,6 +39877,7 @@ syːk 3
 syɡduːm 3
 svɑrts 3
 svɑnstrøːm 3
+sv ɑːtɪlda 3
 svuːrən 3
 svɪthʉːn 3
 svardrʉːpfrɑkʃuːnən 3
@@ -39649,6 +39907,7 @@ stœrrɛlsən 3
 støːnadən 3
 stɔrhaɪmsatːɑ 3
 styːrər 3
+styːrəm ɑːtɪlda 3
 styːreːmɛdləmmɛna 3
 styːrɑ 3
 stʉtːɡɑrt 3
@@ -39657,6 +39916,7 @@ stʉːdyː 3
 stʉːdiːət 3
 stʉːdiːɛna 3
 stʉːdiːeːleːdər 3
+stʉːdɛnt veːb 3
 stʉːɑrt 3
 strøːmeːrɪʃsən 3
 stryːnəfjɛllət 3
@@ -39698,6 +39958,7 @@ staɪnsɑmleːra 3
 staɪŋkrɔssana 3
 staɪnhʉːsət 3
 staɪnɑrbaɪd 3
+staɪnar bl 3
 staɪɡən 3
 stɛffəns 3
 steːɛnʃliːd 3
@@ -39774,6 +40035,7 @@ snɪlla 3
 snaɪjdər 3
 snɑtʃ 3
 smoːnytː 3
+sm ɑːtɪlda 3
 smyth 3
 smykːər 3
 smɪtːeːfuːreːbyɡːɛnna 3
@@ -39885,6 +40147,7 @@ shakəspeːara 3
 shaboːb 3
 seːyfriːəd 3
 seːksʉːal 3
+sɛksx ɑːtɪlda 3
 sɛtːa 3
 seːsɔŋkʊrt 3
 seːsɔŋ 3
@@ -39904,6 +40167,7 @@ seːnatət 3
 sɛlvrɑpːʊrtart 3
 sɛlvmɔrdstɑllɛna 3
 sɛlvɪ 3
+sɛlvf ɑːtɪlda 3
 sɛlskab 3
 sɛlleːvoːɡ 3
 sɛjeːøyɑ 3
@@ -39921,6 +40185,7 @@ saɪlət 3
 saɪlas 3
 saɪdɛl 3
 seːbɑstiːən 3
+seː nɔrɡa 3
 skreːeːnɪŋ 3
 ssiːɛnka 3
 ʃrøːdər 3
@@ -39979,6 +40244,7 @@ sɑɡbarɡ 3
 safeːtyː 3
 saːmiːən 3
 soːl 3
+ɛs veːra 3
 ɛsveːleːdər 3
 sʉsleːɡən 3
 stœrra 3
@@ -40152,6 +40418,7 @@ kpr 3
 pɔskən 3
 pɔskeːmɔrɡən 3
 poːlɛɡːət 3
+pv seː 3
 pʉsteːruːm 3
 pʉːs 3
 pʉpː 3
@@ -40188,6 +40455,7 @@ prɪnka 3
 priːda 3
 preːvalɛnsən 3
 prɛssəns 3
+prɛs fiːra 3
 prɛs 3
 preːsiːdiːɛts 3
 preːsiːdɛntən 3
@@ -40387,7 +40655,9 @@ nɔrʃkfaɡət 3
 nɔrʃkeːhavət 3
 nɔrrbɑkk 3
 nɔrliː 3
+nuːrɪth ɛkkbuː 3
 nuːrɪɡs 3
+nɔrɡəs ɡrʉpːən 3
 nuːra 3
 nɔrdnɔrʃka 3
 nɔrdlannɪŋər 3
@@ -40427,6 +40697,7 @@ nɛtːvark 3
 nɛtːʃəf 3
 nɛtːkameːrɑ 3
 nɛtːbyː 3
+neːt kuːm 3
 nɛstleːdər 3
 nɛsteːɑ 3
 nɛst 3
@@ -40484,6 +40755,8 @@ nv 3
 ŋs 3
 ŋbz 3
 nɛtːaviːsən 3
+nbː luːɡ 3
+ɛnbeːbeː lfuːrɛsloːr 3
 nɑʃuːnal 3
 myːnʃən 3
 møyfriːd 3
@@ -40547,6 +40820,7 @@ muːdaʃ 3
 muːdarn 3
 muːda 3
 muːbɪlbrʉːk 3
+muː ruːprɔʃɛktət 3
 mjøːsɑ 3
 mɪtːɑnbʉːd 3
 miːt 3
@@ -40611,6 +40885,8 @@ meːdiːnɑ 3
 meːdiːeːbədrɪftɛna 3
 meːdiːkal 3
 meːdiːɑʉnnarʃøːkɛlsa 3
+mk lɛnnan 3
+mk lanahan 3
 mbiːt 3
 mɑːyːheːlən 3
 maʊrʃtad 3
@@ -40655,6 +40931,7 @@ mɑlt 3
 mɑlmøːɔmroːda 3
 malakɔff 3
 mɑkrɛl 3
+maka styːla 3
 majɔrʃtʉːɑ 3
 mɑɪn 3
 mɑɡdɑ 3
@@ -40673,6 +40950,7 @@ mtb 3
 ɛmɛːrnaːrɪŋ 3
 ɛmɛːrfiːnɑns 3
 mɔrʃuːm 3
+ɛmɛn uːbeːtɑ 3
 ɛmiːkoːreːfɔrmən 3
 ɛmiːkoːfɔrʃøːkət 3
 miːfiː 3
@@ -40771,6 +41049,7 @@ liːbyːɑ 3
 liːbeːralɪst 3
 liːbeːrala 3
 leːvarta 3
+leːveːrɑnn ɑːtɪlda 3
 lɛssɪŋ 3
 leːsarbrəv 3
 leːsarbɪllər 3
@@ -40864,6 +41143,7 @@ kvɑrtər 3
 kvɑrtal 3
 kvɑrma 3
 kvɑntiːtatiːva 3
+kvɑmma tɔtːɛnhammɑnʃɛstər 3
 kvaliːteːtɪmpʊrt 3
 kvaliːteːtən 3
 kvaliːfiːseːrɪŋsprɔɡrɑmmət 3
@@ -40879,6 +41159,7 @@ kʉːniːs 3
 kʉŋshɑmn 3
 kʉːnəs 3
 kʉnneːtɪlfrɛdshət 3
+kʉːl ɑːtɪlda 3
 kʉltʉrʃkʉːlən 3
 kʉltʉrradiːkalɪsməns 3
 kʉltʉrnytː 3
@@ -41142,6 +41423,7 @@ iːuːvɑ 3
 ɪnt 3
 ɪnstɑlleːra 3
 ɪnspiːreːrɛnna 3
+ɪnspɛkt ɑːtɪlda 3
 ɪnpanɑthan 3
 ɪnpɑ 3
 ɪnʃlaɡət 3
@@ -41192,6 +41474,7 @@ iːteːsɛktuːrən 3
 iːteːsamɑrbaɪda 3
 iːs 3
 iːr 3
+iː phuːna 3
 ɪpː 3
 ɪntarrəɡprɔɡrɑmmət 3
 iːnasrɑpːʊrt 3
@@ -41390,6 +41673,7 @@ hɑmnəs 3
 hɑmnɑ 3
 hɑmn 3
 hamarreːjiːuːnən 3
+hɑlv ɑːtɪlda 3
 hɑlvɑnnən 3
 hɑlshɔɡːɪŋ 3
 hɑlleːlʉːjɑ 3
@@ -41549,6 +41833,7 @@ jyːøːr 3
 ɡmuː 3
 jfl 3
 jɪllɛskoːl 3
+ɡeː dpʉls 3
 fœrʃkuːleːlaːrarʉtdɑnnɪŋ 3
 fœrʃkuːleːlaːrarar 3
 fœrrəsfjɔrdən 3
@@ -41603,6 +41888,7 @@ frɑnsiːs 3
 frɑnkɛskuː 3
 frɑmsiːda 3
 framkriːsɑ 3
+fr peːbyːroːda 3
 fuːks 3
 fuːtɔɡrafeːrɪŋ 3
 fɔtbɑlmaɡasiːn 3
@@ -41672,6 +41958,8 @@ fɔlkɛblad 3
 fɔlkeːɑvstɛmnɪŋ 3
 fuːlɑ 3
 fuːkʉːsart 3
+fuː ʉːvarksɛmd 3
+fuː ʉː 3
 fuː 3
 flyːveːsɛlskap 3
 flyːr 3
@@ -41694,6 +41982,7 @@ flɑsh 3
 flanaɡan 3
 flɑkstad 3
 fjøːsən 3
+fj ɑːtɪlda 3
 fjɔrdən 3
 fjɛlvaɪən 3
 fjɛlhytːən 3
@@ -41785,8 +42074,10 @@ eːʉːruːpuːl 3
 eːʉːruːpaɪsk 3
 eːʉːruːpɑspœrʃmoːl 3
 eːʉːruːpakɔmmɪʃuːnən 3
+eːʉːruː klʉːbən 3
 eːʉːr 3
 ɛtːarʃyːn 3
+ɛtːarp ɑːtɪlda 3
 ɛtːarfɔrʃknɪŋ 3
 ɛtːarfɔrʃkər 3
 eːtɪska 3
@@ -41899,6 +42190,7 @@ dybdɑhl 3
 dvarɡ 3
 dʉkːɛjəm 3
 dʉŋnad 3
+dʉːal shɔkk 3
 dskn 3
 drœftət 3
 draŋniː 3
@@ -42169,6 +42461,7 @@ bɔmbər 3
 bɔlʃuːjbɑllɛtːən 3
 bɔlloːs 3
 bɔlla 3
+buːlɪɡs ɑːtɪlda 3
 buːlɪɡsparɪŋ 3
 buːlɪɡsparɛklʉbː 3
 buːlɪɡpriːsər 3
@@ -42183,8 +42476,10 @@ bɔɪna 3
 buːhʉːs 3
 buːɡeːriːjən 3
 buːɡa 3
+buːd ɑːtɪlda 3
 bɔbːyːsɔkks 3
 blɔtː 3
+bl ɑːtɪlda 3
 blʉːəs 3
 blʉː 3
 bluːmən 3
@@ -42247,6 +42542,7 @@ bərthɛlsən 3
 bərtɑ 3
 bərnhɔft 3
 bərlɪnmʉːrən 3
+bərleːv ɑːtɪlda 3
 bərlɑnn 3
 barɡs 3
 bərɡpraɪkɑ 3
@@ -42257,6 +42553,7 @@ bərɡənsbanəns 3
 bərɡɛnsreːjiːuːnən 3
 bərɛntsən 3
 bərɛkvam 3
+bərɛkrɑfts ɛnɛm 3
 bərəŋnɪŋən 3
 bəɔɡrad 3
 bənyː 3
@@ -42328,6 +42625,7 @@ bɪbsyːs 3
 biːbəl 3
 bhk 3
 bh 3
+beː eːdaɡɛna 3
 bərreː 3
 bərɡeːn 3
 beː 3
@@ -42484,6 +42782,7 @@ aləssɑnnruː 3
 ɑllɑ 3
 ɑlbʉːm 3
 ɑlbɑ 3
+al kwds 3
 aljʉːbaɪr 3
 ɑktʉːɛl 3
 ɑktiːvʉːm 3
@@ -42492,6 +42791,7 @@ aljʉːbaɪr 3
 akadeːmɪsk 3
 ɑɪrvɑːyːs 3
 ɑɪrlɪft 3
+ɑɪr plɑːyː 3
 ɑɪnuː 3
 ɑhtiːsoːriː 3
 ɑhmad 3
@@ -42543,6 +42843,7 @@ aɡ 3
 ɑkr 3
 akap 3
 ak 3
+ɑː bpuːliːtiːɔps 3
 oːd 3
 oːɡrʉpːa 3
 yːbər 2
@@ -42673,6 +42974,8 @@ oːɑ 2
 ɛːtɑ 2
 ɛnnʉː 2
 ɛɡda 2
+ɑːsɪrkʉmflɛks eːʉːr spr ɑːtɪlda 2
+ɑːsɪrkʉmflɛks eːʉːr jɛːɪ 2
 ɑːɑːkʉtː 2
 øynɛna 2
 øyɡɑrdsakən 2
@@ -42898,6 +43201,7 @@ vʉrdeːrɪŋɛna 2
 vʉnnən 2
 vʉlkan 2
 vʉlɡaːra 2
+vʉlɡ ɑːtɪlda 2
 vʉɡːər 2
 vʉɡːa 2
 vsʉːɡeːra 2
@@ -42945,6 +43249,7 @@ vlɔɡːən 2
 vliːɡ 2
 vɪtːarləɡ 2
 vɪtnaʃ 2
+vɪtnəm ɑːtɪlda 2
 vɪtneːbɛʃytːɛlsəsprɔɡrɑmmət 2
 vɪʂɪŋar 2
 vɪʂɪŋɑ 2
@@ -43068,6 +43373,7 @@ vɪdːər 2
 vɪdːeːlɑnnskap 2
 viːdareːʉtdɑnnɪŋstɪlbuːda 2
 viːdareːʉtdɑnnɪŋsreːfɔrmɑ 2
+viːdarəɡ ɑːtɪlda 2
 viːdareːføːrər 2
 viːdar 2
 vɛvsiːdɑ 2
@@ -43287,6 +43593,7 @@ vɛdliːkeːhɑllsɔpːlaːrɪŋɑ 2
 vɛdliːkeːhɑllsɑrbaɪd 2
 vɛdlɛɡːɑ 2
 vɛdɡoːr 2
+vɛdɡ ɑːtɪlda 2
 vɛdfyːrɪŋ 2
 vɛdːər 2
 vaksiːn 2
@@ -43434,6 +43741,7 @@ vajiːnal 2
 vɑflar 2
 vɔrlɔak 2
 voːɡɑ 2
+veː buːuːk 2
 ʉːœnskta 2
 ʉːœnskt 2
 ʉːoːr 2
@@ -43455,6 +43763,7 @@ voːɡɑ 2
 ʉːtøːvɑst 2
 ʉːtøːvarən 2
 ʉːtɔnnɪŋsprøːva 2
+ʉːt ɑːtɪlda 2
 ʉːtyːpɪsk 2
 ʉtvɪskət 2
 ʉtviːsər 2
@@ -43533,7 +43842,9 @@ voːɡɑ 2
 ʉtriːveːlɪ 2
 ʉtrɛnta 2
 ʉtrədnɪŋsseːriːa 2
+ʉtrədnɪŋsɔmr ɑːtɪlda 2
 ʉtrədnɪŋar 2
+ʉtp ɑːtɪlda 2
 ʉtprøːvɛnna 2
 ʉtprœvda 2
 ʉtplɑsseːrɪŋ 2
@@ -43669,6 +43980,7 @@ voːɡɑ 2
 ʉtbrʉdːət 2
 ʉtbɔmbeːda 2
 ʉtbɔar 2
+ʉtbl ɑːtɪlda 2
 ʉtbɪllnɪŋ 2
 ʉtbɛtra 2
 ʉtbeːtɑlta 2
@@ -43693,6 +44005,7 @@ voːɡɑ 2
 ʉːsɪkːarhətsmuːmɛnt 2
 ʉːsiːɡeːlɪ 2
 ʉːseːriːøːs 2
+ʉːseːriː ɑːtɪlda 2
 ʉːsɛntral 2
 ʉːsəjeːləɡ 2
 ʉːsədvɑnliːɡa 2
@@ -43700,6 +44013,7 @@ voːɡɑ 2
 ʉːsɑnna 2
 ʉːsɑkliːɡa 2
 ʉːsɑkləɡ 2
+ʉːr ɑːtɪlda 2
 ʉːrʉːtiːnarta 2
 ʉrteːsɑltət 2
 ʉrteːsɑlt 2
@@ -44186,6 +44500,7 @@ trɛtrɪnsrakɛtː 2
 trɛstɑmma 2
 treːsɑnnalar 2
 treːnɪŋsœktən 2
+treːnɪŋs ɑːtɪlda 2
 treːnɪŋssmɛl 2
 treːnɪŋssɛtː 2
 treːnɪŋssɛntra 2
@@ -44442,6 +44757,7 @@ tɪlsaman 2
 tɪlsɑŋn 2
 tɪlroːdɪŋər 2
 tɪlroːda 2
+tɪlr ɑːtɪlda 2
 tɪlrətːeːlɛɡːjar 2
 tɪlrətːeːləɡːjɑnna 2
 tɪlrətːeːləɡːɪŋsɑrbaɪda 2
@@ -44487,6 +44803,7 @@ tɪlføyər 2
 tɪlføyɛlsa 2
 tɪlføyd 2
 tɪlføːrɑst 2
+tɪlf ɑːtɪlda 2
 tɪlfrədsstɪlta 2
 tɪlfrɛdsa 2
 tɪlflytːarar 2
@@ -44502,6 +44819,7 @@ tɪlbyːdarar 2
 tɪlbrɑɡta 2
 tɪlbuːda 2
 tɪlbeːreːda 2
+tɪlbəh ɑːtɪlda 2
 tɪlbakeːviːsa 2
 tɪlbakeːvarknad 2
 tɪlbakeːvənnɑnna 2
@@ -44545,6 +44863,7 @@ tiːdiː 2
 tiːdaʃ 2
 tiːdeːliːɡeːra 2
 tiːdeːlɪ 2
+tiː ɛl 2
 tiːoːrɑ 2
 tiːtʉːsɛnviːs 2
 thyːreːɔɪdɪtː 2
@@ -44839,6 +45158,7 @@ syːvoːrɪŋ 2
 syvseːtər 2
 sytːa 2
 syːtɪŋ 2
+systɛml ɑːtɪlda 2
 systəmkameːrɑ 2
 systeːmɪsk 2
 systeːmatiːseːrəs 2
@@ -44854,6 +45174,7 @@ synteːtɪska 2
 synteːtɪsk 2
 synsvɪŋklər 2
 synsɪŋ 2
+synlɪɡːj ɑːtɪlda 2
 synlɛɡːjʊrt 2
 synləɡːjeːrɪŋ 2
 synlɛɡːjər 2
@@ -45147,6 +45468,7 @@ stʉːm 2
 stʉːɛna 2
 stʉːeːbuːrda 2
 stʉːdiːeːoːrɛna 2
+stʉːdiːa ɑːtɪlda 2
 stʉːdiːeːtʉːrər 2
 stʉːdiːeːtɪlbʉːda 2
 stʉːdiːeːtiːdən 2
@@ -45322,8 +45644,10 @@ stɪltiːɛnna 2
 stɪllɪŋsvarn 2
 stɪllɪŋstaɡən 2
 stɪllɪŋsbrøːkən 2
+stɪllɪŋər nɔrɡəs 2
 stɪlhaɪt 2
 stɪlləstoːanna 2
+stɪllɛst ɑːtɪlda 2
 stɪlbɪllər 2
 stɪllas 2
 stɪlk 2
@@ -45380,6 +45704,7 @@ stɛdsiːdəntiːtət 2
 stɛdsa 2
 stɛdfʊrtreːdɛnna 2
 stɛbruːrən 2
+stb ɑːtɪlda 2
 stɑvtak 2
 stavɪŋana 2
 stavɪŋɑ 2
@@ -45993,6 +46318,7 @@ skriːveːmoːtən 2
 skriːveːmeːtuːda 2
 skriːvɛjɛlp 2
 skriːveːbøːkər 2
+skrɪftsspr ɑːtɪlda 2
 skrɪfta 2
 skrɪftɑ 2
 skriːda 2
@@ -46048,6 +46374,7 @@ skuːləkrɪnsar 2
 skuːləklɑssər 2
 skuːleːjɛntər 2
 skuːleːɡɔrdən 2
+skuːləɡ ɑːtɪlda 2
 skuːleːɡʉtː 2
 skuːleːfaɡɑ 2
 skuːleːəksamən 2
@@ -46336,6 +46663,7 @@ sɪkːarhətsɛkspart 2
 sɪkːarhɛtsɑrbaɪda 2
 siːk 2
 siːjøyneːra 2
+siːɡ ɑːtɪlda 2
 sɪŋnɪŋsfardɑ 2
 sɪŋnɪŋsfar 2
 sɪŋnarta 2
@@ -46411,6 +46739,7 @@ sɛptɪktɑŋk 2
 sɛntrʉmsʉtɡoːva 2
 sɛntrət 2
 sɛntrɛna 2
+sɛntrɑlst ɑːtɪlda 2
 sɛntrɑlstyːreːmøːta 2
 sɛntrɑlstɑʃuːnən 2
 sɛntrɑlmuːtiːv 2
@@ -46761,6 +47090,7 @@ røykeːvanɛna 2
 røykəslʉtːkʉʃ 2
 røykeːkʉtː 2
 røykeːɑvvɛnnɪŋ 2
+røyk ɛfɛːriːʉnnarvɪsnɪŋ 2
 røyər 2
 rœrtrɑnspʊrt 2
 rœrʃlɛna 2
@@ -46819,6 +47149,7 @@ ryɡːar 2
 rʉːtiːneːtɛstət 2
 rʉːtiːnana 2
 rʉːteːtɪlbuːda 2
+rʉːtəb ɑːtɪlda 2
 rʉstəs 2
 rʉsta 2
 rʉssɪskʊrtuːdɔksa 2
@@ -46956,6 +47287,9 @@ rɪŋvarknadɛna 2
 rɪŋsvardiː 2
 rɪŋsprɔŋnuːsər 2
 rɪŋsnɛtːət 2
+rɪŋsm ɑːtɪlda 2
+rɪŋsmɪj ɑːtɪlda 2
+rɪŋʃl ɑːtɪlda 2
 rɪŋʃliːvət 2
 rɪŋskʉʃ 2
 rɪŋeːrɪksrʉssən 2
@@ -46968,6 +47302,7 @@ riːmeːlɪɡst 2
 rɪksprɛssɑ 2
 rɪksmɔlsfɔrbʉnnət 2
 rɪksmɔlsfɔlk 2
+rɪksm ɑːtɪlda 2
 rɪksmeːdiːɛna 2
 rɪkskrɪŋkɑstɪŋ 2
 rɪksdɑɡsmɛdləm 2
@@ -46983,6 +47318,7 @@ rɪftər 2
 rɪft 2
 riːdɪŋ 2
 rheːtən 2
+rɡ ɑːtɪlda 2
 rfɑrɡa 2
 reːvyːən 2
 reːvɔlveːrən 2
@@ -47132,6 +47468,7 @@ rɛŋjøːrɪŋsbrɑnʃən 2
 reːnəs 2
 rɛnnyrka 2
 rɛmsa 2
+reːliːjiː ɑːtɪlda 2
 reːliːjiːɔnssɑmfʉn 2
 reːliːjiːɔnsfriːhət 2
 reːleːvɑntɑ 2
@@ -47384,6 +47721,7 @@ rabɑllər 2
 roːkɑ 2
 roːdɑ 2
 ɛːrvarɑŋər 2
+ɛːrtr ɑːtɪlda 2
 kwuː 2
 kwɪrksmuːda 2
 kwɪntət 2
@@ -47465,6 +47803,7 @@ pʉmpər 2
 pʉltən 2
 pʉlt 2
 pʉlsoːrɑ 2
+pʉlsm ɑːtɪlda 2
 pʉlsklɔkːən 2
 pʉlsbɛltət 2
 pʉl 2
@@ -48584,6 +48923,7 @@ noːdeːløːsa 2
 noːdeːɡava 2
 noːɑst 2
 noːsiːtʉːɑʃuːnən 2
+ɛn oː 2
 nyːɔrʃsɑlmən 2
 nyːvɑlɡt 2
 nytːɔrʃhɛlɡɑ 2
@@ -48627,6 +48967,7 @@ nyːnɔrʃkbrʉːkɑnna 2
 nyːnɔrʃkbuːk 2
 nyːnɔrʃkaviːsər 2
 nyːnɔrʃkaviːsɑ 2
+nyːnɔrʃk daʊdən 2
 nynnər 2
 nyːmoːnən 2
 nyːmoːlɑ 2
@@ -48689,6 +49030,7 @@ nɔrʃktalɛnna 2
 nɔrʃkpruːdʉːsart 2
 nɔrʃkɔpːlaːrɪŋɑ 2
 nɔrʃkfɪnsk 2
+nɔrʃkfaɡeːtɑ eːʉːɛːr 2
 nɔrʃkdɔmsrœrʃlɑ 2
 nɔrʃktyska 2
 nɔrʃktysk 2
@@ -49192,6 +49534,7 @@ mɔbːəs 2
 mɔbːər 2
 muːɑstɪdruːm 2
 mn 2
+m ɑːtɪlda 2
 mmeːjɔbː 2
 mjœlkeːrɑmpa 2
 mjœlkəpruːdʉkʃuːnən 2
@@ -49223,6 +49566,7 @@ mɪshɑnnleːra 2
 mɪsfɔrʃtoːr 2
 mɪsfɔrʃtoːalsən 2
 mɪsfɔrʃtoː 2
+mɪsfɔrʃt ɑːtɪlda 2
 mɪsfɔrnøyda 2
 mɪsfɔrn 2
 miːseːra 2
@@ -49338,6 +49682,7 @@ mɪjøːɑ 2
 mɪjøːbɑlkən 2
 miːliːtarhɪstuːriːɑ 2
 miːliːtaːrɑkʃuːn 2
+miːliːt ɑːtɪlda 2
 miːliːtɑnt 2
 miːləs 2
 miːlən 2
@@ -49367,6 +49712,7 @@ mɪdtbanəspɪllər 2
 mɪdlɑ 2
 mɪdjeːmoːlət 2
 mɪdːəlskuːlən 2
+mɪdːɛlhɑvs ɑːtɪlda 2
 mɪdːeːlət 2
 mɪdːeːlɑllrɑnna 2
 mɪdːeːlɑllarʃk 2
@@ -49503,6 +49849,7 @@ mɛdjiːr 2
 mɛdfœlɡɛnna 2
 mɛdføːlɛlsa 2
 mɛdfœdt 2
+mɛdf ɑːtɪlda 2
 mɛdfɔrfɑtːər 2
 mɛdfɔrfɑtːar 2
 meːdɑnsvɑrlɪ 2

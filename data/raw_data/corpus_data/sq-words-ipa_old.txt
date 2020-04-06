@@ -1457,6 +1457,7 @@ kahh 171
 ɡratə 171
 anət 171
 ti 171
+ʃə bɑ 171
 pɛr 171
 karaktɛr 170
 futbɔllɪt 170
@@ -9988,6 +9989,7 @@ kumanɔvɑ 27
 kufiri 27
 kiɫi 27
 janɛ 27
+indɛksi ɔnɫinɛ 27
 ints 27
 ikɛɑ 27
 hʌnɑ 27
@@ -10505,6 +10507,7 @@ parakɔhhʃmɛ 25
 papunəsisə 25
 papriturɑ 25
 paɡwɑjə 25
+pə hə 25
 ɔpɛratsiɔni 25
 ɔpɛratsiɔnɛvɛ 25
 nʌntəmbəðjetə 25
@@ -11120,6 +11123,7 @@ pərkɔhhʃmɛ 24
 pʌrfatɕʌsuɛsɪt 24
 prɔtɔtsɔl 24
 pɔɡradɛtsi 24
+pɫay statiɔn 24
 pipɑ 24
 pɛrsɔnat 24
 pati 24
@@ -11997,6 +12001,7 @@ mɔnumɛnti 22
 mɔisiun 22
 mjedisi 22
 miɫɔ 22
+mi ɡə 22
 mbarɔi 22
 ɫuməs 22
 ɫɔɡɔrɛtsi 22
@@ -12475,11 +12480,14 @@ sɔvjetikɛ 21
 skɛnɑ 21
 sipʌrmɛ 21
 sinkianɡut 21
+ʃtɛpiaɛ ɫibrɪt 21
 ʃtɕipjɑ 21
 ʃpʌtim 21
 ʃpeɪtəsiɑ 21
 ʃkɛntsətarət 21
 ʃembuj 21
+ʃə bɑvɛ 21
+ʃə bɑsʌ 21
 sɛnatɪt 21
 sɛtsiɫɑ 21
 sarɑ 21
@@ -13440,6 +13448,7 @@ impɔrtuarɑ 19
 imaʒɪt 19
 idɛɔɫɔdʑi 19
 idɛntikɛ 19
+i pɔd 19
 hyrəs 19
 hunɡarɛz 19
 humɔri 19
@@ -14221,6 +14230,7 @@ mɔdɛɫi 18
 miɫanɔs 18
 mi 18
 mɛdaljɛn 18
+mətsə ɫarɛn 18
 maryɫand 18
 marinɔ 18
 mandati 18
@@ -14954,6 +14964,7 @@ hɔdɔ 17
 histɔriani 17
 hɛrman 17
 hɛkuri 17
+ɡwɑtskɑ prɛss 17
 ɡrɔti 17
 ɡɔɫem 17
 ɡɔhani 17
@@ -15685,6 +15696,7 @@ mɑr 16
 maksim 16
 makinɑ 16
 mainz 16
+mats bɔɔk 16
 məhəzə 16
 ɫʌnɡu 16
 ɫuʃɲə 16
@@ -18805,6 +18817,7 @@ dizdari 13
 distantsɑ 13
 diɔdati 13
 dinastisə 13
+diɡɪt alb 13
 djeɡɔ 13
 ðɔməs 13
 ðimitɛr 13
@@ -19823,6 +19836,7 @@ slluptʃan 12
 ʃasɪt 12
 ʃatɕir 12
 ʃakur 12
+ʃə bɑjɑ 12
 sɛksiɔnɪn 12
 sɛbastian 12
 saɔ 12
@@ -22931,6 +22945,7 @@ zbuɫɔni 10
 zbuɫɔhɛt 10
 zatritɕi 10
 zakɔ 10
+yɔu tubɛ 10
 yllɪt 10
 yl 10
 yɑrd 10
@@ -23209,6 +23224,7 @@ məzə 10
 ɫakɔ 10
 ɫadʑjɑ 10
 ɫabɛls 10
+ɫɑ brje 10
 ɫantʃ 10
 kʌnɡəvɛ 10
 kʌnɡən 10
@@ -24429,6 +24445,7 @@ kitarɛs 9
 kinɛzət 9
 kiɫɔɡramə 9
 kiɫian 9
+kəɡə isbn 9
 kɛrkɔi 9
 kɛnduɑr 9
 katɔɫikəvɛ 9
@@ -25343,6 +25360,7 @@ iɫirik 9
 idrizɪt 9
 idɛntitɛti 9
 ibrahimɪn 9
+ip sɛts 9
 hysɑ 9
 hyɡɔ 9
 humbje 9
@@ -25533,6 +25551,7 @@ bɫɔɡ 9
 bɫeu 9
 bjellɔrusi 9
 bizarɛ 9
+bit tɔrɛnt 9
 bɛsniku 9
 bɛsimtarət 9
 bɛnini 9
@@ -26791,6 +26810,7 @@ iðujvɛ 8
 iðujt 8
 iðuj 8
 idɛɔrɛ 8
+i pad 8
 hyu 8
 hyʃ 8
 hyrjɛvɛ 8
@@ -27473,6 +27493,7 @@ sjenəs 8
 ʃaɔ 8
 ʃaniʃaɪɑ 8
 ʃanɡaɪt 8
+ʃə bɑtʌ 8
 sfidat 8
 sɛrɡiɔ 8
 sɛrbə 8
@@ -27902,6 +27923,7 @@ iɫirəvɛ 8
 iɫias 8
 iɫiadɑ 8
 ifidʑeniɑ 8
+i psɛts 8
 ils 8
 il 8
 iɡrp 8
@@ -28074,6 +28096,7 @@ draɡaʃɪt 8
 dɔzɑ 8
 dɔmini 8
 dɔllɔɡɔʒdə 8
+dɔ sə 8
 dirɛktivɛ 8
 diɔnizɪn 8
 diɔnizi 8
@@ -28107,6 +28130,7 @@ dɛs 8
 tsruzɛirɔ 8
 tsris 8
 tsrɛativɛ 8
+tsɔutshh surfinɡ 8
 tsɔrpus 8
 tsɔnnɛtstitsut 8
 tsɔmputɛr 8
@@ -28184,6 +28208,7 @@ bɑrkas 8
 bamakɔ 8
 balʃ 8
 ballɑ 8
+balkan wɛb 8
 baɫenɑ 8
 baɪraktarɪt 8
 baɪɡɔrɑ 8
@@ -28594,6 +28619,8 @@ simbɔɫizuɑr 7
 simbɔɫizɔntɛ 7
 simbɔɫikə 7
 simbɔɫikiʃt 7
+simbɔɫi ɲə 7
+simbɔɫi mə 7
 simbiɔzə 7
 siɡuruarɑ 7
 ʃərɔntɛ 7
@@ -29721,6 +29748,7 @@ idɛɔɫɔdʑivɛ 7
 idɛɔɫɔdʑinə 7
 idɛaɫizmi 7
 idɛaɫist 7
+i phɔnɛ 7
 hyrat 7
 hynɛ 7
 hymə 7
@@ -30371,6 +30399,7 @@ dzəvədzvi 7
 wɔɔlf 7
 willis 7
 wikiɫeaks 7
+wiki ɫeaks 7
 wii 7
 wjen 7
 wifi 7
@@ -31476,6 +31505,7 @@ atɑ 7
 aɔl 7
 antʃ 7
 aɛs 7
+ad nsɛ 7
 ʌndʑəl 6
 ʌmbəlsirat 6
 tʃupə 6
@@ -34062,6 +34092,7 @@ zybɛr 6
 zvitsrɛs 6
 zvitsɛranɛ 6
 zɔtərimɛt 6
+zənə sə 6
 zinɔvyɛv 6
 ʒvillimɛ 6
 ʒupaniɑ 6
@@ -34510,6 +34541,7 @@ prɔdukti 6
 prɔðuɛsɪt 6
 prɔðimɪt 6
 prɔtsɛdurɑ 6
+prizrɛn tsɔllɛtstiɔn 6
 prizɛrɛnɪt 6
 printsipɛ 6
 prillɪt 6
@@ -34697,6 +34729,7 @@ myzɛtɕejɑ 6
 mysɫiu 6
 mysɫimanəvɛ 6
 myrtɛzai 6
+my spatsɛ 6
 mustsuɫus 6
 murɪt 6
 muritɕi 6
@@ -34766,6 +34799,7 @@ mbarəkɔmbətarɛ 6
 mbani 6
 mbaɪeni 6
 mbahɛt 6
+məbə və 6
 mazrɛku 6
 maʒɑr 6
 mauritaniɑ 6
@@ -34928,6 +34962,7 @@ kɔmunɛ 6
 kɔmpɔnimɛt 6
 kɔmitɛtɛvɛ 6
 kɔmitɛt 6
+kɔmɛntɛ ʃpɛrndaɪe 6
 kɔmbətɑrjɑ 6
 kɔmbəsiɑ 6
 kɔmbɛtɑrjɑ 6
@@ -35124,6 +35159,7 @@ hadrɪt 6
 hadri 6
 hadɛri 6
 him 6
+hə bɛ aɡ 6
 ɡʌtɛs 6
 ɡʌtɛ 6
 ɡərvallɑ 6
@@ -37427,6 +37463,7 @@ mɔdɛruarɑ 5
 mɔbiɫizwɑn 5
 mɔbiɫizɔnɪn 5
 mɔbiɫizim 5
+məmə həɡə 5
 mllɛfɔsur 5
 mjeteʃ 5
 mjeʃtrat 5
@@ -38029,6 +38066,8 @@ kadi 5
 kadastrat 5
 kabinən 5
 kabɑ 5
+kə wəhə 5
+kə həzə 5
 juristəvɛ 5
 juristi 5
 jurisprudɛntsən 5
@@ -38559,6 +38598,7 @@ eʃ 5
 ɛtsjɛn 5
 ɛtsjɑ 5
 ɛtsɛn 5
+ɛ bay 5
 dəʃtɔjə 5
 dəʃtimɛt 5
 dʌʃiruarɑ 5
@@ -39218,6 +39258,7 @@ vɔltɛrɪt 5
 vɔlɡɑ 5
 vɔɪvɔdinɑ 5
 vɔitsɛ 5
+vɔ ip 5
 vɫɔnə 5
 vllaznimi 5
 vlladimir 5
@@ -39763,6 +39804,7 @@ prɔfɛsɔrət 5
 prɔfɛsiɔnaɫe 5
 prɔðimtariɑ 5
 prɔtsɛsɔrət 5
+prɔ tsrɛdɪt 5
 prizɛ 5
 privatizimɪt 5
 prisni 5
@@ -40000,6 +40042,7 @@ nantutskɛt 5
 naismiθ 5
 nadɪn 5
 nabukɔdɔnɔsɔr 5
+nɑ ɔhh 5
 nəvəmətʌ 5
 nəmətə 5
 natɔnə 5
@@ -40143,6 +40186,7 @@ marə 5
 mɑrvɪn 5
 mɑrəðəniɑ 5
 marɔkun 5
+mɑrkɔ ʃtəpiɑ 5
 mɑrjan 5
 marinəs 5
 marjes 5
@@ -40693,6 +40737,7 @@ hadʒiu 5
 ɡɔrki 5
 ɡɔlf 5
 ɡɔdinɑ 5
+ɡənə rəhə 5
 ɡɫɔbi 5
 ɡɫaukisə 5
 dʑylhanɛsə 5
@@ -40725,6 +40770,7 @@ dʑakɔvɛs 5
 ɡay 5
 ɡausi 5
 ɡamɛs 5
+ɡamɛ spɔt 5
 ɡambiɑ 5
 ɡaɫə 5
 ɡallɛry 5
@@ -41019,6 +41065,7 @@ disɑ 5
 dəfəbə 5
 dɛm 5
 daʃuri 5
+tsryptɔ strɛam 5
 tsruz 5
 tsrɔss 5
 tsristianɔ 5
@@ -44101,6 +44148,7 @@ maðəʃtɔrə 4
 maðʌʃti 4
 maðɔrə 4
 matsɛn 4
+mɑ nɡɑ 4
 mɛ 4
 ɫʌvdɔɪ 4
 ɫəʃɔɪmə 4
@@ -44797,6 +44845,8 @@ kafazi 4
 kadifɛ 4
 kabllɔr 4
 kabinə 4
+kə wə 4
+kə və 4
 juristɪt 4
 juristɛ 4
 juridiksiɔni 4
@@ -44973,6 +45023,7 @@ idɛaɫistɛ 4
 id 4
 itsiɫi 4
 ibrik 4
+i tunɛs 4
 hʌ 4
 hypur 4
 hyjnizuɑr 4
@@ -46004,6 +46055,7 @@ bravɔ 4
 braktisjɛs 4
 braktisje 4
 bɔtərɔrɪt 4
+bɔtuɛsɛ dudaɪ 4
 bɔtɔrɛ 4
 bɔsɪn 4
 bɔɔm 4
@@ -46895,6 +46947,7 @@ subak 4
 stərvitjɛs 4
 stərvitjɑ 4
 stərmilli 4
+stumbɫe upɔni 4
 stuhiɑ 4
 studjen 4
 stublləs 4
@@ -47216,6 +47269,7 @@ rɔɔt 4
 rɔɔm 4
 rɔndɔ 4
 rɔnaldɔs 4
+rɔman autɔri 4
 rɔmakə 4
 rɔl 4
 rɔɡɛrs 4
@@ -47765,6 +47819,7 @@ naipi 4
 naibi 4
 natsrtɑ 4
 naamani 4
+nɑ tsələ 4
 nənəjə 4
 nisi 4
 nasɑsə 4
@@ -47817,6 +47872,7 @@ mɔzɑrtɪt 4
 mɔzɑrti 4
 mɔuntains 4
 mɔtɔrət 4
+mɔtɔ ɡəpə 4
 mɔtivi 4
 mɔskən 4
 mɔrisɔn 4
@@ -47907,6 +47963,7 @@ mɛrarɪt 4
 mɛndimtarə 4
 mɛndimɪt 4
 mɛnadʒim 4
+mɛmɔry strɛam 4
 mɛmiʃɑ 4
 mɛmɛ 4
 mɛmbranɑ 4
@@ -47920,6 +47977,8 @@ mɛɡadɛθ 4
 mɛfahiɫi 4
 mɛduzən 4
 mɛditsaɡɔ 4
+mətsə ɫarɛnmɛrtsɛdɛs 4
+mətsə intɔʃ 4
 mbuɫɔjeni 4
 mbuɫimi 4
 mbuɫesɑ 4
@@ -48548,6 +48607,7 @@ ibraimi 4
 ikstʌ 4
 ivvi 4
 ir 4
+i phɔnɛ 4
 ipvtɕ 4
 iɔm 4
 inɡkɑ 4
@@ -49042,6 +49102,7 @@ dri 4
 dreɪtuɛsi 4
 dreɪtɔrijɑ 4
 dreɪtɔratɪt 4
+drɛam wɔrks 4
 draw 4
 drandɛ 4
 draɡɔti 4
@@ -49081,6 +49142,7 @@ dispɔzitat 4
 dispɫay 4
 disfatɑ 4
 distsɔvɛry 4
+dirɛtst dzə 4
 dipɫɔmən 4
 dipɫɔmuɑr 4
 dipɫɔmɔhɛt 4
@@ -49701,6 +49763,7 @@ afts 4
 af 4
 aɛɑsɛ 4
 adsl 4
+ad nnɛ 4
 adɛm 4
 atsidi 4
 aakjɑ 4

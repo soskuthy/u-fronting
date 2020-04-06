@@ -468,6 +468,7 @@ kwɛnta 107
 kutʃa 107
 leβɾo 106
 daɾaɣon 106
+a θe 106
 jɛɾa 106
 mantʃa 106
 maðɾit 106
@@ -541,6 +542,7 @@ populaɾ 93
 isto 93
 beɣatas 92
 kontinaɾ 92
+be βaʃa 92
 komuniðatʰ 92
 okθiðental 91
 nwɛβo 91
@@ -674,6 +676,7 @@ peɾkɛ 74
 pasaʊ 74
 sindembaɾɣo 74
 ɡwaðalatʃaɾa 74
+a akθɛntwaða 73
 tenjo 73
 siɣa 73
 xen 73
@@ -773,6 +776,7 @@ dunkastjɛʎo 66
 tʃikota 66
 pamplona 66
 los 66
+θi u 66
 kwatɾo 65
 pjɛt 65
 mjɛmbɾo 65
@@ -1226,6 +1230,7 @@ este 42
 entaβan 42
 θiβil 42
 baɲɛɾas 42
+ʃe ðe 41
 beɪɣo 41
 us 41
 tuja 41
@@ -1315,6 +1320,7 @@ asaβelo 39
 altɾa 39
 aflujɛn 39
 seɪseno 39
+teβe βaʃa 39
 soθjalista 39
 seɣunda 39
 rusja 39
@@ -1486,6 +1492,7 @@ kondom 35
 atɾa 35
 akitanja 35
 ajɛɾe 35
+e akθɛntwaðas 34
 suðeste 34
 repuβlika 34
 pɾimeɾo 34
@@ -2338,6 +2345,7 @@ biβa 21
 bjɛne 21
 beʊ 21
 betʃetaθjon 21
+teβe βaʃa 21
 tɾiβus 21
 tɾaðukθjon 21
 toθal 21
@@ -2742,6 +2750,7 @@ baɪ 19
 asambleja 19
 ankɛ 19
 andɾeʊ 19
+e akθɛntwaða 18
 botos 18
 bja 18
 beloθiðatʰ 18
@@ -2881,6 +2890,7 @@ aktos 18
 akto 18
 jɛs 18
 bja 18
+u pi ðe 18
 unesko 18
 sol 18
 siɲɔɾ 18
@@ -3049,6 +3059,7 @@ tuɾkia 17
 toɾnaɪ 17
 tjɛnɡo 17
 tera 17
+teβe βaʃae 17
 soθjɛðatʰ 17
 soβɾepwɛɾto 17
 rojɔ 17
@@ -3459,6 +3470,7 @@ peɾe 15
 oɾeʎa 15
 noβjɛmbɾe 15
 naɪ 15
+ɛne aɾa 15
 moɾjɛʎo 15
 moɾata 15
 maɾaton 15
@@ -3662,6 +3674,7 @@ biðeo 14
 biθjɛn 14
 baleɾo 14
 balenθjan 14
+teβe βaʃa 14
 tɾasoɾo 14
 tɾamakastjɛʎa 14
 taʊs 14
@@ -3728,6 +3741,7 @@ andaluθia 14
 anatolja 14
 alpes 14
 aɣire 14
+be βaʃaɛse 13
 biβen 13
 biɾtʃen 13
 biʎas 13
@@ -4549,6 +4563,7 @@ deteniu 11
 desaβitato 11
 deʃe 11
 definiɾ 11
+de θe 11
 deðukaθjon 11
 daβui 11
 doɾo 11
@@ -5164,6 +5179,7 @@ kamp 10
 kamin 10
 kalifato 10
 kalamotʃa 10
+θeβe βaʃa 10
 bosnjaɾθeɣoβina 10
 boɾβons 10
 bona 10
@@ -5193,6 +5209,7 @@ beɾteβɾatos 9
 beɾsjo 9
 benda 9
 bandalos 9
+be βaʃa 9
 uθβekos 9
 tuɾkiko 9
 tuitejaɾ 9
@@ -5911,6 +5928,7 @@ paɾlamento 8
 paɾðina 8
 paɾatʃe 8
 paleolitiko 8
+pe atʃe 8
 oɾɣaniθaða 8
 oɾɣaniθate 8
 oposiθjon 8
@@ -7280,6 +7298,7 @@ mapa 7
 mankomuniðatʰ 7
 mantʃuɾja 7
 maɣɾeb 7
+ɛme pwɛβlos ðiɡnos 7
 me 7
 men 7
 lopeθ 7
@@ -7350,6 +7369,7 @@ destakan 7
 dekɾetos 7
 dna 7
 dɣa 7
+de tʃe a 7
 daɾaɣones 7
 kuɾθon 7
 kosa 7
@@ -8083,9 +8103,12 @@ deklaɾaθjon 6
 deθiðjɔɾon 6
 deβuʃos 6
 deβantaðeɾa 6
+de majɔ 6
 daɲɔs 6
 daβa 6
+de θeβe βaʃa 6
 deste 6
+da akθɛntwaða 6
 doksiðaθjon 6
 dotuβɾe 6
 dotɾi 6
@@ -8705,6 +8728,7 @@ aɾxeles 6
 aɾtʃentina 6
 aɾamon 6
 aɾaɣones 6
+aɾa imfo 6
 apostols 6
 aɲisklo 6
 ambistas 6
@@ -9262,6 +9286,7 @@ mankaɾ 5
 malos 5
 maʎo 5
 maɡnitutʰ 5
+ɛme aɾaɣon 5
 maɣana 5
 lupos 5
 luitaðeɾas 5
@@ -10220,6 +10245,7 @@ manuβles 5
 manifestaθjɔn 5
 malaðɾoɪt 5
 maoma 5
+ɛme liβeɾtad 5
 ɛmeβe 5
 luisa 5
 luixi 5
@@ -10481,6 +10507,8 @@ akθjon 5
 aβu 5
 aβɾaam 5
 aβaɾka 5
+u akθɛntwaðas 4
+i akθɛntwaðas 4
 in 4
 alβum 4
 anims 4
@@ -10588,6 +10616,7 @@ ukɾaɪnesas 4
 uβɾen 4
 uβɾe 4
 teθeta 4
+teβe βaʃae 4
 tutela 4
 tuɾismo 4
 tuɾβeɾas 4
@@ -10694,6 +10723,7 @@ tan 4
 taɾaɣon 4
 san 4
 silβatika 4
+ɛseβe βaʃaɣe 4
 sustituitos 4
 sustituita 4
 sustituθjon 4
@@ -12402,6 +12432,7 @@ aðjos 4
 aðeðikaða 4
 adtʃektiβo 4
 aðaptatos 4
+ad θe 4
 akuðe 4
 aktwaɾ 4
 akte 4
@@ -12427,6 +12458,7 @@ aβandonatʰ 4
 θambja 4
 θaɣɛɾa 4
 θaβalθa 4
+jow tuβe 4
 ʃimeniθ 4
 ʃeɾesa 4
 ʃaβjɛrelatɾe 4
@@ -12611,6 +12643,7 @@ rexina 4
 raul 4
 raθon 4
 raβena 4
+ran ɡetepe 4
 rambla 4
 raβal 4
 ɾna 4
@@ -12689,6 +12722,7 @@ peteɛre 4
 peɛseoeaɾaɣon 4
 peɛseɣe 4
 sa 4
+peɛneβe βaʃa 4
 peθe 4
 pβi 4
 pa 4
@@ -12849,6 +12883,7 @@ iɣwalaða 4
 iðentifikaθjɔns 4
 iβeɾja 4
 jupak 4
+iteβe βaʃa 4
 ik 4
 iaaɛfe 4
 ja 4
@@ -13189,6 +13224,7 @@ aɾtes 4
 aɾkantʃel 4
 aɾtʃen 4
 aɾβaɪla 4
+aɾaɣon teβe βaʃa 4
 aɾaβe 4
 apeʎiu 4
 antiʎon 4
@@ -13236,6 +13272,7 @@ s 3
 ete 3
 el 3
 eʊskaɾ 3
+a akθɛntwaðas 3
 alβums 3
 an 3
 uɾβeθ 3
@@ -13682,6 +13719,7 @@ sjɛnita 3
 sjɛn 3
 sjɛɣlas 3
 siðo 3
+si ɾnaθθ 3
 ɛseatʃe 3
 sekswaliðatʰ 3
 sekse 3
@@ -14727,6 +14765,7 @@ lantaniðos 3
 laɪlo 3
 la 3
 laðɾjɛʎo 3
+ɛle asoθjaθjon 3
 luniko 3
 lultim 3
 lekole 3
@@ -15615,6 +15654,7 @@ daɾja 3
 damun 3
 dalmatas 3
 dakoruman 3
+de aθeɾ 3
 dekss 3
 dusos 3
 dunifikaɾ 3
@@ -15717,6 +15757,7 @@ dakθentwaθjon 3
 daβeʎas 3
 duɾxel 3
 dɣwɛska 3
+du pi ðe 3
 doθa 3
 dotal 3
 doɾitʃen 3
@@ -16642,6 +16683,7 @@ balimaɲa 3
 balenθjan 3
 baɪ 3
 baðjɛʎo 3
+be βaʃaiatʃe 3
 ɡweɪ 3
 uson 3
 usuɾβil 3
@@ -16821,6 +16863,7 @@ saβoneɾas 3
 saβokos 3
 saβen 3
 saβemos 3
+ɛseβe βaʃa 3
 siɲal 3
 seɾ 3
 sepk 3
@@ -16874,6 +16917,7 @@ retʃiɾa 3
 raθin 3
 raskɛɾa 3
 rasmja 3
+ran ɡeðepe 3
 ramos 3
 ramona 3
 ramiɾo 3
@@ -16882,6 +16926,7 @@ raʎa 3
 rafelkofeɾ 3
 rako 3
 raβos 3
+ɛreteβe βaʃaβe βaʃa 3
 reɪ 3
 ɛreθeθe 3
 kjɛɾo 3
@@ -17003,6 +17048,7 @@ palankɛs 3
 palanɡa 3
 paɪses 3
 pako 3
+peɛseoe aɾaɣon 3
 poɾ 3
 poðiu 3
 peɛneβe 3
@@ -17177,6 +17223,8 @@ maatma 3
 maɡna 3
 maɣanθa 3
 maðiɾan 3
+ɛme pwɛβlos liβɾes 3
+ɛme ðelta 3
 maɪ 3
 mese 3
 menkanta 3
@@ -17250,6 +17298,7 @@ lakunjatʃa 3
 lakos 3
 laθeɾta 3
 laas 3
+ɛle oθjan 3
 lomθe 3
 ɛʎe 3
 loɾɣano 3
@@ -17307,6 +17356,8 @@ iso 3
 ipsis 3
 inde 3
 if 3
+iθeβe βaʃae ɣwi a 3
+iθeβe βaʃa 3
 ikulum 3
 iβi 3
 ila 3
@@ -17381,6 +17432,7 @@ xestapo 3
 xeɾoa 3
 xeɾaɾdsen 3
 xeoɾxes 3
+xeo ɛreɛseɛse 3
 xeltɾu 3
 ɣaθtelu 3
 ɣaθaɾos 3
@@ -17573,6 +17625,7 @@ detʃusβan 3
 daβi 3
 danni 3
 deɛnei 3
+de aɾaɣon 3
 diβjɛɾno 3
 dokupaθjon 3
 kutas 3
@@ -17669,6 +17722,7 @@ tʃeneɾo 3
 tʃeneɾals 3
 tʃen 3
 tʃaθal 3
+tʃarando teβe 3
 tʃaraðas 3
 tʃaɾljɛ 3
 tʃaɾente 3
@@ -17689,6 +17743,7 @@ kaʊssens 3
 kateɾina 3
 kateɣoɾia 3
 katalan 3
+katʰ noɾd 3
 kastɾum 3
 kastɾokol 3
 kastjɛl 3
@@ -17906,10 +17961,12 @@ aɾθiθakaðowɾ 3
 aɾtʃiβos 3
 aɾβuθjɛs 3
 aɾβutus 3
+aɾaɣon teβe βaʃa 3
 aɾaɣonkasp 3
 aɾaɣonjae 3
 aɾaɣonesas 3
 aɾaɣonensi 3
+aɾaɣon teβe βaʃa 3
 aɾaβika 3
 akɛss 3
 apɾendeɾ 3
@@ -17945,6 +18002,7 @@ amanatene 3
 amaðeʊ 3
 alβaɾo 3
 altoriko 3
+alto aɾaɣon 3
 alteɾjɔ 3
 alre 3
 alpwɛn 3
@@ -17999,6 +18057,7 @@ aβeɾtis 3
 abβasi 3
 aβaʃo 3
 aβaðin 3
+aβe βaʃate 3
 aʊθsa 3
 as 3
 an 3
@@ -18017,6 +18076,7 @@ eksit 2
 epoka 2
 aɾja 2
 antʃel 2
+a akθɛntwaðasaβelos 2
 urustoɪlaraβile 2
 ultima 2
 olt 2
@@ -18027,6 +18087,7 @@ eksito 2
 eβoɾa 2
 elwaɾd 2
 eiɾe 2
+e akθɛntwaðas 2
 eʊnas 2
 eɡɾiɛu 2
 ajaks 2
@@ -18696,6 +18757,7 @@ taβikɛ 2
 taβjɛɾnas 2
 taβeɾnaɾjɔ 2
 taβak 2
+te ɛre 2
 tintɾesa 2
 tan 2
 taɪɣa 2
@@ -18947,6 +19009,7 @@ sjaθ 2
 sjaras 2
 sjan 2
 sjaɣlos 2
+si ɾna 2
 samis 2
 seɲalan 2
 seθ 2
@@ -19667,6 +19730,7 @@ puntʃon 2
 puntʃin 2
 puntʃaɾ 2
 puntʃando 2
+pun da 2
 puma 2
 pulmonaɾ 2
 pui 2
@@ -20430,6 +20494,7 @@ okupaʊs 2
 okupaβa 2
 oktuβɾenoβjɛmbɾe 2
 oktoβɾe 2
+okt roðea la ðiktaðuɾa 2
 oθiðentals 2
 oθjanikos 2
 oθjanikas 2
@@ -20536,6 +20601,7 @@ nimbjan 2
 nimbjaða 2
 nimbja 2
 ninɡu 2
+nin eta 2
 nimbjando 2
 niɣɾa 2
 njɛɾβoso 2
@@ -20745,6 +20811,7 @@ moðeɾnamen 2
 moθjon 2
 moθiðaðe 2
 motʃila 2
+mok eta 2
 moβiljaɾjɔ 2
 miʃta 2
 miʃin 2
@@ -21036,6 +21103,9 @@ matʃo 2
 matʃjas 2
 maθeðonjɔ 2
 makaɾaxiu 2
+ɛme pwɛβlos liβɾes 2
+ɛme on 2
+ɛme aɾa 2
 meɪ 2
 mestimo 2
 mesmelikaβa 2
@@ -21232,6 +21302,9 @@ lamentaβle 2
 laɪlolaɪlolaɪlola 2
 laβɾaʊ 2
 laβoɾaɾ 2
+ɛle omo 2
+ɛle aβenita 2
+ɛle asambleja 2
 lus 2
 lunika 2
 lultima 2
@@ -23092,6 +23165,7 @@ despoβlata 2
 despoβlatʰ 2
 desplaθata 2
 despistaʊ 2
+despiðos aʊθsa 2
 despeɾtaɾ 2
 despeɪto 2
 despeðimos 2
@@ -23316,6 +23390,10 @@ daʎa 2
 daɣɛstanis 2
 dab 2
 dale 2
+de el 2
+de almoθaɾas 2
+de aβɾil 2
+de a 2
 del 2
 desseɾ 2
 daɾβol 2
@@ -23590,6 +23668,7 @@ dipjes 2
 dinteɾjɔɾ 2
 dindustɾja 2
 diʎinoɪs 2
+dikβe ɣwi a 2
 diɾosima 2
 diɣɛɾuɛla 2
 diβjɛɾno 2
@@ -24309,6 +24388,7 @@ tʃiɾiɣaʎo 2
 tʃiɾaʊ 2
 tʃiɾas 2
 tʃikɛθ 2
+tʃiku etea 2
 tʃintaɾem 2
 tʃinipɾo 2
 tʃinampas 2
@@ -25118,6 +25198,7 @@ antifaksista 2
 antifasθista 2
 antifaʃismo 2
 antiðistuɾβis 2
+anti teaβe βaʃa 2
 antiotomans 2
 antesmas 2
 antepasatos 2
@@ -25685,6 +25766,7 @@ uɾðiɲaɾβe 2
 uɾðjales 2
 uɾβeθ 2
 uɾβe 2
+upi ðe 2
 unseɾ 2
 unotɾo 2
 juniks 2
@@ -26289,6 +26371,7 @@ ranes 2
 randstad 2
 randaθθo 2
 rana 2
+ram bepe 2
 ramos 2
 rambo 2
 raɪɔn 2
@@ -26297,6 +26380,7 @@ raola 2
 rafel 2
 raðikɛɾo 2
 rad 2
+ɛre θetaɣeθeta 2
 rip 2
 remfe 2
 re 2
@@ -26538,6 +26622,7 @@ paɾθan 2
 paɾtiθipa 2
 paɾteθipo 2
 paɾtaɾa 2
+paɾkɛ ɣoja 2
 paɾoleta 2
 paɾola 2
 paɾlamentaɾja 2
@@ -26575,6 +26660,7 @@ paɪsos 2
 paðoβa 2
 paðaɾnin 2
 patʃa 2
+peβe βaʃa 2
 pete 2
 peɛseoepaɾ 2
 peɛse 2
@@ -26673,6 +26759,7 @@ oɾantʃe 2
 oo 2
 oɛneɣe 2
 o 2
+o βaɾko 2
 otɾanɡo 2
 nuɲo 2
 nuɣɛtʰs 2
@@ -26752,7 +26839,9 @@ naðiɾ 2
 naθjɔ 2
 naθe 2
 naβateɾos 2
+na θeɛle 2
 ɛnepeðe 2
+ɛne ðesoβeɪm 2
 ɛneθete 2
 no 2
 ni 2
@@ -26793,6 +26882,7 @@ motos 2
 motos 2
 motoɾola 2
 motoɾ 2
+moto ɣepe 2
 moskɛɾuɛla 2
 moskɛɾa 2
 mosikos 2
@@ -26923,6 +27013,7 @@ meðiθi 2
 meðaɾd 2
 meðaʎa 2
 mdelta 2
+ɛmeθe ɣɾeɣoɾ 2
 maθða 2
 majɛstɾo 2
 majɛstɾanθa 2
@@ -27011,6 +27102,7 @@ maðaɣaskaɾ 2
 mak 2
 maβinoxjɔn 2
 maastɾitʃt 2
+ɛme βaɣa ðe estuðjans 2
 molt 2
 menos 2
 melus 2
@@ -27185,6 +27277,7 @@ lol 2
 liɣɾe 2
 lexjɔne 2
 ledθθ 2
+ɛle alto 2
 lapoʎa 2
 loksitʃen 2
 losaβa 2
@@ -27305,6 +27398,7 @@ iβiθa 2
 iβaroʎe 2
 iβarola 2
 jakka 2
+i θeβeɾɡ 2
 ipb 2
 ipe 2
 iβeɛme 2
@@ -27312,6 +27406,8 @@ oɾɣas 2
 elette 2
 eleno 2
 atʃeθeta 2
+ipeɾ tɾeaðinɡ 2
+i te 2
 ɡwelamo 2
 ustinak 2
 usseɪn 2
@@ -27403,6 +27499,7 @@ xeɾaβelesten 2
 ɡinaɾtepaɾentjas 2
 ɡɛβaɾa 2
 ɡɛttos 2
+ɡɛra θiβil 2
 ɡwajana 2
 ɡwaɾta 2
 ɡwaɾða 2
@@ -27653,6 +27750,8 @@ fakao 2
 faβloɡxes 2
 faβlapensaðoɾ 2
 faβaθeae 2
+ɛfe βaɣa 2
+ɛfe som puklika 2
 ɛfeɛse 2
 foto 2
 foɾma 2
@@ -27829,8 +27928,10 @@ elða 2
 elβa 2
 eɪsus 2
 eɪβaɾ 2
+ee ɛme 2
 eðiθjɔns 2
 edɣaɾ 2
+eðatʰ meja 2
 ekonomis 2
 ekonomiko 2
 ekonomja 2
@@ -27991,6 +28092,7 @@ da 2
 ðɾae 2
 djaple 2
 deɣete 2
+deθeβe βaʃaβe 2
 dun 2
 diʃo 2
 diʃas 2
@@ -28800,6 +28902,8 @@ aɾankow 2
 aɾamits 2
 aɾamaɪɔ 2
 aɾala 2
+aɾaɣon liβɾe 2
+aɾaɣon kaɾtb 2
 aɾaɣonsiɾja 2
 aɾaɣon 2
 aɾaɣonja 2
@@ -29039,6 +29143,7 @@ io 1
 indjɔs 1
 indja 1
 iðol 1
+i akθɛntwaða 1
 eθo 1
 eθ 1
 etoɪle 1
@@ -29077,6 +29182,7 @@ ain 1
 aɣoɾa 1
 atʃil 1
 aθeɾ 1
+a akθɛntwaðasaβelas 1
 aβja 1
 aɾea 1
 aɾabs 1
@@ -29092,6 +29198,7 @@ optika 1
 olβeɣa 1
 oiβare 1
 oβuða 1
+o akθɛntwaða 1
 oska 1
 itale 1
 ismaɾo 1
@@ -29251,6 +29358,7 @@ aɡɾiɛu 1
 θaɣalons 1
 θaɣalet 1
 θaɣalaða 1
+θaɣal etea 1
 θaɡ 1
 θafɾaɪna 1
 θafoɾoso 1
@@ -29423,6 +29531,7 @@ onθeno 1
 ʃaes 1
 ʃaða 1
 ʃa 1
+ʃe ðeðe 1
 ʃedd 1
 bos 1
 boten 1
@@ -30015,6 +30124,7 @@ betʃetaɾi 1
 betʃetaɾaɪna 1
 betʃetaθjɔns 1
 betʃetʃals 1
+be βaʃaðeɣe 1
 baθ 1
 bajon 1
 baksiʎa 1
@@ -30063,6 +30173,7 @@ bandalismo 1
 banaðjɔ 1
 bamos 1
 bamjɔs 1
+bal enθja 1
 baluɾosas 1
 baltɾos 1
 baltɾes 1
@@ -30245,6 +30356,7 @@ uniβeɾsiðaθ 1
 uniβeɾsals 1
 uniβeɾsaliðatʰ 1
 uniβa 1
+uni βeɾsiða te 1
 unɡlowɾjows 1
 unɡlas 1
 uneʃen 1
@@ -31185,6 +31297,7 @@ tindɾa 1
 tindɾjɛ 1
 tindɾeʊ 1
 tindɾela 1
+tink ɛneo 1
 timpanika 1
 timoɾes 1
 timoɾe 1
@@ -31650,6 +31763,10 @@ taβakismo 1
 taβans 1
 taβalaða 1
 taβa 1
+te soɾði 1
+te saβalin 1
+te ɛse 1
+te aɾtaθo 1
 tunes 1
 tun 1
 toðjɔ 1
@@ -32206,6 +32323,7 @@ estaɡno 1
 ɛsete 1
 ɛseɛsepe 1
 essjɔ 1
+ɛseɛse ɾna 1
 esɾi 1
 ɛseɛre 1
 eskwamatum 1
@@ -32488,6 +32606,7 @@ soβɾekonsumo 1
 soβɾekaθa 1
 soβɾekaɾɣato 1
 soβɾaɾβenkas 1
+soβɾaɾβe pea ratoðos 1
 soβɾaɲɔ 1
 soβɾamos 1
 soβɾ 1
@@ -33350,6 +33469,7 @@ salðɾa 1
 salðo 1
 salðaɾ 1
 salaθaɾ 1
+salas ɛle 1
 salas 1
 salaɾ 1
 salamankɛsas 1
@@ -33433,6 +33553,7 @@ saβana 1
 saβan 1
 saβaðos 1
 saβa 1
+ɛse taraɣona 1
 ɛseθjaβo 1
 sutiliθan 1
 sutiliθa 1
@@ -33994,6 +34115,7 @@ ruβoɾ 1
 ruβekula 1
 rubβjatɾon 1
 ruaɪɡ 1
+ɛreteβe βaʃae 1
 ɾte 1
 ɛreɛreɛseɛse 1
 roiðos 1
@@ -36736,6 +36858,7 @@ postumo 1
 postulatos 1
 postulaɾ 1
 postɾanskɾiptjɔnal 1
+poss ɛreɛseɛse 1
 poss 1
 posɾimeɾias 1
 posɾe 1
@@ -36752,6 +36875,7 @@ postalβeoloβelaɾ 1
 postalβeolaɾ 1
 postalfɾee 1
 posta 1
+pos fɾankisme 1
 postɾanskɾipθjɔnal 1
 posope 1
 posɣɛra 1
@@ -38594,6 +38718,7 @@ okulta 1
 okulas 1
 oktoβeɾnet 1
 okto 1
+okt roðe 1
 okt 1
 okore 1
 oklusiβo 1
@@ -38691,6 +38816,8 @@ ob 1
 oasis 1
 oaɾa 1
 oa 1
+o ɣwɛlɣa xeneɾal 1
+o ðe 1
 nestuðeaɾa 1
 numeɾos 1
 noβja 1
@@ -39234,6 +39361,8 @@ naβiða 1
 naβeɣaθjon 1
 naβata 1
 naa 1
+ɛne ro 1
+ɛne ɣal 1
 netaɪt 1
 ni 1
 nusa 1
@@ -39916,6 +40045,7 @@ mikɾokomputaðos 1
 mikɾoβokaʊ 1
 mikɾoβjɔlotʃia 1
 mikɾoaspeɾsjon 1
+mikɾo ɛreɛnea 1
 mikɾo 1
 mikɾitikas 1
 mikɾakanta 1
@@ -39925,6 +40055,7 @@ mitʃino 1
 mitʃaɾ 1
 mikaθjɔs 1
 mjami 1
+mi ɾna 1
 men 1
 meθmutʰ 1
 meθmuðina 1
@@ -40038,6 +40169,7 @@ mestʃinos 1
 mesapikos 1
 mesapiko 1
 mesapja 1
+mesatʃ etea 1
 mesak 1
 meɾeiʃeɾ 1
 meɾmelaða 1
@@ -40451,6 +40583,7 @@ makɛta 1
 maps 1
 mapifikatʰ 1
 mapeta 1
+mapas kaɾtoɣɾafia 1
 maoɾis 1
 maoɾi 1
 manes 1
@@ -40742,6 +40875,9 @@ matʃikorelitʃjɔsos 1
 matʃikas 1
 matʃestwɔsa 1
 maθetas 1
+ɛme θetaɣeθeta 1
+ɛme maɾtʃas poɾ la ðiɡniðad 1
+ɛme maɾ 1
 metonne 1
 meton 1
 mufɾo 1
@@ -41007,6 +41143,7 @@ lwɛsja 1
 lwɛnɡos 1
 lwɛnɡolento 1
 lwɛnɡaniθa 1
+lwɛnɡa kal 1
 lwɛnɡaðjalekto 1
 lwɛnɡ 1
 lwɛɣas 1
@@ -41684,7 +41821,26 @@ laβaðoɾa 1
 laβaβa 1
 laaɾɣo 1
 laa 1
+la kosteɾa 1
 lan 1
+ɛle tjɛmpo 1
+ɛle onomastikon 1
+ɛle ostalet 1
+ɛle imno 1
+ɛle eʊɾatom 1
+ɛle ekwus 1
+ɛle eðifiθjɔ 1
+ɛle aβeniða 1
+ɛle atlas 1
+ɛle aɾt 1
+ɛle aɾtʃitektuɾal 1
+ɛle aɾatinɡa 1
+ɛle apaɾteɪd 1
+ɛle anstʃluss 1
+ɛle amfiteatɾo 1
+ɛle aðwana 1
+ɛle akaðemja 1
+ɛle akaðemja 1
 lete 1
 leteɾnite 1
 lekowteɾ 1
@@ -41843,6 +41999,7 @@ liʎa 1
 liðeoloɣo 1
 liðentifikaðoɾ 1
 liβa 1
+li pod 1
 leɾoe 1
 lumiljɛs 1
 lumiðatʰ 1
@@ -42442,6 +42599,7 @@ laβandonamjɛnte 1
 laβaðjato 1
 laβaðja 1
 laβaðesa 1
+la ðonat 1
 luɾuɣwaɪ 1
 luɾi 1
 luɾðanɡaɾin 1
@@ -42449,6 +42607,7 @@ luɾðanɡaɾin 1
 luniβeɾso 1
 luniβeɾsite 1
 lunited 1
+luniðatʰ populaɾ 1
 lulsteɾ 1
 lunesko 1
 lwa 1
@@ -42649,6 +42808,8 @@ laneka 1
 lamf 1
 lakte 1
 ɛlea 1
+ɛle atʃe 1
+ɛle aɾaɣones 1
 iɲoɾantes 1
 jes 1
 iθkjɛɾða 1
@@ -43702,7 +43863,11 @@ jaɪa 1
 jaɪ 1
 jakθetan 1
 jakθetans 1
+i θjɛɾθo 1
 aɪfon 1
+i pad 1
+i os 1
+i komo 1
 ison 1
 isiɣan 1
 ikɛða 1
@@ -43716,6 +43881,7 @@ esenos 1
 eɾissons 1
 es 1
 aβil 1
+atʃe eiɾeann 1
 ipoleʊka 1
 ipoɣaea 1
 ipeɾ 1
@@ -44090,6 +44256,7 @@ aβela 1
 aβendosene 1
 aβen 1
 aβeβan 1
+atʃe jaɾmi 1
 atʃeeiɾeann 1
 ɡwe 1
 ɡwlɣwlu 1
@@ -44963,6 +45130,7 @@ fotoreθepθjon 1
 fotokimika 1
 fotopeɾjɔðistas 1
 fotoɣɾafjɛs 1
+fotoɣɾaf ja 1
 fotoðjɔðo 1
 fotokaɾamente 1
 fotiu 1
@@ -45691,6 +45859,7 @@ faβaða 1
 faβaθjas 1
 fab 1
 faβaɾa 1
+ɛfe som puβlika 1
 eɲo 1
 eθteɾa 1
 eθpansjon 1
@@ -45955,6 +46124,7 @@ eksaktas 1
 eksatʃeɾaʊ 1
 eksatʃeɾaðas 1
 eksaβɾupto 1
+eks uɛreɛseɛse 1
 eksβotan 1
 eksteroɾista 1
 eksmjɛmbɾos 1
@@ -46706,6 +46876,7 @@ esflamiθjaʊ 1
 esfinitiβamen 1
 esfiloɾtʃaɾ 1
 esfjɛndo 1
+esfjɛnde peɛseoe 1
 esfesa 1
 esferaɾ 1
 esferaða 1
@@ -47608,6 +47779,7 @@ enamoɾaðika 1
 enalteʃin 1
 enalteθjɛndo 1
 enatʃenaθjon 1
+en moβimjɛnto 1
 enaɪ 1
 emus 1
 emes 1

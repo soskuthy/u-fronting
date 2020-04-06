@@ -1141,6 +1141,7 @@ noʃtɾi 186
 format 186
 dispune 186
 komplet 186
+twiter distribwitsʲʲ 186
 postatsʲʲ 186
 luɪ 186
 emil 186
@@ -1198,6 +1199,7 @@ propus 179
 nul 179
 bukuɾje 179
 moskova 179
+ɨ eur 178
 vorbesk 178
 reusit 178
 nitʃun 178
@@ -2009,6 +2011,8 @@ tʃeilaltsʲʲ 111
 atɨta 111
 ameɾikanʲʲ 111
 aʒuŋɡ 111
+twiter ʃaɾe 111
+this bloɡ this 111
 eljade 111
 tʃeɾeɾea 111
 əsta 110
@@ -2622,6 +2626,7 @@ alimente 88
 printre 88
 park 88
 parkul 88
+hot news 88
 brukseles 88
 zjar 87
 vremurʲ 87
@@ -4505,6 +4510,7 @@ aplikaɾe 53
 adəʊɡat 53
 akordaɾea 53
 voiku 53
+votʃea basaɾabieɪ 53
 usd 53
 tɔatə 53
 stəntʃuleskubɨrda 53
@@ -6066,6 +6072,7 @@ la 39
 itʲʲ 39
 irlanda 39
 ɡidul 39
+dʒede se 39
 ɡaleɾje 39
 filip 39
 fedeɾatieɪ 39
@@ -6934,6 +6941,7 @@ imadʒe 34
 jeʃiɾe 34
 ideolodʒik 34
 jaɾasʲ 34
+i fone 34
 ɡuvernamentale 34
 ɡresje 34
 dʒermana 34
@@ -7279,6 +7287,7 @@ skɔatə 32
 skɔase 32
 savarsite 32
 salvaɾe 32
+se ji 32
 ruɡətʃunʲʲ 32
 rosje 32
 rezistentsə 32
@@ -7414,6 +7423,7 @@ meditʃinə 32
 maɾeluɪ 32
 maɪne 32
 mede 32
+me ap ne 32
 lokalitate 32
 lifestile 32
 kazahstan 32
@@ -8634,6 +8644,7 @@ evolutsje 27
 estimat 27
 jeɾaɪ 27
 editat 27
+je maɡ 27
 dutʃea 27
 dovedeʃte 27
 dos 27
@@ -9728,6 +9739,7 @@ adeɾaɾe 24
 aktritsə 24
 aktjunʲilor 24
 zetʃe 24
+joʊ tube 24
 joɡa 24
 vuja 24
 vrea 24
@@ -10121,6 +10133,7 @@ adank 23
 aktwaleɪ 23
 aktjoneaza 23
 aktʃeleɾat 23
+word pres 23
 wiljam 23
 vorba 23
 vitalje 23
@@ -10574,6 +10587,7 @@ paskanʲʲ 22
 pamantuluɪ 22
 politika 22
 notə 22
+news in 22
 neamtsu 22
 neaɡoe 22
 natsjunʲilor 22
@@ -10591,6 +10605,7 @@ mehedintsʲʲ 22
 mao 22
 luŋɡ 22
 lokale 22
+lili ana 22
 li 22
 lantʃe 22
 kaɾen 22
@@ -10660,6 +10675,7 @@ zidurʲ 21
 zikɨnd 21
 zitʃeam 21
 weekend 21
+web release 21
 vəzɨnd 21
 volumele 21
 vizavʲi 21
@@ -11010,6 +11026,7 @@ skandal 21
 rubrika 21
 publikə 21
 publik 21
+pro teve 21
 printʃipiʊl 21
 porske 21
 plesita 21
@@ -11517,6 +11534,7 @@ pɨnə 20
 putetsʲʲ 20
 publitʃʲ 20
 prezentaɾea 20
+presa online 20
 premiʊluɪ 20
 premiɪle 20
 polonieɪ 20
@@ -11550,6 +11568,7 @@ leul 20
 leave 20
 kiɾil 20
 kate 20
+ʒeri simon 20
 internatsjonalə 20
 inter 20
 informatsja 20
@@ -11619,6 +11638,7 @@ aldʒeɾia 20
 aktul 20
 aktorul 20
 atitudʲini 20
+a dfel 20
 tsia 19
 ʃtiɪntseɪ 19
 ʃtiɾʲʲ 19
@@ -12693,6 +12713,7 @@ spatsjul 18
 solomon 18
 seminarul 18
 saturn 18
+sa fir 18
 sub 18
 sport 18
 snspa 18
@@ -14010,6 +14031,7 @@ ak 16
 absolviɾea 16
 zavoɾanu 16
 webloɡ 16
+voks publika 16
 vɔastre 16
 vestea 16
 vedetsʲʲ 16
@@ -14120,6 +14142,7 @@ fetita 16
 faptele 16
 fakultatiɪ 16
 fraŋk 16
+eur aktiv 16
 epistola 16
 episkop 16
 emisjunʲʲ 16
@@ -14891,6 +14914,7 @@ lista 15
 jun 15
 ismaɪl 15
 jov 15
+internats jonal 15
 imadʒinʲile 15
 istoɾja 15
 il 15
@@ -15753,6 +15777,7 @@ militaɾiɪ 14
 mikul 14
 merdʒʲ 14
 mehedintʲʲ 14
+maks member 14
 mateɾjale 14
 marte 14
 marko 14
@@ -15789,6 +15814,7 @@ imobiljaɾe 14
 imnul 14
 imadʒe 14
 itf 14
+i nkonstant ine 14
 ins 14
 info 14
 health 14
@@ -15809,6 +15835,7 @@ fatʃe 14
 fie 14
 fatʃebook 14
 eɡzekutaɾea 14
+ev zet 14
 eska 14
 ernu 14
 emisjunea 14
@@ -15823,6 +15850,7 @@ dɔamneɪ 14
 dʒuvaɾa 14
 dimpotrivə 14
 difeɾentsa 14
+di te per 14
 daɪli 14
 datʃiɪ 14
 datʃieɪ 14
@@ -16740,6 +16768,7 @@ proɡramuluɪ 13
 profesoɾiɪ 13
 produsele 13
 prokuɾaturiɪ 13
+pro sport 13
 primiɪ 13
 primaɾje 13
 prjeteni 13
@@ -16966,6 +16995,7 @@ ardeleanu 13
 apaɾaɾe 13
 anuluɪ 13
 altiɪ 13
+alter medja 13
 altele 13
 alt 13
 alma 13
@@ -17302,6 +17332,7 @@ platʃeɾʲʲ 12
 pistolul 12
 pistol 12
 pjeseɪ 12
+pehaʃpe bebe 12
 petitja 12
 pese 12
 pertinente 12
@@ -17947,6 +17978,7 @@ puteɾiɪ 12
 protestul 12
 proprjetatea 12
 produktjon 12
+pro motor 12
 provita 12
 printʃipala 12
 prjeteniɪ 12
@@ -18081,6 +18113,7 @@ fatʃe 12
 ernest 12
 eŋɡliʃ 12
 ekonomitʃe 12
+eko maɡazin 12
 dɨmbovitsa 12
 duɾeɾea 12
 dubəsaɾʲʲ 12
@@ -20377,6 +20410,7 @@ jeʃim 10
 jeɾomonah 10
 jeɾarçilor 10
 ideale 10
+i os 10
 hotəɾəʃte 10
 hotnews 10
 homosekswalitatiɪ 10
@@ -20567,6 +20601,7 @@ deklaɾata 10
 deklanʃa 10
 detʃente 10
 dealurile 10
+de atuntʃʲ 10
 datɔaɾe 10
 daɾuɪ 10
 datʃʲ 10
@@ -21066,7 +21101,9 @@ memoɾieɪ 10
 melisa 10
 medikul 10
 medik 10
+medja pro 10
 mekanismul 10
+metʃe donald 10
 maʃina 10
 mauɾer 10
 mateiʊ 10
@@ -22826,6 +22863,7 @@ joɡa 9
 ksenopol 9
 doɪsprezetʃelea 9
 doɪsprezetʃea 9
+wikʲ leaks 9
 whitnei 9
 volvo 9
 vojevod 9
@@ -22886,6 +22924,7 @@ subjekte 9
 stəteam 9
 striblea 9
 stoitʃiʊ 9
+stiɾʲʲ milimetri 9
 stimatʲʲ 9
 steve 9
 statsja 9
@@ -22898,6 +22937,7 @@ sportbakk 9
 spiɾitwalitate 9
 speɾəm 9
 spatjala 9
+soɾin platon 9
 sokrate 9
 slovenja 9
 sitwatsiɪ 9
@@ -23069,6 +23109,7 @@ memoɾiɪle 9
 melkisedek 9
 melboʊrne 9
 melanja 9
+medja sind 9
 mekanika 9
 maksimiljan 9
 masurile 9
@@ -23619,6 +23660,7 @@ trad 8
 toksinele 8
 tovaɾase 8
 totalitaɾismuluɪ 8
+tɔate bloɡurile 8
 tɔaleta 8
 teme 8
 titularuluɪ 8
@@ -24390,6 +24432,8 @@ idealurʲ 8
 jartə 8
 jarta 8
 jalitatea 8
+i pad 8
+i ɡuɡəl 8
 iatʲʲ 8
 hunedoɾenʲʲ 8
 hwidu 8
@@ -25592,6 +25636,7 @@ fatsa 8
 falimentul 8
 fesebe 8
 fluks 8
+ekskson mobil 8
 ekspres 8
 ekspres 8
 ekspeɾimentul 8
@@ -25629,6 +25674,7 @@ distributjon 8
 disnei 8
 diɾektoɾiɪ 8
 dina 8
+di maɡdʒio 8
 destul 8
 desteaptate 8
 deskrieɾea 8
@@ -25652,6 +25698,7 @@ kəɪ 8
 kursurile 8
 kulte 8
 ksibʲʲ 8
+kros blwe 8
 krɔatsja 8
 krisan 8
 kretsja 8
@@ -27153,6 +27200,7 @@ identifikatʲʲ 7
 idea 7
 ikonoɡrafieɪ 7
 ikonoɡrafie 7
+i foneuluɪ 7
 iatsʲʲ 7
 hərtswitə 7
 huliɡanʲʲ 7
@@ -27379,6 +27427,7 @@ eklezjala 7
 ekilibruluɪ 7
 ekilibratə 7
 ebraɪkə 7
+je zjaɾe 7
 dɨnʃiɪ 7
 dɨnsa 7
 dupəamjazə 7
@@ -27521,6 +27570,7 @@ dais 7
 dansiɪ 7
 dadeam 7
 datʃitʃe 7
+de tʃi 7
 kəutətoruluɪ 7
 kəutəɾʲʲ 7
 kəutɨnd 7
@@ -28299,6 +28349,7 @@ protektsie 7
 protektje 7
 propuneɾʲile 7
 profundə 7
+pro teve 7
 printsesa 7
 printʃipate 7
 printʃipal 7
@@ -28364,6 +28415,7 @@ plus 7
 pisʲ 7
 padʒinʲʲ 7
 oksana 7
+orth foto 7
 oɾʲkɨt 7
 oɾʲkaɾe 7
 omeɡa 7
@@ -29018,6 +29070,7 @@ tsebea 6
 ɨmbrakə 6
 ɨmbolnəviɾʲʲ 6
 ɨmbolnəvʲʲ 6
+ɨ jeʊ rezet un 6
 ɨnəltsaɾea 6
 ɨŋɡetsatə 6
 ɨnkotro 6
@@ -30541,6 +30594,7 @@ infraŋdʒeɾea 6
 infraktsjunea 6
 informatsjonal 6
 infometatʲʲ 6
+info imɡ 6
 inflwentselor 6
 inflwentsele 6
 inflwentsatə 6
@@ -31658,6 +31712,7 @@ adunaɾʲile 6
 adultʲilor 6
 adultiɪ 6
 adulte 6
+adrjan se 6
 adormitsʲʲ 6
 adormʲi 6
 admiɾatoɾiɪ 6
@@ -31964,6 +32019,7 @@ rompres 6
 romanə 6
 romanuluɪ 6
 roberta 6
+ro enerɡi 6
 risoto 6
 rikter 6
 rik 6
@@ -32438,6 +32494,7 @@ dʒeorɡ 6
 dʒeoɡrafie 6
 dʒeneɾatsiɪ 6
 dʒeneɾatsja 6
+dʒender dokme 6
 dʒelozja 6
 ɡaʊle 6
 ɡandiɾea 6
@@ -32519,6 +32576,7 @@ efesenʲʲ 6
 edukatoɾiɪ 6
 edukatja 6
 edina 6
+eko sapjens 6
 eastwood 6
 euɾopeɪ 6
 et 6
@@ -32640,6 +32698,7 @@ komunikatul 6
 kompleksitatea 6
 kompaɾativ 6
 komunikatjons 6
+koments taɡs 6
 komak 6
 kolɔana 6
 kolektiv 6
@@ -32981,6 +33040,7 @@ tsiɡaniɪ 5
 ɨmbunətətseʃte 5
 ɨmbunətətsesk 5
 ɨmbukuɾətɔaɾe 5
+ɨ jeʊ roe 5
 ɨntseleptʃune 5
 ɨnəuntru 5
 ɨnvətsəmɨntul 5
@@ -34955,6 +35015,7 @@ ibidem 5
 jatəmə 5
 japa 5
 janku 5
+i ne 5
 hɨrtje 5
 hunedoɾean 5
 hwidwielʲilor 5
@@ -36586,6 +36647,7 @@ steaɡul 5
 statutuluɪ 5
 stasʲ 5
 staɾet 5
+staɾea preseɪ 5
 stabilitate 5
 srdʒan 5
 spunetʲʲ 5
@@ -36899,6 +36961,7 @@ peleʃ 5
 peleɾinaʒe 5
 peatʃe 5
 patsurkə 5
+pai pal 5
 paʊn 5
 paʊlo 5
 patrjarçʲ 5
@@ -37013,6 +37076,7 @@ nikolson 5
 neʃu 5
 newman 5
 netʒobs 5
+net ʒobs 5
 nepal 5
 nenea 5
 neɡresku 5
@@ -37094,6 +37158,7 @@ memento 5
 meleʃkanu 5
 medjul 5
 medikamentelor 5
+metʃe laɾen 5
 majaja 5
 matematika 5
 mateesku 5
@@ -37184,6 +37249,7 @@ ledʒislatja 5
 ledʒjonaɾiɪ 5
 leɡaturile 5
 lee 5
+lease plan 5
 lavrik 5
 latuɾa 5
 laptele 5
@@ -37206,11 +37272,13 @@ klum 5
 kidman 5
 kazahstanuluɪ 5
 ko 5
+kaine odiseea 5
 kjev 5
 ʒurnaliʃtiɪ 5
 ʒude 5
 ʒukan 5
 ʒordan 5
+ʒob ʃop 5
 ʒob 5
 ʒɔaka 5
 ʒenson 5
@@ -37247,6 +37315,7 @@ inredʒistraɾea 5
 iŋdʒineɾje 5
 infrastruktuɾə 5
 infrastruktuɾa 5
+info kons 5
 inedit 5
 industri 5
 indikatoɾiɪ 5
@@ -37279,6 +37348,7 @@ janukovitʃʲ 5
 noʊəa 5
 julje 5
 istoɾik 5
+i kads 5
 ipv 5
 ipul 5
 internatsjonal 5
@@ -37288,6 +37358,7 @@ inedit 5
 intʃineɾaɾiɪ 5
 imemeurilor 5
 iml 5
+i isus 5
 iɪsus 5
 iɡm 5
 jek 5
@@ -37307,6 +37378,7 @@ hoɾatsiʊ 5
 honoɾis 5
 hitakʲ 5
 hjeɾotheos 5
+hi be 5
 hikju 5
 herson 5
 herdan 5
@@ -37418,6 +37490,7 @@ farmatʃie 5
 fan 5
 fatʃeɾiɪ 5
 fatʃeɾe 5
+fatʃe book 5
 fabjola 5
 feseneul 5
 frumusetsea 5
@@ -37489,6 +37562,7 @@ dublin 5
 dubla 5
 drokja 5
 dreptatea 5
+drept online 5
 dramə 5
 draɡul 5
 draɡotesku 5
@@ -37710,6 +37784,7 @@ kaɾadʒiu 5
 kapitanul 5
 kapitan 5
 kantɡrip 5
+kant ɡrip 5
 kantʃer 5
 kantʃelaɾja 5
 kanale 5
@@ -37796,6 +37871,7 @@ bineɨn 5
 bike 5
 bihoɾeanul 5
 bibljotekaɾʲilor 5
+bible works 5
 bible 5
 bibesku 5
 bjankəɪ 5
@@ -37859,6 +37935,7 @@ asotʃjatsiɪlor 5
 asotʃjatiɪle 5
 artistitʃe 5
 artistik 5
+art boʊtikwe 5
 ars 5
 armate 5
 armamentul 5
@@ -37877,6 +37954,7 @@ apolodʒetikum 5
 apartamente 5
 anuntsurile 5
 anuntul 5
+antonela vulpe 5
 antolodʒia 5
 antikontʃeptjonalele 5
 aninɔasa 5
@@ -37926,6 +38004,7 @@ administratoɾiɪ 5
 adevəɾata 5
 adaʊɡə 5
 adameva 5
+ad words 5
 aktsjunʲile 5
 aku 5
 akteɾjan 5
@@ -37998,6 +38077,7 @@ tsiɡanka 4
 ʃkolaɾizaɾe 4
 ʃarpele 4
 ʃantaʒe 4
+ʃe i 4
 ʃeun 4
 ʃtiɪntseɪ 4
 ʃtiɪnd 4
@@ -38167,6 +38247,8 @@ tsiɡanka 4
 ɨmbolnəviɾe 4
 ɨmboɡətsiɾe 4
 ɨmboɡətseʃte 4
+ɨ jeʊ rezet kand 4
+ɨ eurz 4
 ɨnvətsətuɾa 4
 ɨnvətsətoɾiɪ 4
 ɨnvjat 4
@@ -38225,6 +38307,7 @@ wow 4
 widdʒet 4
 weekendul 4
 webmasteɾʲʲ 4
+web releases 4
 vəzɨndul 4
 vərsaɾea 4
 vərsaɾe 4
@@ -39723,6 +39806,7 @@ poljuɾetanika 4
 politiste 4
 politikofinantʃjaɾe 4
 politikieɪ 4
+politik one 4
 poljomjelitə 4
 polikristaline 4
 polen 4
@@ -41638,6 +41722,7 @@ ebraɪtʃe 4
 ebraɪk 4
 eba 4
 eaw 4
+je book 4
 jen 4
 dəunətor 4
 dəɾwite 4
@@ -43208,6 +43293,7 @@ wiljamson 4
 wilfrjed 4
 wifi 4
 webstokk 4
+web pere 4
 webuluɪ 4
 waine 4
 walid 4
@@ -43360,6 +43446,7 @@ totdeauna 4
 totalul 4
 toʃiba 4
 tortelinʲʲ 4
+top dʒear 4
 tokjo 4
 todoɾan 4
 tɔates 4
@@ -43523,6 +43610,7 @@ sotʃjala 4
 soborul 4
 sobornitʃeaskə 4
 smolensk 4
+smart fone 4
 smaɾanda 4
 smaɾald 4
 sləbeʃte 4
@@ -43576,6 +43664,7 @@ seɡartʃeanu 4
 sekuɾitətsʲʲ 4
 sek 4
 sean 4
+sede ko 4
 skɨnteja 4
 skithja 4
 skufita 4
@@ -43618,6 +43707,7 @@ sakjamunʲʲ 4
 sahaɾa 4
 safaɾʲʲ 4
 satʃele 4
+saa se 4
 sute 4
 sultənoiʊ 4
 straɪnatate 4
@@ -43684,6 +43774,7 @@ romekspo 4
 romarm 4
 romaɾjo 4
 romanjanameɾikan 4
+rom telekom 4
 roler 4
 rodneɪ 4
 riʃtʲʲ 4
@@ -43776,6 +43867,7 @@ pəkatele 4
 pəɾinteluɪ 4
 pɨrtʃiʊ 4
 pɨnzə 4
+pedubluve tʃe 4
 puʃkin 4
 putina 4
 puteɾʲʲ 4
@@ -43839,6 +43931,7 @@ praktikə 4
 power 4
 poveʃtiɾʲʲ 4
 postaɾʲʲ 4
+post date ikon 4
 portokaliʊ 4
 porto 4
 porfiɾje 4
@@ -43988,6 +44081,7 @@ ostrovul 4
 ostinato 4
 ostaʃiɪ 4
 osetja 4
+ortho ɡrafitʲʲ 4
 orlando 4
 orhan 4
 orɡanizatə 4
@@ -44008,6 +44102,7 @@ oneʃtʲʲ 4
 ontʃesku 4
 omnja 4
 olteniɪ 4
+oleɡ breɡa 4
 olaɾʲʲ 4
 olah 4
 ojtuz 4
@@ -44084,6 +44179,7 @@ nava 4
 natalieɪ 4
 naskutʲʲ 4
 nasaud 4
+napoka news 4
 nan 4
 noʊvorba 4
 note 4
@@ -44109,6 +44205,7 @@ mɨntwitorul 4
 mɨndru 4
 mɨnkajar 4
 myɪnʲile 4
+mi spatʃe 4
 mutaɾe 4
 musikal 4
 mustʃeluluɪ 4
@@ -44198,6 +44295,7 @@ memoɾandumul 4
 melodja 4
 mehadja 4
 meditʃine 4
+medjafaks foto 4
 mede 4
 mebepese 4
 mazda 4
@@ -44279,6 +44377,7 @@ manastiɾea 4
 mama 4
 maɪne 4
 maɪka 4
+ma done 4
 ləsəm 4
 lvov 4
 luks 4
@@ -44575,6 +44674,7 @@ hamid 4
 hamburdʒeɾʲʲ 4
 ham 4
 halitʃʲ 4
+haɪr welnes 4
 haɪneala 4
 haɪne 4
 haɪkuul 4
@@ -44617,6 +44717,7 @@ haek 4
 ɡod 4
 ɡlosar 4
 ɡlodenʲʲ 4
+ɡlakso smith kline 4
 dʒiɾard 4
 dʒin 4
 dʒimnazjul 4
@@ -44661,6 +44762,7 @@ dʒesese 4
 ɡraur 4
 ɡoɡu 4
 dʒeneɾala 4
+dʒe baɾilʲʲ 4
 ɡardasil 4
 fəltitʃenʲʲ 4
 fəkɨnd 4
@@ -44697,11 +44799,13 @@ folk 4
 foiʃor 4
 fɔametea 4
 flwoɾit 4
+floɾin te 4
 floɾida 4
 flaɡ 4
 fiʃjer 4
 finantaɾea 4
 finantʃjaɾa 4
+fin kom baŋkuluɪ 4
 filotʲ 4
 filokalja 4
 filmuluɪ 4
@@ -44955,6 +45059,7 @@ detʃizjebombə 4
 dealtfel 4
 deal 4
 deakonesku 4
+de loŋɡʲ 4
 dear 4
 deakum 4
 datoɾiɪ 4
@@ -44988,6 +45093,7 @@ deputatʲilor 4
 demokratik 4
 definitiv 4
 dea 4
+de do se 4
 deaja 4
 dekon 4
 kəpitanuluɪ 4
@@ -45002,6 +45108,7 @@ kɨmpeanu 4
 kiril 4
 kuvɨnt 4
 kuvantuluɪ 4
+kurs de ɡuvernaɾe 4
 kuɾjozitatʲʲ 4
 kuɾjos 4
 kuɾjer 4
@@ -45015,6 +45122,7 @@ krulik 4
 krowe 4
 kronolodʒia 4
 kronikarul 4
+kritik atak 4
 kriminaliɪ 4
 krikova 4
 kretsulesku 4
@@ -45182,6 +45290,7 @@ kandidatsiɪ 4
 kankan 4
 kanalele 4
 kana 4
+kan kan 4
 kampuluŋɡ 4
 kampjonatele 4
 kamboddʒia 4
@@ -45300,6 +45409,7 @@ bodensee 4
 bobita 4
 bobis 4
 bɔadʒiu 4
+blu earth 4
 bloɡrol 4
 bloɡəri 4
 blokuluɪ 4
@@ -45413,6 +45523,7 @@ atakantul 4
 asimetrja 4
 asus 4
 astronomiɪ 4
+astro deks 4
 asteptʲʲ 4
 asotʃjatsiɪle 4
 asotʃjatje 4
@@ -45544,6 +45655,7 @@ avokat 4
 aʊɡustin 4
 audʲʲ 4
 athos 4
+ate ebaŋk 4
 atentja 4
 atakə 4
 aɾisu 4
@@ -45636,6 +45748,7 @@ tsia 3
 ʃaɪsprezetʃe 3
 ʃablon 3
 ʃa 3
+ʃe ji 3
 ʃuɾa 3
 ʃunkə 3
 ʃtiɾe 3
@@ -45918,6 +46031,11 @@ tsia 3
 ɨmbelʃuɡatə 3
 ɨmbelʃuɡat 3
 ɨn 3
+ɨ jeʊ rɨ eur 3
+ɨ jeʊ rezet nu 3
+ɨ jeʊ rezet despre 3
+ɨ jeʊ rezet dakə 3
+ɨ eure eminesku 3
 ɨntseleptʃuniɪ 3
 ɨntseleptʃunea 3
 ɨntseledʒeɾea 3
@@ -47395,6 +47513,7 @@ satʃiɪ 3
 satʃerdotalə 3
 sabotat 3
 sabieɪ 3
+se jase 3
 saʒuŋɡə 3
 sadunʲʲ 3
 rəʃinə 3
@@ -48947,6 +49066,7 @@ numəɾaʊ 3
 numəɾate 3
 numitsiɪ 3
 numind 3
+numes ite 3
 numerus 3
 numeɾoʃiɪ 3
 numeɾotate 3
@@ -49400,6 +49520,7 @@ mobiljaɾe 3
 mɔaʃa 3
 mɔaka 3
 mlaʃtinə 3
+miʃkaɾe tenismanul 3
 mizɨnd 3
 mizeɾa 3
 miʊ 3
